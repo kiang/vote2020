@@ -1,0 +1,1916 @@
+{
+  "area" : [ {
+    "areaCode" : 1,
+    "areaName" : "彰化縣第1選舉區",
+    "depts" : [ {
+      "liCount" : 29,
+      "deptName" : "鹿港鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "大有里"
+      }, {
+        "liCode" : "002",
+        "liName" : "中興里"
+      }, {
+        "liCode" : "003",
+        "liName" : "洛津里"
+      }, {
+        "liCode" : "004",
+        "liName" : "順興里"
+      }, {
+        "liCode" : "005",
+        "liName" : "頂厝里"
+      }, {
+        "liCode" : "006",
+        "liName" : "東崎里"
+      }, {
+        "liCode" : "007",
+        "liName" : "埔崙里"
+      }, {
+        "liCode" : "008",
+        "liName" : "東石里"
+      }, {
+        "liCode" : "009",
+        "liName" : "郭厝里"
+      }, {
+        "liCode" : "010",
+        "liName" : "新宮里"
+      }, {
+        "liCode" : "011",
+        "liName" : "玉順里"
+      }, {
+        "liCode" : "012",
+        "liName" : "景福里"
+      }, {
+        "liCode" : "013",
+        "liName" : "泰興里"
+      }, {
+        "liCode" : "014",
+        "liName" : "長興里"
+      }, {
+        "liCode" : "015",
+        "liName" : "龍山里"
+      }, {
+        "liCode" : "016",
+        "liName" : "興化里"
+      }, {
+        "liCode" : "017",
+        "liName" : "菜園里"
+      }, {
+        "liCode" : "018",
+        "liName" : "街尾里"
+      }, {
+        "liCode" : "019",
+        "liName" : "頂番里"
+      }, {
+        "liCode" : "020",
+        "liName" : "頭崙里"
+      }, {
+        "liCode" : "021",
+        "liName" : "廖厝里"
+      }, {
+        "liCode" : "022",
+        "liName" : "溝墘里"
+      }, {
+        "liCode" : "023",
+        "liName" : "草中里"
+      }, {
+        "liCode" : "024",
+        "liName" : "頭南里"
+      }, {
+        "liCode" : "025",
+        "liName" : "山崙里"
+      }, {
+        "liCode" : "026",
+        "liName" : "海埔里"
+      }, {
+        "liCode" : "027",
+        "liName" : "詔安里"
+      }, {
+        "liCode" : "028",
+        "liName" : "洋厝里"
+      }, {
+        "liCode" : "029",
+        "liName" : "永安里"
+      } ],
+      "deptCode" : "020"
+    }, {
+      "liCount" : 32,
+      "deptName" : "和美鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "竹營里"
+      }, {
+        "liCode" : "002",
+        "liName" : "和東里"
+      }, {
+        "liCode" : "003",
+        "liName" : "和南里"
+      }, {
+        "liCode" : "004",
+        "liName" : "和北里"
+      }, {
+        "liCode" : "005",
+        "liName" : "和西里"
+      }, {
+        "liCode" : "006",
+        "liName" : "四張里"
+      }, {
+        "liCode" : "007",
+        "liName" : "頭前里"
+      }, {
+        "liCode" : "008",
+        "liName" : "還社里"
+      }, {
+        "liCode" : "009",
+        "liName" : "面前里"
+      }, {
+        "liCode" : "010",
+        "liName" : "鎮平里"
+      }, {
+        "liCode" : "011",
+        "liName" : "大霞里"
+      }, {
+        "liCode" : "012",
+        "liName" : "源埤里"
+      }, {
+        "liCode" : "013",
+        "liName" : "南佃里"
+      }, {
+        "liCode" : "014",
+        "liName" : "雅溝里"
+      }, {
+        "liCode" : "015",
+        "liName" : "山犁里"
+      }, {
+        "liCode" : "016",
+        "liName" : "嘉犁里"
+      }, {
+        "liCode" : "017",
+        "liName" : "鐵山里"
+      }, {
+        "liCode" : "018",
+        "liName" : "詔安里"
+      }, {
+        "liCode" : "019",
+        "liName" : "柑井里"
+      }, {
+        "liCode" : "020",
+        "liName" : "竹園里"
+      }, {
+        "liCode" : "021",
+        "liName" : "新庄里"
+      }, {
+        "liCode" : "022",
+        "liName" : "犁盛里"
+      }, {
+        "liCode" : "023",
+        "liName" : "中寮里"
+      }, {
+        "liCode" : "024",
+        "liName" : "中圍里"
+      }, {
+        "liCode" : "025",
+        "liName" : "糖友里"
+      }, {
+        "liCode" : "026",
+        "liName" : "塗厝里"
+      }, {
+        "liCode" : "027",
+        "liName" : "地潭里"
+      }, {
+        "liCode" : "028",
+        "liName" : "湖內里"
+      }, {
+        "liCode" : "029",
+        "liName" : "嘉寶里"
+      }, {
+        "liCode" : "030",
+        "liName" : "月眉里"
+      }, {
+        "liCode" : "031",
+        "liName" : "好修里"
+      }, {
+        "liCode" : "032",
+        "liName" : "仁愛里"
+      } ],
+      "deptCode" : "030"
+    }, {
+      "liCount" : 8,
+      "deptName" : "線西鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "線西村"
+      }, {
+        "liCode" : "002",
+        "liName" : "頂庄村"
+      }, {
+        "liCode" : "003",
+        "liName" : "寓埔村"
+      }, {
+        "liCode" : "004",
+        "liName" : "塭仔村"
+      }, {
+        "liCode" : "005",
+        "liName" : "溝內村"
+      }, {
+        "liCode" : "006",
+        "liName" : "下犁村"
+      }, {
+        "liCode" : "007",
+        "liName" : "頂犁村"
+      }, {
+        "liCode" : "008",
+        "liName" : "德興村"
+      } ],
+      "deptCode" : "040"
+    }, {
+      "liCount" : 14,
+      "deptName" : "伸港鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "曾家村"
+      }, {
+        "liCode" : "002",
+        "liName" : "蚵寮村"
+      }, {
+        "liCode" : "003",
+        "liName" : "埤墘村"
+      }, {
+        "liCode" : "004",
+        "liName" : "溪底村"
+      }, {
+        "liCode" : "005",
+        "liName" : "泉州村"
+      }, {
+        "liCode" : "006",
+        "liName" : "泉厝村"
+      }, {
+        "liCode" : "007",
+        "liName" : "海尾村"
+      }, {
+        "liCode" : "008",
+        "liName" : "全興村"
+      }, {
+        "liCode" : "009",
+        "liName" : "定興村"
+      }, {
+        "liCode" : "010",
+        "liName" : "新港村"
+      }, {
+        "liCode" : "011",
+        "liName" : "什股村"
+      }, {
+        "liCode" : "012",
+        "liName" : "大同村"
+      }, {
+        "liCode" : "013",
+        "liName" : "七嘉村"
+      }, {
+        "liCode" : "014",
+        "liName" : "汴頭村"
+      } ],
+      "deptCode" : "050"
+    }, {
+      "liCount" : 22,
+      "deptName" : "福興鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "番社村"
+      }, {
+        "liCode" : "002",
+        "liName" : "社尾村"
+      }, {
+        "liCode" : "003",
+        "liName" : "大崙村"
+      }, {
+        "liCode" : "004",
+        "liName" : "外埔村"
+      }, {
+        "liCode" : "005",
+        "liName" : "外中村"
+      }, {
+        "liCode" : "006",
+        "liName" : "元中村"
+      }, {
+        "liCode" : "007",
+        "liName" : "三汴村"
+      }, {
+        "liCode" : "008",
+        "liName" : "萬豐村"
+      }, {
+        "liCode" : "009",
+        "liName" : "番婆村"
+      }, {
+        "liCode" : "010",
+        "liName" : "橋頭村"
+      }, {
+        "liCode" : "011",
+        "liName" : "秀厝村"
+      }, {
+        "liCode" : "012",
+        "liName" : "鎮平村"
+      }, {
+        "liCode" : "013",
+        "liName" : "三和村"
+      }, {
+        "liCode" : "014",
+        "liName" : "麥厝村"
+      }, {
+        "liCode" : "015",
+        "liName" : "廈粘村"
+      }, {
+        "liCode" : "016",
+        "liName" : "頂粘村"
+      }, {
+        "liCode" : "017",
+        "liName" : "福寶村"
+      }, {
+        "liCode" : "018",
+        "liName" : "二港村"
+      }, {
+        "liCode" : "019",
+        "liName" : "福興村"
+      }, {
+        "liCode" : "020",
+        "liName" : "福南村"
+      }, {
+        "liCode" : "021",
+        "liName" : "同安村"
+      }, {
+        "liCode" : "022",
+        "liName" : "西勢村"
+      } ],
+      "deptCode" : "060"
+    }, {
+      "liCount" : 14,
+      "deptName" : "秀水鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "秀水村"
+      }, {
+        "liCode" : "002",
+        "liName" : "安溪村"
+      }, {
+        "liCode" : "003",
+        "liName" : "莊雅村"
+      }, {
+        "liCode" : "004",
+        "liName" : "金興村"
+      }, {
+        "liCode" : "005",
+        "liName" : "陝西村"
+      }, {
+        "liCode" : "006",
+        "liName" : "安東村"
+      }, {
+        "liCode" : "007",
+        "liName" : "鶴鳴村"
+      }, {
+        "liCode" : "008",
+        "liName" : "馬興村"
+      }, {
+        "liCode" : "009",
+        "liName" : "義興村"
+      }, {
+        "liCode" : "010",
+        "liName" : "福安村"
+      }, {
+        "liCode" : "011",
+        "liName" : "埔崙村"
+      }, {
+        "liCode" : "012",
+        "liName" : "曾厝村"
+      }, {
+        "liCode" : "013",
+        "liName" : "金陵村"
+      }, {
+        "liCode" : "014",
+        "liName" : "下崙村"
+      } ],
+      "deptCode" : "070"
+    } ]
+  }, {
+    "areaCode" : 2,
+    "areaName" : "彰化縣第2選舉區",
+    "depts" : [ {
+      "liCount" : 73,
+      "deptName" : "彰化市",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "文化里"
+      }, {
+        "liCode" : "002",
+        "liName" : "下廍里"
+      }, {
+        "liCode" : "003",
+        "liName" : "興北里"
+      }, {
+        "liCode" : "004",
+        "liName" : "信義里"
+      }, {
+        "liCode" : "005",
+        "liName" : "民生里"
+      }, {
+        "liCode" : "006",
+        "liName" : "陽明里"
+      }, {
+        "liCode" : "007",
+        "liName" : "萬安里"
+      }, {
+        "liCode" : "008",
+        "liName" : "新興里"
+      }, {
+        "liCode" : "009",
+        "liName" : "新華里"
+      }, {
+        "liCode" : "010",
+        "liName" : "龍山里"
+      }, {
+        "liCode" : "011",
+        "liName" : "中山里"
+      }, {
+        "liCode" : "012",
+        "liName" : "中正里"
+      }, {
+        "liCode" : "013",
+        "liName" : "永福里"
+      }, {
+        "liCode" : "014",
+        "liName" : "光復里"
+      }, {
+        "liCode" : "015",
+        "liName" : "光華里"
+      }, {
+        "liCode" : "016",
+        "liName" : "萬壽里"
+      }, {
+        "liCode" : "017",
+        "liName" : "中央里"
+      }, {
+        "liCode" : "018",
+        "liName" : "富貴里"
+      }, {
+        "liCode" : "019",
+        "liName" : "民權里"
+      }, {
+        "liCode" : "020",
+        "liName" : "西興里"
+      }, {
+        "liCode" : "021",
+        "liName" : "西勢里"
+      }, {
+        "liCode" : "022",
+        "liName" : "忠孝里"
+      }, {
+        "liCode" : "023",
+        "liName" : "忠權里"
+      }, {
+        "liCode" : "024",
+        "liName" : "五權里"
+      }, {
+        "liCode" : "025",
+        "liName" : "長樂里"
+      }, {
+        "liCode" : "026",
+        "liName" : "東芳里"
+      }, {
+        "liCode" : "027",
+        "liName" : "南安里"
+      }, {
+        "liCode" : "028",
+        "liName" : "南美里"
+      }, {
+        "liCode" : "029",
+        "liName" : "莿桐里"
+      }, {
+        "liCode" : "030",
+        "liName" : "磚磘里"
+      }, {
+        "liCode" : "031",
+        "liName" : "平和里"
+      }, {
+        "liCode" : "032",
+        "liName" : "桃源里"
+      }, {
+        "liCode" : "033",
+        "liName" : "卦山里"
+      }, {
+        "liCode" : "034",
+        "liName" : "東興里"
+      }, {
+        "liCode" : "035",
+        "liName" : "大同里"
+      }, {
+        "liCode" : "036",
+        "liName" : "永生里"
+      }, {
+        "liCode" : "037",
+        "liName" : "華陽里"
+      }, {
+        "liCode" : "038",
+        "liName" : "華北里"
+      }, {
+        "liCode" : "039",
+        "liName" : "南瑶里"
+      }, {
+        "liCode" : "040",
+        "liName" : "成功里"
+      }, {
+        "liCode" : "041",
+        "liName" : "延和里"
+      }, {
+        "liCode" : "042",
+        "liName" : "南興里"
+      }, {
+        "liCode" : "043",
+        "liName" : "西安里"
+      }, {
+        "liCode" : "044",
+        "liName" : "彰安里"
+      }, {
+        "liCode" : "045",
+        "liName" : "光南里"
+      }, {
+        "liCode" : "046",
+        "liName" : "介壽里"
+      }, {
+        "liCode" : "047",
+        "liName" : "延平里"
+      }, {
+        "liCode" : "048",
+        "liName" : "建寶里"
+      }, {
+        "liCode" : "049",
+        "liName" : "福安里"
+      }, {
+        "liCode" : "050",
+        "liName" : "大竹里"
+      }, {
+        "liCode" : "051",
+        "liName" : "竹中里"
+      }, {
+        "liCode" : "052",
+        "liName" : "安溪里"
+      }, {
+        "liCode" : "053",
+        "liName" : "香山里"
+      }, {
+        "liCode" : "054",
+        "liName" : "牛埔里"
+      }, {
+        "liCode" : "055",
+        "liName" : "福山里"
+      }, {
+        "liCode" : "056",
+        "liName" : "中庄里"
+      }, {
+        "liCode" : "057",
+        "liName" : "三村里"
+      }, {
+        "liCode" : "058",
+        "liName" : "國聖里"
+      }, {
+        "liCode" : "059",
+        "liName" : "寶廍里"
+      }, {
+        "liCode" : "060",
+        "liName" : "茄苳里"
+      }, {
+        "liCode" : "061",
+        "liName" : "茄南里"
+      }, {
+        "liCode" : "062",
+        "liName" : "阿夷里"
+      }, {
+        "liCode" : "063",
+        "liName" : "古夷里"
+      }, {
+        "liCode" : "064",
+        "liName" : "復興里"
+      }, {
+        "liCode" : "065",
+        "liName" : "和調里"
+      }, {
+        "liCode" : "066",
+        "liName" : "石牌里"
+      }, {
+        "liCode" : "067",
+        "liName" : "福田里"
+      }, {
+        "liCode" : "068",
+        "liName" : "竹巷里"
+      }, {
+        "liCode" : "069",
+        "liName" : "田中里"
+      }, {
+        "liCode" : "070",
+        "liName" : "快官里"
+      }, {
+        "liCode" : "071",
+        "liName" : "台鳳里"
+      }, {
+        "liCode" : "072",
+        "liName" : "崙平里"
+      }, {
+        "liCode" : "073",
+        "liName" : "向陽里"
+      } ],
+      "deptCode" : "010"
+    }, {
+      "liCount" : 18,
+      "deptName" : "花壇鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "花壇村"
+      }, {
+        "liCode" : "002",
+        "liName" : "金墩村"
+      }, {
+        "liCode" : "003",
+        "liName" : "中庄村"
+      }, {
+        "liCode" : "004",
+        "liName" : "劉厝村"
+      }, {
+        "liCode" : "005",
+        "liName" : "崙雅村"
+      }, {
+        "liCode" : "006",
+        "liName" : "南口村"
+      }, {
+        "liCode" : "007",
+        "liName" : "中口村"
+      }, {
+        "liCode" : "008",
+        "liName" : "北口村"
+      }, {
+        "liCode" : "009",
+        "liName" : "長沙村"
+      }, {
+        "liCode" : "010",
+        "liName" : "文德村"
+      }, {
+        "liCode" : "011",
+        "liName" : "白沙村"
+      }, {
+        "liCode" : "012",
+        "liName" : "岩竹村"
+      }, {
+        "liCode" : "013",
+        "liName" : "橋頭村"
+      }, {
+        "liCode" : "014",
+        "liName" : "灣雅村"
+      }, {
+        "liCode" : "015",
+        "liName" : "灣東村"
+      }, {
+        "liCode" : "016",
+        "liName" : "三春村"
+      }, {
+        "liCode" : "017",
+        "liName" : "永春村"
+      }, {
+        "liCode" : "018",
+        "liName" : "長春村"
+      } ],
+      "deptCode" : "080"
+    }, {
+      "liCount" : 15,
+      "deptName" : "芬園鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "舊社村"
+      }, {
+        "liCode" : "002",
+        "liName" : "大埔村"
+      }, {
+        "liCode" : "003",
+        "liName" : "竹林村"
+      }, {
+        "liCode" : "004",
+        "liName" : "社口村"
+      }, {
+        "liCode" : "005",
+        "liName" : "茄荖村"
+      }, {
+        "liCode" : "006",
+        "liName" : "嘉興村"
+      }, {
+        "liCode" : "007",
+        "liName" : "芬園村"
+      }, {
+        "liCode" : "008",
+        "liName" : "縣庄村"
+      }, {
+        "liCode" : "009",
+        "liName" : "圳墘村"
+      }, {
+        "liCode" : "010",
+        "liName" : "溪頭村"
+      }, {
+        "liCode" : "011",
+        "liName" : "進芬村"
+      }, {
+        "liCode" : "012",
+        "liName" : "同安村"
+      }, {
+        "liCode" : "013",
+        "liName" : "中崙村"
+      }, {
+        "liCode" : "014",
+        "liName" : "大竹村"
+      }, {
+        "liCode" : "015",
+        "liName" : "楓坑村"
+      } ],
+      "deptCode" : "090"
+    } ]
+  }, {
+    "areaCode" : 3,
+    "areaName" : "彰化縣第3選舉區",
+    "depts" : [ {
+      "liCount" : 25,
+      "deptName" : "溪湖鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "光平里"
+      }, {
+        "liCode" : "002",
+        "liName" : "平和里"
+      }, {
+        "liCode" : "003",
+        "liName" : "太平里"
+      }, {
+        "liCode" : "004",
+        "liName" : "光華里"
+      }, {
+        "liCode" : "005",
+        "liName" : "東寮里"
+      }, {
+        "liCode" : "006",
+        "liName" : "西寮里"
+      }, {
+        "liCode" : "007",
+        "liName" : "大突里"
+      }, {
+        "liCode" : "008",
+        "liName" : "北勢里"
+      }, {
+        "liCode" : "009",
+        "liName" : "汴頭里"
+      }, {
+        "liCode" : "010",
+        "liName" : "大竹里"
+      }, {
+        "liCode" : "011",
+        "liName" : "湖西里"
+      }, {
+        "liCode" : "012",
+        "liName" : "田中里"
+      }, {
+        "liCode" : "013",
+        "liName" : "河東里"
+      }, {
+        "liCode" : "014",
+        "liName" : "中山里"
+      }, {
+        "liCode" : "015",
+        "liName" : "中竹里"
+      }, {
+        "liCode" : "016",
+        "liName" : "東溪里"
+      }, {
+        "liCode" : "017",
+        "liName" : "西溪里"
+      }, {
+        "liCode" : "018",
+        "liName" : "湖東里"
+      }, {
+        "liCode" : "019",
+        "liName" : "頂庄里"
+      }, {
+        "liCode" : "020",
+        "liName" : "忠覺里"
+      }, {
+        "liCode" : "021",
+        "liName" : "湳底里"
+      }, {
+        "liCode" : "022",
+        "liName" : "大庭里"
+      }, {
+        "liCode" : "023",
+        "liName" : "媽厝里"
+      }, {
+        "liCode" : "024",
+        "liName" : "西勢里"
+      }, {
+        "liCode" : "025",
+        "liName" : "番婆里"
+      } ],
+      "deptCode" : "110"
+    }, {
+      "liCount" : 22,
+      "deptName" : "埔鹽鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "埔鹽村"
+      }, {
+        "liCode" : "002",
+        "liName" : "埔南村"
+      }, {
+        "liCode" : "003",
+        "liName" : "廍子村"
+      }, {
+        "liCode" : "004",
+        "liName" : "出水村"
+      }, {
+        "liCode" : "005",
+        "liName" : "南港村"
+      }, {
+        "liCode" : "006",
+        "liName" : "打廉村"
+      }, {
+        "liCode" : "007",
+        "liName" : "豐澤村"
+      }, {
+        "liCode" : "008",
+        "liName" : "崑崙村"
+      }, {
+        "liCode" : "009",
+        "liName" : "角樹村"
+      }, {
+        "liCode" : "010",
+        "liName" : "瓦磘村"
+      }, {
+        "liCode" : "011",
+        "liName" : "好修村"
+      }, {
+        "liCode" : "012",
+        "liName" : "西湖村"
+      }, {
+        "liCode" : "013",
+        "liName" : "大有村"
+      }, {
+        "liCode" : "014",
+        "liName" : "新興村"
+      }, {
+        "liCode" : "015",
+        "liName" : "永平村"
+      }, {
+        "liCode" : "016",
+        "liName" : "永樂村"
+      }, {
+        "liCode" : "017",
+        "liName" : "石埤村"
+      }, {
+        "liCode" : "018",
+        "liName" : "天盛村"
+      }, {
+        "liCode" : "019",
+        "liName" : "太平村"
+      }, {
+        "liCode" : "020",
+        "liName" : "新水村"
+      }, {
+        "liCode" : "021",
+        "liName" : "三省村"
+      }, {
+        "liCode" : "022",
+        "liName" : "南新村"
+      } ],
+      "deptCode" : "140"
+    }, {
+      "liCount" : 20,
+      "deptName" : "埔心鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "東門村"
+      }, {
+        "liCode" : "002",
+        "liName" : "埔心村"
+      }, {
+        "liCode" : "003",
+        "liName" : "義民村"
+      }, {
+        "liCode" : "004",
+        "liName" : "油車村"
+      }, {
+        "liCode" : "005",
+        "liName" : "瓦北村"
+      }, {
+        "liCode" : "006",
+        "liName" : "瓦中村"
+      }, {
+        "liCode" : "007",
+        "liName" : "瓦南村"
+      }, {
+        "liCode" : "008",
+        "liName" : "太平村"
+      }, {
+        "liCode" : "009",
+        "liName" : "經口村"
+      }, {
+        "liCode" : "010",
+        "liName" : "大華村"
+      }, {
+        "liCode" : "011",
+        "liName" : "仁里村"
+      }, {
+        "liCode" : "012",
+        "liName" : "舊舘村"
+      }, {
+        "liCode" : "013",
+        "liName" : "南舘村"
+      }, {
+        "liCode" : "014",
+        "liName" : "新舘村"
+      }, {
+        "liCode" : "015",
+        "liName" : "羅厝村"
+      }, {
+        "liCode" : "016",
+        "liName" : "芎蕉村"
+      }, {
+        "liCode" : "017",
+        "liName" : "二重村"
+      }, {
+        "liCode" : "018",
+        "liName" : "梧鳳村"
+      }, {
+        "liCode" : "019",
+        "liName" : "埤霞村"
+      }, {
+        "liCode" : "020",
+        "liName" : "埤脚村"
+      } ],
+      "deptCode" : "150"
+    }, {
+      "liCount" : 15,
+      "deptName" : "北斗鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "光復里"
+      }, {
+        "liCode" : "002",
+        "liName" : "新政里"
+      }, {
+        "liCode" : "003",
+        "liName" : "重慶里"
+      }, {
+        "liCode" : "004",
+        "liName" : "五權里"
+      }, {
+        "liCode" : "005",
+        "liName" : "七星里"
+      }, {
+        "liCode" : "006",
+        "liName" : "居仁里"
+      }, {
+        "liCode" : "007",
+        "liName" : "東光里"
+      }, {
+        "liCode" : "008",
+        "liName" : "文昌里"
+      }, {
+        "liCode" : "009",
+        "liName" : "中和里"
+      }, {
+        "liCode" : "010",
+        "liName" : "西德里"
+      }, {
+        "liCode" : "011",
+        "liName" : "西安里"
+      }, {
+        "liCode" : "012",
+        "liName" : "中寮里"
+      }, {
+        "liCode" : "013",
+        "liName" : "大道里"
+      }, {
+        "liCode" : "014",
+        "liName" : "新生里"
+      }, {
+        "liCode" : "015",
+        "liName" : "大新里"
+      } ],
+      "deptCode" : "190"
+    }, {
+      "liCount" : 27,
+      "deptName" : "二林鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "東和里"
+      }, {
+        "liCode" : "002",
+        "liName" : "南光里"
+      }, {
+        "liCode" : "003",
+        "liName" : "西平里"
+      }, {
+        "liCode" : "004",
+        "liName" : "北平里"
+      }, {
+        "liCode" : "005",
+        "liName" : "中西里"
+      }, {
+        "liCode" : "006",
+        "liName" : "廣興里"
+      }, {
+        "liCode" : "007",
+        "liName" : "香田里"
+      }, {
+        "liCode" : "008",
+        "liName" : "外竹里"
+      }, {
+        "liCode" : "009",
+        "liName" : "興華里"
+      }, {
+        "liCode" : "010",
+        "liName" : "東興里"
+      }, {
+        "liCode" : "011",
+        "liName" : "後厝里"
+      }, {
+        "liCode" : "012",
+        "liName" : "豐田里"
+      }, {
+        "liCode" : "013",
+        "liName" : "頂厝里"
+      }, {
+        "liCode" : "014",
+        "liName" : "趙甲里"
+      }, {
+        "liCode" : "015",
+        "liName" : "振興里"
+      }, {
+        "liCode" : "016",
+        "liName" : "萬興里"
+      }, {
+        "liCode" : "017",
+        "liName" : "永興里"
+      }, {
+        "liCode" : "018",
+        "liName" : "西庄里"
+      }, {
+        "liCode" : "019",
+        "liName" : "梅芳里"
+      }, {
+        "liCode" : "020",
+        "liName" : "華崙里"
+      }, {
+        "liCode" : "021",
+        "liName" : "東勢里"
+      }, {
+        "liCode" : "022",
+        "liName" : "萬合里"
+      }, {
+        "liCode" : "023",
+        "liName" : "大永里"
+      }, {
+        "liCode" : "024",
+        "liName" : "原斗里"
+      }, {
+        "liCode" : "025",
+        "liName" : "西斗里"
+      }, {
+        "liCode" : "026",
+        "liName" : "東華里"
+      }, {
+        "liCode" : "027",
+        "liName" : "復豐里"
+      } ],
+      "deptCode" : "200"
+    }, {
+      "liCount" : 17,
+      "deptName" : "埤頭鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "和豊村"
+      }, {
+        "liCode" : "002",
+        "liName" : "興農村"
+      }, {
+        "liCode" : "003",
+        "liName" : "埤頭村"
+      }, {
+        "liCode" : "004",
+        "liName" : "豊崙村"
+      }, {
+        "liCode" : "005",
+        "liName" : "崙子村"
+      }, {
+        "liCode" : "006",
+        "liName" : "永豊村"
+      }, {
+        "liCode" : "007",
+        "liName" : "合興村"
+      }, {
+        "liCode" : "008",
+        "liName" : "平原村"
+      }, {
+        "liCode" : "009",
+        "liName" : "崙腳村"
+      }, {
+        "liCode" : "010",
+        "liName" : "元埔村"
+      }, {
+        "liCode" : "011",
+        "liName" : "芙朝村"
+      }, {
+        "liCode" : "012",
+        "liName" : "新庄村"
+      }, {
+        "liCode" : "013",
+        "liName" : "陸嘉村"
+      }, {
+        "liCode" : "014",
+        "liName" : "竹圍村"
+      }, {
+        "liCode" : "015",
+        "liName" : "中和村"
+      }, {
+        "liCode" : "016",
+        "liName" : "庄內村"
+      }, {
+        "liCode" : "017",
+        "liName" : "大湖村"
+      } ],
+      "deptCode" : "220"
+    }, {
+      "liCount" : 26,
+      "deptName" : "芳苑鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "芳苑村"
+      }, {
+        "liCode" : "002",
+        "liName" : "芳中村"
+      }, {
+        "liCode" : "003",
+        "liName" : "仁愛村"
+      }, {
+        "liCode" : "004",
+        "liName" : "信義村"
+      }, {
+        "liCode" : "005",
+        "liName" : "後寮村"
+      }, {
+        "liCode" : "006",
+        "liName" : "三合村"
+      }, {
+        "liCode" : "007",
+        "liName" : "永興村"
+      }, {
+        "liCode" : "008",
+        "liName" : "五俊村"
+      }, {
+        "liCode" : "009",
+        "liName" : "路上村"
+      }, {
+        "liCode" : "010",
+        "liName" : "路平村"
+      }, {
+        "liCode" : "011",
+        "liName" : "三成村"
+      }, {
+        "liCode" : "012",
+        "liName" : "福榮村"
+      }, {
+        "liCode" : "013",
+        "liName" : "頂廍村"
+      }, {
+        "liCode" : "014",
+        "liName" : "新街村"
+      }, {
+        "liCode" : "015",
+        "liName" : "王功村"
+      }, {
+        "liCode" : "016",
+        "liName" : "博愛村"
+      }, {
+        "liCode" : "017",
+        "liName" : "和平村"
+      }, {
+        "liCode" : "018",
+        "liName" : "民生村"
+      }, {
+        "liCode" : "019",
+        "liName" : "興仁村"
+      }, {
+        "liCode" : "020",
+        "liName" : "新寶村"
+      }, {
+        "liCode" : "021",
+        "liName" : "草湖村"
+      }, {
+        "liCode" : "022",
+        "liName" : "文津村"
+      }, {
+        "liCode" : "023",
+        "liName" : "建平村"
+      }, {
+        "liCode" : "024",
+        "liName" : "崙腳村"
+      }, {
+        "liCode" : "025",
+        "liName" : "新生村"
+      }, {
+        "liCode" : "026",
+        "liName" : "漢寶村"
+      } ],
+      "deptCode" : "230"
+    }, {
+      "liCount" : 15,
+      "deptName" : "大城鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "潭墘村"
+      }, {
+        "liCode" : "002",
+        "liName" : "上山村"
+      }, {
+        "liCode" : "003",
+        "liName" : "東城村"
+      }, {
+        "liCode" : "004",
+        "liName" : "西城村"
+      }, {
+        "liCode" : "005",
+        "liName" : "大城村"
+      }, {
+        "liCode" : "006",
+        "liName" : "菜寮村"
+      }, {
+        "liCode" : "007",
+        "liName" : "山腳村"
+      }, {
+        "liCode" : "008",
+        "liName" : "永和村"
+      }, {
+        "liCode" : "009",
+        "liName" : "頂庄村"
+      }, {
+        "liCode" : "010",
+        "liName" : "公館村"
+      }, {
+        "liCode" : "011",
+        "liName" : "臺西村"
+      }, {
+        "liCode" : "012",
+        "liName" : "東港村"
+      }, {
+        "liCode" : "013",
+        "liName" : "西港村"
+      }, {
+        "liCode" : "014",
+        "liName" : "豐美村"
+      }, {
+        "liCode" : "015",
+        "liName" : "三豐村"
+      } ],
+      "deptCode" : "240"
+    }, {
+      "liCount" : 14,
+      "deptName" : "竹塘鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "竹元村"
+      }, {
+        "liCode" : "002",
+        "liName" : "竹塘村"
+      }, {
+        "liCode" : "003",
+        "liName" : "小西村"
+      }, {
+        "liCode" : "004",
+        "liName" : "民靖村"
+      }, {
+        "liCode" : "005",
+        "liName" : "五庄村"
+      }, {
+        "liCode" : "006",
+        "liName" : "樹腳村"
+      }, {
+        "liCode" : "007",
+        "liName" : "田頭村"
+      }, {
+        "liCode" : "008",
+        "liName" : "新廣村"
+      }, {
+        "liCode" : "009",
+        "liName" : "溪墘村"
+      }, {
+        "liCode" : "010",
+        "liName" : "竹林村"
+      }, {
+        "liCode" : "011",
+        "liName" : "土庫村"
+      }, {
+        "liCode" : "012",
+        "liName" : "內新村"
+      }, {
+        "liCode" : "013",
+        "liName" : "長安村"
+      }, {
+        "liCode" : "014",
+        "liName" : "永安村"
+      } ],
+      "deptCode" : "250"
+    }, {
+      "liCount" : 19,
+      "deptName" : "溪州鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "溪厝村"
+      }, {
+        "liCode" : "002",
+        "liName" : "舊眉村"
+      }, {
+        "liCode" : "003",
+        "liName" : "柑園村"
+      }, {
+        "liCode" : "004",
+        "liName" : "水尾村"
+      }, {
+        "liCode" : "005",
+        "liName" : "坑厝村"
+      }, {
+        "liCode" : "006",
+        "liName" : "圳寮村"
+      }, {
+        "liCode" : "007",
+        "liName" : "潮洋村"
+      }, {
+        "liCode" : "008",
+        "liName" : "瓦厝村"
+      }, {
+        "liCode" : "009",
+        "liName" : "西畔村"
+      }, {
+        "liCode" : "010",
+        "liName" : "張厝村"
+      }, {
+        "liCode" : "011",
+        "liName" : "溪州村"
+      }, {
+        "liCode" : "012",
+        "liName" : "成功村"
+      }, {
+        "liCode" : "013",
+        "liName" : "菜公村"
+      }, {
+        "liCode" : "014",
+        "liName" : "尾厝村"
+      }, {
+        "liCode" : "015",
+        "liName" : "大庄村"
+      }, {
+        "liCode" : "016",
+        "liName" : "三圳村"
+      }, {
+        "liCode" : "017",
+        "liName" : "東州村"
+      }, {
+        "liCode" : "018",
+        "liName" : "榮光村"
+      }, {
+        "liCode" : "019",
+        "liName" : "三條村"
+      } ],
+      "deptCode" : "260"
+    } ]
+  }, {
+    "areaCode" : 4,
+    "areaName" : "彰化縣第4選舉區",
+    "depts" : [ {
+      "liCount" : 41,
+      "deptName" : "員林市",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "東和里"
+      }, {
+        "liCode" : "002",
+        "liName" : "民生里"
+      }, {
+        "liCode" : "003",
+        "liName" : "中正里"
+      }, {
+        "liCode" : "004",
+        "liName" : "仁美里"
+      }, {
+        "liCode" : "005",
+        "liName" : "新興里"
+      }, {
+        "liCode" : "006",
+        "liName" : "和平里"
+      }, {
+        "liCode" : "007",
+        "liName" : "光明里"
+      }, {
+        "liCode" : "008",
+        "liName" : "中山里"
+      }, {
+        "liCode" : "009",
+        "liName" : "黎明里"
+      }, {
+        "liCode" : "010",
+        "liName" : "惠來里"
+      }, {
+        "liCode" : "011",
+        "liName" : "三義里"
+      }, {
+        "liCode" : "012",
+        "liName" : "新生里"
+      }, {
+        "liCode" : "013",
+        "liName" : "南平里"
+      }, {
+        "liCode" : "014",
+        "liName" : "南興里"
+      }, {
+        "liCode" : "015",
+        "liName" : "源潭里"
+      }, {
+        "liCode" : "016",
+        "liName" : "大埔里"
+      }, {
+        "liCode" : "017",
+        "liName" : "三條里"
+      }, {
+        "liCode" : "018",
+        "liName" : "三和里"
+      }, {
+        "liCode" : "019",
+        "liName" : "三橋里"
+      }, {
+        "liCode" : "020",
+        "liName" : "中央里"
+      }, {
+        "liCode" : "021",
+        "liName" : "溝皂里"
+      }, {
+        "liCode" : "022",
+        "liName" : "大饒里"
+      }, {
+        "liCode" : "023",
+        "liName" : "大明里"
+      }, {
+        "liCode" : "024",
+        "liName" : "萬年里"
+      }, {
+        "liCode" : "025",
+        "liName" : "崙雅里"
+      }, {
+        "liCode" : "026",
+        "liName" : "振興里"
+      }, {
+        "liCode" : "027",
+        "liName" : "林厝里"
+      }, {
+        "liCode" : "028",
+        "liName" : "出水里"
+      }, {
+        "liCode" : "029",
+        "liName" : "湖水里"
+      }, {
+        "liCode" : "030",
+        "liName" : "大峯里"
+      }, {
+        "liCode" : "031",
+        "liName" : "鎮興里"
+      }, {
+        "liCode" : "032",
+        "liName" : "浮圳里"
+      }, {
+        "liCode" : "033",
+        "liName" : "西東里"
+      }, {
+        "liCode" : "034",
+        "liName" : "南東里"
+      }, {
+        "liCode" : "035",
+        "liName" : "中東里"
+      }, {
+        "liCode" : "036",
+        "liName" : "東北里"
+      }, {
+        "liCode" : "037",
+        "liName" : "三愛里"
+      }, {
+        "liCode" : "038",
+        "liName" : "三信里"
+      }, {
+        "liCode" : "039",
+        "liName" : "三多里"
+      }, {
+        "liCode" : "040",
+        "liName" : "仁愛里"
+      }, {
+        "liCode" : "041",
+        "liName" : "忠孝里"
+      } ],
+      "deptCode" : "100"
+    }, {
+      "liCount" : 22,
+      "deptName" : "田中鎮",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "香山里"
+      }, {
+        "liCode" : "002",
+        "liName" : "碧峰里"
+      }, {
+        "liCode" : "003",
+        "liName" : "東源里"
+      }, {
+        "liCode" : "004",
+        "liName" : "復興里"
+      }, {
+        "liCode" : "005",
+        "liName" : "平和里"
+      }, {
+        "liCode" : "006",
+        "liName" : "頂潭里"
+      }, {
+        "liCode" : "007",
+        "liName" : "中潭里"
+      }, {
+        "liCode" : "008",
+        "liName" : "龍潭里"
+      }, {
+        "liCode" : "009",
+        "liName" : "北路里"
+      }, {
+        "liCode" : "010",
+        "liName" : "西路里"
+      }, {
+        "liCode" : "011",
+        "liName" : "東路里"
+      }, {
+        "liCode" : "012",
+        "liName" : "南路里"
+      }, {
+        "liCode" : "013",
+        "liName" : "中路里"
+      }, {
+        "liCode" : "014",
+        "liName" : "新庄里"
+      }, {
+        "liCode" : "015",
+        "liName" : "三安里"
+      }, {
+        "liCode" : "016",
+        "liName" : "大崙里"
+      }, {
+        "liCode" : "017",
+        "liName" : "沙崙里"
+      }, {
+        "liCode" : "018",
+        "liName" : "新民里"
+      }, {
+        "liCode" : "019",
+        "liName" : "梅州里"
+      }, {
+        "liCode" : "020",
+        "liName" : "三民里"
+      }, {
+        "liCode" : "021",
+        "liName" : "三光里"
+      }, {
+        "liCode" : "022",
+        "liName" : "大社里"
+      } ],
+      "deptCode" : "120"
+    }, {
+      "liCount" : 16,
+      "deptName" : "大村鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "大村村"
+      }, {
+        "liCode" : "002",
+        "liName" : "茄苳村"
+      }, {
+        "liCode" : "003",
+        "liName" : "南勢村"
+      }, {
+        "liCode" : "004",
+        "liName" : "田洋村"
+      }, {
+        "liCode" : "005",
+        "liName" : "新興村"
+      }, {
+        "liCode" : "006",
+        "liName" : "過溝村"
+      }, {
+        "liCode" : "007",
+        "liName" : "美港村"
+      }, {
+        "liCode" : "008",
+        "liName" : "平和村"
+      }, {
+        "liCode" : "009",
+        "liName" : "貢旗村"
+      }, {
+        "liCode" : "010",
+        "liName" : "加錫村"
+      }, {
+        "liCode" : "011",
+        "liName" : "村上村"
+      }, {
+        "liCode" : "012",
+        "liName" : "大橋村"
+      }, {
+        "liCode" : "013",
+        "liName" : "大崙村"
+      }, {
+        "liCode" : "014",
+        "liName" : "擺塘村"
+      }, {
+        "liCode" : "015",
+        "liName" : "黃厝村"
+      }, {
+        "liCode" : "016",
+        "liName" : "福興村"
+      } ],
+      "deptCode" : "130"
+    }, {
+      "liCount" : 24,
+      "deptName" : "永靖鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "永東村"
+      }, {
+        "liCode" : "002",
+        "liName" : "永西村"
+      }, {
+        "liCode" : "003",
+        "liName" : "永南村"
+      }, {
+        "liCode" : "004",
+        "liName" : "永北村"
+      }, {
+        "liCode" : "005",
+        "liName" : "港西村"
+      }, {
+        "liCode" : "006",
+        "liName" : "五福村"
+      }, {
+        "liCode" : "007",
+        "liName" : "湳港村"
+      }, {
+        "liCode" : "008",
+        "liName" : "新莊村"
+      }, {
+        "liCode" : "009",
+        "liName" : "瑚璉村"
+      }, {
+        "liCode" : "010",
+        "liName" : "五汴村"
+      }, {
+        "liCode" : "011",
+        "liName" : "浮圳村"
+      }, {
+        "liCode" : "012",
+        "liName" : "光雲村"
+      }, {
+        "liCode" : "013",
+        "liName" : "東寧村"
+      }, {
+        "liCode" : "014",
+        "liName" : "永興村"
+      }, {
+        "liCode" : "015",
+        "liName" : "崙子村"
+      }, {
+        "liCode" : "016",
+        "liName" : "獨鰲村"
+      }, {
+        "liCode" : "017",
+        "liName" : "敦厚村"
+      }, {
+        "liCode" : "018",
+        "liName" : "崙美村"
+      }, {
+        "liCode" : "019",
+        "liName" : "同安村"
+      }, {
+        "liCode" : "020",
+        "liName" : "同仁村"
+      }, {
+        "liCode" : "021",
+        "liName" : "湳墘村"
+      }, {
+        "liCode" : "022",
+        "liName" : "四芳村"
+      }, {
+        "liCode" : "023",
+        "liName" : "福興村"
+      }, {
+        "liCode" : "024",
+        "liName" : "竹子村"
+      } ],
+      "deptCode" : "160"
+    }, {
+      "liCount" : 24,
+      "deptName" : "社頭鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "社頭村"
+      }, {
+        "liCode" : "002",
+        "liName" : "東興村"
+      }, {
+        "liCode" : "003",
+        "liName" : "山湖村"
+      }, {
+        "liCode" : "004",
+        "liName" : "廣興村"
+      }, {
+        "liCode" : "005",
+        "liName" : "廣福村"
+      }, {
+        "liCode" : "006",
+        "liName" : "朝興村"
+      }, {
+        "liCode" : "007",
+        "liName" : "仁雅村"
+      }, {
+        "liCode" : "008",
+        "liName" : "橋頭村"
+      }, {
+        "liCode" : "009",
+        "liName" : "仁和村"
+      }, {
+        "liCode" : "010",
+        "liName" : "崙雅村"
+      }, {
+        "liCode" : "011",
+        "liName" : "湳底村"
+      }, {
+        "liCode" : "012",
+        "liName" : "泰安村"
+      }, {
+        "liCode" : "013",
+        "liName" : "美雅村"
+      }, {
+        "liCode" : "014",
+        "liName" : "新厝村"
+      }, {
+        "liCode" : "015",
+        "liName" : "平和村"
+      }, {
+        "liCode" : "016",
+        "liName" : "里仁村"
+      }, {
+        "liCode" : "017",
+        "liName" : "張厝村"
+      }, {
+        "liCode" : "018",
+        "liName" : "龍井村"
+      }, {
+        "liCode" : "019",
+        "liName" : "舊社村"
+      }, {
+        "liCode" : "020",
+        "liName" : "埤斗村"
+      }, {
+        "liCode" : "021",
+        "liName" : "湳雅村"
+      }, {
+        "liCode" : "022",
+        "liName" : "松竹村"
+      }, {
+        "liCode" : "023",
+        "liName" : "清水村"
+      }, {
+        "liCode" : "024",
+        "liName" : "協和村"
+      } ],
+      "deptCode" : "170"
+    }, {
+      "liCount" : 17,
+      "deptName" : "二水鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "合和村"
+      }, {
+        "liCode" : "002",
+        "liName" : "上豊村"
+      }, {
+        "liCode" : "003",
+        "liName" : "過圳村"
+      }, {
+        "liCode" : "004",
+        "liName" : "五伯村"
+      }, {
+        "liCode" : "005",
+        "liName" : "光化村"
+      }, {
+        "liCode" : "006",
+        "liName" : "文化村"
+      }, {
+        "liCode" : "007",
+        "liName" : "二水村"
+      }, {
+        "liCode" : "008",
+        "liName" : "聖化村"
+      }, {
+        "liCode" : "009",
+        "liName" : "裕民村"
+      }, {
+        "liCode" : "010",
+        "liName" : "惠民村"
+      }, {
+        "liCode" : "011",
+        "liName" : "大園村"
+      }, {
+        "liCode" : "012",
+        "liName" : "修仁村"
+      }, {
+        "liCode" : "013",
+        "liName" : "合興村"
+      }, {
+        "liCode" : "014",
+        "liName" : "源泉村"
+      }, {
+        "liCode" : "015",
+        "liName" : "倡和村"
+      }, {
+        "liCode" : "016",
+        "liName" : "復興村"
+      }, {
+        "liCode" : "017",
+        "liName" : "十五村"
+      } ],
+      "deptCode" : "180"
+    }, {
+      "liCount" : 20,
+      "deptName" : "田尾鄉",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "田尾村"
+      }, {
+        "liCode" : "002",
+        "liName" : "豐田村"
+      }, {
+        "liCode" : "003",
+        "liName" : "饒平村"
+      }, {
+        "liCode" : "004",
+        "liName" : "睦宜村"
+      }, {
+        "liCode" : "005",
+        "liName" : "福田村"
+      }, {
+        "liCode" : "006",
+        "liName" : "新興村"
+      }, {
+        "liCode" : "007",
+        "liName" : "北鎮村"
+      }, {
+        "liCode" : "008",
+        "liName" : "南鎮村"
+      }, {
+        "liCode" : "009",
+        "liName" : "新生村"
+      }, {
+        "liCode" : "010",
+        "liName" : "南曾村"
+      }, {
+        "liCode" : "011",
+        "liName" : "北曾村"
+      }, {
+        "liCode" : "012",
+        "liName" : "溪畔村"
+      }, {
+        "liCode" : "013",
+        "liName" : "打簾村"
+      }, {
+        "liCode" : "014",
+        "liName" : "柳鳳村"
+      }, {
+        "liCode" : "015",
+        "liName" : "陸豐村"
+      }, {
+        "liCode" : "016",
+        "liName" : "海豐村"
+      }, {
+        "liCode" : "017",
+        "liName" : "仁里村"
+      }, {
+        "liCode" : "018",
+        "liName" : "新厝村"
+      }, {
+        "liCode" : "019",
+        "liName" : "溪頂村"
+      }, {
+        "liCode" : "020",
+        "liName" : "正義村"
+      } ],
+      "deptCode" : "210"
+    } ]
+  } ]
+}

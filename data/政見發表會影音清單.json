@@ -1,0 +1,27 @@
+{
+  "politics" : [ {
+    "prvCode" : "00",
+    "date" : "20191218",
+    "cityCode" : "000",
+    "station" : "華視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/fueoCSkrEFk",
+    "title" : "第15任總統候選人 第1場電視政見發表會"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191220",
+    "cityCode" : "000",
+    "station" : "公視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/3IXVgsbbXNs",
+    "title" : "第15任副總統候選人電視政見發表會"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191225",
+    "cityCode" : "000",
+    "station" : "中視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/cRQxL123iu4",
+    "title" : "第15任總統候選人 第2場電視政見發表會"
+  } ]
+}

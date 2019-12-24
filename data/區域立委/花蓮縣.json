@@ -1,0 +1,91 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "花蓮縣選舉區",
+    "cands" : [ {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0770708",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "新北市",
+      "name" : "蕭嘉豪",
+      "exp" : "",
+      "party" : "民生公益"
+    }, {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/2.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0600807",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "日本",
+      "name" : "蕭美琴",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0551104",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "臺北市",
+      "name" : "黃啓嘉",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0430612",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "花蓮縣",
+      "name" : "許願神",
+      "exp" : "",
+      "party" : "臺灣前進黨"
+    }, {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/5.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0630301",
+      "type" : "區域立法委員",
+      "candNo" : 5,
+      "home" : "花蓮縣",
+      "name" : "曹純明",
+      "exp" : "",
+      "party" : "中華統一促進黨"
+    }, {
+      "area" : "花蓮縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10015/00/6.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0510508",
+      "type" : "區域立法委員",
+      "candNo" : 6,
+      "home" : "臺中市",
+      "name" : "傅崐萁",
+      "exp" : "",
+      "party" : "無"
+    } ]
+  } ]
+}

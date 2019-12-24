@@ -1,0 +1,91 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "宜蘭縣選舉區",
+    "cands" : [ {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0470105",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "宜蘭縣",
+      "name" : "黃定和",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0511012",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "宜蘭縣",
+      "name" : "陳歐珀",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0620404",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "宜蘭縣",
+      "name" : "許育嘉",
+      "exp" : "",
+      "party" : "勞動黨"
+    }, {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0470801",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "宜蘭縣",
+      "name" : "林獻山",
+      "exp" : "",
+      "party" : "台灣維新"
+    }, {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/5.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0450226",
+      "type" : "區域立法委員",
+      "candNo" : 5,
+      "home" : "宜蘭縣",
+      "name" : "呂國華",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "宜蘭縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10002/00/6.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0670304",
+      "type" : "區域立法委員",
+      "candNo" : 6,
+      "home" : "臺北市",
+      "name" : "孫博萮",
+      "exp" : "",
+      "party" : "無"
+    } ]
+  } ]
+}

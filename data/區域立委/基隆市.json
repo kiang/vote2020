@@ -1,0 +1,63 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "基隆市選舉區",
+    "cands" : [ {
+      "area" : "基隆市選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10017/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0620614",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "臺北市",
+      "name" : "蔡適應",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "基隆市選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10017/00/2.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0460729",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "基隆市",
+      "name" : "宋瑋莉",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "基隆市選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10017/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0500624",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "基隆市",
+      "name" : "張耿輝",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "基隆市選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10017/00/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0510802",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "基隆市",
+      "name" : "楊石城",
+      "exp" : "",
+      "party" : "國會政黨聯盟"
+    } ]
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "臺東縣選舉區",
+    "cands" : [ {
+      "area" : "臺東縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10014/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0530227",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "宜蘭縣",
+      "name" : "張志明",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "臺東縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10014/00/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0580512",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "臺東縣",
+      "name" : "陳允萍",
+      "exp" : "",
+      "party" : "台灣民眾黨"
+    }, {
+      "area" : "臺東縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10014/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0420120",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "臺東縣",
+      "name" : "張坤和",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "臺東縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10014/00/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0560202",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "臺東縣",
+      "name" : "劉櫂豪",
+      "exp" : "",
+      "party" : "民主進步黨"
+    } ]
+  } ]
+}

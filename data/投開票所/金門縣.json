@@ -1,0 +1,1563 @@
+{
+  "tboxs" : [ {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0001",
+    "tboxName" : "王氏宗祠",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮東門里10鄰莒光路26巷10號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0002",
+    "tboxName" : "東門里活動中心(東門代天府廣場旁)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮東門里18鄰民族路66之6號",
+    "neighbor" : "14-21",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0003",
+    "tboxName" : "金門縣長青會",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮東門里31鄰浯江北堤路49號",
+    "neighbor" : "22-31",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0004",
+    "tboxName" : "西門里辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里2鄰民權路90之6號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0005",
+    "tboxName" : "南門里辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里2鄰民權路90之4號",
+    "neighbor" : "21-33",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0006",
+    "tboxName" : "西南門里辦公處會議室",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里2鄰民權路90之6號 右側入口 ",
+    "neighbor" : "34-39",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0007",
+    "tboxName" : "中正國小104教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "1-15",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0008",
+    "tboxName" : "中正國小105教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "16-22",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0009",
+    "tboxName" : "中正國小107教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "23-28",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0010",
+    "tboxName" : "中正國小208教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "29,35-38",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0011",
+    "tboxName" : "中正國小206教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "39-46",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0012",
+    "tboxName" : "鳳翔社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里33鄰珠浦西路79之1號",
+    "neighbor" : "30-34",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0013",
+    "tboxName" : "傅錫琪紀念館",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮北門里2鄰中興路173巷28號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "東門里",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "東門里",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "西門里",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "西門里",
+    "deptCode" : "010",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "南門里",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "南門里",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "11-21",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "北門里",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "北門里",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "古城里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "古城里",
+    "deptCode" : "010",
+    "liName" : "古城里"
+  }, {
+    "ScopeLiName" : "古城里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "古城里",
+    "deptCode" : "010",
+    "liName" : "古城里"
+  }, {
+    "ScopeLiName" : "金水里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "金水里",
+    "deptCode" : "010",
+    "liName" : "金水里"
+  }, {
+    "ScopeLiName" : "金水里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "金水里",
+    "deptCode" : "010",
+    "liName" : "金水里"
+  }, {
+    "ScopeLiName" : "珠沙里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "珠沙里",
+    "deptCode" : "010",
+    "liName" : "珠沙里"
+  }, {
+    "ScopeLiName" : "珠沙里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "珠沙里",
+    "deptCode" : "010",
+    "liName" : "珠沙里"
+  }, {
+    "ScopeLiName" : "賢庵里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "賢庵里",
+    "deptCode" : "010",
+    "liName" : "賢庵里"
+  }, {
+    "ScopeLiName" : "賢庵里",
+    "tboxNo" : "0014",
+    "tboxName" : "浯江書院",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "金門縣金城鎮北門里5鄰珠浦北路36號",
+    "neighbor" : "賢庵里",
+    "deptCode" : "010",
+    "liName" : "賢庵里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0015",
+    "tboxName" : "中正國小活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮西門里22鄰珠浦北路38號",
+    "neighbor" : "22-28",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "賢庵里",
+    "tboxNo" : "0016",
+    "tboxName" : "賢聚社區活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮賢庵里4鄰賢聚10號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "賢庵里"
+  }, {
+    "ScopeLiName" : "賢庵里",
+    "tboxNo" : "0017",
+    "tboxName" : "賢庵國小自然教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮賢庵里13鄰庵前18之2號",
+    "neighbor" : "10-18",
+    "deptCode" : "010",
+    "liName" : "賢庵里"
+  }, {
+    "ScopeLiName" : "賢庵里",
+    "tboxNo" : "0018",
+    "tboxName" : "賢庵里辦公處",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮賢庵里5鄰賢聚30-2號",
+    "neighbor" : "19-25",
+    "deptCode" : "010",
+    "liName" : "賢庵里"
+  }, {
+    "ScopeLiName" : "金水里",
+    "tboxNo" : "0019",
+    "tboxName" : "金水里辦公處",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮金水里9鄰前水頭74之1號",
+    "neighbor" : "金水里",
+    "deptCode" : "010",
+    "liName" : "金水里"
+  }, {
+    "ScopeLiName" : "古城里",
+    "tboxNo" : "0020",
+    "tboxName" : "金門城活動中心(左棟)",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮古城里5鄰金門城85之1號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "古城里"
+  }, {
+    "ScopeLiName" : "古城里",
+    "tboxNo" : "0021",
+    "tboxName" : "金門城活動中心(右棟)",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮古城里5鄰金門城85之2號",
+    "neighbor" : "8-14",
+    "deptCode" : "010",
+    "liName" : "古城里"
+  }, {
+    "ScopeLiName" : "古城里",
+    "tboxNo" : "0022",
+    "tboxName" : "古城里辦公處",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮古城里23鄰小古崗40之2號",
+    "neighbor" : "15-26",
+    "deptCode" : "010",
+    "liName" : "古城里"
+  }, {
+    "ScopeLiName" : "珠沙里",
+    "tboxNo" : "0023",
+    "tboxName" : "珠沙里辦公處",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮珠沙里12鄰歐厝81號",
+    "neighbor" : "1-13,16-17",
+    "deptCode" : "010",
+    "liName" : "珠沙里"
+  }, {
+    "ScopeLiName" : "珠沙里",
+    "tboxNo" : "0024",
+    "tboxName" : "和平社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "金門縣金城鎮珠沙里20鄰和平新村130號",
+    "neighbor" : "14-15,18-21",
+    "deptCode" : "010",
+    "liName" : "珠沙里"
+  }, {
+    "ScopeLiName" : "古寧村",
+    "tboxNo" : "0025",
+    "tboxName" : "古寧國小(大禮堂)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉古寧村22鄰北山1號",
+    "neighbor" : "1-9,24-28",
+    "deptCode" : "040",
+    "liName" : "古寧村"
+  }, {
+    "ScopeLiName" : "古寧村",
+    "tboxNo" : "0026",
+    "tboxName" : "古寧村辦公處",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉古寧村22鄰北山2號",
+    "neighbor" : "10-23",
+    "deptCode" : "040",
+    "liName" : "古寧村"
+  }, {
+    "ScopeLiName" : "古寧村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "古寧村",
+    "deptCode" : "040",
+    "liName" : "古寧村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "盤山村",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "盤山村",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "榜林村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "榜林村",
+    "deptCode" : "040",
+    "liName" : "榜林村"
+  }, {
+    "ScopeLiName" : "榜林村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "榜林村",
+    "deptCode" : "040",
+    "liName" : "榜林村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "湖埔村",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "湖埔村",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "后盤村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "后盤村",
+    "deptCode" : "040",
+    "liName" : "后盤村"
+  }, {
+    "ScopeLiName" : "后盤村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "后盤村",
+    "deptCode" : "040",
+    "liName" : "后盤村"
+  }, {
+    "ScopeLiName" : "安美村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "安美村",
+    "deptCode" : "040",
+    "liName" : "安美村"
+  }, {
+    "ScopeLiName" : "安美村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "安美村",
+    "deptCode" : "040",
+    "liName" : "安美村"
+  }, {
+    "ScopeLiName" : "安美村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "7-14",
+    "deptCode" : "040",
+    "liName" : "安美村"
+  }, {
+    "ScopeLiName" : "古寧村",
+    "tboxNo" : "0027",
+    "tboxName" : "安美村辦公處",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣金寧鄉安美村13鄰安岐37之3號",
+    "neighbor" : "古寧村",
+    "deptCode" : "040",
+    "liName" : "古寧村"
+  }, {
+    "ScopeLiName" : "安美村",
+    "tboxNo" : "0028",
+    "tboxName" : "西浦頭社區發展協會",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉安美村3鄰西浦頭32號",
+    "neighbor" : "1-6",
+    "deptCode" : "040",
+    "liName" : "安美村"
+  }, {
+    "ScopeLiName" : "安美村",
+    "tboxNo" : "0029",
+    "tboxName" : "東堡楊氏家廟",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉安美村23鄰東堡17號",
+    "neighbor" : "15-25",
+    "deptCode" : "040",
+    "liName" : "安美村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0030",
+    "tboxName" : "湖埔村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉湖埔村3鄰湖下155之2號",
+    "neighbor" : "1-3,8-17",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0031",
+    "tboxName" : "湖埔國小201教室",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉湖埔村17鄰湖下196號",
+    "neighbor" : "4-7,31",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0032",
+    "tboxName" : "埔後陳氏家廟",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉湖埔村21鄰埔後12號旁",
+    "neighbor" : "21-24,27-29",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "湖埔村",
+    "tboxNo" : "0033",
+    "tboxName" : "下埔下老人休閒中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉湖埔村26鄰下埔下8號旁 代天府右前方 ",
+    "neighbor" : "18-20,25-26,30",
+    "deptCode" : "040",
+    "liName" : "湖埔村"
+  }, {
+    "ScopeLiName" : "榜林村",
+    "tboxNo" : "0034",
+    "tboxName" : "榜林村辦公處",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉榜林村6鄰榜林21號",
+    "neighbor" : "1-8,12-13",
+    "deptCode" : "040",
+    "liName" : "榜林村"
+  }, {
+    "ScopeLiName" : "榜林村",
+    "tboxNo" : "0035",
+    "tboxName" : "垵湖分校(202班教室)",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉榜林村14鄰后湖87號",
+    "neighbor" : "9-11,14-21",
+    "deptCode" : "040",
+    "liName" : "榜林村"
+  }, {
+    "ScopeLiName" : "榜林村",
+    "tboxNo" : "0036",
+    "tboxName" : "國礎國小教室",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉榜林村6鄰榜林21號",
+    "neighbor" : "22-30",
+    "deptCode" : "040",
+    "liName" : "榜林村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0037",
+    "tboxName" : "盤山村辦公處",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉8鄰盤山村頂堡150號",
+    "neighbor" : "1-8",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0038",
+    "tboxName" : "金鼎國小(102班教室)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉9鄰下堡123號",
+    "neighbor" : "9-17",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0039",
+    "tboxName" : "金鼎國小活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉盤山村9鄰下堡123號",
+    "neighbor" : "23-26",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "盤山村",
+    "tboxNo" : "0040",
+    "tboxName" : "金鼎國小(103班教室)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉盤山村9鄰下堡123號",
+    "neighbor" : "18-22",
+    "deptCode" : "040",
+    "liName" : "盤山村"
+  }, {
+    "ScopeLiName" : "后盤村",
+    "tboxNo" : "0041",
+    "tboxName" : "后盤村辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金寧鄉后盤村2鄰后盤山1之8號",
+    "neighbor" : "后盤村",
+    "deptCode" : "040",
+    "liName" : "后盤村"
+  }, {
+    "ScopeLiName" : "上林村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "上林村",
+    "deptCode" : "050",
+    "liName" : "上林村"
+  }, {
+    "ScopeLiName" : "上岐村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "上岐村",
+    "deptCode" : "050",
+    "liName" : "上岐村"
+  }, {
+    "ScopeLiName" : "上岐村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "上岐村",
+    "deptCode" : "050",
+    "liName" : "上岐村"
+  }, {
+    "ScopeLiName" : "上林村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "上林村",
+    "deptCode" : "050",
+    "liName" : "上林村"
+  }, {
+    "ScopeLiName" : "西口村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "西口村",
+    "deptCode" : "050",
+    "liName" : "西口村"
+  }, {
+    "ScopeLiName" : "西口村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "西口村",
+    "deptCode" : "050",
+    "liName" : "西口村"
+  }, {
+    "ScopeLiName" : "林湖村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "1-11",
+    "deptCode" : "050",
+    "liName" : "林湖村"
+  }, {
+    "ScopeLiName" : "林湖村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "林湖村",
+    "deptCode" : "050",
+    "liName" : "林湖村"
+  }, {
+    "ScopeLiName" : "林湖村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "林湖村",
+    "deptCode" : "050",
+    "liName" : "林湖村"
+  }, {
+    "ScopeLiName" : "黃埔村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "黃埔村",
+    "deptCode" : "050",
+    "liName" : "黃埔村"
+  }, {
+    "ScopeLiName" : "黃埔村",
+    "tboxNo" : "0042",
+    "tboxName" : "林湖村辦公處",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "金門縣烈嶼鄉林湖村3鄰東林24號",
+    "neighbor" : "黃埔村",
+    "deptCode" : "050",
+    "liName" : "黃埔村"
+  }, {
+    "ScopeLiName" : "林湖村",
+    "tboxNo" : "0043",
+    "tboxName" : "羅厝社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉林湖村18鄰羅厝6號",
+    "neighbor" : "12-23",
+    "deptCode" : "050",
+    "liName" : "林湖村"
+  }, {
+    "ScopeLiName" : "黃埔村",
+    "tboxNo" : "0044",
+    "tboxName" : "黃埔村辦公處",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉黃埔村3鄰黃厝45號",
+    "neighbor" : "黃埔村",
+    "deptCode" : "050",
+    "liName" : "黃埔村"
+  }, {
+    "ScopeLiName" : "西口村",
+    "tboxNo" : "0045",
+    "tboxName" : "西口村辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉西口村1鄰西方6之1號",
+    "neighbor" : "1-10,20,21",
+    "deptCode" : "050",
+    "liName" : "西口村"
+  }, {
+    "ScopeLiName" : "西口村",
+    "tboxNo" : "0046",
+    "tboxName" : "東坑社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉西口村15鄰東坑10之1號",
+    "neighbor" : "11-19",
+    "deptCode" : "050",
+    "liName" : "西口村"
+  }, {
+    "ScopeLiName" : "上林村",
+    "tboxNo" : "0047",
+    "tboxName" : "上林村辦公處",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉上林村1鄰上林80號",
+    "neighbor" : "上林村",
+    "deptCode" : "050",
+    "liName" : "上林村"
+  }, {
+    "ScopeLiName" : "上岐村",
+    "tboxNo" : "0048",
+    "tboxName" : "上岐村(新)辦公處",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉上岐村5鄰青岐41之16號",
+    "neighbor" : "1-12",
+    "deptCode" : "050",
+    "liName" : "上岐村"
+  }, {
+    "ScopeLiName" : "上岐村",
+    "tboxNo" : "0049",
+    "tboxName" : "上岐村(舊)辦公處",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣烈嶼鄉上岐村13鄰青岐92之2號",
+    "neighbor" : "13-27",
+    "deptCode" : "050",
+    "liName" : "上岐村"
+  }, {
+    "ScopeLiName" : "大坵村",
+    "tboxNo" : "0050",
+    "tboxName" : "大坵村活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣烏坵鄉大坵村1鄰1號",
+    "neighbor" : "大坵村",
+    "deptCode" : "060",
+    "liName" : "大坵村"
+  }, {
+    "ScopeLiName" : "大坵村",
+    "tboxNo" : "0050",
+    "tboxName" : "大坵村活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣烏坵鄉大坵村1鄰1號",
+    "neighbor" : "大坵村",
+    "deptCode" : "060",
+    "liName" : "大坵村"
+  }, {
+    "ScopeLiName" : "大坵村",
+    "tboxNo" : "0050",
+    "tboxName" : "大坵村活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣烏坵鄉大坵村1鄰1號",
+    "neighbor" : "大坵村",
+    "deptCode" : "060",
+    "liName" : "大坵村"
+  }, {
+    "ScopeLiName" : "小坵村",
+    "tboxNo" : "0051",
+    "tboxName" : "小坵村活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣烏坵鄉小坵村1鄰1號",
+    "neighbor" : "小坵村",
+    "deptCode" : "060",
+    "liName" : "小坵村"
+  }, {
+    "ScopeLiName" : "正義里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "正義里",
+    "deptCode" : "030",
+    "liName" : "正義里"
+  }, {
+    "ScopeLiName" : "正義里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "正義里",
+    "deptCode" : "030",
+    "liName" : "正義里"
+  }, {
+    "ScopeLiName" : "山外里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "山外里",
+    "deptCode" : "030",
+    "liName" : "山外里"
+  }, {
+    "ScopeLiName" : "山外里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "山外里",
+    "deptCode" : "030",
+    "liName" : "山外里"
+  }, {
+    "ScopeLiName" : "新市里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "新市里",
+    "deptCode" : "030",
+    "liName" : "新市里"
+  }, {
+    "ScopeLiName" : "新市里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "新市里",
+    "deptCode" : "030",
+    "liName" : "新市里"
+  }, {
+    "ScopeLiName" : "新市里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "1-10",
+    "deptCode" : "030",
+    "liName" : "新市里"
+  }, {
+    "ScopeLiName" : "瓊林里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "瓊林里",
+    "deptCode" : "030",
+    "liName" : "瓊林里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "新湖里",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "瓊林里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "瓊林里",
+    "deptCode" : "030",
+    "liName" : "瓊林里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "新湖里",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "溪湖里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "溪湖里",
+    "deptCode" : "030",
+    "liName" : "溪湖里"
+  }, {
+    "ScopeLiName" : "溪湖里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "溪湖里",
+    "deptCode" : "030",
+    "liName" : "溪湖里"
+  }, {
+    "ScopeLiName" : "蓮庵里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "蓮庵里",
+    "deptCode" : "030",
+    "liName" : "蓮庵里"
+  }, {
+    "ScopeLiName" : "蓮庵里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "蓮庵里",
+    "deptCode" : "030",
+    "liName" : "蓮庵里"
+  }, {
+    "ScopeLiName" : "料羅里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "料羅里",
+    "deptCode" : "030",
+    "liName" : "料羅里"
+  }, {
+    "ScopeLiName" : "料羅里",
+    "tboxNo" : "0052",
+    "tboxName" : "金湖國小(美勞教室5-6)",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "料羅里",
+    "deptCode" : "030",
+    "liName" : "料羅里"
+  }, {
+    "ScopeLiName" : "新市里",
+    "tboxNo" : "0053",
+    "tboxName" : "金湖國小(美勞教室3-4)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "11-21",
+    "deptCode" : "030",
+    "liName" : "新市里"
+  }, {
+    "ScopeLiName" : "新市里",
+    "tboxNo" : "0054",
+    "tboxName" : "金湖國小(美勞準備室)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新市里1鄰林森路12號",
+    "neighbor" : "22-29",
+    "deptCode" : "030",
+    "liName" : "新市里"
+  }, {
+    "ScopeLiName" : "山外里",
+    "tboxNo" : "0055",
+    "tboxName" : "山外里辦公處",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮山外里7鄰山外80之5號",
+    "neighbor" : "1-8,18-20",
+    "deptCode" : "030",
+    "liName" : "山外里"
+  }, {
+    "ScopeLiName" : "山外里",
+    "tboxNo" : "0056",
+    "tboxName" : "下莊社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮山外里12鄰下莊50號",
+    "neighbor" : "9-17",
+    "deptCode" : "030",
+    "liName" : "山外里"
+  }, {
+    "ScopeLiName" : "溪湖里",
+    "tboxNo" : "0057",
+    "tboxName" : "溪湖里辦公處",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮溪湖里7鄰溪邊80號",
+    "neighbor" : "溪湖里",
+    "deptCode" : "030",
+    "liName" : "溪湖里"
+  }, {
+    "ScopeLiName" : "蓮庵里",
+    "tboxNo" : "0058",
+    "tboxName" : "蓮庵里辦公處",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮蓮庵里1鄰東村34號",
+    "neighbor" : "蓮庵里",
+    "deptCode" : "030",
+    "liName" : "蓮庵里"
+  }, {
+    "ScopeLiName" : "料羅里",
+    "tboxNo" : "0059",
+    "tboxName" : "料羅里辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮料羅里5鄰料羅16之4號",
+    "neighbor" : "料羅里",
+    "deptCode" : "030",
+    "liName" : "料羅里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0060",
+    "tboxName" : "湖前社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新湖里4鄰湖前38號",
+    "neighbor" : "1-5,24",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0061",
+    "tboxName" : "新湖里辦公處",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新湖里4鄰湖前62之1號",
+    "neighbor" : "11,19-23,25-26",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0062",
+    "tboxName" : "湖前二營區(會議室)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新湖里24鄰環島南路五段241號",
+    "neighbor" : "12-18",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0063",
+    "tboxName" : "塔后社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新湖里7鄰塔后142號",
+    "neighbor" : "10,27-29",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "新湖里",
+    "tboxNo" : "0064",
+    "tboxName" : "伯爵四季休閒民宿",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮新湖里30鄰塔后158之5號",
+    "neighbor" : "6-9,30-31",
+    "deptCode" : "030",
+    "liName" : "新湖里"
+  }, {
+    "ScopeLiName" : "正義里",
+    "tboxNo" : "0065",
+    "tboxName" : "正義里辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮正義里8鄰成功65之1號",
+    "neighbor" : "14-19",
+    "deptCode" : "030",
+    "liName" : "正義里"
+  }, {
+    "ScopeLiName" : "正義里",
+    "tboxNo" : "0066",
+    "tboxName" : "正義社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮正義里8鄰成功64之2號",
+    "neighbor" : "1-13",
+    "deptCode" : "030",
+    "liName" : "正義里"
+  }, {
+    "ScopeLiName" : "瓊林里",
+    "tboxNo" : "0067",
+    "tboxName" : "瓊林里辦公處",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮瓊林里12鄰瓊林236之1號",
+    "neighbor" : "1-10",
+    "deptCode" : "030",
+    "liName" : "瓊林里"
+  }, {
+    "ScopeLiName" : "瓊林里",
+    "tboxNo" : "0068",
+    "tboxName" : "瓊林民防館",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金湖鎮瓊林里12鄰瓊林77之1號",
+    "neighbor" : "11-22",
+    "deptCode" : "030",
+    "liName" : "瓊林里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "汶沙里",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "1-4",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "光前里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "光前里",
+    "deptCode" : "020",
+    "liName" : "光前里"
+  }, {
+    "ScopeLiName" : "浦山里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "浦山里",
+    "deptCode" : "020",
+    "liName" : "浦山里"
+  }, {
+    "ScopeLiName" : "浦山里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "浦山里",
+    "deptCode" : "020",
+    "liName" : "浦山里"
+  }, {
+    "ScopeLiName" : "官嶼里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "官嶼里",
+    "deptCode" : "020",
+    "liName" : "官嶼里"
+  }, {
+    "ScopeLiName" : "官嶼里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "官嶼里",
+    "deptCode" : "020",
+    "liName" : "官嶼里"
+  }, {
+    "ScopeLiName" : "西園里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "西園里",
+    "deptCode" : "020",
+    "liName" : "西園里"
+  }, {
+    "ScopeLiName" : "西園里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "西園里",
+    "deptCode" : "020",
+    "liName" : "西園里"
+  }, {
+    "ScopeLiName" : "何斗里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "何斗里",
+    "deptCode" : "020",
+    "liName" : "何斗里"
+  }, {
+    "ScopeLiName" : "何斗里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "何斗里",
+    "deptCode" : "020",
+    "liName" : "何斗里"
+  }, {
+    "ScopeLiName" : "光前里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "光前里",
+    "deptCode" : "020",
+    "liName" : "光前里"
+  }, {
+    "ScopeLiName" : "大洋里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "大洋里",
+    "deptCode" : "020",
+    "liName" : "大洋里"
+  }, {
+    "ScopeLiName" : "大洋里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "大洋里",
+    "deptCode" : "020",
+    "liName" : "大洋里"
+  }, {
+    "ScopeLiName" : "三山里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "三山里",
+    "deptCode" : "020",
+    "liName" : "三山里"
+  }, {
+    "ScopeLiName" : "三山里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "三山里",
+    "deptCode" : "020",
+    "liName" : "三山里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0069",
+    "tboxName" : "金沙國小二年甲班",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "汶沙里",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0070",
+    "tboxName" : "金沙國小二年乙班",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮汶沙里14鄰后浦頭117號",
+    "neighbor" : "5-10",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0071",
+    "tboxName" : "汶沙里民活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮汶沙里7鄰國中路1之1號",
+    "neighbor" : "14-19,23-24",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "汶沙里",
+    "tboxNo" : "0072",
+    "tboxName" : "金沙國中美術教室",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮汶沙里24鄰國中路61號",
+    "neighbor" : "11-13,20-22,25-28",
+    "deptCode" : "020",
+    "liName" : "汶沙里"
+  }, {
+    "ScopeLiName" : "何斗里",
+    "tboxNo" : "0073",
+    "tboxName" : "何斗里民活動中心右側",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮何斗里5鄰斗門55之3號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "何斗里"
+  }, {
+    "ScopeLiName" : "何斗里",
+    "tboxNo" : "0074",
+    "tboxName" : "何斗里民活動中心左側",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮何斗里5鄰斗門55之3號",
+    "neighbor" : "9-16",
+    "deptCode" : "020",
+    "liName" : "何斗里"
+  }, {
+    "ScopeLiName" : "浦山里",
+    "tboxNo" : "0075",
+    "tboxName" : "浦山里民活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮浦山里1鄰浦邊4之3號",
+    "neighbor" : "1-10,21",
+    "deptCode" : "020",
+    "liName" : "浦山里"
+  }, {
+    "ScopeLiName" : "浦山里",
+    "tboxNo" : "0076",
+    "tboxName" : "后宅社區活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮浦山里11鄰后宅19號",
+    "neighbor" : "11-20",
+    "deptCode" : "020",
+    "liName" : "浦山里"
+  }, {
+    "ScopeLiName" : "西園里",
+    "tboxNo" : "0077",
+    "tboxName" : "西園里民活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮西園里1鄰西園1之3號",
+    "neighbor" : "西園里",
+    "deptCode" : "020",
+    "liName" : "西園里"
+  }, {
+    "ScopeLiName" : "官嶼里",
+    "tboxNo" : "0078",
+    "tboxName" : "官澳楊氏八祖家廟",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮官嶼里5鄰官澳82號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "官嶼里"
+  }, {
+    "ScopeLiName" : "官嶼里",
+    "tboxNo" : "0079",
+    "tboxName" : "官嶼里民活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮官嶼里5鄰官澳82之2號",
+    "neighbor" : "7-11",
+    "deptCode" : "020",
+    "liName" : "官嶼里"
+  }, {
+    "ScopeLiName" : "三山里",
+    "tboxNo" : "0080",
+    "tboxName" : "三山里梁氏家廟",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮三山里16鄰山后40號",
+    "neighbor" : "1-4,14-20",
+    "deptCode" : "020",
+    "liName" : "三山里"
+  }, {
+    "ScopeLiName" : "三山里",
+    "tboxNo" : "0081",
+    "tboxName" : "三山里民活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮三山里13鄰碧山58-1號",
+    "neighbor" : "5-13",
+    "deptCode" : "020",
+    "liName" : "三山里"
+  }, {
+    "ScopeLiName" : "大洋里",
+    "tboxNo" : "0082",
+    "tboxName" : "大洋里民活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮大洋里8鄰東山22號",
+    "neighbor" : "大洋里",
+    "deptCode" : "020",
+    "liName" : "大洋里"
+  }, {
+    "ScopeLiName" : "光前里",
+    "tboxNo" : "0083",
+    "tboxName" : "光前里民活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮光前里3鄰陽翟96之5號",
+    "neighbor" : "1-11",
+    "deptCode" : "020",
+    "liName" : "光前里"
+  }, {
+    "ScopeLiName" : "光前里",
+    "tboxNo" : "0084",
+    "tboxName" : "太武社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "金門縣金沙鎮光前里18鄰太武社區1之1號",
+    "neighbor" : "12-21",
+    "deptCode" : "020",
+    "liName" : "光前里"
+  } ]
+}

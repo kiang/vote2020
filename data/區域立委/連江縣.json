@@ -1,0 +1,77 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "連江縣選舉區",
+    "cands" : [ {
+      "area" : "連江縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/09007/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0430824",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "連江縣",
+      "name" : "曹爾忠",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "連江縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/09007/00/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0780304",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "新竹市",
+      "name" : "李問",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "連江縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/09007/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0410101",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "連江縣",
+      "name" : "陳雪生",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "連江縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/09007/00/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0420212",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "臺中市",
+      "name" : "李克焜",
+      "exp" : "",
+      "party" : "國會政黨聯盟"
+    }, {
+      "area" : "連江縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/09007/00/5.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0470222",
+      "type" : "區域立法委員",
+      "candNo" : 5,
+      "home" : "連江縣",
+      "name" : "王長明",
+      "exp" : "",
+      "party" : "無"
+    } ]
+  } ]
+}

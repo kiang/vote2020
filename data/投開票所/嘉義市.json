@@ -1,0 +1,3573 @@
+{
+  "tboxs" : [ {
+    "ScopeLiName" : "短竹里",
+    "tboxNo" : "0001",
+    "tboxName" : "光正萬教宮",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "嘉義市東區短竹里6鄰彌陀路162巷29號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "短竹里"
+  }, {
+    "ScopeLiName" : "短竹里",
+    "tboxNo" : "0002",
+    "tboxName" : "嘉義高工(中興樓27教室化二甲)",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "嘉義市東區短竹里9鄰彌陀路174號",
+    "neighbor" : "8-15",
+    "deptCode" : "010",
+    "liName" : "短竹里"
+  }, {
+    "ScopeLiName" : "蘭潭里",
+    "tboxNo" : "0003",
+    "tboxName" : "蘭潭國小(一年1班教室)",
+    "liCode" : "065",
+    "voter" : "01",
+    "addr" : "嘉義市東區蘭潭里10鄰小雅路419號",
+    "neighbor" : "5-10",
+    "deptCode" : "010",
+    "liName" : "蘭潭里"
+  }, {
+    "ScopeLiName" : "蘭潭里",
+    "tboxNo" : "0004",
+    "tboxName" : "福山宮",
+    "liCode" : "065",
+    "voter" : "01",
+    "addr" : "嘉義市東區蘭潭里11鄰立德街96號",
+    "neighbor" : "1-4,11-14",
+    "deptCode" : "010",
+    "liName" : "蘭潭里"
+  }, {
+    "ScopeLiName" : "東川里",
+    "tboxNo" : "0005",
+    "tboxName" : "嘉義高中(樹人堂南側)",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "嘉義市東區東川里12鄰大雅路二段738號",
+    "neighbor" : "8-17",
+    "deptCode" : "010",
+    "liName" : "東川里"
+  }, {
+    "ScopeLiName" : "東川里",
+    "tboxNo" : "0006",
+    "tboxName" : "嘉義高中(樹人堂北側)",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "嘉義市東區東川里12鄰大雅路二段738號",
+    "neighbor" : "1-7,18,19",
+    "deptCode" : "010",
+    "liName" : "東川里"
+  }, {
+    "ScopeLiName" : "鹿寮里",
+    "tboxNo" : "0007",
+    "tboxName" : "鎮安宮",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "嘉義市東區鹿寮里4鄰學府路178號",
+    "neighbor" : "鹿寮里",
+    "deptCode" : "010",
+    "liName" : "鹿寮里"
+  }, {
+    "ScopeLiName" : "盧厝里",
+    "tboxNo" : "0008",
+    "tboxName" : "東之寶幼兒園",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "嘉義市東區盧厝里10鄰大雅路一段368巷72號",
+    "neighbor" : "2,7-9",
+    "deptCode" : "010",
+    "liName" : "盧厝里"
+  }, {
+    "ScopeLiName" : "盧厝里",
+    "tboxNo" : "0009",
+    "tboxName" : "沈公厝",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "嘉義市東區盧厝里9鄰羗母寮29號",
+    "neighbor" : "1,3-6,10",
+    "deptCode" : "010",
+    "liName" : "盧厝里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0010",
+    "tboxName" : "文雅國小(二年2班教室)",
+    "liCode" : "066",
+    "voter" : "01",
+    "addr" : "嘉義市東區文雅里6鄰文雅街2號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0011",
+    "tboxName" : "文雅國小(一年1班教室)",
+    "liCode" : "066",
+    "voter" : "01",
+    "addr" : "嘉義市東區文雅里6鄰文雅街2號",
+    "neighbor" : "7-10",
+    "deptCode" : "010",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0012",
+    "tboxName" : "文雅國小(一年2班教室)",
+    "liCode" : "066",
+    "voter" : "01",
+    "addr" : "嘉義市東區文雅里6鄰文雅街2號",
+    "neighbor" : "11-16",
+    "deptCode" : "010",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "王田里",
+    "tboxNo" : "0013",
+    "tboxName" : "嘉義國中(一年7班教室)",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "嘉義市東區王田里13鄰圓福街86號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "王田里"
+  }, {
+    "ScopeLiName" : "王田里",
+    "tboxNo" : "0014",
+    "tboxName" : "嘉義國中（一年6班教室）",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "嘉義市東區王田里13鄰圓福街86號",
+    "neighbor" : "9-16",
+    "deptCode" : "010",
+    "liName" : "王田里"
+  }, {
+    "ScopeLiName" : "長竹里",
+    "tboxNo" : "0015",
+    "tboxName" : "蘭潭國中（後棟三年4班教室）",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "嘉義市東區長竹里13鄰民權東路32號",
+    "neighbor" : "1,2,10-16",
+    "deptCode" : "010",
+    "liName" : "長竹里"
+  }, {
+    "ScopeLiName" : "長竹里",
+    "tboxNo" : "0016",
+    "tboxName" : "蘭潭國小(一年2班教室)",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "嘉義市東區蘭潭里10鄰小雅路419號",
+    "neighbor" : "3-9,17-19",
+    "deptCode" : "010",
+    "liName" : "長竹里"
+  }, {
+    "ScopeLiName" : "後庄里",
+    "tboxNo" : "0017",
+    "tboxName" : "仁愛幼兒園（天主堂）",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "嘉義市東區後庄里8鄰林森東路635號",
+    "neighbor" : "1-8,20",
+    "deptCode" : "010",
+    "liName" : "後庄里"
+  }, {
+    "ScopeLiName" : "後庄里",
+    "tboxNo" : "0018",
+    "tboxName" : "黃素貞宅",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "嘉義市東區後庄里8鄰林森東路343號",
+    "neighbor" : "9-11,15",
+    "deptCode" : "010",
+    "liName" : "後庄里"
+  }, {
+    "ScopeLiName" : "後庄里",
+    "tboxNo" : "0019",
+    "tboxName" : "張家豪自宅",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "嘉義市東區後庄里12鄰東義路103號",
+    "neighbor" : "12-14,16-19",
+    "deptCode" : "010",
+    "liName" : "後庄里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0020",
+    "tboxName" : "林森國小(一年丁班教室)",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "嘉義市東區新店里11鄰林森東路346號",
+    "neighbor" : "3-5,16,19",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0021",
+    "tboxName" : "林森國小(一年甲班教室)",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "嘉義市東區新店里11鄰林森東路346號",
+    "neighbor" : "1,2,15,17",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0022",
+    "tboxName" : "林森國小(一年乙班教室)",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "嘉義市東區新店里11鄰林森東路346號",
+    "neighbor" : "6,12-14",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0023",
+    "tboxName" : "興華中學(體適能教室)",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "嘉義市東區新店里11鄰林森東路239號",
+    "neighbor" : "7-11,18",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0024",
+    "tboxName" : "精忠國小（一年甲班教室）",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "嘉義市東區圳頭里7鄰林森東路840號",
+    "neighbor" : "1-5,15-19",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0025",
+    "tboxName" : "精忠社區活動中心",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "嘉義市東區圳頭里10鄰精忠一村1之6號",
+    "neighbor" : "6-14",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0026",
+    "tboxName" : "文財殿(倉庫)",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "嘉義市東區圳頭里22鄰林森東路470巷12號",
+    "neighbor" : "20-24",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0027",
+    "tboxName" : "林森國小(一年丙班教室)",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "嘉義市東區新店里11鄰林森東路346號",
+    "neighbor" : "25-28",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0028",
+    "tboxName" : "聖廟太元宮",
+    "liCode" : "061",
+    "voter" : "01",
+    "addr" : "嘉義市東區中山里14鄰安樂街74號",
+    "neighbor" : "1-6,11-14,16",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0029",
+    "tboxName" : "九華山地藏庵(昭忠祠後方倉庫)",
+    "liCode" : "061",
+    "voter" : "01",
+    "addr" : "嘉義市東區中山里15鄰民權路255號",
+    "neighbor" : "7-10,15,17,18",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "太平里",
+    "tboxNo" : "0030",
+    "tboxName" : "長億花園廣場（才藝教室）",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "嘉義市東區太平里9鄰博東路117號",
+    "neighbor" : "1-3,8,9",
+    "deptCode" : "010",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "太平里",
+    "tboxNo" : "0031",
+    "tboxName" : "南屏宮",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "嘉義市東區太平里11鄰林森東路171號",
+    "neighbor" : "4,5,10-15",
+    "deptCode" : "010",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "太平里",
+    "tboxNo" : "0032",
+    "tboxName" : "嘉大附小(活動中心)",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "嘉義市東區林森里4鄰林森東路46號",
+    "neighbor" : "6,7,16-23",
+    "deptCode" : "010",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "東興里",
+    "tboxNo" : "0033",
+    "tboxName" : "嘉義高商﹝綜二(1)教室﹞",
+    "liCode" : "060",
+    "voter" : "01",
+    "addr" : "嘉義市東區東興里1鄰中山路7號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "東興里"
+  }, {
+    "ScopeLiName" : "東興里",
+    "tboxNo" : "0034",
+    "tboxName" : "台灣基督長老教會嘉義東門教會(一樓副堂)",
+    "liCode" : "060",
+    "voter" : "01",
+    "addr" : "嘉義市東區東興里10鄰共和路236號",
+    "neighbor" : "9-15",
+    "deptCode" : "010",
+    "liName" : "東興里"
+  }, {
+    "ScopeLiName" : "華南里",
+    "tboxNo" : "0035",
+    "tboxName" : "華南高商(弘德樓1樓廣二2教室)",
+    "liCode" : "059",
+    "voter" : "01",
+    "addr" : "嘉義市東區華南里2鄰光彩街69號",
+    "neighbor" : "1-8,17,18",
+    "deptCode" : "010",
+    "liName" : "華南里"
+  }, {
+    "ScopeLiName" : "華南里",
+    "tboxNo" : "0036",
+    "tboxName" : "華南高商(弘德樓1樓廣三2教室)",
+    "liCode" : "059",
+    "voter" : "01",
+    "addr" : "嘉義市東區華南里2鄰光彩街69號",
+    "neighbor" : "9-16",
+    "deptCode" : "010",
+    "liName" : "華南里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0037",
+    "tboxName" : "吳鳳幼兒園(小紅班教室)",
+    "liCode" : "062",
+    "voter" : "01",
+    "addr" : "嘉義市東區中央里18鄰中山路260號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0038",
+    "tboxName" : "吳鳳幼兒園(貝貝班教室)",
+    "liCode" : "062",
+    "voter" : "01",
+    "addr" : "嘉義市東區中央里18鄰中山路260號",
+    "neighbor" : "10-18",
+    "deptCode" : "010",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0039",
+    "tboxName" : "大天宮",
+    "liCode" : "058",
+    "voter" : "01",
+    "addr" : "嘉義市東區朝陽里7鄰和平路84號",
+    "neighbor" : "6,8-11",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0040",
+    "tboxName" : "普德寺",
+    "liCode" : "058",
+    "voter" : "01",
+    "addr" : "嘉義市東區朝陽里3鄰民國路45號",
+    "neighbor" : "1-5,7",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0041",
+    "tboxName" : "民族國小(一年1班教室)",
+    "liCode" : "057",
+    "voter" : "01",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0042",
+    "tboxName" : "民族國小(一年2班教室)",
+    "liCode" : "057",
+    "voter" : "01",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "7-12",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "過溝里",
+    "tboxNo" : "0043",
+    "tboxName" : "崇文國小﹝課後照顧班(一)教室﹞",
+    "liCode" : "056",
+    "voter" : "01",
+    "addr" : "嘉義市東區豐年里1鄰垂楊路241號",
+    "neighbor" : "1-3,6-8,11-13",
+    "deptCode" : "010",
+    "liName" : "過溝里"
+  }, {
+    "ScopeLiName" : "過溝里",
+    "tboxNo" : "0044",
+    "tboxName" : "震安宮",
+    "liCode" : "056",
+    "voter" : "01",
+    "addr" : "嘉義市東區過溝里14鄰民族路414號",
+    "neighbor" : "4,5,9,10,14-16",
+    "deptCode" : "010",
+    "liName" : "過溝里"
+  }, {
+    "ScopeLiName" : "新開里",
+    "tboxNo" : "0045",
+    "tboxName" : "宣信國小（一年6班教室）",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "嘉義市東區新開里15鄰宣信街266號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "新開里"
+  }, {
+    "ScopeLiName" : "新開里",
+    "tboxNo" : "0046",
+    "tboxName" : "宣信國小（一年4班教室）",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "嘉義市東區新開里15鄰宣信街266號",
+    "neighbor" : "11-21",
+    "deptCode" : "010",
+    "liName" : "新開里"
+  }, {
+    "ScopeLiName" : "宣信里",
+    "tboxNo" : "0047",
+    "tboxName" : "宣信國小（一年1班教室）",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "嘉義市東區新開里15鄰宣信街266號",
+    "neighbor" : "宣信里",
+    "deptCode" : "010",
+    "liName" : "宣信里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0048",
+    "tboxName" : "興南里集會所",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市東區興南里9鄰崇文街76號",
+    "neighbor" : "8-14",
+    "deptCode" : "010",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0049",
+    "tboxName" : "南后宮",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市東區興南里7鄰崇文街1號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0050",
+    "tboxName" : "玄武宮",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "嘉義市東區豐年里7鄰崇文街119巷13號",
+    "neighbor" : "豐年里",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "芳草里",
+    "tboxNo" : "0051",
+    "tboxName" : "南興國中（視聽教室）",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市東區芳草里11鄰芳安路111號",
+    "neighbor" : "8,10,12,13,16,17",
+    "deptCode" : "010",
+    "liName" : "芳草里"
+  }, {
+    "ScopeLiName" : "芳草里",
+    "tboxNo" : "0052",
+    "tboxName" : "南興國中（用餐室）",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市東區芳草里11鄰芳安路111號",
+    "neighbor" : "6,7,9,14,15,18",
+    "deptCode" : "010",
+    "liName" : "芳草里"
+  }, {
+    "ScopeLiName" : "芳草里",
+    "tboxNo" : "0053",
+    "tboxName" : "南興國中(903班教室)",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市東區芳草里11鄰芳安路111號",
+    "neighbor" : "1-5,11,19,20",
+    "deptCode" : "010",
+    "liName" : "芳草里"
+  }, {
+    "ScopeLiName" : "芳安里",
+    "tboxNo" : "0054",
+    "tboxName" : "大明禪寺",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "嘉義市東區芳安里2鄰立仁路126號",
+    "neighbor" : "1-5,14",
+    "deptCode" : "010",
+    "liName" : "芳安里"
+  }, {
+    "ScopeLiName" : "芳安里",
+    "tboxNo" : "0055",
+    "tboxName" : "嘉邑鎮天宮(西側會議室)",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "嘉義市東區芳安里8鄰芳安路195號",
+    "neighbor" : "6-13,15",
+    "deptCode" : "010",
+    "liName" : "芳安里"
+  }, {
+    "ScopeLiName" : "頂寮里",
+    "tboxNo" : "0056",
+    "tboxName" : "頂安宮",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "嘉義市東區頂寮里8鄰南興路145巷13號",
+    "neighbor" : "1-4,7-9",
+    "deptCode" : "010",
+    "liName" : "頂寮里"
+  }, {
+    "ScopeLiName" : "頂寮里",
+    "tboxNo" : "0057",
+    "tboxName" : "立仁高中(禮堂)",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "嘉義市東區頂寮里6鄰立仁路235號",
+    "neighbor" : "5,6,10-14",
+    "deptCode" : "010",
+    "liName" : "頂寮里"
+  }, {
+    "ScopeLiName" : "安寮里",
+    "tboxNo" : "0058",
+    "tboxName" : "褒忠義民廟",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "嘉義市東區安寮里3鄰南田路15號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "安寮里"
+  }, {
+    "ScopeLiName" : "安寮里",
+    "tboxNo" : "0059",
+    "tboxName" : "桑尼種子幼兒園(B棟第4間教室)",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "嘉義市東區安寮里14鄰吳鳳南路319號",
+    "neighbor" : "14-19",
+    "deptCode" : "010",
+    "liName" : "安寮里"
+  }, {
+    "ScopeLiName" : "安業里",
+    "tboxNo" : "0060",
+    "tboxName" : "大業國中(海洋教育教室)",
+    "liCode" : "067",
+    "voter" : "01",
+    "addr" : "嘉義市東區安業里10鄰大業街57號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "安業里"
+  }, {
+    "ScopeLiName" : "安業里",
+    "tboxNo" : "0061",
+    "tboxName" : "大業國中(交通安全教室)",
+    "liCode" : "067",
+    "voter" : "01",
+    "addr" : "嘉義市東區安業里10鄰大業街57號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "安業里"
+  }, {
+    "ScopeLiName" : "興村里",
+    "tboxNo" : "0062",
+    "tboxName" : "五港宮",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "嘉義市東區興村里3鄰過溪113之2號",
+    "neighbor" : "1-5,12",
+    "deptCode" : "010",
+    "liName" : "興村里"
+  }, {
+    "ScopeLiName" : "興村里",
+    "tboxNo" : "0063",
+    "tboxName" : "和睦幼兒園",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "嘉義市東區興村里6鄰過溪91號",
+    "neighbor" : "6,10,11,13-15",
+    "deptCode" : "010",
+    "liName" : "興村里"
+  }, {
+    "ScopeLiName" : "興村里",
+    "tboxNo" : "0064",
+    "tboxName" : "慈玄宮",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "嘉義市東區興村里9鄰溪興街28之2號",
+    "neighbor" : "7-9,16-18",
+    "deptCode" : "010",
+    "liName" : "興村里"
+  }, {
+    "ScopeLiName" : "興安里",
+    "tboxNo" : "0065",
+    "tboxName" : "興安國小(一年1班教室)",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市東區興安里3鄰興安街35號",
+    "neighbor" : "1-5,19",
+    "deptCode" : "010",
+    "liName" : "興安里"
+  }, {
+    "ScopeLiName" : "興安里",
+    "tboxNo" : "0066",
+    "tboxName" : "興安國小(一年4班教室)",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市東區興安里3鄰興安街35號",
+    "neighbor" : "6-18,20-26",
+    "deptCode" : "010",
+    "liName" : "興安里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0067",
+    "tboxName" : "興村教會",
+    "liCode" : "055",
+    "voter" : "01",
+    "addr" : "嘉義市東區興仁里1鄰軍輝路49號",
+    "neighbor" : "1,2,4,5,14",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0068",
+    "tboxName" : "玉霄殿",
+    "liCode" : "055",
+    "voter" : "01",
+    "addr" : "嘉義市東區興仁里3鄰興仁街46號旁",
+    "neighbor" : "3,6,7,15,16",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0069",
+    "tboxName" : "河濱運動公園辦公處",
+    "liCode" : "055",
+    "voter" : "01",
+    "addr" : "嘉義市東區興仁里16鄰興仁街50號",
+    "neighbor" : "8-13,17",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0070",
+    "tboxName" : "育志幼兒園",
+    "liCode" : "064",
+    "voter" : "01",
+    "addr" : "嘉義市東區北門里13鄰長榮街142號",
+    "neighbor" : "1-5,12-14",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0071",
+    "tboxName" : "慈龍寺",
+    "liCode" : "064",
+    "voter" : "01",
+    "addr" : "嘉義市東區北門里8鄰長榮街206號",
+    "neighbor" : "6-11,15-18",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "林森里",
+    "tboxNo" : "0072",
+    "tboxName" : "天后宮(一樓)",
+    "liCode" : "063",
+    "voter" : "01",
+    "addr" : "嘉義市東區林森里7鄰林森東路113號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "林森里"
+  }, {
+    "ScopeLiName" : "林森里",
+    "tboxNo" : "0073",
+    "tboxName" : "北興國中（二年9班教室）",
+    "liCode" : "063",
+    "voter" : "01",
+    "addr" : "嘉義市東區仁義里2鄰博東路262號",
+    "neighbor" : "11-18",
+    "deptCode" : "010",
+    "liName" : "林森里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0074",
+    "tboxName" : "廣寧宮",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "嘉義市東區中庄里19鄰忠孝路537-65號附1",
+    "neighbor" : "14,16-22,25",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0075",
+    "tboxName" : "萬台宮",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "嘉義市東區中庄里2鄰台斗街97-21號",
+    "neighbor" : "1-5,10,12,23,24",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0076",
+    "tboxName" : "景仁幼兒園(彩虹廣場)",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "嘉義市東區中庄里11鄰忠孝路505號",
+    "neighbor" : "6-9,11,13,15",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "頂庄里",
+    "tboxNo" : "0077",
+    "tboxName" : "嘉北國小（一年2班教室）",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "嘉義市東區仁義里1鄰嘉北街65號",
+    "neighbor" : "1,2,4,6,7,10",
+    "deptCode" : "010",
+    "liName" : "頂庄里"
+  }, {
+    "ScopeLiName" : "頂庄里",
+    "tboxNo" : "0078",
+    "tboxName" : "頂庄社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "嘉義市東區頂庄里11鄰義教街542巷20號附1",
+    "neighbor" : "3,5,8,9,11",
+    "deptCode" : "010",
+    "liName" : "頂庄里"
+  }, {
+    "ScopeLiName" : "義教里",
+    "tboxNo" : "0079",
+    "tboxName" : "嘉北國小(二年5班教室 )",
+    "liCode" : "068",
+    "voter" : "01",
+    "addr" : "嘉義市東區仁義里1鄰嘉北街65號",
+    "neighbor" : "1,2,11-14,16",
+    "deptCode" : "010",
+    "liName" : "義教里"
+  }, {
+    "ScopeLiName" : "義教里",
+    "tboxNo" : "0080",
+    "tboxName" : "基督教台灣信義會(榮光堂)",
+    "liCode" : "068",
+    "voter" : "01",
+    "addr" : "嘉義市東區義教里5鄰新生路810號",
+    "neighbor" : "3-10,15",
+    "deptCode" : "010",
+    "liName" : "義教里"
+  }, {
+    "ScopeLiName" : "仁義里",
+    "tboxNo" : "0081",
+    "tboxName" : "三台宮",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "嘉義市東區仁義里9鄰忠孝路542號",
+    "neighbor" : "7,9,10,13-17",
+    "deptCode" : "010",
+    "liName" : "仁義里"
+  }, {
+    "ScopeLiName" : "仁義里",
+    "tboxNo" : "0082",
+    "tboxName" : "嘉北國小(二年3班教室)",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "嘉義市東區仁義里1鄰嘉北街65號",
+    "neighbor" : "1-6,8,11,12",
+    "deptCode" : "010",
+    "liName" : "仁義里"
+  }, {
+    "ScopeLiName" : "後湖里",
+    "tboxNo" : "0083",
+    "tboxName" : "後湖社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "嘉義市東區後湖里2鄰保義路60巷40號",
+    "neighbor" : "2-5,7,14",
+    "deptCode" : "010",
+    "liName" : "後湖里"
+  }, {
+    "ScopeLiName" : "後湖里",
+    "tboxNo" : "0084",
+    "tboxName" : "三性宮(後面倉庫)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "嘉義市東區後湖里6鄰保義路238號",
+    "neighbor" : "6,8,9,15-17",
+    "deptCode" : "010",
+    "liName" : "後湖里"
+  }, {
+    "ScopeLiName" : "後湖里",
+    "tboxNo" : "0085",
+    "tboxName" : "嘉山基督長老教會",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "嘉義市東區後湖里10鄰保建街30-3號",
+    "neighbor" : "1,10-13",
+    "deptCode" : "010",
+    "liName" : "後湖里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0086",
+    "tboxName" : "荖藤社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "嘉義市東區荖藤里2鄰荖藤宅29-1號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0087",
+    "tboxName" : "台灣信義會民雄榮光堂",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "嘉義市東區荖藤里9鄰忠孝路790號之56",
+    "neighbor" : "10,11,13,14",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0088",
+    "tboxName" : "大寶鎮(康樂室)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "嘉義市東區荖藤里9鄰忠孝路790號之80",
+    "neighbor" : "9",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0089",
+    "tboxName" : "將正企業社倉庫",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "嘉義市東區荖藤里12鄰忠孝路798巷27弄35號",
+    "neighbor" : "7,8,12",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "荖藤里",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "荖藤里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "荖藤里",
+    "deptCode" : "010",
+    "liName" : "荖藤里"
+  }, {
+    "ScopeLiName" : "後湖里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "後湖里",
+    "deptCode" : "010",
+    "liName" : "後湖里"
+  }, {
+    "ScopeLiName" : "後湖里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "後湖里",
+    "deptCode" : "010",
+    "liName" : "後湖里"
+  }, {
+    "ScopeLiName" : "仁義里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "仁義里",
+    "deptCode" : "010",
+    "liName" : "仁義里"
+  }, {
+    "ScopeLiName" : "仁義里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "仁義里",
+    "deptCode" : "010",
+    "liName" : "仁義里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中庄里",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中庄里",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "頂庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "頂庄里",
+    "deptCode" : "010",
+    "liName" : "頂庄里"
+  }, {
+    "ScopeLiName" : "頂庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "頂庄里",
+    "deptCode" : "010",
+    "liName" : "頂庄里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "034",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "圳頭里",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "圳頭里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "034",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "圳頭里",
+    "deptCode" : "010",
+    "liName" : "圳頭里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "035",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "新店里",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "新店里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "035",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "新店里",
+    "deptCode" : "010",
+    "liName" : "新店里"
+  }, {
+    "ScopeLiName" : "後庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "後庄里",
+    "deptCode" : "010",
+    "liName" : "後庄里"
+  }, {
+    "ScopeLiName" : "後庄里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "後庄里",
+    "deptCode" : "010",
+    "liName" : "後庄里"
+  }, {
+    "ScopeLiName" : "王田里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "037",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "王田里",
+    "deptCode" : "010",
+    "liName" : "王田里"
+  }, {
+    "ScopeLiName" : "王田里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "037",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "王田里",
+    "deptCode" : "010",
+    "liName" : "王田里"
+  }, {
+    "ScopeLiName" : "東川里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "東川里",
+    "deptCode" : "010",
+    "liName" : "東川里"
+  }, {
+    "ScopeLiName" : "東川里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "東川里",
+    "deptCode" : "010",
+    "liName" : "東川里"
+  }, {
+    "ScopeLiName" : "太平里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "太平里",
+    "deptCode" : "010",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "太平里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "太平里",
+    "deptCode" : "010",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "盧厝里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "041",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "盧厝里",
+    "deptCode" : "010",
+    "liName" : "盧厝里"
+  }, {
+    "ScopeLiName" : "盧厝里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "041",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "盧厝里",
+    "deptCode" : "010",
+    "liName" : "盧厝里"
+  }, {
+    "ScopeLiName" : "鹿寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "042",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "鹿寮里",
+    "deptCode" : "010",
+    "liName" : "鹿寮里"
+  }, {
+    "ScopeLiName" : "鹿寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "042",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "鹿寮里",
+    "deptCode" : "010",
+    "liName" : "鹿寮里"
+  }, {
+    "ScopeLiName" : "長竹里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "043",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "長竹里",
+    "deptCode" : "010",
+    "liName" : "長竹里"
+  }, {
+    "ScopeLiName" : "長竹里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "043",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "長竹里",
+    "deptCode" : "010",
+    "liName" : "長竹里"
+  }, {
+    "ScopeLiName" : "短竹里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "044",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "短竹里",
+    "deptCode" : "010",
+    "liName" : "短竹里"
+  }, {
+    "ScopeLiName" : "短竹里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "044",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "短竹里",
+    "deptCode" : "010",
+    "liName" : "短竹里"
+  }, {
+    "ScopeLiName" : "新開里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "新開里",
+    "deptCode" : "010",
+    "liName" : "新開里"
+  }, {
+    "ScopeLiName" : "新開里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "新開里",
+    "deptCode" : "010",
+    "liName" : "新開里"
+  }, {
+    "ScopeLiName" : "宣信里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "宣信里",
+    "deptCode" : "010",
+    "liName" : "宣信里"
+  }, {
+    "ScopeLiName" : "宣信里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "宣信里",
+    "deptCode" : "010",
+    "liName" : "宣信里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "047",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興南里",
+    "deptCode" : "010",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "047",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興南里",
+    "deptCode" : "010",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "048",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "豐年里",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "048",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "豐年里",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "芳草里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "049",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "芳草里",
+    "deptCode" : "010",
+    "liName" : "芳草里"
+  }, {
+    "ScopeLiName" : "芳草里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "049",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "芳草里",
+    "deptCode" : "010",
+    "liName" : "芳草里"
+  }, {
+    "ScopeLiName" : "芳安里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "050",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "芳安里",
+    "deptCode" : "010",
+    "liName" : "芳安里"
+  }, {
+    "ScopeLiName" : "芳安里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "050",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "芳安里",
+    "deptCode" : "010",
+    "liName" : "芳安里"
+  }, {
+    "ScopeLiName" : "頂寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "051",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "頂寮里",
+    "deptCode" : "010",
+    "liName" : "頂寮里"
+  }, {
+    "ScopeLiName" : "頂寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "051",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "頂寮里",
+    "deptCode" : "010",
+    "liName" : "頂寮里"
+  }, {
+    "ScopeLiName" : "安寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "052",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "安寮里",
+    "deptCode" : "010",
+    "liName" : "安寮里"
+  }, {
+    "ScopeLiName" : "安寮里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "052",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "安寮里",
+    "deptCode" : "010",
+    "liName" : "安寮里"
+  }, {
+    "ScopeLiName" : "興安里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "053",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興安里",
+    "deptCode" : "010",
+    "liName" : "興安里"
+  }, {
+    "ScopeLiName" : "興安里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "053",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興安里",
+    "deptCode" : "010",
+    "liName" : "興安里"
+  }, {
+    "ScopeLiName" : "興村里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "054",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興村里",
+    "deptCode" : "010",
+    "liName" : "興村里"
+  }, {
+    "ScopeLiName" : "興村里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "054",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興村里",
+    "deptCode" : "010",
+    "liName" : "興村里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "055",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興仁里",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "055",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "興仁里",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "過溝里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "056",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "過溝里",
+    "deptCode" : "010",
+    "liName" : "過溝里"
+  }, {
+    "ScopeLiName" : "過溝里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "056",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "過溝里",
+    "deptCode" : "010",
+    "liName" : "過溝里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "057",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "民族里",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "057",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "民族里",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "058",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "朝陽里",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "058",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "朝陽里",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "華南里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "059",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "華南里",
+    "deptCode" : "010",
+    "liName" : "華南里"
+  }, {
+    "ScopeLiName" : "華南里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "059",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "華南里",
+    "deptCode" : "010",
+    "liName" : "華南里"
+  }, {
+    "ScopeLiName" : "東興里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "060",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "東興里",
+    "deptCode" : "010",
+    "liName" : "東興里"
+  }, {
+    "ScopeLiName" : "東興里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "060",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "東興里",
+    "deptCode" : "010",
+    "liName" : "東興里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "061",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中山里",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "061",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中山里",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "062",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中央里",
+    "deptCode" : "010",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "062",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "中央里",
+    "deptCode" : "010",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "林森里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "063",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "林森里",
+    "deptCode" : "010",
+    "liName" : "林森里"
+  }, {
+    "ScopeLiName" : "林森里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "063",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "林森里",
+    "deptCode" : "010",
+    "liName" : "林森里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "064",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "北門里",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "064",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "北門里",
+    "deptCode" : "010",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "蘭潭里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "065",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "蘭潭里",
+    "deptCode" : "010",
+    "liName" : "蘭潭里"
+  }, {
+    "ScopeLiName" : "蘭潭里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "065",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "蘭潭里",
+    "deptCode" : "010",
+    "liName" : "蘭潭里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "066",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "文雅里",
+    "deptCode" : "010",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "066",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "文雅里",
+    "deptCode" : "010",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "安業里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "067",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "安業里",
+    "deptCode" : "010",
+    "liName" : "安業里"
+  }, {
+    "ScopeLiName" : "安業里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "067",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "安業里",
+    "deptCode" : "010",
+    "liName" : "安業里"
+  }, {
+    "ScopeLiName" : "義教里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "068",
+    "voter" : "02",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "義教里",
+    "deptCode" : "010",
+    "liName" : "義教里"
+  }, {
+    "ScopeLiName" : "義教里",
+    "tboxNo" : "0090",
+    "tboxName" : "民族國小(一年3班教室)",
+    "liCode" : "068",
+    "voter" : "03",
+    "addr" : "嘉義市東區民族里3鄰民族路235號",
+    "neighbor" : "義教里",
+    "deptCode" : "010",
+    "liName" : "義教里"
+  }, {
+    "ScopeLiName" : "書院里",
+    "tboxNo" : "0091",
+    "tboxName" : "震安宮",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "嘉義市西區書院里1鄰西門街168號",
+    "neighbor" : "1,2,9-12,15-18",
+    "deptCode" : "020",
+    "liName" : "書院里"
+  }, {
+    "ScopeLiName" : "書院里",
+    "tboxNo" : "0092",
+    "tboxName" : "江西太子宮",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "嘉義市西區書院里3鄰光彩街547號",
+    "neighbor" : "3-8,13,14,19",
+    "deptCode" : "020",
+    "liName" : "書院里"
+  }, {
+    "ScopeLiName" : "永和里",
+    "tboxNo" : "0093",
+    "tboxName" : "永和里集會所",
+    "liCode" : "056",
+    "voter" : "01",
+    "addr" : "嘉義市西區永和里2鄰康樂街259號",
+    "neighbor" : "1-3,11-14",
+    "deptCode" : "020",
+    "liName" : "永和里"
+  }, {
+    "ScopeLiName" : "永和里",
+    "tboxNo" : "0094",
+    "tboxName" : "竹園聯合里辦公處旁",
+    "liCode" : "056",
+    "voter" : "01",
+    "addr" : "嘉義市西區永和里9鄰民族路933號附1",
+    "neighbor" : "4-10",
+    "deptCode" : "020",
+    "liName" : "永和里"
+  }, {
+    "ScopeLiName" : "新富里",
+    "tboxNo" : "0095",
+    "tboxName" : "賴美珍宅(車庫)",
+    "liCode" : "057",
+    "voter" : "01",
+    "addr" : "嘉義市西區新富里13鄰康樂街224號",
+    "neighbor" : "新富里",
+    "deptCode" : "020",
+    "liName" : "新富里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0096",
+    "tboxName" : "朝天宮(溫陵媽廟)對面倉庫",
+    "liCode" : "058",
+    "voter" : "01",
+    "addr" : "嘉義市西區文化里6鄰延平街289之1號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0097",
+    "tboxName" : "關廂境廟(對面廣場)",
+    "liCode" : "058",
+    "voter" : "01",
+    "addr" : "嘉義市西區文化里11鄰中央第二商場3號",
+    "neighbor" : "9-14",
+    "deptCode" : "020",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "西榮里",
+    "tboxNo" : "0098",
+    "tboxName" : "正義幼兒園(車庫)",
+    "liCode" : "059",
+    "voter" : "01",
+    "addr" : "嘉義市西區西榮里1鄰民生北路92號",
+    "neighbor" : "1-6,9,13,17",
+    "deptCode" : "020",
+    "liName" : "西榮里"
+  }, {
+    "ScopeLiName" : "西榮里",
+    "tboxNo" : "0099",
+    "tboxName" : "萬善君廟",
+    "liCode" : "059",
+    "voter" : "01",
+    "addr" : "嘉義市西區西榮里7鄰延平街370號",
+    "neighbor" : "7,8,10-12,14-16,18,19",
+    "deptCode" : "020",
+    "liName" : "西榮里"
+  }, {
+    "ScopeLiName" : "番社里",
+    "tboxNo" : "0100",
+    "tboxName" : "基督教長老教會北榮教會",
+    "liCode" : "061",
+    "voter" : "01",
+    "addr" : "嘉義市西區番社里11鄰西榮街266號",
+    "neighbor" : "番社里",
+    "deptCode" : "020",
+    "liName" : "番社里"
+  }, {
+    "ScopeLiName" : "國華里",
+    "tboxNo" : "0101",
+    "tboxName" : "嘉義市西區家庭福利服務中心",
+    "liCode" : "060",
+    "voter" : "01",
+    "addr" : "嘉義市西區國華里2鄰忠義街158之1號 中正公園內 ",
+    "neighbor" : "國華里",
+    "deptCode" : "020",
+    "liName" : "國華里"
+  }, {
+    "ScopeLiName" : "大溪里",
+    "tboxNo" : "0102",
+    "tboxName" : "紫微宮",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "嘉義市西區大溪里12鄰大溪路593號",
+    "neighbor" : "1-6,13,14",
+    "deptCode" : "020",
+    "liName" : "大溪里"
+  }, {
+    "ScopeLiName" : "大溪里",
+    "tboxNo" : "0103",
+    "tboxName" : "大溪社區活動中心",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "嘉義市西區大溪里12鄰大溪路593號",
+    "neighbor" : "7-12",
+    "deptCode" : "020",
+    "liName" : "大溪里"
+  }, {
+    "ScopeLiName" : "磚磘里",
+    "tboxNo" : "0104",
+    "tboxName" : "白蓮宮廟前停車場",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "嘉義市西區磚磘里2鄰大同路123號",
+    "neighbor" : "1,2,4,5,15,16,20",
+    "deptCode" : "020",
+    "liName" : "磚磘里"
+  }, {
+    "ScopeLiName" : "磚磘里",
+    "tboxNo" : "0105",
+    "tboxName" : "白蓮宮前廣場",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "嘉義市西區磚磘里2鄰大同路123號",
+    "neighbor" : "3,6,9-12,14",
+    "deptCode" : "020",
+    "liName" : "磚磘里"
+  }, {
+    "ScopeLiName" : "磚磘里",
+    "tboxNo" : "0106",
+    "tboxName" : "聖善園旁廣場",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "嘉義市西區磚磘里10鄰玉山路130巷85號",
+    "neighbor" : "7,8,13,17-19",
+    "deptCode" : "020",
+    "liName" : "磚磘里"
+  }, {
+    "ScopeLiName" : "福全里",
+    "tboxNo" : "0107",
+    "tboxName" : "伏龍宮",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "嘉義市西區福全里7鄰博愛路二段408巷1號附1",
+    "neighbor" : "1-11",
+    "deptCode" : "020",
+    "liName" : "福全里"
+  }, {
+    "ScopeLiName" : "福全里",
+    "tboxNo" : "0108",
+    "tboxName" : "南天門太子行宮",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "嘉義市西區福全里13鄰友愛路156號",
+    "neighbor" : "13-15,17,18,27-29",
+    "deptCode" : "020",
+    "liName" : "福全里"
+  }, {
+    "ScopeLiName" : "福全里",
+    "tboxNo" : "0109",
+    "tboxName" : "嘉義市政府衛生局1樓",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "嘉義市西區福全里20鄰德明路1號",
+    "neighbor" : "12,16,19-26",
+    "deptCode" : "020",
+    "liName" : "福全里"
+  }, {
+    "ScopeLiName" : "福安里",
+    "tboxNo" : "0110",
+    "tboxName" : "嘉義市行德宮",
+    "liCode" : "065",
+    "voter" : "01",
+    "addr" : "嘉義市西區福安里1鄰僑嘉一街62號",
+    "neighbor" : "1-4,11,20,21",
+    "deptCode" : "020",
+    "liName" : "福安里"
+  }, {
+    "ScopeLiName" : "福安里",
+    "tboxNo" : "0111",
+    "tboxName" : "鎮安宮倉庫",
+    "liCode" : "065",
+    "voter" : "01",
+    "addr" : "嘉義市西區福安里8鄰姜文街238號附1",
+    "neighbor" : "5-10,12,13",
+    "deptCode" : "020",
+    "liName" : "福安里"
+  }, {
+    "ScopeLiName" : "福安里",
+    "tboxNo" : "0112",
+    "tboxName" : "真武廟",
+    "liCode" : "065",
+    "voter" : "01",
+    "addr" : "嘉義市西區福安里14鄰泰瑞一街59號",
+    "neighbor" : "14-19,22",
+    "deptCode" : "020",
+    "liName" : "福安里"
+  }, {
+    "ScopeLiName" : "新西里",
+    "tboxNo" : "0113",
+    "tboxName" : "垂楊國小(會議室)",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "嘉義市西區垂楊里6鄰垂楊路605號",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "新西里"
+  }, {
+    "ScopeLiName" : "新西里",
+    "tboxNo" : "0114",
+    "tboxName" : "聖興宮",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "嘉義市西區新西里15鄰上海路375號",
+    "neighbor" : "11-19",
+    "deptCode" : "020",
+    "liName" : "新西里"
+  }, {
+    "ScopeLiName" : "港坪里",
+    "tboxNo" : "0115",
+    "tboxName" : "育人國小(綜合教室)",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "嘉義市西區港坪里2鄰育人路211號",
+    "neighbor" : "2,7-10",
+    "deptCode" : "020",
+    "liName" : "港坪里"
+  }, {
+    "ScopeLiName" : "港坪里",
+    "tboxNo" : "0116",
+    "tboxName" : "太清宮",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "嘉義市西區港坪里11鄰大同路635巷17號",
+    "neighbor" : "1,3,4,11",
+    "deptCode" : "020",
+    "liName" : "港坪里"
+  }, {
+    "ScopeLiName" : "港坪里",
+    "tboxNo" : "0117",
+    "tboxName" : "港坪國小(專二教室)",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "嘉義市西區港坪里15鄰四維路63號",
+    "neighbor" : "5,6,12-15",
+    "deptCode" : "020",
+    "liName" : "港坪里"
+  }, {
+    "ScopeLiName" : "頭港里",
+    "tboxNo" : "0118",
+    "tboxName" : "真武宮",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "嘉義市西區頭港里3鄰玉山路1013號",
+    "neighbor" : "1-3,7",
+    "deptCode" : "020",
+    "liName" : "頭港里"
+  }, {
+    "ScopeLiName" : "頭港里",
+    "tboxNo" : "0119",
+    "tboxName" : "何庄社區活動中心",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "嘉義市西區頭港里4鄰育人路613號",
+    "neighbor" : "4-6",
+    "deptCode" : "020",
+    "liName" : "頭港里"
+  }, {
+    "ScopeLiName" : "西平里",
+    "tboxNo" : "0120",
+    "tboxName" : "龍安宮",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "嘉義市西區西平里5鄰信義路58號",
+    "neighbor" : "1-9,12",
+    "deptCode" : "020",
+    "liName" : "西平里"
+  }, {
+    "ScopeLiName" : "西平里",
+    "tboxNo" : "0121",
+    "tboxName" : "玉山郵局對面廣場",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "嘉義市西區西平里13鄰友忠路295號附1後面",
+    "neighbor" : "10,11,13-15",
+    "deptCode" : "020",
+    "liName" : "西平里"
+  }, {
+    "ScopeLiName" : "西平里",
+    "tboxNo" : "0122",
+    "tboxName" : "再耕園二樓(202教室)",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "嘉義市西區西平里16鄰玉康路160號",
+    "neighbor" : "16-20",
+    "deptCode" : "020",
+    "liName" : "西平里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0123",
+    "tboxName" : "劉厝代天府",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "嘉義市西區劉厝里17鄰劉厝路133號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0124",
+    "tboxName" : "劉厝社區活動中心",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "嘉義市西區劉厝里17鄰劉厝路131號",
+    "neighbor" : "7-13",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0125",
+    "tboxName" : "228國家紀念公園竹廳內簡報室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "嘉義市西區劉厝里18鄰大信街202號附1對面",
+    "neighbor" : "14-20",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0126",
+    "tboxName" : "瑞泰老人長期照護中心A棟",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "嘉義市西區劉厝里30鄰玉山路669號",
+    "neighbor" : "21-26",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0127",
+    "tboxName" : "瑞泰老人長期照護中心B棟",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "嘉義市西區劉厝里30鄰玉山路669號",
+    "neighbor" : "27-33",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0128",
+    "tboxName" : "鎮天宮三王府",
+    "liCode" : "055",
+    "voter" : "01",
+    "addr" : "嘉義市西區自強里12鄰新民路728巷7號",
+    "neighbor" : "自強里",
+    "deptCode" : "020",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "美源里",
+    "tboxNo" : "0129",
+    "tboxName" : "白沙王廟",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "嘉義市西區美源里1鄰美源街72號",
+    "neighbor" : "1-4,6-8",
+    "deptCode" : "020",
+    "liName" : "美源里"
+  }, {
+    "ScopeLiName" : "美源里",
+    "tboxNo" : "0130",
+    "tboxName" : "民生國中(三年1班教室)",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "嘉義市西區福民里6鄰新民路601號",
+    "neighbor" : "5,14-19",
+    "deptCode" : "020",
+    "liName" : "美源里"
+  }, {
+    "ScopeLiName" : "美源里",
+    "tboxNo" : "0131",
+    "tboxName" : "志航國小(一年1班教室)",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "嘉義市西區美源里10鄰世賢路四段141號",
+    "neighbor" : "9-13",
+    "deptCode" : "020",
+    "liName" : "美源里"
+  }, {
+    "ScopeLiName" : "湖內里",
+    "tboxNo" : "0132",
+    "tboxName" : "湖內里玄天上帝廟",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖內里12鄰民生南路840號",
+    "neighbor" : "1,2,4-8,20-28",
+    "deptCode" : "020",
+    "liName" : "湖內里"
+  }, {
+    "ScopeLiName" : "湖內里",
+    "tboxNo" : "0133",
+    "tboxName" : "照一汽修廠",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖內里14鄰民生南路850巷5弄2號",
+    "neighbor" : "9-12,14,29-38",
+    "deptCode" : "020",
+    "liName" : "湖內里"
+  }, {
+    "ScopeLiName" : "湖內里",
+    "tboxNo" : "0134",
+    "tboxName" : "湖內里集會所",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖內里15鄰民生南路916巷23號",
+    "neighbor" : "3,13,15-19",
+    "deptCode" : "020",
+    "liName" : "湖內里"
+  }, {
+    "ScopeLiName" : "獅子里",
+    "tboxNo" : "0135",
+    "tboxName" : "成昌汽車保養廠",
+    "liCode" : "066",
+    "voter" : "01",
+    "addr" : "嘉義市西區獅子里5鄰南京路152號",
+    "neighbor" : "2-7",
+    "deptCode" : "020",
+    "liName" : "獅子里"
+  }, {
+    "ScopeLiName" : "獅子里",
+    "tboxNo" : "0136",
+    "tboxName" : "羅安公廟",
+    "liCode" : "066",
+    "voter" : "01",
+    "addr" : "嘉義市西區獅子里8鄰民生南路628號",
+    "neighbor" : "1,8-14",
+    "deptCode" : "020",
+    "liName" : "獅子里"
+  }, {
+    "ScopeLiName" : "紅瓦里",
+    "tboxNo" : "0137",
+    "tboxName" : "長弘汽車檢驗廠",
+    "liCode" : "067",
+    "voter" : "01",
+    "addr" : "嘉義市西區紅瓦里1鄰新民路195號",
+    "neighbor" : "紅瓦里",
+    "deptCode" : "020",
+    "liName" : "紅瓦里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0138",
+    "tboxName" : "武當山玄天上帝廟",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市西區光路里9鄰新民路555巷8號",
+    "neighbor" : "1-3,5,6,11",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0139",
+    "tboxName" : "光路社區活動中心",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市西區光路里9鄰新民路555巷6號",
+    "neighbor" : "7-10,12,13",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0140",
+    "tboxName" : "嘉義市立幸福幼兒園(西側廣場)",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市西區光路里16鄰民生南路363號",
+    "neighbor" : "4,15,20-23",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0141",
+    "tboxName" : "嘉義市立幸福幼兒園(備用教室)",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "嘉義市西區光路里16鄰民生南路363號",
+    "neighbor" : "14,16-19",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0142",
+    "tboxName" : "興嘉國小(二年1班教室)",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "嘉義市西區福民里6鄰重慶路51號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0143",
+    "tboxName" : "興嘉國小(二年3班教室)",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "嘉義市西區福民里6鄰重慶路51號",
+    "neighbor" : "7-13",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0144",
+    "tboxName" : "興嘉國小(二年5班教室)",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "嘉義市西區福民里6鄰重慶路51號",
+    "neighbor" : "14-19",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0145",
+    "tboxName" : "興嘉國小(一年1班教室)",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "嘉義市西區福民里6鄰重慶路51號",
+    "neighbor" : "20-24",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0146",
+    "tboxName" : "車店福民開山尊王廟辦公處",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市西區車店里5鄰車店街2號",
+    "neighbor" : "2-6",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0147",
+    "tboxName" : "垂楊國小(健康中心)",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市西區垂楊里6鄰垂楊路605號",
+    "neighbor" : "1,9-13,21",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0148",
+    "tboxName" : "萬善公廟",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市西區車店里16鄰上海路1號",
+    "neighbor" : "15-18",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0149",
+    "tboxName" : "嘉義市黃氏宗親會",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "嘉義市西區車店里17鄰蘭州四街62號",
+    "neighbor" : "7,8,14,19,20",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "垂楊里",
+    "tboxNo" : "0150",
+    "tboxName" : "垂楊國小(活動中心)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "嘉義市西區垂楊里6鄰垂楊路605號",
+    "neighbor" : "1-5",
+    "deptCode" : "020",
+    "liName" : "垂楊里"
+  }, {
+    "ScopeLiName" : "垂楊里",
+    "tboxNo" : "0151",
+    "tboxName" : "垂楊國小(迎曦樓穿堂)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "嘉義市西區垂楊里6鄰垂楊路605號",
+    "neighbor" : "6-10",
+    "deptCode" : "020",
+    "liName" : "垂楊里"
+  }, {
+    "ScopeLiName" : "培元里",
+    "tboxNo" : "0152",
+    "tboxName" : "大同國小(資源班教室)",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "嘉義市西區導明里11鄰成功街15號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "培元里"
+  }, {
+    "ScopeLiName" : "培元里",
+    "tboxNo" : "0153",
+    "tboxName" : "經國新城(C棟中庭)",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "嘉義市西區培元里10鄰仁愛路240巷6-20號",
+    "neighbor" : "7-13",
+    "deptCode" : "020",
+    "liName" : "培元里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0154",
+    "tboxName" : "嘉義女子高級中學(進德堂)",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "嘉義市西區育英里4鄰垂楊路243號",
+    "neighbor" : "1,2,4,8-12,17-20",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0155",
+    "tboxName" : "龍山宮",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "嘉義市西區育英里3鄰國華街16巷22號",
+    "neighbor" : "3,5-7,13-16,21,22",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "致遠里",
+    "tboxNo" : "0156",
+    "tboxName" : "經國新城(H棟1樓康樂室)",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "嘉義市西區致遠里20鄰新榮路35巷14號",
+    "neighbor" : "1,2,10,11,15-20",
+    "deptCode" : "020",
+    "liName" : "致遠里"
+  }, {
+    "ScopeLiName" : "致遠里",
+    "tboxNo" : "0157",
+    "tboxName" : "經國新城(L棟中庭)",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "嘉義市西區致遠里12鄰新榮路35巷1號",
+    "neighbor" : "3-9,12-14",
+    "deptCode" : "020",
+    "liName" : "致遠里"
+  }, {
+    "ScopeLiName" : "翠岱里",
+    "tboxNo" : "0158",
+    "tboxName" : "經國新城(K棟1樓遊戲場)",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "嘉義市西區翠岱里1鄰新榮路35巷17號",
+    "neighbor" : "翠岱里",
+    "deptCode" : "020",
+    "liName" : "翠岱里"
+  }, {
+    "ScopeLiName" : "導明里",
+    "tboxNo" : "0159",
+    "tboxName" : "寶興宮",
+    "liCode" : "062",
+    "voter" : "01",
+    "addr" : "嘉義市西區導明里2鄰民生南路55巷49號附1",
+    "neighbor" : "1,2,5,6,8,10,11",
+    "deptCode" : "020",
+    "liName" : "導明里"
+  }, {
+    "ScopeLiName" : "導明里",
+    "tboxNo" : "0160",
+    "tboxName" : "嘉義西門教會",
+    "liCode" : "062",
+    "voter" : "01",
+    "addr" : "嘉義市西區導明里7鄰垂楊路309號",
+    "neighbor" : "3,4,7,9,12-15",
+    "deptCode" : "020",
+    "liName" : "導明里"
+  }, {
+    "ScopeLiName" : "北榮里",
+    "tboxNo" : "0161",
+    "tboxName" : "王靈宮(五顯帝廟)",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "嘉義市西區北榮里9鄰向榮街255號",
+    "neighbor" : "8-13,15-17",
+    "deptCode" : "020",
+    "liName" : "北榮里"
+  }, {
+    "ScopeLiName" : "北榮里",
+    "tboxNo" : "0162",
+    "tboxName" : "嘉義太師府1樓",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "嘉義市西區北榮里4鄰文化路378巷5號",
+    "neighbor" : "1-7,14",
+    "deptCode" : "020",
+    "liName" : "北榮里"
+  }, {
+    "ScopeLiName" : "慶安里",
+    "tboxNo" : "0163",
+    "tboxName" : "博愛路天主堂",
+    "liCode" : "063",
+    "voter" : "01",
+    "addr" : "嘉義市西區慶安里10鄰博愛路一段315號",
+    "neighbor" : "6-12",
+    "deptCode" : "020",
+    "liName" : "慶安里"
+  }, {
+    "ScopeLiName" : "慶安里",
+    "tboxNo" : "0164",
+    "tboxName" : "嘉義市老人福利協進會",
+    "liCode" : "063",
+    "voter" : "01",
+    "addr" : "嘉義市西區慶安里1鄰北興街29號旁",
+    "neighbor" : "1-5,13-17",
+    "deptCode" : "020",
+    "liName" : "慶安里"
+  }, {
+    "ScopeLiName" : "香湖里",
+    "tboxNo" : "0165",
+    "tboxName" : "博愛國小(一年8班教室)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "香湖里",
+    "deptCode" : "020",
+    "liName" : "香湖里"
+  }, {
+    "ScopeLiName" : "重興里",
+    "tboxNo" : "0166",
+    "tboxName" : "鎮南宮",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "嘉義市西區重興里1鄰博愛路一段492巷18號",
+    "neighbor" : "1-5,9,10,14,15",
+    "deptCode" : "020",
+    "liName" : "重興里"
+  }, {
+    "ScopeLiName" : "重興里",
+    "tboxNo" : "0167",
+    "tboxName" : "堯天府",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "嘉義市西區重興里6鄰坤明街66號",
+    "neighbor" : "6-8,11-13",
+    "deptCode" : "020",
+    "liName" : "重興里"
+  }, {
+    "ScopeLiName" : "後驛里",
+    "tboxNo" : "0168",
+    "tboxName" : "聖安宮",
+    "liCode" : "064",
+    "voter" : "01",
+    "addr" : "嘉義市西區後驛里9鄰後驛街140巷5號",
+    "neighbor" : "7-10,13-16",
+    "deptCode" : "020",
+    "liName" : "後驛里"
+  }, {
+    "ScopeLiName" : "後驛里",
+    "tboxNo" : "0169",
+    "tboxName" : "玄武真宮",
+    "liCode" : "064",
+    "voter" : "01",
+    "addr" : "嘉義市西區後驛里6鄰竹文街69號",
+    "neighbor" : "1-6,11,12",
+    "deptCode" : "020",
+    "liName" : "後驛里"
+  }, {
+    "ScopeLiName" : "湖邊里",
+    "tboxNo" : "0170",
+    "tboxName" : "博愛國小(一年5班教室)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "1,2,4,6-10",
+    "deptCode" : "020",
+    "liName" : "湖邊里"
+  }, {
+    "ScopeLiName" : "湖邊里",
+    "tboxNo" : "0171",
+    "tboxName" : "博愛國小(一年3班教室)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "3,5,11-16",
+    "deptCode" : "020",
+    "liName" : "湖邊里"
+  }, {
+    "ScopeLiName" : "竹圍里",
+    "tboxNo" : "0172",
+    "tboxName" : "鵬思宮",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "嘉義市西區竹圍里29鄰友忠路723巷20號",
+    "neighbor" : "1,2,4,6,8-10,29-31",
+    "deptCode" : "020",
+    "liName" : "竹圍里"
+  }, {
+    "ScopeLiName" : "竹圍里",
+    "tboxNo" : "0173",
+    "tboxName" : "僑平國小家長會辦公室",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "嘉義市西區竹圍里23鄰德安路10號",
+    "neighbor" : "5,7,11,12,14-19",
+    "deptCode" : "020",
+    "liName" : "竹圍里"
+  }, {
+    "ScopeLiName" : "竹圍里",
+    "tboxNo" : "0174",
+    "tboxName" : "僑平國小會議室",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "嘉義市西區竹圍里23鄰德安路10號",
+    "neighbor" : "3,13,20-28",
+    "deptCode" : "020",
+    "liName" : "竹圍里"
+  }, {
+    "ScopeLiName" : "保生里",
+    "tboxNo" : "0175",
+    "tboxName" : "北鎮聯合里辦公處",
+    "liCode" : "069",
+    "voter" : "01",
+    "addr" : "嘉義市西區保生里12鄰通化四街25號",
+    "neighbor" : "7-9,12",
+    "deptCode" : "020",
+    "liName" : "保生里"
+  }, {
+    "ScopeLiName" : "保生里",
+    "tboxNo" : "0176",
+    "tboxName" : "陽光幼兒園(小花鹿班教室)",
+    "liCode" : "069",
+    "voter" : "01",
+    "addr" : "嘉義市西區保生里5鄰自由路211號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "保生里"
+  }, {
+    "ScopeLiName" : "保生里",
+    "tboxNo" : "0177",
+    "tboxName" : "嘉義市居家服務中心",
+    "liCode" : "069",
+    "voter" : "01",
+    "addr" : "嘉義市西區保生里12鄰自由路426號",
+    "neighbor" : "10,11,13-15",
+    "deptCode" : "020",
+    "liName" : "保生里"
+  }, {
+    "ScopeLiName" : "保安里",
+    "tboxNo" : "0178",
+    "tboxName" : "保安宮",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "嘉義市西區保安里3鄰自由路245號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "保安里"
+  }, {
+    "ScopeLiName" : "保安里",
+    "tboxNo" : "0179",
+    "tboxName" : "保安宮倉庫",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "嘉義市西區保安里3鄰保安一路351巷53號",
+    "neighbor" : "7-12",
+    "deptCode" : "020",
+    "liName" : "保安里"
+  }, {
+    "ScopeLiName" : "北新里",
+    "tboxNo" : "0180",
+    "tboxName" : "北興幼兒園(綜合教室)",
+    "liCode" : "070",
+    "voter" : "01",
+    "addr" : "嘉義市西區北新里5鄰海口寮路119號",
+    "neighbor" : "北新里",
+    "deptCode" : "020",
+    "liName" : "北新里"
+  }, {
+    "ScopeLiName" : "新厝里",
+    "tboxNo" : "0181",
+    "tboxName" : "新厝社區活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "嘉義市西區新厝里10鄰龍江街87號",
+    "neighbor" : "1-4,6,9,10",
+    "deptCode" : "020",
+    "liName" : "新厝里"
+  }, {
+    "ScopeLiName" : "新厝里",
+    "tboxNo" : "0182",
+    "tboxName" : "元一宮(會客室)",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "嘉義市西區新厝里1鄰友忠路961號",
+    "neighbor" : "5,7,8,11-13",
+    "deptCode" : "020",
+    "liName" : "新厝里"
+  }, {
+    "ScopeLiName" : "新厝里",
+    "tboxNo" : "0183",
+    "tboxName" : "炳靈宮",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "嘉義市西區新厝里1鄰龍江街108號",
+    "neighbor" : "14-18",
+    "deptCode" : "020",
+    "liName" : "新厝里"
+  }, {
+    "ScopeLiName" : "保福里",
+    "tboxNo" : "0184",
+    "tboxName" : "世賢國小(一樓會議室)",
+    "liCode" : "068",
+    "voter" : "01",
+    "addr" : "嘉義市西區保福里13鄰世賢路一段687號",
+    "neighbor" : "1-4",
+    "deptCode" : "020",
+    "liName" : "保福里"
+  }, {
+    "ScopeLiName" : "保福里",
+    "tboxNo" : "0185",
+    "tboxName" : "世賢國小(二年1班教室)",
+    "liCode" : "068",
+    "voter" : "01",
+    "addr" : "嘉義市西區保福里13鄰世賢路一段687號",
+    "neighbor" : "5-8",
+    "deptCode" : "020",
+    "liName" : "保福里"
+  }, {
+    "ScopeLiName" : "保福里",
+    "tboxNo" : "0186",
+    "tboxName" : "世賢國小(一樓科任教室)",
+    "liCode" : "068",
+    "voter" : "01",
+    "addr" : "嘉義市西區保福里13鄰世賢路一段687號",
+    "neighbor" : "9-13",
+    "deptCode" : "020",
+    "liName" : "保福里"
+  }, {
+    "ScopeLiName" : "竹村里",
+    "tboxNo" : "0187",
+    "tboxName" : "保德宮活動中心",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "嘉義市西區竹村里3鄰竹子脚45-1號",
+    "neighbor" : "竹村里",
+    "deptCode" : "020",
+    "liName" : "竹村里"
+  }, {
+    "ScopeLiName" : "北湖里",
+    "tboxNo" : "0188",
+    "tboxName" : "北園國小(開放空間)",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "嘉義市西區北湖里5鄰北社尾路168號",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "北湖里"
+  }, {
+    "ScopeLiName" : "北湖里",
+    "tboxNo" : "0189",
+    "tboxName" : "北園國小(多功能教室)",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "嘉義市西區北湖里5鄰北社尾路168號",
+    "neighbor" : "11-17",
+    "deptCode" : "020",
+    "liName" : "北湖里"
+  }, {
+    "ScopeLiName" : "下埤里",
+    "tboxNo" : "0190",
+    "tboxName" : "下埤社區活動中心",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "嘉義市西區下埤里3鄰下埤路126號",
+    "neighbor" : "下埤里",
+    "deptCode" : "020",
+    "liName" : "下埤里"
+  }, {
+    "ScopeLiName" : "香湖里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "香湖里",
+    "deptCode" : "020",
+    "liName" : "香湖里"
+  }, {
+    "ScopeLiName" : "香湖里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "香湖里",
+    "deptCode" : "020",
+    "liName" : "香湖里"
+  }, {
+    "ScopeLiName" : "湖邊里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "湖邊里",
+    "deptCode" : "020",
+    "liName" : "湖邊里"
+  }, {
+    "ScopeLiName" : "湖邊里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "湖邊里",
+    "deptCode" : "020",
+    "liName" : "湖邊里"
+  }, {
+    "ScopeLiName" : "北榮里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北榮里",
+    "deptCode" : "020",
+    "liName" : "北榮里"
+  }, {
+    "ScopeLiName" : "北榮里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北榮里",
+    "deptCode" : "020",
+    "liName" : "北榮里"
+  }, {
+    "ScopeLiName" : "重興里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "重興里",
+    "deptCode" : "020",
+    "liName" : "重興里"
+  }, {
+    "ScopeLiName" : "重興里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "重興里",
+    "deptCode" : "020",
+    "liName" : "重興里"
+  }, {
+    "ScopeLiName" : "竹圍里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "竹圍里",
+    "deptCode" : "020",
+    "liName" : "竹圍里"
+  }, {
+    "ScopeLiName" : "竹圍里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "竹圍里",
+    "deptCode" : "020",
+    "liName" : "竹圍里"
+  }, {
+    "ScopeLiName" : "新厝里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新厝里",
+    "deptCode" : "020",
+    "liName" : "新厝里"
+  }, {
+    "ScopeLiName" : "新厝里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新厝里",
+    "deptCode" : "020",
+    "liName" : "新厝里"
+  }, {
+    "ScopeLiName" : "保安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保安里",
+    "deptCode" : "020",
+    "liName" : "保安里"
+  }, {
+    "ScopeLiName" : "保安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保安里",
+    "deptCode" : "020",
+    "liName" : "保安里"
+  }, {
+    "ScopeLiName" : "北湖里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北湖里",
+    "deptCode" : "020",
+    "liName" : "北湖里"
+  }, {
+    "ScopeLiName" : "北湖里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北湖里",
+    "deptCode" : "020",
+    "liName" : "北湖里"
+  }, {
+    "ScopeLiName" : "下埤里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "下埤里",
+    "deptCode" : "020",
+    "liName" : "下埤里"
+  }, {
+    "ScopeLiName" : "下埤里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "下埤里",
+    "deptCode" : "020",
+    "liName" : "下埤里"
+  }, {
+    "ScopeLiName" : "竹村里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "竹村里",
+    "deptCode" : "020",
+    "liName" : "竹村里"
+  }, {
+    "ScopeLiName" : "竹村里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "竹村里",
+    "deptCode" : "020",
+    "liName" : "竹村里"
+  }, {
+    "ScopeLiName" : "大溪里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "大溪里",
+    "deptCode" : "020",
+    "liName" : "大溪里"
+  }, {
+    "ScopeLiName" : "大溪里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "大溪里",
+    "deptCode" : "020",
+    "liName" : "大溪里"
+  }, {
+    "ScopeLiName" : "福全里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福全里",
+    "deptCode" : "020",
+    "liName" : "福全里"
+  }, {
+    "ScopeLiName" : "福全里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福全里",
+    "deptCode" : "020",
+    "liName" : "福全里"
+  }, {
+    "ScopeLiName" : "西平里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "西平里",
+    "deptCode" : "020",
+    "liName" : "西平里"
+  }, {
+    "ScopeLiName" : "西平里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "西平里",
+    "deptCode" : "020",
+    "liName" : "西平里"
+  }, {
+    "ScopeLiName" : "磚磘里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "磚磘里",
+    "deptCode" : "020",
+    "liName" : "磚磘里"
+  }, {
+    "ScopeLiName" : "磚磘里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "磚磘里",
+    "deptCode" : "020",
+    "liName" : "磚磘里"
+  }, {
+    "ScopeLiName" : "港坪里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "港坪里",
+    "deptCode" : "020",
+    "liName" : "港坪里"
+  }, {
+    "ScopeLiName" : "港坪里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "港坪里",
+    "deptCode" : "020",
+    "liName" : "港坪里"
+  }, {
+    "ScopeLiName" : "頭港里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "頭港里",
+    "deptCode" : "020",
+    "liName" : "頭港里"
+  }, {
+    "ScopeLiName" : "頭港里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "頭港里",
+    "deptCode" : "020",
+    "liName" : "頭港里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "劉厝里",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "劉厝里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "劉厝里",
+    "deptCode" : "020",
+    "liName" : "劉厝里"
+  }, {
+    "ScopeLiName" : "新西里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新西里",
+    "deptCode" : "020",
+    "liName" : "新西里"
+  }, {
+    "ScopeLiName" : "新西里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新西里",
+    "deptCode" : "020",
+    "liName" : "新西里"
+  }, {
+    "ScopeLiName" : "書院里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "書院里",
+    "deptCode" : "020",
+    "liName" : "書院里"
+  }, {
+    "ScopeLiName" : "書院里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "書院里",
+    "deptCode" : "020",
+    "liName" : "書院里"
+  }, {
+    "ScopeLiName" : "培元里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "培元里",
+    "deptCode" : "020",
+    "liName" : "培元里"
+  }, {
+    "ScopeLiName" : "培元里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "培元里",
+    "deptCode" : "020",
+    "liName" : "培元里"
+  }, {
+    "ScopeLiName" : "垂楊里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "垂楊里",
+    "deptCode" : "020",
+    "liName" : "垂楊里"
+  }, {
+    "ScopeLiName" : "垂楊里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "垂楊里",
+    "deptCode" : "020",
+    "liName" : "垂楊里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "047",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "車店里",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "車店里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "047",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "車店里",
+    "deptCode" : "020",
+    "liName" : "車店里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "048",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福民里",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "福民里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "048",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福民里",
+    "deptCode" : "020",
+    "liName" : "福民里"
+  }, {
+    "ScopeLiName" : "湖內里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "049",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "湖內里",
+    "deptCode" : "020",
+    "liName" : "湖內里"
+  }, {
+    "ScopeLiName" : "湖內里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "049",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "湖內里",
+    "deptCode" : "020",
+    "liName" : "湖內里"
+  }, {
+    "ScopeLiName" : "美源里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "050",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "美源里",
+    "deptCode" : "020",
+    "liName" : "美源里"
+  }, {
+    "ScopeLiName" : "美源里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "050",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "美源里",
+    "deptCode" : "020",
+    "liName" : "美源里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "051",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "育英里",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "051",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "育英里",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "致遠里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "052",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "致遠里",
+    "deptCode" : "020",
+    "liName" : "致遠里"
+  }, {
+    "ScopeLiName" : "致遠里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "052",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "致遠里",
+    "deptCode" : "020",
+    "liName" : "致遠里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "053",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "光路里",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "光路里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "053",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "光路里",
+    "deptCode" : "020",
+    "liName" : "光路里"
+  }, {
+    "ScopeLiName" : "翠岱里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "054",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "翠岱里",
+    "deptCode" : "020",
+    "liName" : "翠岱里"
+  }, {
+    "ScopeLiName" : "翠岱里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "054",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "翠岱里",
+    "deptCode" : "020",
+    "liName" : "翠岱里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "055",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "自強里",
+    "deptCode" : "020",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "055",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "自強里",
+    "deptCode" : "020",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "永和里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "056",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "永和里",
+    "deptCode" : "020",
+    "liName" : "永和里"
+  }, {
+    "ScopeLiName" : "永和里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "056",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "永和里",
+    "deptCode" : "020",
+    "liName" : "永和里"
+  }, {
+    "ScopeLiName" : "新富里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "057",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新富里",
+    "deptCode" : "020",
+    "liName" : "新富里"
+  }, {
+    "ScopeLiName" : "新富里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "057",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "新富里",
+    "deptCode" : "020",
+    "liName" : "新富里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "058",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "文化里",
+    "deptCode" : "020",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "058",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "文化里",
+    "deptCode" : "020",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "西榮里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "059",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "西榮里",
+    "deptCode" : "020",
+    "liName" : "西榮里"
+  }, {
+    "ScopeLiName" : "西榮里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "059",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "西榮里",
+    "deptCode" : "020",
+    "liName" : "西榮里"
+  }, {
+    "ScopeLiName" : "國華里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "060",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "國華里",
+    "deptCode" : "020",
+    "liName" : "國華里"
+  }, {
+    "ScopeLiName" : "國華里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "060",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "國華里",
+    "deptCode" : "020",
+    "liName" : "國華里"
+  }, {
+    "ScopeLiName" : "番社里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "061",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "番社里",
+    "deptCode" : "020",
+    "liName" : "番社里"
+  }, {
+    "ScopeLiName" : "番社里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "061",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "番社里",
+    "deptCode" : "020",
+    "liName" : "番社里"
+  }, {
+    "ScopeLiName" : "導明里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "062",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "導明里",
+    "deptCode" : "020",
+    "liName" : "導明里"
+  }, {
+    "ScopeLiName" : "導明里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "062",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "導明里",
+    "deptCode" : "020",
+    "liName" : "導明里"
+  }, {
+    "ScopeLiName" : "慶安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "063",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "慶安里",
+    "deptCode" : "020",
+    "liName" : "慶安里"
+  }, {
+    "ScopeLiName" : "慶安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "063",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "慶安里",
+    "deptCode" : "020",
+    "liName" : "慶安里"
+  }, {
+    "ScopeLiName" : "後驛里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "064",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "後驛里",
+    "deptCode" : "020",
+    "liName" : "後驛里"
+  }, {
+    "ScopeLiName" : "後驛里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "064",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "後驛里",
+    "deptCode" : "020",
+    "liName" : "後驛里"
+  }, {
+    "ScopeLiName" : "福安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "065",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福安里",
+    "deptCode" : "020",
+    "liName" : "福安里"
+  }, {
+    "ScopeLiName" : "福安里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "065",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "福安里",
+    "deptCode" : "020",
+    "liName" : "福安里"
+  }, {
+    "ScopeLiName" : "獅子里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "066",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "獅子里",
+    "deptCode" : "020",
+    "liName" : "獅子里"
+  }, {
+    "ScopeLiName" : "獅子里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "066",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "獅子里",
+    "deptCode" : "020",
+    "liName" : "獅子里"
+  }, {
+    "ScopeLiName" : "紅瓦里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "067",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "紅瓦里",
+    "deptCode" : "020",
+    "liName" : "紅瓦里"
+  }, {
+    "ScopeLiName" : "紅瓦里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "067",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "紅瓦里",
+    "deptCode" : "020",
+    "liName" : "紅瓦里"
+  }, {
+    "ScopeLiName" : "保福里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "068",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保福里",
+    "deptCode" : "020",
+    "liName" : "保福里"
+  }, {
+    "ScopeLiName" : "保福里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "068",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保福里",
+    "deptCode" : "020",
+    "liName" : "保福里"
+  }, {
+    "ScopeLiName" : "保生里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "069",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保生里",
+    "deptCode" : "020",
+    "liName" : "保生里"
+  }, {
+    "ScopeLiName" : "保生里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "069",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "保生里",
+    "deptCode" : "020",
+    "liName" : "保生里"
+  }, {
+    "ScopeLiName" : "北新里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "070",
+    "voter" : "02",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北新里",
+    "deptCode" : "020",
+    "liName" : "北新里"
+  }, {
+    "ScopeLiName" : "北新里",
+    "tboxNo" : "0191",
+    "tboxName" : "博愛國小(一年1班教室)",
+    "liCode" : "070",
+    "voter" : "03",
+    "addr" : "嘉義市西區湖邊里6鄰友愛路822號",
+    "neighbor" : "北新里",
+    "deptCode" : "020",
+    "liName" : "北新里"
+  } ]
+}

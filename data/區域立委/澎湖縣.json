@@ -1,0 +1,49 @@
+{
+  "L1" : [ {
+    "areaCode" : 0,
+    "areaName" : "澎湖縣選舉區",
+    "cands" : [ {
+      "area" : "澎湖縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10016/00/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0400222",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "澎湖縣",
+      "name" : "呂應宏",
+      "exp" : "",
+      "party" : "喜樂島聯盟"
+    }, {
+      "area" : "澎湖縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10016/00/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0471010",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "澎湖縣",
+      "name" : "歐中慨",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "澎湖縣選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10016/00/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0551206",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "澎湖縣",
+      "name" : "楊曜",
+      "exp" : "",
+      "party" : "民主進步黨"
+    } ]
+  } ]
+}

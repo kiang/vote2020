@@ -1,0 +1,123 @@
+{
+  "L1" : [ {
+    "areaCode" : 1,
+    "areaName" : "雲林縣第1選舉區",
+    "cands" : [ {
+      "area" : "雲林縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/01/1.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0700110",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "雲林縣",
+      "name" : "張嘉郡",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "雲林縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/01/2.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0420710",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "雲林縣",
+      "name" : "蘇治芬",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "雲林縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/01/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0600810",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "雲林縣",
+      "name" : "林富源",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "雲林縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/01/4.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0740829",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "臺北市",
+      "name" : "李昭儀",
+      "exp" : "",
+      "party" : "台灣革命黨"
+    } ]
+  }, {
+    "areaCode" : 2,
+    "areaName" : "雲林縣第2選舉區",
+    "cands" : [ {
+      "area" : "雲林縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/02/1.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0800604",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "雲林縣",
+      "name" : "彭新銘",
+      "exp" : "",
+      "party" : "無"
+    }, {
+      "area" : "雲林縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/02/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0580309",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "雲林縣",
+      "name" : "劉建國",
+      "exp" : "",
+      "party" : "民主進步黨"
+    }, {
+      "area" : "雲林縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/02/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0600131",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "臺中市",
+      "name" : "張永津",
+      "exp" : "",
+      "party" : "喜樂島聯盟"
+    }, {
+      "area" : "雲林縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10009/02/4.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0490628",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "嘉義縣",
+      "name" : "謝淑亞",
+      "exp" : "",
+      "party" : "中國國民黨"
+    } ]
+  } ]
+}

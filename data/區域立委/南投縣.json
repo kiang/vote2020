@@ -1,0 +1,109 @@
+{
+  "L1" : [ {
+    "areaCode" : 1,
+    "areaName" : "南投縣第1選舉區",
+    "cands" : [ {
+      "area" : "南投縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/01/1.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0541201",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "南投縣",
+      "name" : "馬文君",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "南投縣第1選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/01/2.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0600902",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "南投縣",
+      "name" : "蔡培慧",
+      "exp" : "",
+      "party" : "民主進步黨"
+    } ]
+  }, {
+    "areaCode" : 2,
+    "areaName" : "南投縣第2選舉區",
+    "cands" : [ {
+      "area" : "南投縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/02/1.jpg",
+      "educ" : "",
+      "gender" : "女",
+      "politicsUrl" : "",
+      "birth" : "0641015",
+      "type" : "區域立法委員",
+      "candNo" : 1,
+      "home" : "南投縣",
+      "name" : "許淑華",
+      "exp" : "",
+      "party" : "中國國民黨"
+    }, {
+      "area" : "南投縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/02/2.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0400626",
+      "type" : "區域立法委員",
+      "candNo" : 2,
+      "home" : "南投縣",
+      "name" : "謝福全",
+      "exp" : "",
+      "party" : "宗教聯盟"
+    }, {
+      "area" : "南投縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/02/3.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0840609",
+      "type" : "區域立法委員",
+      "candNo" : 3,
+      "home" : "臺中市",
+      "name" : "吳承叡",
+      "exp" : "",
+      "party" : "台灣基進"
+    }, {
+      "area" : "南投縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/02/4.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0640312",
+      "type" : "區域立法委員",
+      "candNo" : 4,
+      "home" : "臺中市",
+      "name" : "傅文佐",
+      "exp" : "",
+      "party" : "合一行動聯盟"
+    }, {
+      "area" : "南投縣第2選舉區",
+      "politics" : "",
+      "img" : "cand/L1/10008/02/5.jpg",
+      "educ" : "",
+      "gender" : "男",
+      "politicsUrl" : "",
+      "birth" : "0570915",
+      "type" : "區域立法委員",
+      "candNo" : 5,
+      "home" : "南投縣",
+      "name" : "陳癸佑",
+      "exp" : "",
+      "party" : "民主進步黨"
+    } ]
+  } ]
+}
