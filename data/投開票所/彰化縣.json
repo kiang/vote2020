@@ -4,9 +4,9 @@
     "tboxNo" : "0001",
     "tboxName" : "大同社區活動中心",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣伸港鄉大同村大同路82號",
-    "neighbor" : "1-9",
+    "neighbor" : "6,1-9",
     "deptCode" : "050",
     "liName" : "大同村"
   }, {
@@ -14,9 +14,29 @@
     "tboxNo" : "0001",
     "tboxName" : "大同社區活動中心",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣伸港鄉大同村大同路82號",
-    "neighbor" : "6,1-9",
+    "neighbor" : "1-9",
+    "deptCode" : "050",
+    "liName" : "大同村"
+  }, {
+    "ScopeLiName" : "大同村",
+    "tboxNo" : "0002",
+    "tboxName" : "大同國小",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "彰化縣伸港鄉大同村彰新路7段724號",
+    "neighbor" : "10-21",
+    "deptCode" : "050",
+    "liName" : "大同村"
+  }, {
+    "ScopeLiName" : "大同村",
+    "tboxNo" : "0002",
+    "tboxName" : "大同國小",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "彰化縣伸港鄉大同村彰新路7段724號",
+    "neighbor" : "10-21",
     "deptCode" : "050",
     "liName" : "大同村"
   }, {
@@ -29,36 +49,6 @@
     "neighbor" : "10-21",
     "deptCode" : "050",
     "liName" : "大同村"
-  }, {
-    "ScopeLiName" : "大同村",
-    "tboxNo" : "0002",
-    "tboxName" : "大同國小",
-    "liCode" : "012",
-    "voter" : "01",
-    "addr" : "彰化縣伸港鄉大同村彰新路7段724號",
-    "neighbor" : "10-21",
-    "deptCode" : "050",
-    "liName" : "大同村"
-  }, {
-    "ScopeLiName" : "大同村",
-    "tboxNo" : "0002",
-    "tboxName" : "大同國小",
-    "liCode" : "012",
-    "voter" : "03",
-    "addr" : "彰化縣伸港鄉大同村彰新路7段724號",
-    "neighbor" : "10-21",
-    "deptCode" : "050",
-    "liName" : "大同村"
-  }, {
-    "ScopeLiName" : "海尾村",
-    "tboxNo" : "0003",
-    "tboxName" : "海尾社區活動中心",
-    "liCode" : "007",
-    "voter" : "01",
-    "addr" : "彰化縣伸港鄉海尾村海尾路3-2號",
-    "neighbor" : "1-7",
-    "deptCode" : "050",
-    "liName" : "海尾村"
   }, {
     "ScopeLiName" : "海尾村",
     "tboxNo" : "0003",
@@ -67,6 +57,16 @@
     "voter" : "02",
     "addr" : "彰化縣伸港鄉海尾村海尾路3-2號",
     "neighbor" : "5",
+    "deptCode" : "050",
+    "liName" : "海尾村"
+  }, {
+    "ScopeLiName" : "海尾村",
+    "tboxNo" : "0003",
+    "tboxName" : "海尾社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "彰化縣伸港鄉海尾村海尾路3-2號",
+    "neighbor" : "1-7",
     "deptCode" : "050",
     "liName" : "海尾村"
   }, {
@@ -84,7 +84,7 @@
     "tboxNo" : "0005",
     "tboxName" : "全興社區活動中心",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣伸港鄉全興村東全路11號",
     "neighbor" : "1-8",
     "deptCode" : "050",
@@ -94,19 +94,9 @@
     "tboxNo" : "0005",
     "tboxName" : "全興社區活動中心",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣伸港鄉全興村東全路11號",
     "neighbor" : "1-8",
-    "deptCode" : "050",
-    "liName" : "全興村"
-  }, {
-    "ScopeLiName" : "全興村",
-    "tboxNo" : "0006",
-    "tboxName" : "興和宮",
-    "liCode" : "008",
-    "voter" : "01",
-    "addr" : "彰化縣伸港鄉全興村東全路13號",
-    "neighbor" : "9-16",
     "deptCode" : "050",
     "liName" : "全興村"
   }, {
@@ -120,11 +110,21 @@
     "deptCode" : "050",
     "liName" : "全興村"
   }, {
+    "ScopeLiName" : "全興村",
+    "tboxNo" : "0006",
+    "tboxName" : "興和宮",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "彰化縣伸港鄉全興村東全路13號",
+    "neighbor" : "9-16",
+    "deptCode" : "050",
+    "liName" : "全興村"
+  }, {
     "ScopeLiName" : "溪底村",
     "tboxNo" : "0007",
     "tboxName" : "溪底社區活動中心",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣伸港鄉溪底村溪底路103-2號",
     "neighbor" : "1-7",
     "deptCode" : "050",
@@ -134,7 +134,7 @@
     "tboxNo" : "0007",
     "tboxName" : "溪底社區活動中心",
     "liCode" : "004",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣伸港鄉溪底村溪底路103-2號",
     "neighbor" : "1-7",
     "deptCode" : "050",
@@ -162,21 +162,41 @@
   }, {
     "ScopeLiName" : "定興村",
     "tboxNo" : "0009",
-    "tboxName" : "興安宮",
+    "tboxName" : "定興社區活動中心",
     "liCode" : "009",
     "voter" : "03",
-    "addr" : "彰化縣伸港鄉定興村定興路63-1號",
+    "addr" : "彰化縣伸港鄉定興村定興路63-2號",
     "neighbor" : "1-12",
     "deptCode" : "050",
     "liName" : "定興村"
   }, {
     "ScopeLiName" : "定興村",
     "tboxNo" : "0009",
-    "tboxName" : "興安宮",
+    "tboxName" : "定興社區活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "彰化縣伸港鄉定興村定興路63-2號",
+    "neighbor" : "1-12",
+    "deptCode" : "050",
+    "liName" : "定興村"
+  }, {
+    "ScopeLiName" : "定興村",
+    "tboxNo" : "0010",
+    "tboxName" : "興安宮（定興路63-1號）",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "彰化縣伸港鄉定興村定興路63-1號",
+    "neighbor" : "13-19",
+    "deptCode" : "050",
+    "liName" : "定興村"
+  }, {
+    "ScopeLiName" : "定興村",
+    "tboxNo" : "0010",
+    "tboxName" : "興安宮（定興路63-1號）",
     "liCode" : "009",
     "voter" : "01",
     "addr" : "彰化縣伸港鄉定興村定興路63-1號",
-    "neighbor" : "1-12",
+    "neighbor" : "13-19",
     "deptCode" : "050",
     "liName" : "定興村"
   }, {
@@ -189,36 +209,6 @@
     "neighbor" : "13-19",
     "deptCode" : "050",
     "liName" : "定興村"
-  }, {
-    "ScopeLiName" : "定興村",
-    "tboxNo" : "0010",
-    "tboxName" : "興安宮（定興路63-1號）",
-    "liCode" : "009",
-    "voter" : "03",
-    "addr" : "彰化縣伸港鄉定興村定興路63-1號",
-    "neighbor" : "13-19",
-    "deptCode" : "050",
-    "liName" : "定興村"
-  }, {
-    "ScopeLiName" : "定興村",
-    "tboxNo" : "0010",
-    "tboxName" : "興安宮（定興路63-1號）",
-    "liCode" : "009",
-    "voter" : "01",
-    "addr" : "彰化縣伸港鄉定興村定興路63-1號",
-    "neighbor" : "13-19",
-    "deptCode" : "050",
-    "liName" : "定興村"
-  }, {
-    "ScopeLiName" : "什股村",
-    "tboxNo" : "0011",
-    "tboxName" : "什股社區活動中心",
-    "liCode" : "011",
-    "voter" : "03",
-    "addr" : "彰化縣伸港鄉什股村什股路100-1號",
-    "neighbor" : "8",
-    "deptCode" : "050",
-    "liName" : "什股村"
   }, {
     "ScopeLiName" : "什股村",
     "tboxNo" : "0011",
@@ -231,12 +221,12 @@
     "liName" : "什股村"
   }, {
     "ScopeLiName" : "什股村",
-    "tboxNo" : "0012",
-    "tboxName" : "玉興宮",
+    "tboxNo" : "0011",
+    "tboxName" : "什股社區活動中心",
     "liCode" : "011",
-    "voter" : "02",
-    "addr" : "彰化縣伸港鄉什股村什股路160巷50-1號",
-    "neighbor" : "10-13",
+    "voter" : "03",
+    "addr" : "彰化縣伸港鄉什股村什股路100-1號",
+    "neighbor" : "8",
     "deptCode" : "050",
     "liName" : "什股村"
   }, {
@@ -257,6 +247,16 @@
     "voter" : "01",
     "addr" : "彰化縣伸港鄉什股村什股路160巷50-1號",
     "neighbor" : "12-25",
+    "deptCode" : "050",
+    "liName" : "什股村"
+  }, {
+    "ScopeLiName" : "什股村",
+    "tboxNo" : "0012",
+    "tboxName" : "玉興宮",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "彰化縣伸港鄉什股村什股路160巷50-1號",
+    "neighbor" : "10-13",
     "deptCode" : "050",
     "liName" : "什股村"
   }, {
@@ -474,16 +474,6 @@
     "tboxNo" : "0024",
     "tboxName" : "伸東國小",
     "liCode" : "013",
-    "voter" : "03",
-    "addr" : "彰化縣伸港鄉七嘉村中華路565號",
-    "neighbor" : "1,3",
-    "deptCode" : "050",
-    "liName" : "七嘉村"
-  }, {
-    "ScopeLiName" : "七嘉村",
-    "tboxNo" : "0024",
-    "tboxName" : "伸東國小",
-    "liCode" : "013",
     "voter" : "01",
     "addr" : "彰化縣伸港鄉七嘉村中華路565號",
     "neighbor" : "1-4",
@@ -491,12 +481,12 @@
     "liName" : "七嘉村"
   }, {
     "ScopeLiName" : "七嘉村",
-    "tboxNo" : "0025",
+    "tboxNo" : "0024",
     "tboxName" : "伸東國小",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣伸港鄉七嘉村中華路565號",
-    "neighbor" : "3,9,10",
+    "neighbor" : "1,3",
     "deptCode" : "050",
     "liName" : "七嘉村"
   }, {
@@ -507,6 +497,16 @@
     "voter" : "01",
     "addr" : "彰化縣伸港鄉七嘉村中華路565號",
     "neighbor" : "5-10",
+    "deptCode" : "050",
+    "liName" : "七嘉村"
+  }, {
+    "ScopeLiName" : "七嘉村",
+    "tboxNo" : "0025",
+    "tboxName" : "伸東國小",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "彰化縣伸港鄉七嘉村中華路565號",
+    "neighbor" : "3,9,10",
     "deptCode" : "050",
     "liName" : "七嘉村"
   }, {
@@ -524,16 +524,6 @@
     "tboxNo" : "0027",
     "tboxName" : "慶安宮（汴頭路187號）",
     "liCode" : "014",
-    "voter" : "01",
-    "addr" : "彰化縣伸港鄉汴頭村汴頭路187號",
-    "neighbor" : "1-8",
-    "deptCode" : "050",
-    "liName" : "汴頭村"
-  }, {
-    "ScopeLiName" : "汴頭村",
-    "tboxNo" : "0027",
-    "tboxName" : "慶安宮（汴頭路187號）",
-    "liCode" : "014",
     "voter" : "02",
     "addr" : "彰化縣伸港鄉汴頭村汴頭路187號",
     "neighbor" : "3,7",
@@ -541,12 +531,12 @@
     "liName" : "汴頭村"
   }, {
     "ScopeLiName" : "汴頭村",
-    "tboxNo" : "0028",
-    "tboxName" : "汴頭社區活動中心（汴頭路187號）",
+    "tboxNo" : "0027",
+    "tboxName" : "慶安宮（汴頭路187號）",
     "liCode" : "014",
     "voter" : "01",
-    "addr" : "彰化縣伸港鄉汴頭村汴頭路187-9號",
-    "neighbor" : "9-16",
+    "addr" : "彰化縣伸港鄉汴頭村汴頭路187號",
+    "neighbor" : "1-8",
     "deptCode" : "050",
     "liName" : "汴頭村"
   }, {
@@ -557,6 +547,16 @@
     "voter" : "02",
     "addr" : "彰化縣伸港鄉汴頭村汴頭路187-9號",
     "neighbor" : "10,12",
+    "deptCode" : "050",
+    "liName" : "汴頭村"
+  }, {
+    "ScopeLiName" : "汴頭村",
+    "tboxNo" : "0028",
+    "tboxName" : "汴頭社區活動中心（汴頭路187號）",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "彰化縣伸港鄉汴頭村汴頭路187-9號",
+    "neighbor" : "9-16",
     "deptCode" : "050",
     "liName" : "汴頭村"
   }, {
@@ -644,7 +644,7 @@
     "tboxNo" : "0033",
     "tboxName" : "寓埔社區活動中心",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣線西鄉寓埔村16鄰寓埔路177-1號",
     "neighbor" : "12-22",
     "deptCode" : "040",
@@ -654,7 +654,7 @@
     "tboxNo" : "0033",
     "tboxName" : "寓埔社區活動中心",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣線西鄉寓埔村16鄰寓埔路177-1號",
     "neighbor" : "12-22",
     "deptCode" : "040",
@@ -684,7 +684,7 @@
     "tboxNo" : "0035",
     "tboxName" : "興安宮",
     "liCode" : "005",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣線西鄉溝內村10鄰溝內路臨113號",
     "neighbor" : "溝內村",
     "deptCode" : "040",
@@ -694,7 +694,7 @@
     "tboxNo" : "0035",
     "tboxName" : "興安宮",
     "liCode" : "005",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣線西鄉溝內村10鄰溝內路臨113號",
     "neighbor" : "溝內村",
     "deptCode" : "040",
@@ -704,59 +704,29 @@
     "tboxNo" : "0036",
     "tboxName" : "慶興宮",
     "liCode" : "006",
-    "voter" : "02",
-    "addr" : "彰化縣線西鄉下犁村9鄰下犁路82之1號",
-    "neighbor" : "1-10",
-    "deptCode" : "040",
-    "liName" : "下犁村"
-  }, {
-    "ScopeLiName" : "下犁村",
-    "tboxNo" : "0036",
-    "tboxName" : "慶興宮",
-    "liCode" : "006",
-    "voter" : "01",
-    "addr" : "彰化縣線西鄉下犁村9鄰下犁路82之1號",
-    "neighbor" : "1-10",
-    "deptCode" : "040",
-    "liName" : "下犁村"
-  }, {
-    "ScopeLiName" : "下犁村",
-    "tboxNo" : "0036",
-    "tboxName" : "慶興宮",
-    "liCode" : "006",
     "voter" : "03",
     "addr" : "彰化縣線西鄉下犁村9鄰下犁路82之1號",
     "neighbor" : "1-10",
     "deptCode" : "040",
     "liName" : "下犁村"
   }, {
-    "ScopeLiName" : "頂犁村",
-    "tboxNo" : "0037",
-    "tboxName" : "下犁社區活動中心",
-    "liCode" : "007",
-    "voter" : "02",
-    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
-    "neighbor" : "19",
-    "deptCode" : "040",
-    "liName" : "頂犁村"
-  }, {
     "ScopeLiName" : "下犁村",
-    "tboxNo" : "0037",
-    "tboxName" : "下犁社區活動中心",
+    "tboxNo" : "0036",
+    "tboxName" : "慶興宮",
     "liCode" : "006",
     "voter" : "01",
-    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
-    "neighbor" : "11-17",
+    "addr" : "彰化縣線西鄉下犁村9鄰下犁路82之1號",
+    "neighbor" : "1-10",
     "deptCode" : "040",
     "liName" : "下犁村"
   }, {
     "ScopeLiName" : "下犁村",
-    "tboxNo" : "0037",
-    "tboxName" : "下犁社區活動中心",
+    "tboxNo" : "0036",
+    "tboxName" : "慶興宮",
     "liCode" : "006",
     "voter" : "02",
-    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
-    "neighbor" : "11-17",
+    "addr" : "彰化縣線西鄉下犁村9鄰下犁路82之1號",
+    "neighbor" : "1-10",
     "deptCode" : "040",
     "liName" : "下犁村"
   }, {
@@ -779,12 +749,42 @@
     "neighbor" : "11-17",
     "deptCode" : "040",
     "liName" : "下犁村"
+  }, {
+    "ScopeLiName" : "下犁村",
+    "tboxNo" : "0037",
+    "tboxName" : "下犁社區活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
+    "neighbor" : "11-17",
+    "deptCode" : "040",
+    "liName" : "下犁村"
+  }, {
+    "ScopeLiName" : "下犁村",
+    "tboxNo" : "0037",
+    "tboxName" : "下犁社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
+    "neighbor" : "11-17",
+    "deptCode" : "040",
+    "liName" : "下犁村"
+  }, {
+    "ScopeLiName" : "頂犁村",
+    "tboxNo" : "0037",
+    "tboxName" : "下犁社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "彰化縣線西鄉下犁村13鄰下犁路139-1號",
+    "neighbor" : "19",
+    "deptCode" : "040",
+    "liName" : "頂犁村"
   }, {
     "ScopeLiName" : "頂犁村",
     "tboxNo" : "0038",
     "tboxName" : "曉陽國小(一)",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣線西鄉頂犁村14鄰頂犁路158-1號",
     "neighbor" : "1-14",
     "deptCode" : "040",
@@ -794,7 +794,7 @@
     "tboxNo" : "0038",
     "tboxName" : "曉陽國小(一)",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣線西鄉頂犁村14鄰頂犁路158-1號",
     "neighbor" : "1-14",
     "deptCode" : "040",
@@ -854,16 +854,6 @@
     "tboxNo" : "0042",
     "tboxName" : "和東國小〈二〉",
     "liCode" : "001",
-    "voter" : "03",
-    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
-    "neighbor" : "12,15,20,9-14",
-    "deptCode" : "030",
-    "liName" : "竹營里"
-  }, {
-    "ScopeLiName" : "竹營里",
-    "tboxNo" : "0042",
-    "tboxName" : "和東國小〈二〉",
-    "liCode" : "001",
     "voter" : "01",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "9-14",
@@ -881,12 +871,12 @@
     "liName" : "竹營里"
   }, {
     "ScopeLiName" : "竹營里",
-    "tboxNo" : "0043",
-    "tboxName" : "和東國小〈三〉",
+    "tboxNo" : "0042",
+    "tboxName" : "和東國小〈二〉",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
-    "neighbor" : "15-20",
+    "neighbor" : "12,15,20,9-14",
     "deptCode" : "030",
     "liName" : "竹營里"
   }, {
@@ -901,10 +891,30 @@
     "liName" : "竹營里"
   }, {
     "ScopeLiName" : "竹營里",
+    "tboxNo" : "0043",
+    "tboxName" : "和東國小〈三〉",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
+    "neighbor" : "15-20",
+    "deptCode" : "030",
+    "liName" : "竹營里"
+  }, {
+    "ScopeLiName" : "竹營里",
     "tboxNo" : "0044",
     "tboxName" : "和東國小〈四〉",
     "liCode" : "001",
     "voter" : "03",
+    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
+    "neighbor" : "21-25",
+    "deptCode" : "030",
+    "liName" : "竹營里"
+  }, {
+    "ScopeLiName" : "竹營里",
+    "tboxNo" : "0044",
+    "tboxName" : "和東國小〈四〉",
+    "liCode" : "001",
+    "voter" : "01",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "21-25",
     "deptCode" : "030",
@@ -921,20 +931,10 @@
     "liName" : "竹營里"
   }, {
     "ScopeLiName" : "竹營里",
-    "tboxNo" : "0044",
-    "tboxName" : "和東國小〈四〉",
-    "liCode" : "001",
-    "voter" : "01",
-    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
-    "neighbor" : "21-25",
-    "deptCode" : "030",
-    "liName" : "竹營里"
-  }, {
-    "ScopeLiName" : "竹營里",
     "tboxNo" : "0045",
     "tboxName" : "和東國小〈五〉",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "26-29",
     "deptCode" : "030",
@@ -944,7 +944,7 @@
     "tboxNo" : "0045",
     "tboxName" : "和東國小〈五〉",
     "liCode" : "001",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "26-29",
     "deptCode" : "030",
@@ -964,16 +964,6 @@
     "tboxNo" : "0047",
     "tboxName" : "和東國小〈七〉",
     "liCode" : "002",
-    "voter" : "03",
-    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
-    "neighbor" : "9",
-    "deptCode" : "030",
-    "liName" : "和東里"
-  }, {
-    "ScopeLiName" : "和東里",
-    "tboxNo" : "0047",
-    "tboxName" : "和東國小〈七〉",
-    "liCode" : "002",
     "voter" : "01",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "4-9",
@@ -981,12 +971,12 @@
     "liName" : "和東里"
   }, {
     "ScopeLiName" : "和東里",
-    "tboxNo" : "0048",
-    "tboxName" : "和東國小〈八〉",
+    "tboxNo" : "0047",
+    "tboxName" : "和東國小〈七〉",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
-    "neighbor" : "11-23",
+    "neighbor" : "9",
     "deptCode" : "030",
     "liName" : "和東里"
   }, {
@@ -997,6 +987,16 @@
     "voter" : "03",
     "addr" : "彰化縣和美鎮和東里彰美路5段210號",
     "neighbor" : "19",
+    "deptCode" : "030",
+    "liName" : "和東里"
+  }, {
+    "ScopeLiName" : "和東里",
+    "tboxNo" : "0048",
+    "tboxName" : "和東國小〈八〉",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "彰化縣和美鎮和東里彰美路5段210號",
+    "neighbor" : "11-23",
     "deptCode" : "030",
     "liName" : "和東里"
   }, {
@@ -1214,16 +1214,6 @@
     "tboxNo" : "0060",
     "tboxName" : "面前里里民活動中心",
     "liCode" : "009",
-    "voter" : "02",
-    "addr" : "彰化縣和美鎮和光路360巷36號",
-    "neighbor" : "1,11",
-    "deptCode" : "030",
-    "liName" : "面前里"
-  }, {
-    "ScopeLiName" : "面前里",
-    "tboxNo" : "0060",
-    "tboxName" : "面前里里民活動中心",
-    "liCode" : "009",
     "voter" : "01",
     "addr" : "彰化縣和美鎮和光路360巷36號",
     "neighbor" : "1-4,11-15",
@@ -1234,9 +1224,29 @@
     "tboxNo" : "0060",
     "tboxName" : "面前里里民活動中心",
     "liCode" : "009",
+    "voter" : "02",
+    "addr" : "彰化縣和美鎮和光路360巷36號",
+    "neighbor" : "1,11",
+    "deptCode" : "030",
+    "liName" : "面前里"
+  }, {
+    "ScopeLiName" : "面前里",
+    "tboxNo" : "0060",
+    "tboxName" : "面前里里民活動中心",
+    "liCode" : "009",
     "voter" : "03",
     "addr" : "彰化縣和美鎮和光路360巷36號",
     "neighbor" : "1,11",
+    "deptCode" : "030",
+    "liName" : "面前里"
+  }, {
+    "ScopeLiName" : "面前里",
+    "tboxNo" : "0061",
+    "tboxName" : "面前社區活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "彰化縣和美鎮雅安路265號",
+    "neighbor" : "6,7,10",
     "deptCode" : "030",
     "liName" : "面前里"
   }, {
@@ -1260,21 +1270,11 @@
     "deptCode" : "030",
     "liName" : "面前里"
   }, {
-    "ScopeLiName" : "面前里",
-    "tboxNo" : "0061",
-    "tboxName" : "面前社區活動中心",
-    "liCode" : "009",
-    "voter" : "03",
-    "addr" : "彰化縣和美鎮雅安路265號",
-    "neighbor" : "6,7,10",
-    "deptCode" : "030",
-    "liName" : "面前里"
-  }, {
     "ScopeLiName" : "鎮平里",
     "tboxNo" : "0062",
     "tboxName" : "鎮平里活動中心",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣和美鎮鎮平里南平路11號",
     "neighbor" : "1,6,7,9",
     "deptCode" : "030",
@@ -1294,7 +1294,7 @@
     "tboxNo" : "0062",
     "tboxName" : "鎮平里活動中心",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮鎮平里南平路11號",
     "neighbor" : "1,6,7,9",
     "deptCode" : "030",
@@ -1444,7 +1444,7 @@
     "tboxNo" : "0069",
     "tboxName" : "南佃里集會所",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮南佃里嘉佃路157號",
     "neighbor" : "13-15",
     "deptCode" : "030",
@@ -1464,7 +1464,7 @@
     "tboxNo" : "0069",
     "tboxName" : "南佃里集會所",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣和美鎮南佃里嘉佃路157號",
     "neighbor" : "13-15",
     "deptCode" : "030",
@@ -1504,16 +1504,6 @@
     "tboxNo" : "0071",
     "tboxName" : "和仁國小(一)",
     "liCode" : "015",
-    "voter" : "03",
-    "addr" : "彰化縣和美鎮山犁里仁愛路279號",
-    "neighbor" : "2",
-    "deptCode" : "030",
-    "liName" : "山犁里"
-  }, {
-    "ScopeLiName" : "山犁里",
-    "tboxNo" : "0071",
-    "tboxName" : "和仁國小(一)",
-    "liCode" : "015",
     "voter" : "01",
     "addr" : "彰化縣和美鎮山犁里仁愛路279號",
     "neighbor" : "1-6",
@@ -1521,12 +1511,12 @@
     "liName" : "山犁里"
   }, {
     "ScopeLiName" : "山犁里",
-    "tboxNo" : "0072",
-    "tboxName" : "和仁國小(二)",
+    "tboxNo" : "0071",
+    "tboxName" : "和仁國小(一)",
     "liCode" : "015",
     "voter" : "03",
     "addr" : "彰化縣和美鎮山犁里仁愛路279號",
-    "neighbor" : "12",
+    "neighbor" : "2",
     "deptCode" : "030",
     "liName" : "山犁里"
   }, {
@@ -1541,12 +1531,12 @@
     "liName" : "山犁里"
   }, {
     "ScopeLiName" : "山犁里",
-    "tboxNo" : "0073",
-    "tboxName" : "和仁國小(三)",
+    "tboxNo" : "0072",
+    "tboxName" : "和仁國小(二)",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮山犁里仁愛路279號",
-    "neighbor" : "13-18",
+    "neighbor" : "12",
     "deptCode" : "030",
     "liName" : "山犁里"
   }, {
@@ -1557,6 +1547,16 @@
     "voter" : "02",
     "addr" : "彰化縣和美鎮山犁里仁愛路279號",
     "neighbor" : "13,15",
+    "deptCode" : "030",
+    "liName" : "山犁里"
+  }, {
+    "ScopeLiName" : "山犁里",
+    "tboxNo" : "0073",
+    "tboxName" : "和仁國小(三)",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "彰化縣和美鎮山犁里仁愛路279號",
+    "neighbor" : "13-18",
     "deptCode" : "030",
     "liName" : "山犁里"
   }, {
@@ -1784,9 +1784,9 @@
     "tboxNo" : "0082",
     "tboxName" : "鐵山保生宮會館",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣和美鎮鎮東路210號",
-    "neighbor" : "4,13,14,18,20",
+    "neighbor" : "4,13-20",
     "deptCode" : "030",
     "liName" : "鐵山里"
   }, {
@@ -1794,9 +1794,9 @@
     "tboxNo" : "0082",
     "tboxName" : "鐵山保生宮會館",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣和美鎮鎮東路210號",
-    "neighbor" : "4,13-20",
+    "neighbor" : "4,13,14,18,20",
     "deptCode" : "030",
     "liName" : "鐵山里"
   }, {
@@ -2054,9 +2054,9 @@
     "tboxNo" : "0093",
     "tboxName" : "中圍社區活動中心",
     "liCode" : "024",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣和美鎮中圍里竹社路125號",
-    "neighbor" : "14,18,20,23,24",
+    "neighbor" : "13-24",
     "deptCode" : "030",
     "liName" : "中圍里"
   }, {
@@ -2064,9 +2064,9 @@
     "tboxNo" : "0093",
     "tboxName" : "中圍社區活動中心",
     "liCode" : "024",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣和美鎮中圍里竹社路125號",
-    "neighbor" : "13-24",
+    "neighbor" : "14,18,20,23,24",
     "deptCode" : "030",
     "liName" : "中圍里"
   }, {
@@ -2664,9 +2664,9 @@
     "tboxNo" : "0118",
     "tboxName" : "鎮天宮",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣鹿港鎮埔崙里八德路26號",
-    "neighbor" : "14-17,20,23-24,26-27",
+    "neighbor" : "20",
     "deptCode" : "020",
     "liName" : "埔崙里"
   }, {
@@ -2674,9 +2674,9 @@
     "tboxNo" : "0118",
     "tboxName" : "鎮天宮",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮埔崙里八德路26號",
-    "neighbor" : "20",
+    "neighbor" : "14-17,20,23-24,26-27",
     "deptCode" : "020",
     "liName" : "埔崙里"
   }, {
@@ -2714,16 +2714,6 @@
     "tboxNo" : "0121",
     "tboxName" : "鹿港高中",
     "liCode" : "008",
-    "voter" : "02",
-    "addr" : "彰化縣鹿港鎮東石里省中街43號",
-    "neighbor" : "1,4",
-    "deptCode" : "020",
-    "liName" : "東石里"
-  }, {
-    "ScopeLiName" : "東石里",
-    "tboxNo" : "0121",
-    "tboxName" : "鹿港高中",
-    "liCode" : "008",
     "voter" : "01",
     "addr" : "彰化縣鹿港鎮東石里省中街43號",
     "neighbor" : "1-14",
@@ -2734,19 +2724,19 @@
     "tboxNo" : "0121",
     "tboxName" : "鹿港高中",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣鹿港鎮東石里省中街43號",
     "neighbor" : "1,4",
     "deptCode" : "020",
     "liName" : "東石里"
   }, {
     "ScopeLiName" : "東石里",
-    "tboxNo" : "0122",
+    "tboxNo" : "0121",
     "tboxName" : "鹿港高中",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮東石里省中街43號",
-    "neighbor" : "15-18",
+    "neighbor" : "1,4",
     "deptCode" : "020",
     "liName" : "東石里"
   }, {
@@ -2761,12 +2751,12 @@
     "liName" : "東石里"
   }, {
     "ScopeLiName" : "東石里",
-    "tboxNo" : "0123",
+    "tboxNo" : "0122",
     "tboxName" : "鹿港高中",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮東石里省中街43號",
-    "neighbor" : "21",
+    "neighbor" : "15-18",
     "deptCode" : "020",
     "liName" : "東石里"
   }, {
@@ -2777,6 +2767,16 @@
     "voter" : "01",
     "addr" : "彰化縣鹿港鎮東石里省中街43號",
     "neighbor" : "19-21",
+    "deptCode" : "020",
+    "liName" : "東石里"
+  }, {
+    "ScopeLiName" : "東石里",
+    "tboxNo" : "0123",
+    "tboxName" : "鹿港高中",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "彰化縣鹿港鎮東石里省中街43號",
+    "neighbor" : "21",
     "deptCode" : "020",
     "liName" : "東石里"
   }, {
@@ -2864,9 +2864,9 @@
     "tboxNo" : "0128",
     "tboxName" : "鹿港國中",
     "liCode" : "029",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣福興鄉橋頭村8鄰復興路78號",
-    "neighbor" : "22",
+    "neighbor" : "15-22",
     "deptCode" : "020",
     "liName" : "永安里"
   }, {
@@ -2874,9 +2874,9 @@
     "tboxNo" : "0128",
     "tboxName" : "鹿港國中",
     "liCode" : "029",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉橋頭村8鄰復興路78號",
-    "neighbor" : "15-22",
+    "neighbor" : "22",
     "deptCode" : "020",
     "liName" : "永安里"
   }, {
@@ -2944,16 +2944,6 @@
     "tboxNo" : "0134",
     "tboxName" : "鹿港國小",
     "liCode" : "015",
-    "voter" : "02",
-    "addr" : "彰化縣鹿港鎮三民路192號",
-    "neighbor" : "2,14",
-    "deptCode" : "020",
-    "liName" : "龍山里"
-  }, {
-    "ScopeLiName" : "龍山里",
-    "tboxNo" : "0134",
-    "tboxName" : "鹿港國小",
-    "liCode" : "015",
     "voter" : "03",
     "addr" : "彰化縣鹿港鎮三民路192號",
     "neighbor" : "2,14",
@@ -2970,6 +2960,16 @@
     "deptCode" : "020",
     "liName" : "龍山里"
   }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0134",
+    "tboxName" : "鹿港國小",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "彰化縣鹿港鎮三民路192號",
+    "neighbor" : "2,14",
+    "deptCode" : "020",
+    "liName" : "龍山里"
+  }, {
     "ScopeLiName" : "菜園里",
     "tboxNo" : "0135",
     "tboxName" : "鹿港國小",
@@ -2984,9 +2984,9 @@
     "tboxNo" : "0135",
     "tboxName" : "鹿港國小",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣鹿港鎮三民路192號",
-    "neighbor" : "菜園里",
+    "neighbor" : "6,11,13,20,23",
     "deptCode" : "020",
     "liName" : "菜園里"
   }, {
@@ -2994,9 +2994,9 @@
     "tboxNo" : "0135",
     "tboxName" : "鹿港國小",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮三民路192號",
-    "neighbor" : "6,11,13,20,23",
+    "neighbor" : "菜園里",
     "deptCode" : "020",
     "liName" : "菜園里"
   }, {
@@ -3064,9 +3064,9 @@
     "tboxNo" : "0140",
     "tboxName" : "海埔國小",
     "liCode" : "026",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮海埔里鹿草路2段889號",
-    "neighbor" : "2",
+    "neighbor" : "1-9",
     "deptCode" : "020",
     "liName" : "海埔里"
   }, {
@@ -3074,9 +3074,9 @@
     "tboxNo" : "0140",
     "tboxName" : "海埔國小",
     "liCode" : "026",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮海埔里鹿草路2段889號",
-    "neighbor" : "1-9",
+    "neighbor" : "2",
     "deptCode" : "020",
     "liName" : "海埔里"
   }, {
@@ -3094,9 +3094,9 @@
     "tboxNo" : "0142",
     "tboxName" : "海埔里里民集會所",
     "liCode" : "026",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮鹿草路2段197號",
-    "neighbor" : "12-17,23",
+    "neighbor" : "13",
     "deptCode" : "020",
     "liName" : "海埔里"
   }, {
@@ -3104,9 +3104,9 @@
     "tboxNo" : "0142",
     "tboxName" : "海埔里里民集會所",
     "liCode" : "026",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮鹿草路2段197號",
-    "neighbor" : "13",
+    "neighbor" : "12-17,23",
     "deptCode" : "020",
     "liName" : "海埔里"
   }, {
@@ -3134,9 +3134,9 @@
     "tboxNo" : "0144",
     "tboxName" : "新厝社區活動中心",
     "liCode" : "028",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮新厝巷51-1號",
-    "neighbor" : "7-15",
+    "neighbor" : "11,12",
     "deptCode" : "020",
     "liName" : "洋厝里"
   }, {
@@ -3144,9 +3144,9 @@
     "tboxNo" : "0144",
     "tboxName" : "新厝社區活動中心",
     "liCode" : "028",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮新厝巷51-1號",
-    "neighbor" : "11,12",
+    "neighbor" : "7-15",
     "deptCode" : "020",
     "liName" : "洋厝里"
   }, {
@@ -3184,6 +3184,16 @@
     "tboxNo" : "0147",
     "tboxName" : "慶安宮",
     "liCode" : "023",
+    "voter" : "03",
+    "addr" : "彰化縣鹿港鎮草中里慶安街65號",
+    "neighbor" : "4,14,25",
+    "deptCode" : "020",
+    "liName" : "草中里"
+  }, {
+    "ScopeLiName" : "草中里",
+    "tboxNo" : "0147",
+    "tboxName" : "慶安宮",
+    "liCode" : "023",
     "voter" : "01",
     "addr" : "彰化縣鹿港鎮草中里慶安街65號",
     "neighbor" : "4,11-14,22-23,25",
@@ -3195,16 +3205,6 @@
     "tboxName" : "慶安宮",
     "liCode" : "023",
     "voter" : "02",
-    "addr" : "彰化縣鹿港鎮草中里慶安街65號",
-    "neighbor" : "4,14,25",
-    "deptCode" : "020",
-    "liName" : "草中里"
-  }, {
-    "ScopeLiName" : "草中里",
-    "tboxNo" : "0147",
-    "tboxName" : "慶安宮",
-    "liCode" : "023",
-    "voter" : "03",
     "addr" : "彰化縣鹿港鎮草中里慶安街65號",
     "neighbor" : "4,14,25",
     "deptCode" : "020",
@@ -3254,7 +3254,7 @@
     "tboxNo" : "0149",
     "tboxName" : "鹿鳴國中",
     "liCode" : "024",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣鹿港鎮頭南里頂草路3段167號",
     "neighbor" : "5,6,8,9",
     "deptCode" : "020",
@@ -3264,19 +3264,9 @@
     "tboxNo" : "0149",
     "tboxName" : "鹿鳴國中",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮頭南里頂草路3段167號",
     "neighbor" : "5,6,8,9",
-    "deptCode" : "020",
-    "liName" : "頭南里"
-  }, {
-    "ScopeLiName" : "頭南里",
-    "tboxNo" : "0150",
-    "tboxName" : "鹿鳴國中",
-    "liCode" : "024",
-    "voter" : "01",
-    "addr" : "彰化縣鹿港鎮頭南里頂草路3段167號",
-    "neighbor" : "10-18",
     "deptCode" : "020",
     "liName" : "頭南里"
   }, {
@@ -3287,6 +3277,16 @@
     "voter" : "03",
     "addr" : "彰化縣鹿港鎮頭南里頂草路3段167號",
     "neighbor" : "11,18",
+    "deptCode" : "020",
+    "liName" : "頭南里"
+  }, {
+    "ScopeLiName" : "頭南里",
+    "tboxNo" : "0150",
+    "tboxName" : "鹿鳴國中",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "彰化縣鹿港鎮頭南里頂草路3段167號",
+    "neighbor" : "10-18",
     "deptCode" : "020",
     "liName" : "頭南里"
   }, {
@@ -3314,9 +3314,9 @@
     "tboxNo" : "0152",
     "tboxName" : "山崙里集會所活動中心",
     "liCode" : "025",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮山崙里12鄰崙尾巷26之9號 福崙宮旁 ",
-    "neighbor" : "14",
+    "neighbor" : "9-16",
     "deptCode" : "020",
     "liName" : "山崙里"
   }, {
@@ -3324,9 +3324,9 @@
     "tboxNo" : "0152",
     "tboxName" : "山崙里集會所活動中心",
     "liCode" : "025",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣鹿港鎮山崙里12鄰崙尾巷26之9號 福崙宮旁 ",
-    "neighbor" : "9-16",
+    "neighbor" : "14",
     "deptCode" : "020",
     "liName" : "山崙里"
   }, {
@@ -3614,9 +3614,9 @@
     "tboxNo" : "0164",
     "tboxName" : "新興國小",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣鹿港鎮某旦巷85號",
-    "neighbor" : "10",
+    "neighbor" : "9-14,22",
     "deptCode" : "020",
     "liName" : "廖厝里"
   }, {
@@ -3624,9 +3624,9 @@
     "tboxNo" : "0164",
     "tboxName" : "新興國小",
     "liCode" : "021",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣鹿港鎮某旦巷85號",
-    "neighbor" : "9-14,22",
+    "neighbor" : "10",
     "deptCode" : "020",
     "liName" : "廖厝里"
   }, {
@@ -3904,7 +3904,7 @@
     "tboxNo" : "0176",
     "tboxName" : "三汴村集會活動中心",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉三汴村4鄰彰水路346巷47號",
     "neighbor" : "3,6",
     "deptCode" : "060",
@@ -3924,31 +3924,11 @@
     "tboxNo" : "0176",
     "tboxName" : "三汴村集會活動中心",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉三汴村4鄰彰水路346巷47號",
     "neighbor" : "3,6",
     "deptCode" : "060",
     "liName" : "三汴村"
-  }, {
-    "ScopeLiName" : "萬豐村",
-    "tboxNo" : "0177",
-    "tboxName" : "閭山天法堂會議室",
-    "liCode" : "008",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉萬豐村萬豐巷14-36號",
-    "neighbor" : "3,4,5,8",
-    "deptCode" : "060",
-    "liName" : "萬豐村"
-  }, {
-    "ScopeLiName" : "萬豐村",
-    "tboxNo" : "0177",
-    "tboxName" : "閭山天法堂會議室",
-    "liCode" : "008",
-    "voter" : "03",
-    "addr" : "彰化縣福興鄉萬豐村萬豐巷14-36號",
-    "neighbor" : "3,4,5,8",
-    "deptCode" : "060",
-    "liName" : "萬豐村"
   }, {
     "ScopeLiName" : "萬豐村",
     "tboxNo" : "0177",
@@ -3960,6 +3940,36 @@
     "deptCode" : "060",
     "liName" : "萬豐村"
   }, {
+    "ScopeLiName" : "萬豐村",
+    "tboxNo" : "0177",
+    "tboxName" : "閭山天法堂會議室",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "彰化縣福興鄉萬豐村萬豐巷14-36號",
+    "neighbor" : "3,4,5,8",
+    "deptCode" : "060",
+    "liName" : "萬豐村"
+  }, {
+    "ScopeLiName" : "萬豐村",
+    "tboxNo" : "0177",
+    "tboxName" : "閭山天法堂會議室",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉萬豐村萬豐巷14-36號",
+    "neighbor" : "3,4,5,8",
+    "deptCode" : "060",
+    "liName" : "萬豐村"
+  }, {
+    "ScopeLiName" : "元中村",
+    "tboxNo" : "0178",
+    "tboxName" : "大興國小〈一〉",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "彰化縣福興鄉外埔村復興路15號",
+    "neighbor" : "元中村",
+    "deptCode" : "060",
+    "liName" : "元中村"
+  }, {
     "ScopeLiName" : "元中村",
     "tboxNo" : "0178",
     "tboxName" : "大興國小〈一〉",
@@ -3979,26 +3989,6 @@
     "neighbor" : "2,4",
     "deptCode" : "060",
     "liName" : "元中村"
-  }, {
-    "ScopeLiName" : "元中村",
-    "tboxNo" : "0178",
-    "tboxName" : "大興國小〈一〉",
-    "liCode" : "006",
-    "voter" : "01",
-    "addr" : "彰化縣福興鄉外埔村復興路15號",
-    "neighbor" : "元中村",
-    "deptCode" : "060",
-    "liName" : "元中村"
-  }, {
-    "ScopeLiName" : "外中村",
-    "tboxNo" : "0179",
-    "tboxName" : "外中社區活動中心",
-    "liCode" : "005",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉外中村外中街35號",
-    "neighbor" : "2,5,9",
-    "deptCode" : "060",
-    "liName" : "外中村"
   }, {
     "ScopeLiName" : "外中村",
     "tboxNo" : "0179",
@@ -4020,6 +4010,26 @@
     "deptCode" : "060",
     "liName" : "外中村"
   }, {
+    "ScopeLiName" : "外中村",
+    "tboxNo" : "0179",
+    "tboxName" : "外中社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉外中村外中街35號",
+    "neighbor" : "2,5,9",
+    "deptCode" : "060",
+    "liName" : "外中村"
+  }, {
+    "ScopeLiName" : "外埔村",
+    "tboxNo" : "0180",
+    "tboxName" : "大興國小〈二〉",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "彰化縣福興鄉外埔村復興路15號",
+    "neighbor" : "1,2,6,7,8",
+    "deptCode" : "060",
+    "liName" : "外埔村"
+  }, {
     "ScopeLiName" : "外埔村",
     "tboxNo" : "0180",
     "tboxName" : "大興國小〈二〉",
@@ -4040,35 +4050,15 @@
     "deptCode" : "060",
     "liName" : "外埔村"
   }, {
-    "ScopeLiName" : "外埔村",
-    "tboxNo" : "0180",
-    "tboxName" : "大興國小〈二〉",
-    "liCode" : "004",
-    "voter" : "03",
-    "addr" : "彰化縣福興鄉外埔村復興路15號",
-    "neighbor" : "1,2,6,7,8",
-    "deptCode" : "060",
-    "liName" : "外埔村"
-  }, {
     "ScopeLiName" : "大崙村",
     "tboxNo" : "0181",
     "tboxName" : "大崙社區活動中心",
     "liCode" : "003",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉大崙村大崙街",
     "neighbor" : "1,3,6",
     "deptCode" : "060",
     "liName" : "大崙村"
-  }, {
-    "ScopeLiName" : "元中村",
-    "tboxNo" : "0181",
-    "tboxName" : "大崙社區活動中心",
-    "liCode" : "006",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉大崙村大崙街",
-    "neighbor" : "8",
-    "deptCode" : "060",
-    "liName" : "元中村"
   }, {
     "ScopeLiName" : "大崙村",
     "tboxNo" : "0181",
@@ -4080,6 +4070,26 @@
     "deptCode" : "060",
     "liName" : "大崙村"
   }, {
+    "ScopeLiName" : "大崙村",
+    "tboxNo" : "0181",
+    "tboxName" : "大崙社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉大崙村大崙街",
+    "neighbor" : "1,3,6",
+    "deptCode" : "060",
+    "liName" : "大崙村"
+  }, {
+    "ScopeLiName" : "元中村",
+    "tboxNo" : "0181",
+    "tboxName" : "大崙社區活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉大崙村大崙街",
+    "neighbor" : "8",
+    "deptCode" : "060",
+    "liName" : "元中村"
+  }, {
     "ScopeLiName" : "元中村",
     "tboxNo" : "0181",
     "tboxName" : "大崙社區活動中心",
@@ -4089,26 +4099,6 @@
     "neighbor" : "8",
     "deptCode" : "060",
     "liName" : "元中村"
-  }, {
-    "ScopeLiName" : "大崙村",
-    "tboxNo" : "0181",
-    "tboxName" : "大崙社區活動中心",
-    "liCode" : "003",
-    "voter" : "03",
-    "addr" : "彰化縣福興鄉大崙村大崙街",
-    "neighbor" : "1,3,6",
-    "deptCode" : "060",
-    "liName" : "大崙村"
-  }, {
-    "ScopeLiName" : "番婆村",
-    "tboxNo" : "0182",
-    "tboxName" : "日新國小",
-    "liCode" : "009",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉番婆村彰鹿路6段546號",
-    "neighbor" : "3,4,5",
-    "deptCode" : "060",
-    "liName" : "番婆村"
   }, {
     "ScopeLiName" : "番婆村",
     "tboxNo" : "0182",
@@ -4131,12 +4121,12 @@
     "liName" : "番婆村"
   }, {
     "ScopeLiName" : "番婆村",
-    "tboxNo" : "0183",
-    "tboxName" : "番婆社區活動中心",
+    "tboxNo" : "0182",
+    "tboxName" : "日新國小",
     "liCode" : "009",
     "voter" : "02",
-    "addr" : "彰化縣福興鄉番婆街臨16之1號",
-    "neighbor" : "7,9",
+    "addr" : "彰化縣福興鄉番婆村彰鹿路6段546號",
+    "neighbor" : "3,4,5",
     "deptCode" : "060",
     "liName" : "番婆村"
   }, {
@@ -4160,15 +4150,15 @@
     "deptCode" : "060",
     "liName" : "番婆村"
   }, {
-    "ScopeLiName" : "橋頭村",
-    "tboxNo" : "0184",
-    "tboxName" : "鹿港國中〈一〉",
-    "liCode" : "010",
+    "ScopeLiName" : "番婆村",
+    "tboxNo" : "0183",
+    "tboxName" : "番婆社區活動中心",
+    "liCode" : "009",
     "voter" : "02",
-    "addr" : "彰化縣福興鄉橋頭村復興路78號",
-    "neighbor" : "1,3,5",
+    "addr" : "彰化縣福興鄉番婆街臨16之1號",
+    "neighbor" : "7,9",
     "deptCode" : "060",
-    "liName" : "橋頭村"
+    "liName" : "番婆村"
   }, {
     "ScopeLiName" : "橋頭村",
     "tboxNo" : "0184",
@@ -4187,6 +4177,16 @@
     "voter" : "01",
     "addr" : "彰化縣福興鄉橋頭村復興路78號",
     "neighbor" : "1-5,9",
+    "deptCode" : "060",
+    "liName" : "橋頭村"
+  }, {
+    "ScopeLiName" : "橋頭村",
+    "tboxNo" : "0184",
+    "tboxName" : "鹿港國中〈一〉",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉橋頭村復興路78號",
+    "neighbor" : "1,3,5",
     "deptCode" : "060",
     "liName" : "橋頭村"
   }, {
@@ -4214,9 +4214,9 @@
     "tboxNo" : "0186",
     "tboxName" : "社尾社區活動中心",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣福興鄉社尾村浮景巷",
-    "neighbor" : "6",
+    "neighbor" : "社尾村",
     "deptCode" : "060",
     "liName" : "社尾村"
   }, {
@@ -4224,21 +4224,11 @@
     "tboxNo" : "0186",
     "tboxName" : "社尾社區活動中心",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉社尾村浮景巷",
-    "neighbor" : "社尾村",
+    "neighbor" : "6",
     "deptCode" : "060",
     "liName" : "社尾村"
-  }, {
-    "ScopeLiName" : "番社村",
-    "tboxNo" : "0187",
-    "tboxName" : "永豐國小",
-    "liCode" : "001",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉番社村番社街80號",
-    "neighbor" : "12",
-    "deptCode" : "060",
-    "liName" : "番社村"
   }, {
     "ScopeLiName" : "番社村",
     "tboxNo" : "0187",
@@ -4250,15 +4240,15 @@
     "deptCode" : "060",
     "liName" : "番社村"
   }, {
-    "ScopeLiName" : "西勢村",
-    "tboxNo" : "0188",
-    "tboxName" : "西勢國小(ㄧ)",
-    "liCode" : "022",
+    "ScopeLiName" : "番社村",
+    "tboxNo" : "0187",
+    "tboxName" : "永豐國小",
+    "liCode" : "001",
     "voter" : "02",
-    "addr" : "彰化縣福興鄉西勢村員鹿路2段412號",
-    "neighbor" : "1,8",
+    "addr" : "彰化縣福興鄉番社村番社街80號",
+    "neighbor" : "12",
     "deptCode" : "060",
-    "liName" : "西勢村"
+    "liName" : "番社村"
   }, {
     "ScopeLiName" : "西勢村",
     "tboxNo" : "0188",
@@ -4271,12 +4261,12 @@
     "liName" : "西勢村"
   }, {
     "ScopeLiName" : "西勢村",
-    "tboxNo" : "0189",
-    "tboxName" : "西勢國小(二)",
+    "tboxNo" : "0188",
+    "tboxName" : "西勢國小(ㄧ)",
     "liCode" : "022",
     "voter" : "02",
     "addr" : "彰化縣福興鄉西勢村員鹿路2段412號",
-    "neighbor" : "4",
+    "neighbor" : "1,8",
     "deptCode" : "060",
     "liName" : "西勢村"
   }, {
@@ -4290,15 +4280,15 @@
     "deptCode" : "060",
     "liName" : "西勢村"
   }, {
-    "ScopeLiName" : "同安村",
-    "tboxNo" : "0190",
-    "tboxName" : "福興國中〈一〉",
-    "liCode" : "021",
-    "voter" : "03",
-    "addr" : "彰化縣福興鄉西勢村員鹿路二段270號",
-    "neighbor" : "3",
+    "ScopeLiName" : "西勢村",
+    "tboxNo" : "0189",
+    "tboxName" : "西勢國小(二)",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉西勢村員鹿路2段412號",
+    "neighbor" : "4",
     "deptCode" : "060",
-    "liName" : "同安村"
+    "liName" : "西勢村"
   }, {
     "ScopeLiName" : "同安村",
     "tboxNo" : "0190",
@@ -4311,12 +4301,12 @@
     "liName" : "同安村"
   }, {
     "ScopeLiName" : "同安村",
-    "tboxNo" : "0191",
-    "tboxName" : "福興國中〈二〉",
+    "tboxNo" : "0190",
+    "tboxName" : "福興國中〈一〉",
     "liCode" : "021",
     "voter" : "03",
     "addr" : "彰化縣福興鄉西勢村員鹿路二段270號",
-    "neighbor" : "7",
+    "neighbor" : "3",
     "deptCode" : "060",
     "liName" : "同安村"
   }, {
@@ -4327,6 +4317,16 @@
     "voter" : "01",
     "addr" : "彰化縣福興鄉西勢村員鹿路二段270號",
     "neighbor" : "5-8",
+    "deptCode" : "060",
+    "liName" : "同安村"
+  }, {
+    "ScopeLiName" : "同安村",
+    "tboxNo" : "0191",
+    "tboxName" : "福興國中〈二〉",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "彰化縣福興鄉西勢村員鹿路二段270號",
+    "neighbor" : "7",
     "deptCode" : "060",
     "liName" : "同安村"
   }, {
@@ -4354,9 +4354,9 @@
     "tboxNo" : "0193",
     "tboxName" : "秀厝社區活動中心",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉秀厝村秀厝二街臨147號",
-    "neighbor" : "11-18",
+    "neighbor" : "11,14",
     "deptCode" : "060",
     "liName" : "秀厝村"
   }, {
@@ -4364,9 +4364,9 @@
     "tboxNo" : "0193",
     "tboxName" : "秀厝社區活動中心",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣福興鄉秀厝村秀厝二街臨147號",
-    "neighbor" : "11,14",
+    "neighbor" : "11-18",
     "deptCode" : "060",
     "liName" : "秀厝村"
   }, {
@@ -4404,7 +4404,7 @@
     "tboxNo" : "0195",
     "tboxName" : "四村聯合集會所〈二〉",
     "liCode" : "019",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉福興村福興路51巷8號",
     "neighbor" : "8",
     "deptCode" : "060",
@@ -4424,7 +4424,7 @@
     "tboxNo" : "0195",
     "tboxName" : "四村聯合集會所〈二〉",
     "liCode" : "019",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉福興村福興路51巷8號",
     "neighbor" : "8",
     "deptCode" : "060",
@@ -4454,16 +4454,6 @@
     "tboxNo" : "0197",
     "tboxName" : "福興鄉立西區幼兒園(ㄧ)",
     "liCode" : "020",
-    "voter" : "02",
-    "addr" : "彰化縣福興鄉福興村福興路51巷12號",
-    "neighbor" : "2,6",
-    "deptCode" : "060",
-    "liName" : "福南村"
-  }, {
-    "ScopeLiName" : "福南村",
-    "tboxNo" : "0197",
-    "tboxName" : "福興鄉立西區幼兒園(ㄧ)",
-    "liCode" : "020",
     "voter" : "03",
     "addr" : "彰化縣福興鄉福興村福興路51巷12號",
     "neighbor" : "2,6",
@@ -4481,6 +4471,16 @@
     "liName" : "福南村"
   }, {
     "ScopeLiName" : "福南村",
+    "tboxNo" : "0197",
+    "tboxName" : "福興鄉立西區幼兒園(ㄧ)",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "彰化縣福興鄉福興村福興路51巷12號",
+    "neighbor" : "2,6",
+    "deptCode" : "060",
+    "liName" : "福南村"
+  }, {
+    "ScopeLiName" : "福南村",
     "tboxNo" : "0198",
     "tboxName" : "福興鄉立西區幼兒園(二)",
     "liCode" : "020",
@@ -4494,7 +4494,7 @@
     "tboxNo" : "0199",
     "tboxName" : "文昌國小",
     "liCode" : "012",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉鎮平村鎮平街1號",
     "neighbor" : "3,8",
     "deptCode" : "060",
@@ -4504,7 +4504,7 @@
     "tboxNo" : "0199",
     "tboxName" : "文昌國小",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉鎮平村鎮平街1號",
     "neighbor" : "3,8",
     "deptCode" : "060",
@@ -4610,11 +4610,21 @@
     "deptCode" : "060",
     "liName" : "廈粘村"
   }, {
+    "ScopeLiName" : "廈粘村",
+    "tboxNo" : "0206",
+    "tboxName" : "廈粘社區活動中心",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "彰化縣福興鄉廈粘村廈粘街71號",
+    "neighbor" : "11,13",
+    "deptCode" : "060",
+    "liName" : "廈粘村"
+  }, {
     "ScopeLiName" : "頂粘村",
     "tboxNo" : "0206",
     "tboxName" : "廈粘社區活動中心",
     "liCode" : "016",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉廈粘村廈粘街71號",
     "neighbor" : "12",
     "deptCode" : "060",
@@ -4624,7 +4634,7 @@
     "tboxNo" : "0206",
     "tboxName" : "廈粘社區活動中心",
     "liCode" : "016",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉廈粘村廈粘街71號",
     "neighbor" : "12",
     "deptCode" : "060",
@@ -4650,15 +4660,15 @@
     "deptCode" : "060",
     "liName" : "廈粘村"
   }, {
-    "ScopeLiName" : "廈粘村",
-    "tboxNo" : "0206",
-    "tboxName" : "廈粘社區活動中心",
-    "liCode" : "015",
-    "voter" : "03",
-    "addr" : "彰化縣福興鄉廈粘村廈粘街71號",
-    "neighbor" : "11,13",
+    "ScopeLiName" : "麥厝村",
+    "tboxNo" : "0207",
+    "tboxName" : "九天寺廟餐廳〈一〉",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "彰化縣福興鄉麥厝村麥厝街55-2號",
+    "neighbor" : "1-11",
     "deptCode" : "060",
-    "liName" : "廈粘村"
+    "liName" : "麥厝村"
   }, {
     "ScopeLiName" : "麥厝村",
     "tboxNo" : "0207",
@@ -4671,20 +4681,10 @@
     "liName" : "麥厝村"
   }, {
     "ScopeLiName" : "麥厝村",
-    "tboxNo" : "0207",
-    "tboxName" : "九天寺廟餐廳〈一〉",
-    "liCode" : "014",
-    "voter" : "01",
-    "addr" : "彰化縣福興鄉麥厝村麥厝街55-2號",
-    "neighbor" : "1-11",
-    "deptCode" : "060",
-    "liName" : "麥厝村"
-  }, {
-    "ScopeLiName" : "麥厝村",
     "tboxNo" : "0208",
     "tboxName" : "九天寺廟餐廳〈二〉",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣福興鄉麥厝村麥厝街55-2號",
     "neighbor" : "18,19",
     "deptCode" : "060",
@@ -4704,7 +4704,7 @@
     "tboxNo" : "0208",
     "tboxName" : "九天寺廟餐廳〈二〉",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣福興鄉麥厝村麥厝街55-2號",
     "neighbor" : "18,19",
     "deptCode" : "060",
@@ -4764,7 +4764,7 @@
     "tboxNo" : "0211",
     "tboxName" : "安溪社區活動中心",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣秀水鄉安溪村安溪街98號",
     "neighbor" : "003,007",
     "deptCode" : "070",
@@ -4784,7 +4784,7 @@
     "tboxNo" : "0211",
     "tboxName" : "安溪社區活動中心",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣秀水鄉安溪村安溪街98號",
     "neighbor" : "003,007",
     "deptCode" : "070",
@@ -5454,7 +5454,7 @@
     "tboxNo" : "0246",
     "tboxName" : "育民國小",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣秀水鄉下崙村民生街262號",
     "neighbor" : "018",
     "deptCode" : "070",
@@ -5474,21 +5474,11 @@
     "tboxNo" : "0246",
     "tboxName" : "育民國小",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣秀水鄉下崙村民生街262號",
     "neighbor" : "018",
     "deptCode" : "070",
     "liName" : "下崙村"
-  }, {
-    "ScopeLiName" : "桃源里",
-    "tboxNo" : "0247",
-    "tboxName" : "泰源宮",
-    "liCode" : "032",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市公園路2段192號",
-    "neighbor" : "5,7",
-    "deptCode" : "010",
-    "liName" : "桃源里"
   }, {
     "ScopeLiName" : "桃源里",
     "tboxNo" : "0247",
@@ -5511,6 +5501,26 @@
     "liName" : "桃源里"
   }, {
     "ScopeLiName" : "桃源里",
+    "tboxNo" : "0247",
+    "tboxName" : "泰源宮",
+    "liCode" : "032",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市公園路2段192號",
+    "neighbor" : "5,7",
+    "deptCode" : "010",
+    "liName" : "桃源里"
+  }, {
+    "ScopeLiName" : "桃源里",
+    "tboxNo" : "0248",
+    "tboxName" : "坑仔內老人會館(一)",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市公園路2段192號",
+    "neighbor" : "11-14",
+    "deptCode" : "010",
+    "liName" : "桃源里"
+  }, {
+    "ScopeLiName" : "桃源里",
     "tboxNo" : "0248",
     "tboxName" : "坑仔內老人會館(一)",
     "liCode" : "032",
@@ -5527,16 +5537,6 @@
     "voter" : "02",
     "addr" : "彰化縣彰化市公園路2段192號",
     "neighbor" : "13",
-    "deptCode" : "010",
-    "liName" : "桃源里"
-  }, {
-    "ScopeLiName" : "桃源里",
-    "tboxNo" : "0248",
-    "tboxName" : "坑仔內老人會館(一)",
-    "liCode" : "032",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市公園路2段192號",
-    "neighbor" : "11-14",
     "deptCode" : "010",
     "liName" : "桃源里"
   }, {
@@ -5604,9 +5604,9 @@
     "tboxNo" : "0252",
     "tboxName" : "慈濟光明寺",
     "liCode" : "038",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣彰化市博愛街21號",
-    "neighbor" : "1-7,15,17,18",
+    "neighbor" : "9,1-7,15,17,18",
     "deptCode" : "010",
     "liName" : "華北里"
   }, {
@@ -5614,9 +5614,19 @@
     "tboxNo" : "0252",
     "tboxName" : "慈濟光明寺",
     "liCode" : "038",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣彰化市博愛街21號",
-    "neighbor" : "9,1-7,15,17,18",
+    "neighbor" : "1-7,15,17,18",
+    "deptCode" : "010",
+    "liName" : "華北里"
+  }, {
+    "ScopeLiName" : "華北里",
+    "tboxNo" : "0253",
+    "tboxName" : "彰山宮活動中心",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市南校街160號",
+    "neighbor" : "8-14,16",
     "deptCode" : "010",
     "liName" : "華北里"
   }, {
@@ -5629,26 +5639,6 @@
     "neighbor" : "8-14,16",
     "deptCode" : "010",
     "liName" : "華北里"
-  }, {
-    "ScopeLiName" : "華北里",
-    "tboxNo" : "0253",
-    "tboxName" : "彰山宮活動中心",
-    "liCode" : "038",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市南校街160號",
-    "neighbor" : "8-14,16",
-    "deptCode" : "010",
-    "liName" : "華北里"
-  }, {
-    "ScopeLiName" : "華陽里",
-    "tboxNo" : "0254",
-    "tboxName" : "國立彰化高商(一)",
-    "liCode" : "037",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市南郭路一段３２６號",
-    "neighbor" : "11",
-    "deptCode" : "010",
-    "liName" : "華陽里"
   }, {
     "ScopeLiName" : "華陽里",
     "tboxNo" : "0254",
@@ -5667,6 +5657,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市南郭路一段３２６號",
     "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "華陽里"
+  }, {
+    "ScopeLiName" : "華陽里",
+    "tboxNo" : "0254",
+    "tboxName" : "國立彰化高商(一)",
+    "liCode" : "037",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市南郭路一段３２６號",
+    "neighbor" : "11",
     "deptCode" : "010",
     "liName" : "華陽里"
   }, {
@@ -5694,9 +5694,9 @@
     "tboxNo" : "0257",
     "tboxName" : "鎮安宮",
     "liCode" : "036",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市民族路448號",
-    "neighbor" : "8",
+    "neighbor" : "永生里",
     "deptCode" : "010",
     "liName" : "永生里"
   }, {
@@ -5704,21 +5704,11 @@
     "tboxNo" : "0257",
     "tboxName" : "鎮安宮",
     "liCode" : "036",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市民族路448號",
-    "neighbor" : "永生里",
+    "neighbor" : "8",
     "deptCode" : "010",
     "liName" : "永生里"
-  }, {
-    "ScopeLiName" : "建寶里",
-    "tboxNo" : "0258",
-    "tboxName" : "南郭國小(一)",
-    "liCode" : "048",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市中興路98號",
-    "neighbor" : "2,7",
-    "deptCode" : "010",
-    "liName" : "建寶里"
   }, {
     "ScopeLiName" : "建寶里",
     "tboxNo" : "0258",
@@ -5735,6 +5725,16 @@
     "tboxName" : "南郭國小(一)",
     "liCode" : "048",
     "voter" : "02",
+    "addr" : "彰化縣彰化市中興路98號",
+    "neighbor" : "2,7",
+    "deptCode" : "010",
+    "liName" : "建寶里"
+  }, {
+    "ScopeLiName" : "建寶里",
+    "tboxNo" : "0258",
+    "tboxName" : "南郭國小(一)",
+    "liCode" : "048",
+    "voter" : "03",
     "addr" : "彰化縣彰化市中興路98號",
     "neighbor" : "2,7",
     "deptCode" : "010",
@@ -5774,6 +5774,16 @@
     "tboxNo" : "0261",
     "tboxName" : "南郭國小(四)",
     "liCode" : "045",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市中興路98號",
+    "neighbor" : "8-16",
+    "deptCode" : "010",
+    "liName" : "光南里"
+  }, {
+    "ScopeLiName" : "光南里",
+    "tboxNo" : "0261",
+    "tboxName" : "南郭國小(四)",
+    "liCode" : "045",
     "voter" : "01",
     "addr" : "彰化縣彰化市中興路98號",
     "neighbor" : "8-16",
@@ -5789,36 +5799,6 @@
     "neighbor" : "8-16",
     "deptCode" : "010",
     "liName" : "光南里"
-  }, {
-    "ScopeLiName" : "光南里",
-    "tboxNo" : "0261",
-    "tboxName" : "南郭國小(四)",
-    "liCode" : "045",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市中興路98號",
-    "neighbor" : "8-16",
-    "deptCode" : "010",
-    "liName" : "光南里"
-  }, {
-    "ScopeLiName" : "介壽里",
-    "tboxNo" : "0262",
-    "tboxName" : "介壽里活動中心",
-    "liCode" : "046",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市介壽新村21號",
-    "neighbor" : "4",
-    "deptCode" : "010",
-    "liName" : "介壽里"
-  }, {
-    "ScopeLiName" : "介壽里",
-    "tboxNo" : "0262",
-    "tboxName" : "介壽里活動中心",
-    "liCode" : "046",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市介壽新村21號",
-    "neighbor" : "4",
-    "deptCode" : "010",
-    "liName" : "介壽里"
   }, {
     "ScopeLiName" : "介壽里",
     "tboxNo" : "0262",
@@ -5831,22 +5811,22 @@
     "liName" : "介壽里"
   }, {
     "ScopeLiName" : "介壽里",
-    "tboxNo" : "0263",
-    "tboxName" : "南郭國小(五)",
+    "tboxNo" : "0262",
+    "tboxName" : "介壽里活動中心",
     "liCode" : "046",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市中興路98號",
-    "neighbor" : "15,20",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市介壽新村21號",
+    "neighbor" : "4",
     "deptCode" : "010",
     "liName" : "介壽里"
   }, {
     "ScopeLiName" : "介壽里",
-    "tboxNo" : "0263",
-    "tboxName" : "南郭國小(五)",
+    "tboxNo" : "0262",
+    "tboxName" : "介壽里活動中心",
     "liCode" : "046",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市中興路98號",
-    "neighbor" : "15,20",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市介壽新村21號",
+    "neighbor" : "4",
     "deptCode" : "010",
     "liName" : "介壽里"
   }, {
@@ -5860,15 +5840,25 @@
     "deptCode" : "010",
     "liName" : "介壽里"
   }, {
-    "ScopeLiName" : "延平里",
-    "tboxNo" : "0264",
-    "tboxName" : "天主教慈愛殘障教養院(一)",
-    "liCode" : "047",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市大埔路676號",
-    "neighbor" : "1-2,37-38",
+    "ScopeLiName" : "介壽里",
+    "tboxNo" : "0263",
+    "tboxName" : "南郭國小(五)",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市中興路98號",
+    "neighbor" : "15,20",
     "deptCode" : "010",
-    "liName" : "延平里"
+    "liName" : "介壽里"
+  }, {
+    "ScopeLiName" : "介壽里",
+    "tboxNo" : "0263",
+    "tboxName" : "南郭國小(五)",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市中興路98號",
+    "neighbor" : "15,20",
+    "deptCode" : "010",
+    "liName" : "介壽里"
   }, {
     "ScopeLiName" : "延平里",
     "tboxNo" : "0264",
@@ -5891,6 +5881,16 @@
     "liName" : "延平里"
   }, {
     "ScopeLiName" : "延平里",
+    "tboxNo" : "0264",
+    "tboxName" : "天主教慈愛殘障教養院(一)",
+    "liCode" : "047",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市大埔路676號",
+    "neighbor" : "1-2,37-38",
+    "deptCode" : "010",
+    "liName" : "延平里"
+  }, {
+    "ScopeLiName" : "延平里",
     "tboxNo" : "0265",
     "tboxName" : "延平社區活動中心",
     "liCode" : "047",
@@ -5904,7 +5904,7 @@
     "tboxNo" : "0265",
     "tboxName" : "延平社區活動中心",
     "liCode" : "047",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市文心街55號",
     "neighbor" : "3-4,9,18-19,39",
     "deptCode" : "010",
@@ -5914,7 +5914,7 @@
     "tboxNo" : "0265",
     "tboxName" : "延平社區活動中心",
     "liCode" : "047",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市文心街55號",
     "neighbor" : "3-4,9,18-19,39",
     "deptCode" : "010",
@@ -5924,7 +5924,7 @@
     "tboxNo" : "0266",
     "tboxName" : "彰興國中活動中心一(延和公園側門)",
     "liCode" : "047",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市埔西街107號",
     "neighbor" : "10,16,20,22,31-35",
     "deptCode" : "010",
@@ -5934,7 +5934,7 @@
     "tboxNo" : "0266",
     "tboxName" : "彰興國中活動中心一(延和公園側門)",
     "liCode" : "047",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市埔西街107號",
     "neighbor" : "10,16,20,22,31-35",
     "deptCode" : "010",
@@ -5964,16 +5964,6 @@
     "tboxNo" : "0268",
     "tboxName" : "蘭大衛紀念教會",
     "liCode" : "047",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市埔陽街60號",
-    "neighbor" : "30,40-43,47",
-    "deptCode" : "010",
-    "liName" : "延平里"
-  }, {
-    "ScopeLiName" : "延平里",
-    "tboxNo" : "0268",
-    "tboxName" : "蘭大衛紀念教會",
-    "liCode" : "047",
     "voter" : "01",
     "addr" : "彰化縣彰化市埔陽街60號",
     "neighbor" : "30,40-43,47",
@@ -5985,6 +5975,16 @@
     "tboxName" : "蘭大衛紀念教會",
     "liCode" : "047",
     "voter" : "02",
+    "addr" : "彰化縣彰化市埔陽街60號",
+    "neighbor" : "30,40-43,47",
+    "deptCode" : "010",
+    "liName" : "延平里"
+  }, {
+    "ScopeLiName" : "延平里",
+    "tboxNo" : "0268",
+    "tboxName" : "蘭大衛紀念教會",
+    "liCode" : "047",
+    "voter" : "03",
     "addr" : "彰化縣彰化市埔陽街60號",
     "neighbor" : "30,40-43,47",
     "deptCode" : "010",
@@ -6054,7 +6054,7 @@
     "tboxNo" : "0272",
     "tboxName" : "延和社區活動中心媽媽教室",
     "liCode" : "041",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣彰化市埔西街111號",
     "neighbor" : "2,4,5,7,17,18",
     "deptCode" : "010",
@@ -6064,7 +6064,7 @@
     "tboxNo" : "0272",
     "tboxName" : "延和社區活動中心媽媽教室",
     "liCode" : "041",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣彰化市埔西街111號",
     "neighbor" : "2,4,5,7,17,18",
     "deptCode" : "010",
@@ -6134,16 +6134,6 @@
     "tboxNo" : "0275",
     "tboxName" : "修水岩正殿",
     "liCode" : "042",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市中山路一段395巷10號",
-    "neighbor" : "1-5,35",
-    "deptCode" : "010",
-    "liName" : "南興里"
-  }, {
-    "ScopeLiName" : "南興里",
-    "tboxNo" : "0275",
-    "tboxName" : "修水岩正殿",
-    "liCode" : "042",
     "voter" : "01",
     "addr" : "彰化縣彰化市中山路一段395巷10號",
     "neighbor" : "1-5,35",
@@ -6155,6 +6145,16 @@
     "tboxName" : "修水岩正殿",
     "liCode" : "042",
     "voter" : "02",
+    "addr" : "彰化縣彰化市中山路一段395巷10號",
+    "neighbor" : "1-5,35",
+    "deptCode" : "010",
+    "liName" : "南興里"
+  }, {
+    "ScopeLiName" : "南興里",
+    "tboxNo" : "0275",
+    "tboxName" : "修水岩正殿",
+    "liCode" : "042",
+    "voter" : "03",
     "addr" : "彰化縣彰化市中山路一段395巷10號",
     "neighbor" : "1-5,35",
     "deptCode" : "010",
@@ -6174,7 +6174,7 @@
     "tboxNo" : "0276",
     "tboxName" : "南興國小(一)",
     "liCode" : "042",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市南興里中山路一段213號",
     "neighbor" : "6,19,20",
     "deptCode" : "010",
@@ -6184,7 +6184,7 @@
     "tboxNo" : "0276",
     "tboxName" : "南興國小(一)",
     "liCode" : "042",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市南興里中山路一段213號",
     "neighbor" : "6,19,20",
     "deptCode" : "010",
@@ -6224,7 +6224,7 @@
     "tboxNo" : "0279",
     "tboxName" : "南興國小(三)",
     "liCode" : "042",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣彰化市中山路一段213號",
     "neighbor" : "9-10,21-22,33-34",
     "deptCode" : "010",
@@ -6234,7 +6234,7 @@
     "tboxNo" : "0279",
     "tboxName" : "南興國小(三)",
     "liCode" : "042",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣彰化市中山路一段213號",
     "neighbor" : "9-10,21-22,33-34",
     "deptCode" : "010",
@@ -6374,9 +6374,9 @@
     "tboxNo" : "0287",
     "tboxName" : "媽祖文化館",
     "liCode" : "039",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市民族一街31號",
-    "neighbor" : "34",
+    "neighbor" : "22,23,26,32,34",
     "deptCode" : "010",
     "liName" : "南瑶里"
   }, {
@@ -6384,9 +6384,9 @@
     "tboxNo" : "0287",
     "tboxName" : "媽祖文化館",
     "liCode" : "039",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市民族一街31號",
-    "neighbor" : "22,23,26,32,34",
+    "neighbor" : "34",
     "deptCode" : "010",
     "liName" : "南瑶里"
   }, {
@@ -6397,6 +6397,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市旭光西路39號",
     "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0289",
+    "tboxName" : "成功藝文音樂館(二)",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市旭光西路39號",
+    "neighbor" : "10-19",
     "deptCode" : "010",
     "liName" : "成功里"
   }, {
@@ -6417,16 +6427,6 @@
     "voter" : "03",
     "addr" : "彰化縣彰化市旭光西路39號",
     "neighbor" : "16",
-    "deptCode" : "010",
-    "liName" : "成功里"
-  }, {
-    "ScopeLiName" : "成功里",
-    "tboxNo" : "0289",
-    "tboxName" : "成功藝文音樂館(二)",
-    "liCode" : "040",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市旭光西路39號",
-    "neighbor" : "10-19",
     "deptCode" : "010",
     "liName" : "成功里"
   }, {
@@ -6464,7 +6464,7 @@
     "tboxNo" : "0291",
     "tboxName" : "平和國小(一)",
     "liCode" : "043",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市中正路2段450號",
     "neighbor" : "3",
     "deptCode" : "010",
@@ -6474,7 +6474,7 @@
     "tboxNo" : "0291",
     "tboxName" : "平和國小(一)",
     "liCode" : "043",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市中正路2段450號",
     "neighbor" : "3",
     "deptCode" : "010",
@@ -6554,9 +6554,9 @@
     "tboxNo" : "0296",
     "tboxName" : "彰安國中(五)",
     "liCode" : "044",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市中正路二段530號",
-    "neighbor" : "18-24",
+    "neighbor" : "21,22",
     "deptCode" : "010",
     "liName" : "彰安里"
   }, {
@@ -6564,9 +6564,9 @@
     "tboxNo" : "0296",
     "tboxName" : "彰安國中(五)",
     "liCode" : "044",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市中正路二段530號",
-    "neighbor" : "21,22",
+    "neighbor" : "18-24",
     "deptCode" : "010",
     "liName" : "彰安里"
   }, {
@@ -6644,9 +6644,9 @@
     "tboxNo" : "0303",
     "tboxName" : "領帶城社區交誼廳",
     "liCode" : "020",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市西興里景宗街34號",
-    "neighbor" : "12",
+    "neighbor" : "9-12",
     "deptCode" : "010",
     "liName" : "西興里"
   }, {
@@ -6654,9 +6654,9 @@
     "tboxNo" : "0303",
     "tboxName" : "領帶城社區交誼廳",
     "liCode" : "020",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市西興里景宗街34號",
-    "neighbor" : "9-12",
+    "neighbor" : "12",
     "deptCode" : "010",
     "liName" : "西興里"
   }, {
@@ -6704,9 +6704,9 @@
     "tboxNo" : "0307",
     "tboxName" : "忠孝國小(三)",
     "liCode" : "021",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "11-17",
+    "neighbor" : "11,16",
     "deptCode" : "010",
     "liName" : "西勢里"
   }, {
@@ -6714,9 +6714,9 @@
     "tboxNo" : "0307",
     "tboxName" : "忠孝國小(三)",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "11,16",
+    "neighbor" : "11-17",
     "deptCode" : "010",
     "liName" : "西勢里"
   }, {
@@ -6754,9 +6754,9 @@
     "tboxNo" : "0309",
     "tboxName" : "忠孝國小(五)",
     "liCode" : "023",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "14,15",
+    "neighbor" : "11,14,15",
     "deptCode" : "010",
     "liName" : "忠權里"
   }, {
@@ -6764,9 +6764,9 @@
     "tboxNo" : "0309",
     "tboxName" : "忠孝國小(五)",
     "liCode" : "023",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "11,14,15",
+    "neighbor" : "14,15",
     "deptCode" : "010",
     "liName" : "忠權里"
   }, {
@@ -6784,9 +6784,9 @@
     "tboxNo" : "0310",
     "tboxName" : "忠孝國小(六)",
     "liCode" : "023",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "9-10,13,16",
+    "neighbor" : "16",
     "deptCode" : "010",
     "liName" : "忠權里"
   }, {
@@ -6794,9 +6794,9 @@
     "tboxNo" : "0310",
     "tboxName" : "忠孝國小(六)",
     "liCode" : "023",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "16",
+    "neighbor" : "9-10,13,16",
     "deptCode" : "010",
     "liName" : "忠權里"
   }, {
@@ -6809,6 +6809,16 @@
     "neighbor" : "忠孝里",
     "deptCode" : "010",
     "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "五權里",
+    "tboxNo" : "0312",
+    "tboxName" : "忠孝國小(七)",
+    "liCode" : "024",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市西勢里忠誠路61號",
+    "neighbor" : "5,12",
+    "deptCode" : "010",
+    "liName" : "五權里"
   }, {
     "ScopeLiName" : "五權里",
     "tboxNo" : "0312",
@@ -6827,26 +6837,6 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
     "neighbor" : "1-2,5,11-12",
-    "deptCode" : "010",
-    "liName" : "五權里"
-  }, {
-    "ScopeLiName" : "五權里",
-    "tboxNo" : "0312",
-    "tboxName" : "忠孝國小(七)",
-    "liCode" : "024",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "5,12",
-    "deptCode" : "010",
-    "liName" : "五權里"
-  }, {
-    "ScopeLiName" : "五權里",
-    "tboxNo" : "0313",
-    "tboxName" : "忠孝國小(八)",
-    "liCode" : "024",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "13,15",
     "deptCode" : "010",
     "liName" : "五權里"
   }, {
@@ -6871,12 +6861,12 @@
     "liName" : "五權里"
   }, {
     "ScopeLiName" : "五權里",
-    "tboxNo" : "0314",
-    "tboxName" : "忠孝國小(九)",
+    "tboxNo" : "0313",
+    "tboxName" : "忠孝國小(八)",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "4,8",
+    "neighbor" : "13,15",
     "deptCode" : "010",
     "liName" : "五權里"
   }, {
@@ -6901,6 +6891,26 @@
     "liName" : "五權里"
   }, {
     "ScopeLiName" : "五權里",
+    "tboxNo" : "0314",
+    "tboxName" : "忠孝國小(九)",
+    "liCode" : "024",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市西勢里忠誠路61號",
+    "neighbor" : "4,8",
+    "deptCode" : "010",
+    "liName" : "五權里"
+  }, {
+    "ScopeLiName" : "五權里",
+    "tboxNo" : "0315",
+    "tboxName" : "忠孝國小(十)",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市西勢里忠誠路61號",
+    "neighbor" : "10,16-18",
+    "deptCode" : "010",
+    "liName" : "五權里"
+  }, {
+    "ScopeLiName" : "五權里",
     "tboxNo" : "0315",
     "tboxName" : "忠孝國小(十)",
     "liCode" : "024",
@@ -6917,16 +6927,6 @@
     "voter" : "03",
     "addr" : "彰化縣彰化市西勢里忠誠路61號",
     "neighbor" : "17,18",
-    "deptCode" : "010",
-    "liName" : "五權里"
-  }, {
-    "ScopeLiName" : "五權里",
-    "tboxNo" : "0315",
-    "tboxName" : "忠孝國小(十)",
-    "liCode" : "024",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市西勢里忠誠路61號",
-    "neighbor" : "10,16-18",
     "deptCode" : "010",
     "liName" : "五權里"
   }, {
@@ -6964,7 +6964,7 @@
     "tboxNo" : "0318",
     "tboxName" : "精誠中學(三)",
     "liCode" : "031",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市平和里林森路200號",
     "neighbor" : "15",
     "deptCode" : "010",
@@ -6974,7 +6974,7 @@
     "tboxNo" : "0318",
     "tboxName" : "精誠中學(三)",
     "liCode" : "031",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市平和里林森路200號",
     "neighbor" : "15",
     "deptCode" : "010",
@@ -6994,9 +6994,9 @@
     "tboxNo" : "0319",
     "tboxName" : "精誠中學(四)",
     "liCode" : "031",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市平和里林森路200號",
-    "neighbor" : "19",
+    "neighbor" : "18-21",
     "deptCode" : "010",
     "liName" : "平和里"
   }, {
@@ -7004,9 +7004,9 @@
     "tboxNo" : "0319",
     "tboxName" : "精誠中學(四)",
     "liCode" : "031",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市平和里林森路200號",
-    "neighbor" : "18-21",
+    "neighbor" : "19",
     "deptCode" : "010",
     "liName" : "平和里"
   }, {
@@ -7054,16 +7054,6 @@
     "tboxNo" : "0322",
     "tboxName" : "平和國小建和分校(一)",
     "liCode" : "072",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市崙平里建中街60號2樓",
-    "neighbor" : "10",
-    "deptCode" : "010",
-    "liName" : "崙平里"
-  }, {
-    "ScopeLiName" : "崙平里",
-    "tboxNo" : "0322",
-    "tboxName" : "平和國小建和分校(一)",
-    "liCode" : "072",
     "voter" : "01",
     "addr" : "彰化縣彰化市崙平里建中街60號2樓",
     "neighbor" : "10-13",
@@ -7074,6 +7064,16 @@
     "tboxNo" : "0322",
     "tboxName" : "平和國小建和分校(一)",
     "liCode" : "072",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市崙平里建中街60號2樓",
+    "neighbor" : "10",
+    "deptCode" : "010",
+    "liName" : "崙平里"
+  }, {
+    "ScopeLiName" : "崙平里",
+    "tboxNo" : "0322",
+    "tboxName" : "平和國小建和分校(一)",
+    "liCode" : "072",
     "voter" : "02",
     "addr" : "彰化縣彰化市崙平里建中街60號2樓",
     "neighbor" : "10",
@@ -7094,7 +7094,7 @@
     "tboxNo" : "0323",
     "tboxName" : "平和國小建和分校(二)",
     "liCode" : "072",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市崙平里建中街60號2樓",
     "neighbor" : "14-17,19",
     "deptCode" : "010",
@@ -7104,19 +7104,9 @@
     "tboxNo" : "0323",
     "tboxName" : "平和國小建和分校(二)",
     "liCode" : "072",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市崙平里建中街60號2樓",
     "neighbor" : "14-17,19",
-    "deptCode" : "010",
-    "liName" : "崙平里"
-  }, {
-    "ScopeLiName" : "崙平里",
-    "tboxNo" : "0324",
-    "tboxName" : "平和國小建和分校(三)",
-    "liCode" : "072",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市崙平里建中街60號2樓",
-    "neighbor" : "18,20-22",
     "deptCode" : "010",
     "liName" : "崙平里"
   }, {
@@ -7127,6 +7117,16 @@
     "voter" : "03",
     "addr" : "彰化縣彰化市崙平里建中街60號2樓",
     "neighbor" : "20",
+    "deptCode" : "010",
+    "liName" : "崙平里"
+  }, {
+    "ScopeLiName" : "崙平里",
+    "tboxNo" : "0324",
+    "tboxName" : "平和國小建和分校(三)",
+    "liCode" : "072",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市崙平里建中街60號2樓",
+    "neighbor" : "18,20-22",
     "deptCode" : "010",
     "liName" : "崙平里"
   }, {
@@ -7144,6 +7144,16 @@
     "tboxNo" : "0326",
     "tboxName" : "信義國中小學(二)",
     "liCode" : "073",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市向陽街168號",
+    "neighbor" : "5-7",
+    "deptCode" : "010",
+    "liName" : "向陽里"
+  }, {
+    "ScopeLiName" : "向陽里",
+    "tboxNo" : "0326",
+    "tboxName" : "信義國中小學(二)",
+    "liCode" : "073",
     "voter" : "02",
     "addr" : "彰化縣彰化市向陽街168號",
     "neighbor" : "5-7",
@@ -7161,20 +7171,10 @@
     "liName" : "向陽里"
   }, {
     "ScopeLiName" : "向陽里",
-    "tboxNo" : "0326",
-    "tboxName" : "信義國中小學(二)",
-    "liCode" : "073",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市向陽街168號",
-    "neighbor" : "5-7",
-    "deptCode" : "010",
-    "liName" : "向陽里"
-  }, {
-    "ScopeLiName" : "向陽里",
     "tboxNo" : "0327",
     "tboxName" : "向陽活動中心",
     "liCode" : "073",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市崙平南路39號",
     "neighbor" : "8-11",
     "deptCode" : "010",
@@ -7194,7 +7194,7 @@
     "tboxNo" : "0327",
     "tboxName" : "向陽活動中心",
     "liCode" : "073",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市崙平南路39號",
     "neighbor" : "8-11",
     "deptCode" : "010",
@@ -7224,16 +7224,6 @@
     "tboxNo" : "0329",
     "tboxName" : "信義國中小學(四)",
     "liCode" : "073",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市向陽街168號",
-    "neighbor" : "15,17-18",
-    "deptCode" : "010",
-    "liName" : "向陽里"
-  }, {
-    "ScopeLiName" : "向陽里",
-    "tboxNo" : "0329",
-    "tboxName" : "信義國中小學(四)",
-    "liCode" : "073",
     "voter" : "02",
     "addr" : "彰化縣彰化市向陽街168號",
     "neighbor" : "15,17-18",
@@ -7245,6 +7235,16 @@
     "tboxName" : "信義國中小學(四)",
     "liCode" : "073",
     "voter" : "03",
+    "addr" : "彰化縣彰化市向陽街168號",
+    "neighbor" : "15,17-18",
+    "deptCode" : "010",
+    "liName" : "向陽里"
+  }, {
+    "ScopeLiName" : "向陽里",
+    "tboxNo" : "0329",
+    "tboxName" : "信義國中小學(四)",
+    "liCode" : "073",
+    "voter" : "01",
     "addr" : "彰化縣彰化市向陽街168號",
     "neighbor" : "15,17-18",
     "deptCode" : "010",
@@ -7314,16 +7314,6 @@
     "tboxNo" : "0333",
     "tboxName" : "湳浘萬善同旁",
     "liCode" : "028",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市崙美路399-1號",
-    "neighbor" : "1,4",
-    "deptCode" : "010",
-    "liName" : "南美里"
-  }, {
-    "ScopeLiName" : "南美里",
-    "tboxNo" : "0333",
-    "tboxName" : "湳浘萬善同旁",
-    "liCode" : "028",
     "voter" : "01",
     "addr" : "彰化縣彰化市崙美路399-1號",
     "neighbor" : "1-4,10-11",
@@ -7334,6 +7324,16 @@
     "tboxNo" : "0333",
     "tboxName" : "湳浘萬善同旁",
     "liCode" : "028",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市崙美路399-1號",
+    "neighbor" : "1,4",
+    "deptCode" : "010",
+    "liName" : "南美里"
+  }, {
+    "ScopeLiName" : "南美里",
+    "tboxNo" : "0333",
+    "tboxName" : "湳浘萬善同旁",
+    "liCode" : "028",
     "voter" : "02",
     "addr" : "彰化縣彰化市崙美路399-1號",
     "neighbor" : "1,4",
@@ -7344,7 +7344,7 @@
     "tboxNo" : "0334",
     "tboxName" : "南美社區活動中心",
     "liCode" : "028",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市崙美路476巷1號",
     "neighbor" : "5-9,12",
     "deptCode" : "010",
@@ -7364,31 +7364,11 @@
     "tboxNo" : "0334",
     "tboxName" : "南美社區活動中心",
     "liCode" : "028",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市崙美路476巷1號",
     "neighbor" : "5-9,12",
     "deptCode" : "010",
     "liName" : "南美里"
-  }, {
-    "ScopeLiName" : "南安里",
-    "tboxNo" : "0335",
-    "tboxName" : "南安社區活動中心",
-    "liCode" : "027",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市彰鹿路120巷147弄18號",
-    "neighbor" : "2,7,10",
-    "deptCode" : "010",
-    "liName" : "南安里"
-  }, {
-    "ScopeLiName" : "南安里",
-    "tboxNo" : "0335",
-    "tboxName" : "南安社區活動中心",
-    "liCode" : "027",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市彰鹿路120巷147弄18號",
-    "neighbor" : "2,7,10",
-    "deptCode" : "010",
-    "liName" : "南安里"
   }, {
     "ScopeLiName" : "南安里",
     "tboxNo" : "0335",
@@ -7397,6 +7377,26 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市彰鹿路120巷147弄18號",
     "neighbor" : "1-3,7,10-11",
+    "deptCode" : "010",
+    "liName" : "南安里"
+  }, {
+    "ScopeLiName" : "南安里",
+    "tboxNo" : "0335",
+    "tboxName" : "南安社區活動中心",
+    "liCode" : "027",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市彰鹿路120巷147弄18號",
+    "neighbor" : "2,7,10",
+    "deptCode" : "010",
+    "liName" : "南安里"
+  }, {
+    "ScopeLiName" : "南安里",
+    "tboxNo" : "0335",
+    "tboxName" : "南安社區活動中心",
+    "liCode" : "027",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市彰鹿路120巷147弄18號",
+    "neighbor" : "2,7,10",
     "deptCode" : "010",
     "liName" : "南安里"
   }, {
@@ -7414,16 +7414,6 @@
     "tboxNo" : "0337",
     "tboxName" : "劍聲幼兒園",
     "liCode" : "026",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市永芳路356號",
-    "neighbor" : "2,6,7,5",
-    "deptCode" : "010",
-    "liName" : "東芳里"
-  }, {
-    "ScopeLiName" : "東芳里",
-    "tboxNo" : "0337",
-    "tboxName" : "劍聲幼兒園",
-    "liCode" : "026",
     "voter" : "01",
     "addr" : "彰化縣彰化市永芳路356號",
     "neighbor" : "1-7",
@@ -7431,12 +7421,12 @@
     "liName" : "東芳里"
   }, {
     "ScopeLiName" : "東芳里",
-    "tboxNo" : "0338",
-    "tboxName" : "永芳社區活動中心",
+    "tboxNo" : "0337",
+    "tboxName" : "劍聲幼兒園",
     "liCode" : "026",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市永芳路468號",
-    "neighbor" : "11",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市永芳路356號",
+    "neighbor" : "2,6,7,5",
     "deptCode" : "010",
     "liName" : "東芳里"
   }, {
@@ -7451,12 +7441,12 @@
     "liName" : "東芳里"
   }, {
     "ScopeLiName" : "東芳里",
-    "tboxNo" : "0339",
-    "tboxName" : "東芳國小",
+    "tboxNo" : "0338",
+    "tboxName" : "永芳社區活動中心",
     "liCode" : "026",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市彰馬路45號",
-    "neighbor" : "18,15,17",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市永芳路468號",
+    "neighbor" : "11",
     "deptCode" : "010",
     "liName" : "東芳里"
   }, {
@@ -7480,11 +7470,21 @@
     "deptCode" : "010",
     "liName" : "東芳里"
   }, {
+    "ScopeLiName" : "東芳里",
+    "tboxNo" : "0339",
+    "tboxName" : "東芳國小",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市彰馬路45號",
+    "neighbor" : "18,15,17",
+    "deptCode" : "010",
+    "liName" : "東芳里"
+  }, {
     "ScopeLiName" : "磚磘里",
     "tboxNo" : "0340",
     "tboxName" : "竹篙崙百姓公廟",
     "liCode" : "030",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市芳草街、彰草路交叉路口",
     "neighbor" : "1-3,14-15",
     "deptCode" : "010",
@@ -7494,7 +7494,7 @@
     "tboxNo" : "0340",
     "tboxName" : "竹篙崙百姓公廟",
     "liCode" : "030",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市芳草街、彰草路交叉路口",
     "neighbor" : "1-3,14-15",
     "deptCode" : "010",
@@ -7604,9 +7604,9 @@
     "tboxNo" : "0349",
     "tboxName" : "南山寺(二)",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市中山路2段651號",
-    "neighbor" : "20,21",
+    "neighbor" : "13-21",
     "deptCode" : "010",
     "liName" : "中正里"
   }, {
@@ -7624,9 +7624,9 @@
     "tboxNo" : "0349",
     "tboxName" : "南山寺(二)",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市中山路2段651號",
-    "neighbor" : "13-21",
+    "neighbor" : "20,21",
     "deptCode" : "010",
     "liName" : "中正里"
   }, {
@@ -7654,16 +7654,6 @@
     "tboxNo" : "0351",
     "tboxName" : "中山國小(二)",
     "liCode" : "010",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市中山路二段678號",
-    "neighbor" : "2,8",
-    "deptCode" : "010",
-    "liName" : "龍山里"
-  }, {
-    "ScopeLiName" : "龍山里",
-    "tboxNo" : "0351",
-    "tboxName" : "中山國小(二)",
-    "liCode" : "010",
     "voter" : "03",
     "addr" : "彰化縣彰化市中山路二段678號",
     "neighbor" : "2,8",
@@ -7681,6 +7671,16 @@
     "liName" : "龍山里"
   }, {
     "ScopeLiName" : "龍山里",
+    "tboxNo" : "0351",
+    "tboxName" : "中山國小(二)",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市中山路二段678號",
+    "neighbor" : "2,8",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
     "tboxNo" : "0352",
     "tboxName" : "中山國小(三)",
     "liCode" : "010",
@@ -7694,7 +7694,7 @@
     "tboxNo" : "0353",
     "tboxName" : "新興華社區活動中心(一)",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣彰化市彰新路1段117號",
     "neighbor" : "1-2,10-12,16-18",
     "deptCode" : "010",
@@ -7704,7 +7704,7 @@
     "tboxNo" : "0353",
     "tboxName" : "新興華社區活動中心(一)",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣彰化市彰新路1段117號",
     "neighbor" : "1-2,10-12,16-18",
     "deptCode" : "010",
@@ -7714,16 +7714,6 @@
     "tboxNo" : "0354",
     "tboxName" : "文華宮",
     "liCode" : "008",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市彰新路一段66-2號",
-    "neighbor" : "3-9",
-    "deptCode" : "010",
-    "liName" : "新興里"
-  }, {
-    "ScopeLiName" : "新興里",
-    "tboxNo" : "0354",
-    "tboxName" : "文華宮",
-    "liCode" : "008",
     "voter" : "02",
     "addr" : "彰化縣彰化市彰新路一段66-2號",
     "neighbor" : "3-9",
@@ -7735,6 +7725,16 @@
     "tboxName" : "文華宮",
     "liCode" : "008",
     "voter" : "01",
+    "addr" : "彰化縣彰化市彰新路一段66-2號",
+    "neighbor" : "3-9",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0354",
+    "tboxName" : "文華宮",
+    "liCode" : "008",
+    "voter" : "03",
     "addr" : "彰化縣彰化市彰新路一段66-2號",
     "neighbor" : "3-9",
     "deptCode" : "010",
@@ -7754,7 +7754,7 @@
     "tboxNo" : "0355",
     "tboxName" : "台電電力修護處中部分處",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市金馬路二段643號",
     "neighbor" : "13-15,27-28",
     "deptCode" : "010",
@@ -7764,7 +7764,7 @@
     "tboxNo" : "0355",
     "tboxName" : "台電電力修護處中部分處",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市金馬路二段643號",
     "neighbor" : "13-15,27-28",
     "deptCode" : "010",
@@ -7804,7 +7804,7 @@
     "tboxNo" : "0357",
     "tboxName" : "新興華社區活動中心(三)",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市彰新路1段117號",
     "neighbor" : "25-26,29-33",
     "deptCode" : "010",
@@ -7824,7 +7824,7 @@
     "tboxNo" : "0357",
     "tboxName" : "新興華社區活動中心(三)",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市彰新路1段117號",
     "neighbor" : "25-26,29-33",
     "deptCode" : "010",
@@ -7854,16 +7854,6 @@
     "tboxNo" : "0360",
     "tboxName" : "民生國小(民生路)(一)",
     "liCode" : "003",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市民生路338號",
-    "neighbor" : "8",
-    "deptCode" : "010",
-    "liName" : "興北里"
-  }, {
-    "ScopeLiName" : "興北里",
-    "tboxNo" : "0360",
-    "tboxName" : "民生國小(民生路)(一)",
-    "liCode" : "003",
     "voter" : "01",
     "addr" : "彰化縣彰化市民生路338號",
     "neighbor" : "1-10",
@@ -7871,12 +7861,12 @@
     "liName" : "興北里"
   }, {
     "ScopeLiName" : "興北里",
-    "tboxNo" : "0361",
-    "tboxName" : "民生國小(民生路)(二)",
+    "tboxNo" : "0360",
+    "tboxName" : "民生國小(民生路)(一)",
     "liCode" : "003",
     "voter" : "03",
     "addr" : "彰化縣彰化市民生路338號",
-    "neighbor" : "11,15",
+    "neighbor" : "8",
     "deptCode" : "010",
     "liName" : "興北里"
   }, {
@@ -7887,6 +7877,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市民生路338號",
     "neighbor" : "11-15",
+    "deptCode" : "010",
+    "liName" : "興北里"
+  }, {
+    "ScopeLiName" : "興北里",
+    "tboxNo" : "0361",
+    "tboxName" : "民生國小(民生路)(二)",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市民生路338號",
+    "neighbor" : "11,15",
     "deptCode" : "010",
     "liName" : "興北里"
   }, {
@@ -7974,7 +7974,7 @@
     "tboxNo" : "0368",
     "tboxName" : "陽明國中(二)",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市長順街76號",
     "neighbor" : "20",
     "deptCode" : "010",
@@ -7994,7 +7994,7 @@
     "tboxNo" : "0368",
     "tboxName" : "陽明國中(二)",
     "liCode" : "006",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市長順街76號",
     "neighbor" : "20",
     "deptCode" : "010",
@@ -8024,16 +8024,6 @@
     "tboxNo" : "0371",
     "tboxName" : "彰化市老人文康中心(二)",
     "liCode" : "007",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市三民路436號",
-    "neighbor" : "18",
-    "deptCode" : "010",
-    "liName" : "萬安里"
-  }, {
-    "ScopeLiName" : "萬安里",
-    "tboxNo" : "0371",
-    "tboxName" : "彰化市老人文康中心(二)",
-    "liCode" : "007",
     "voter" : "01",
     "addr" : "彰化縣彰化市三民路436號",
     "neighbor" : "10,18-24",
@@ -8041,10 +8031,20 @@
     "liName" : "萬安里"
   }, {
     "ScopeLiName" : "萬安里",
+    "tboxNo" : "0371",
+    "tboxName" : "彰化市老人文康中心(二)",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市三民路436號",
+    "neighbor" : "18",
+    "deptCode" : "010",
+    "liName" : "萬安里"
+  }, {
+    "ScopeLiName" : "萬安里",
     "tboxNo" : "0372",
     "tboxName" : "陽明國中(四)",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市長順街76號",
     "neighbor" : "28",
     "deptCode" : "010",
@@ -8064,7 +8064,7 @@
     "tboxNo" : "0372",
     "tboxName" : "陽明國中(四)",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市長順街76號",
     "neighbor" : "28",
     "deptCode" : "010",
@@ -8074,7 +8074,7 @@
     "tboxNo" : "0373",
     "tboxName" : "彰泰國中(一)",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市自強路357號",
     "neighbor" : "1-5",
     "deptCode" : "010",
@@ -8094,7 +8094,7 @@
     "tboxNo" : "0373",
     "tboxName" : "彰泰國中(一)",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市自強路357號",
     "neighbor" : "1-5",
     "deptCode" : "010",
@@ -8154,16 +8154,6 @@
     "tboxNo" : "0376",
     "tboxName" : "彰泰國中(四)",
     "liCode" : "002",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市自強路357號",
-    "neighbor" : "17-22",
-    "deptCode" : "010",
-    "liName" : "下廍里"
-  }, {
-    "ScopeLiName" : "下廍里",
-    "tboxNo" : "0376",
-    "tboxName" : "彰泰國中(四)",
-    "liCode" : "002",
     "voter" : "02",
     "addr" : "彰化縣彰化市自強路357號",
     "neighbor" : "17-22",
@@ -8181,12 +8171,12 @@
     "liName" : "下廍里"
   }, {
     "ScopeLiName" : "下廍里",
-    "tboxNo" : "0377",
-    "tboxName" : "彰泰國中(五)",
+    "tboxNo" : "0376",
+    "tboxName" : "彰泰國中(四)",
     "liCode" : "002",
     "voter" : "03",
     "addr" : "彰化縣彰化市自強路357號",
-    "neighbor" : "24-28",
+    "neighbor" : "17-22",
     "deptCode" : "010",
     "liName" : "下廍里"
   }, {
@@ -8205,6 +8195,16 @@
     "tboxName" : "彰泰國中(五)",
     "liCode" : "002",
     "voter" : "01",
+    "addr" : "彰化縣彰化市自強路357號",
+    "neighbor" : "24-28",
+    "deptCode" : "010",
+    "liName" : "下廍里"
+  }, {
+    "ScopeLiName" : "下廍里",
+    "tboxNo" : "0377",
+    "tboxName" : "彰泰國中(五)",
+    "liCode" : "002",
+    "voter" : "03",
     "addr" : "彰化縣彰化市自強路357號",
     "neighbor" : "24-28",
     "deptCode" : "010",
@@ -8274,7 +8274,7 @@
     "tboxNo" : "0381",
     "tboxName" : "茄南社區活動中心(三)",
     "liCode" : "061",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市金馬路2段260號2樓",
     "neighbor" : "14",
     "deptCode" : "010",
@@ -8294,7 +8294,7 @@
     "tboxNo" : "0381",
     "tboxName" : "茄南社區活動中心(三)",
     "liCode" : "061",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市金馬路2段260號2樓",
     "neighbor" : "14",
     "deptCode" : "010",
@@ -8374,16 +8374,6 @@
     "tboxNo" : "0386",
     "tboxName" : "泰和國小（一）",
     "liCode" : "062",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市泰和路二段145巷1號",
-    "neighbor" : "27",
-    "deptCode" : "010",
-    "liName" : "阿夷里"
-  }, {
-    "ScopeLiName" : "阿夷里",
-    "tboxNo" : "0386",
-    "tboxName" : "泰和國小（一）",
-    "liCode" : "062",
     "voter" : "01",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
     "neighbor" : "1,19,21,27",
@@ -8401,12 +8391,12 @@
     "liName" : "阿夷里"
   }, {
     "ScopeLiName" : "阿夷里",
-    "tboxNo" : "0387",
-    "tboxName" : "泰和國小（二）",
+    "tboxNo" : "0386",
+    "tboxName" : "泰和國小（一）",
     "liCode" : "062",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
-    "neighbor" : "24",
+    "neighbor" : "27",
     "deptCode" : "010",
     "liName" : "阿夷里"
   }, {
@@ -8431,12 +8421,12 @@
     "liName" : "阿夷里"
   }, {
     "ScopeLiName" : "阿夷里",
-    "tboxNo" : "0388",
-    "tboxName" : "泰和國小（三）",
+    "tboxNo" : "0387",
+    "tboxName" : "泰和國小（二）",
     "liCode" : "062",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
-    "neighbor" : "8-10,17",
+    "neighbor" : "24",
     "deptCode" : "010",
     "liName" : "阿夷里"
   }, {
@@ -8447,6 +8437,16 @@
     "voter" : "03",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
     "neighbor" : "17",
+    "deptCode" : "010",
+    "liName" : "阿夷里"
+  }, {
+    "ScopeLiName" : "阿夷里",
+    "tboxNo" : "0388",
+    "tboxName" : "泰和國小（三）",
+    "liCode" : "062",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市泰和路二段145巷1號",
+    "neighbor" : "8-10,17",
     "deptCode" : "010",
     "liName" : "阿夷里"
   }, {
@@ -8464,7 +8464,7 @@
     "tboxNo" : "0390",
     "tboxName" : "泰和國小(五)",
     "liCode" : "062",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
     "neighbor" : "18,22",
     "deptCode" : "010",
@@ -8474,7 +8474,7 @@
     "tboxNo" : "0390",
     "tboxName" : "泰和國小(五)",
     "liCode" : "062",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市泰和路二段145巷1號",
     "neighbor" : "18,22",
     "deptCode" : "010",
@@ -8544,16 +8544,6 @@
     "tboxNo" : "0394",
     "tboxName" : "師大附工（二）",
     "liCode" : "065",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市工校街1號",
-    "neighbor" : "8-14",
-    "deptCode" : "010",
-    "liName" : "和調里"
-  }, {
-    "ScopeLiName" : "和調里",
-    "tboxNo" : "0394",
-    "tboxName" : "師大附工（二）",
-    "liCode" : "065",
     "voter" : "03",
     "addr" : "彰化縣彰化市工校街1號",
     "neighbor" : "8",
@@ -8561,12 +8551,12 @@
     "liName" : "和調里"
   }, {
     "ScopeLiName" : "和調里",
-    "tboxNo" : "0395",
-    "tboxName" : "師大附工（三）",
+    "tboxNo" : "0394",
+    "tboxName" : "師大附工（二）",
     "liCode" : "065",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市工校街1號",
-    "neighbor" : "20",
+    "neighbor" : "8-14",
     "deptCode" : "010",
     "liName" : "和調里"
   }, {
@@ -8577,6 +8567,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市工校街1號",
     "neighbor" : "15-20",
+    "deptCode" : "010",
+    "liName" : "和調里"
+  }, {
+    "ScopeLiName" : "和調里",
+    "tboxNo" : "0395",
+    "tboxName" : "師大附工（三）",
+    "liCode" : "065",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市工校街1號",
+    "neighbor" : "20",
     "deptCode" : "010",
     "liName" : "和調里"
   }, {
@@ -8614,16 +8614,6 @@
     "tboxNo" : "0398",
     "tboxName" : "朝天堂",
     "liCode" : "064",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市竹和路77號",
-    "neighbor" : "15,17",
-    "deptCode" : "010",
-    "liName" : "復興里"
-  }, {
-    "ScopeLiName" : "復興里",
-    "tboxNo" : "0398",
-    "tboxName" : "朝天堂",
-    "liCode" : "064",
     "voter" : "03",
     "addr" : "彰化縣彰化市竹和路77號",
     "neighbor" : "15,17",
@@ -8637,6 +8627,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市竹和路77號",
     "neighbor" : "13-17,23",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0398",
+    "tboxName" : "朝天堂",
+    "liCode" : "064",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市竹和路77號",
+    "neighbor" : "15,17",
     "deptCode" : "010",
     "liName" : "復興里"
   }, {
@@ -8664,16 +8664,6 @@
     "tboxNo" : "0400",
     "tboxName" : "清雲寺",
     "liCode" : "056",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市中山路3段410巷13號",
-    "neighbor" : "1,7-14",
-    "deptCode" : "010",
-    "liName" : "中庄里"
-  }, {
-    "ScopeLiName" : "中庄里",
-    "tboxNo" : "0400",
-    "tboxName" : "清雲寺",
-    "liCode" : "056",
     "voter" : "03",
     "addr" : "彰化縣彰化市中山路3段410巷13號",
     "neighbor" : "1,14",
@@ -8684,6 +8674,16 @@
     "tboxNo" : "0400",
     "tboxName" : "清雲寺",
     "liCode" : "056",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市中山路3段410巷13號",
+    "neighbor" : "1,7-14",
+    "deptCode" : "010",
+    "liName" : "中庄里"
+  }, {
+    "ScopeLiName" : "中庄里",
+    "tboxNo" : "0400",
+    "tboxName" : "清雲寺",
+    "liCode" : "056",
     "voter" : "02",
     "addr" : "彰化縣彰化市中山路3段410巷13號",
     "neighbor" : "1,14",
@@ -8694,7 +8694,7 @@
     "tboxNo" : "0401",
     "tboxName" : "福壽廟",
     "liCode" : "056",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣彰化市中山路三段410巷21之2號旁",
     "neighbor" : "2-6,15,16",
     "deptCode" : "010",
@@ -8704,7 +8704,7 @@
     "tboxNo" : "0401",
     "tboxName" : "福壽廟",
     "liCode" : "056",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣彰化市中山路三段410巷21之2號旁",
     "neighbor" : "2-6,15,16",
     "deptCode" : "010",
@@ -8724,9 +8724,9 @@
     "tboxNo" : "0403",
     "tboxName" : "台灣基督長老教會梅鑒霧紀念教會",
     "liCode" : "051",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市彰南路2段55巷6號",
-    "neighbor" : "3-7",
+    "neighbor" : "3",
     "deptCode" : "010",
     "liName" : "竹中里"
   }, {
@@ -8734,21 +8734,11 @@
     "tboxNo" : "0403",
     "tboxName" : "台灣基督長老教會梅鑒霧紀念教會",
     "liCode" : "051",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市彰南路2段55巷6號",
-    "neighbor" : "3",
+    "neighbor" : "3-7",
     "deptCode" : "010",
     "liName" : "竹中里"
-  }, {
-    "ScopeLiName" : "香山里",
-    "tboxNo" : "0404",
-    "tboxName" : "彰德國中（一）",
-    "liCode" : "053",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市彰南路二段512巷97號",
-    "neighbor" : "1-6",
-    "deptCode" : "010",
-    "liName" : "香山里"
   }, {
     "ScopeLiName" : "香山里",
     "tboxNo" : "0404",
@@ -8757,6 +8747,16 @@
     "voter" : "03",
     "addr" : "彰化縣彰化市彰南路二段512巷97號",
     "neighbor" : "6",
+    "deptCode" : "010",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0404",
+    "tboxName" : "彰德國中（一）",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市彰南路二段512巷97號",
+    "neighbor" : "1-6",
     "deptCode" : "010",
     "liName" : "香山里"
   }, {
@@ -8774,41 +8774,31 @@
     "tboxNo" : "0406",
     "tboxName" : "彰德國中（三）",
     "liCode" : "053",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市香山里彰南路二段512巷97號",
-    "neighbor" : "16",
-    "deptCode" : "010",
-    "liName" : "香山里"
-  }, {
-    "ScopeLiName" : "香山里",
-    "tboxNo" : "0406",
-    "tboxName" : "彰德國中（三）",
-    "liCode" : "053",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市香山里彰南路二段512巷97號",
-    "neighbor" : "16",
-    "deptCode" : "010",
-    "liName" : "香山里"
-  }, {
-    "ScopeLiName" : "香山里",
-    "tboxNo" : "0406",
-    "tboxName" : "彰德國中（三）",
-    "liCode" : "053",
     "voter" : "01",
     "addr" : "彰化縣彰化市香山里彰南路二段512巷97號",
     "neighbor" : "13-16",
     "deptCode" : "010",
     "liName" : "香山里"
   }, {
-    "ScopeLiName" : "牛埔里",
-    "tboxNo" : "0407",
-    "tboxName" : "牛埔社區守望相助隊",
-    "liCode" : "054",
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0406",
+    "tboxName" : "彰德國中（三）",
+    "liCode" : "053",
     "voter" : "03",
-    "addr" : "彰化縣彰化市牛埔里彰南路3段226號",
-    "neighbor" : "5,3,7",
+    "addr" : "彰化縣彰化市香山里彰南路二段512巷97號",
+    "neighbor" : "16",
     "deptCode" : "010",
-    "liName" : "牛埔里"
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0406",
+    "tboxName" : "彰德國中（三）",
+    "liCode" : "053",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市香山里彰南路二段512巷97號",
+    "neighbor" : "16",
+    "deptCode" : "010",
+    "liName" : "香山里"
   }, {
     "ScopeLiName" : "牛埔里",
     "tboxNo" : "0407",
@@ -8817,6 +8807,16 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市牛埔里彰南路3段226號",
     "neighbor" : "1-5,7",
+    "deptCode" : "010",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0407",
+    "tboxName" : "牛埔社區守望相助隊",
+    "liCode" : "054",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市牛埔里彰南路3段226號",
+    "neighbor" : "5,3,7",
     "deptCode" : "010",
     "liName" : "牛埔里"
   }, {
@@ -8854,16 +8854,6 @@
     "tboxNo" : "0409",
     "tboxName" : "外快官老人會",
     "liCode" : "054",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市牛埔里一德南路31巷29之1號",
-    "neighbor" : "9",
-    "deptCode" : "010",
-    "liName" : "牛埔里"
-  }, {
-    "ScopeLiName" : "牛埔里",
-    "tboxNo" : "0409",
-    "tboxName" : "外快官老人會",
-    "liCode" : "054",
     "voter" : "01",
     "addr" : "彰化縣彰化市牛埔里一德南路31巷29之1號",
     "neighbor" : "8-11",
@@ -8880,6 +8870,26 @@
     "deptCode" : "010",
     "liName" : "牛埔里"
   }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0409",
+    "tboxName" : "外快官老人會",
+    "liCode" : "054",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市牛埔里一德南路31巷29之1號",
+    "neighbor" : "9",
+    "deptCode" : "010",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "台鳳里",
+    "tboxNo" : "0410",
+    "tboxName" : "廣鳳宮後活動中心",
+    "liCode" : "071",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
+    "neighbor" : "1,3,4,8",
+    "deptCode" : "010",
+    "liName" : "台鳳里"
+  }, {
     "ScopeLiName" : "台鳳里",
     "tboxNo" : "0410",
     "tboxName" : "廣鳳宮後活動中心",
@@ -8901,12 +8911,12 @@
     "liName" : "台鳳里"
   }, {
     "ScopeLiName" : "台鳳里",
-    "tboxNo" : "0410",
-    "tboxName" : "廣鳳宮後活動中心",
+    "tboxNo" : "0411",
+    "tboxName" : "台鳳社區活動中心",
     "liCode" : "071",
     "voter" : "02",
     "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
-    "neighbor" : "1,3,4,8",
+    "neighbor" : "5,6,7",
     "deptCode" : "010",
     "liName" : "台鳳里"
   }, {
@@ -8924,19 +8934,29 @@
     "tboxNo" : "0411",
     "tboxName" : "台鳳社區活動中心",
     "liCode" : "071",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
     "neighbor" : "5,6,7",
     "deptCode" : "010",
     "liName" : "台鳳里"
   }, {
     "ScopeLiName" : "台鳳里",
-    "tboxNo" : "0411",
-    "tboxName" : "台鳳社區活動中心",
+    "tboxNo" : "0412",
+    "tboxName" : "廣鳳宮",
+    "liCode" : "071",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
+    "neighbor" : "2,12",
+    "deptCode" : "010",
+    "liName" : "台鳳里"
+  }, {
+    "ScopeLiName" : "台鳳里",
+    "tboxNo" : "0412",
+    "tboxName" : "廣鳳宮",
     "liCode" : "071",
     "voter" : "03",
     "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
-    "neighbor" : "5,6,7",
+    "neighbor" : "2,12",
     "deptCode" : "010",
     "liName" : "台鳳里"
   }, {
@@ -8951,30 +8971,10 @@
     "liName" : "台鳳里"
   }, {
     "ScopeLiName" : "台鳳里",
-    "tboxNo" : "0412",
-    "tboxName" : "廣鳳宮",
-    "liCode" : "071",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
-    "neighbor" : "2,12",
-    "deptCode" : "010",
-    "liName" : "台鳳里"
-  }, {
-    "ScopeLiName" : "台鳳里",
-    "tboxNo" : "0412",
-    "tboxName" : "廣鳳宮",
-    "liCode" : "071",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
-    "neighbor" : "2,12",
-    "deptCode" : "010",
-    "liName" : "台鳳里"
-  }, {
-    "ScopeLiName" : "台鳳里",
     "tboxNo" : "0413",
     "tboxName" : "廣鳳宮文教中心",
     "liCode" : "071",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
     "neighbor" : "11,14,15,16",
     "deptCode" : "010",
@@ -8984,7 +8984,7 @@
     "tboxNo" : "0413",
     "tboxName" : "廣鳳宮文教中心",
     "liCode" : "071",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市台鳳里互助一街臨42號",
     "neighbor" : "11,14,15,16",
     "deptCode" : "010",
@@ -9024,6 +9024,16 @@
     "tboxNo" : "0415",
     "tboxName" : "國聖社區活動中心",
     "liCode" : "058",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市國聖路175巷137號",
+    "neighbor" : "8,9",
+    "deptCode" : "010",
+    "liName" : "國聖里"
+  }, {
+    "ScopeLiName" : "國聖里",
+    "tboxNo" : "0415",
+    "tboxName" : "國聖社區活動中心",
+    "liCode" : "058",
     "voter" : "01",
     "addr" : "彰化縣彰化市國聖路175巷137號",
     "neighbor" : "5-9",
@@ -9035,16 +9045,6 @@
     "tboxName" : "國聖社區活動中心",
     "liCode" : "058",
     "voter" : "02",
-    "addr" : "彰化縣彰化市國聖路175巷137號",
-    "neighbor" : "8,9",
-    "deptCode" : "010",
-    "liName" : "國聖里"
-  }, {
-    "ScopeLiName" : "國聖里",
-    "tboxNo" : "0415",
-    "tboxName" : "國聖社區活動中心",
-    "liCode" : "058",
-    "voter" : "03",
     "addr" : "彰化縣彰化市國聖路175巷137號",
     "neighbor" : "8,9",
     "deptCode" : "010",
@@ -9064,16 +9064,6 @@
     "tboxNo" : "0417",
     "tboxName" : "洪忠景民宅",
     "liCode" : "055",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市福山里彰南路一段300巷19號",
-    "neighbor" : "3",
-    "deptCode" : "010",
-    "liName" : "福山里"
-  }, {
-    "ScopeLiName" : "福山里",
-    "tboxNo" : "0417",
-    "tboxName" : "洪忠景民宅",
-    "liCode" : "055",
     "voter" : "01",
     "addr" : "彰化縣彰化市福山里彰南路一段300巷19號",
     "neighbor" : "1-6",
@@ -9084,19 +9074,19 @@
     "tboxNo" : "0417",
     "tboxName" : "洪忠景民宅",
     "liCode" : "055",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市福山里彰南路一段300巷19號",
     "neighbor" : "3",
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
     "ScopeLiName" : "福山里",
-    "tboxNo" : "0418",
-    "tboxName" : "福壽堂",
+    "tboxNo" : "0417",
+    "tboxName" : "洪忠景民宅",
     "liCode" : "055",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市彰南路1段300巷36號",
-    "neighbor" : "7-12",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市福山里彰南路一段300巷19號",
+    "neighbor" : "3",
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
@@ -9121,12 +9111,12 @@
     "liName" : "福山里"
   }, {
     "ScopeLiName" : "福山里",
-    "tboxNo" : "0419",
-    "tboxName" : "玉皇宮一樓(一)",
+    "tboxNo" : "0418",
+    "tboxName" : "福壽堂",
     "liCode" : "055",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市福山里福山街168號",
-    "neighbor" : "16",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市彰南路1段300巷36號",
+    "neighbor" : "7-12",
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
@@ -9151,12 +9141,12 @@
     "liName" : "福山里"
   }, {
     "ScopeLiName" : "福山里",
-    "tboxNo" : "0420",
-    "tboxName" : "玉皇宮一樓(二)",
+    "tboxNo" : "0419",
+    "tboxName" : "玉皇宮一樓(一)",
     "liCode" : "055",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市福山里福山街168號",
-    "neighbor" : "20,21",
+    "neighbor" : "16",
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
@@ -9174,6 +9164,16 @@
     "tboxNo" : "0420",
     "tboxName" : "玉皇宮一樓(二)",
     "liCode" : "055",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市福山里福山街168號",
+    "neighbor" : "20,21",
+    "deptCode" : "010",
+    "liName" : "福山里"
+  }, {
+    "ScopeLiName" : "福山里",
+    "tboxNo" : "0420",
+    "tboxName" : "玉皇宮一樓(二)",
+    "liCode" : "055",
     "voter" : "02",
     "addr" : "彰化縣彰化市福山里福山街168號",
     "neighbor" : "20,21",
@@ -9194,7 +9194,7 @@
     "tboxNo" : "0421",
     "tboxName" : "玉皇宮二樓",
     "liCode" : "055",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市福山里福山街168號",
     "neighbor" : "25-28,33",
     "deptCode" : "010",
@@ -9204,19 +9204,9 @@
     "tboxNo" : "0421",
     "tboxName" : "玉皇宮二樓",
     "liCode" : "055",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市福山里福山街168號",
     "neighbor" : "25-28,33",
-    "deptCode" : "010",
-    "liName" : "福山里"
-  }, {
-    "ScopeLiName" : "福山里",
-    "tboxNo" : "0422",
-    "tboxName" : "福山里民集會所(原福山托兒所)",
-    "liCode" : "055",
-    "voter" : "03",
-    "addr" : "彰化縣彰化市福山里彰南路一段300巷89號",
-    "neighbor" : "31",
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
@@ -9230,15 +9220,15 @@
     "deptCode" : "010",
     "liName" : "福山里"
   }, {
-    "ScopeLiName" : "安溪里",
-    "tboxNo" : "0423",
-    "tboxName" : "安溪社區活動中心(一)",
-    "liCode" : "052",
-    "voter" : "01",
-    "addr" : "彰化縣彰化市安溪里安溪路81巷5號",
-    "neighbor" : "1-4,13-14",
+    "ScopeLiName" : "福山里",
+    "tboxNo" : "0422",
+    "tboxName" : "福山里民集會所(原福山托兒所)",
+    "liCode" : "055",
+    "voter" : "03",
+    "addr" : "彰化縣彰化市福山里彰南路一段300巷89號",
+    "neighbor" : "31",
     "deptCode" : "010",
-    "liName" : "安溪里"
+    "liName" : "福山里"
   }, {
     "ScopeLiName" : "安溪里",
     "tboxNo" : "0423",
@@ -9247,6 +9237,16 @@
     "voter" : "02",
     "addr" : "彰化縣彰化市安溪里安溪路81巷5號",
     "neighbor" : "14",
+    "deptCode" : "010",
+    "liName" : "安溪里"
+  }, {
+    "ScopeLiName" : "安溪里",
+    "tboxNo" : "0423",
+    "tboxName" : "安溪社區活動中心(一)",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "彰化縣彰化市安溪里安溪路81巷5號",
+    "neighbor" : "1-4,13-14",
     "deptCode" : "010",
     "liName" : "安溪里"
   }, {
@@ -9264,7 +9264,7 @@
     "tboxNo" : "0424",
     "tboxName" : "安溪社區活動中心(二)",
     "liCode" : "052",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市安溪里安溪路81巷5號",
     "neighbor" : "11,12",
     "deptCode" : "010",
@@ -9274,11 +9274,21 @@
     "tboxNo" : "0424",
     "tboxName" : "安溪社區活動中心(二)",
     "liCode" : "052",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市安溪里安溪路81巷5號",
     "neighbor" : "11,12",
     "deptCode" : "010",
     "liName" : "安溪里"
+  }, {
+    "ScopeLiName" : "三村里",
+    "tboxNo" : "0425",
+    "tboxName" : "三村社區活動中心",
+    "liCode" : "057",
+    "voter" : "02",
+    "addr" : "彰化縣彰化市三村路836巷57號",
+    "neighbor" : "3,6,7,8",
+    "deptCode" : "010",
+    "liName" : "三村里"
   }, {
     "ScopeLiName" : "三村里",
     "tboxNo" : "0425",
@@ -9297,16 +9307,6 @@
     "voter" : "01",
     "addr" : "彰化縣彰化市三村路836巷57號",
     "neighbor" : "三村里",
-    "deptCode" : "010",
-    "liName" : "三村里"
-  }, {
-    "ScopeLiName" : "三村里",
-    "tboxNo" : "0425",
-    "tboxName" : "三村社區活動中心",
-    "liCode" : "057",
-    "voter" : "02",
-    "addr" : "彰化縣彰化市三村路836巷57號",
-    "neighbor" : "3,6,7,8",
     "deptCode" : "010",
     "liName" : "三村里"
   }, {
@@ -9374,7 +9374,7 @@
     "tboxNo" : "0430",
     "tboxName" : "大快官藝文館(一)",
     "liCode" : "070",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣彰化市彰南路五段8號",
     "neighbor" : "3,7",
     "deptCode" : "010",
@@ -9394,7 +9394,7 @@
     "tboxNo" : "0430",
     "tboxName" : "大快官藝文館(一)",
     "liCode" : "070",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣彰化市彰南路五段8號",
     "neighbor" : "3,7",
     "deptCode" : "010",
@@ -9414,9 +9414,9 @@
     "tboxNo" : "0432",
     "tboxName" : "福田社區活動中心",
     "liCode" : "067",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣彰化市福田一路51巷122號旁",
-    "neighbor" : "福田里",
+    "neighbor" : "6",
     "deptCode" : "010",
     "liName" : "福田里"
   }, {
@@ -9434,9 +9434,9 @@
     "tboxNo" : "0432",
     "tboxName" : "福田社區活動中心",
     "liCode" : "067",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣彰化市福田一路51巷122號旁",
-    "neighbor" : "6",
+    "neighbor" : "福田里",
     "deptCode" : "010",
     "liName" : "福田里"
   }, {
@@ -9544,7 +9544,7 @@
     "tboxNo" : "0442",
     "tboxName" : "文祥國小教室",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉劉厝村明德街131號",
     "neighbor" : "劉厝村",
     "deptCode" : "080",
@@ -9554,7 +9554,7 @@
     "tboxNo" : "0442",
     "tboxName" : "文祥國小教室",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉劉厝村明德街131號",
     "neighbor" : "劉厝村",
     "deptCode" : "080",
@@ -9754,7 +9754,7 @@
     "tboxNo" : "0460",
     "tboxName" : "橋頭村〈新〉活動中心",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉橋頭村花橋街117-1號",
     "neighbor" : "1-6,9-13",
     "deptCode" : "080",
@@ -9764,7 +9764,7 @@
     "tboxNo" : "0460",
     "tboxName" : "橋頭村〈新〉活動中心",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉橋頭村花橋街117-1號",
     "neighbor" : "1-6,9-13",
     "deptCode" : "080",
@@ -9794,7 +9794,7 @@
     "tboxNo" : "0462",
     "tboxName" : "橋頭村靈安宮(長昇社區內)",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉橋頭村17鄰長昇街98之1號",
     "neighbor" : "7,8,17-19",
     "deptCode" : "080",
@@ -9804,7 +9804,7 @@
     "tboxNo" : "0462",
     "tboxName" : "橋頭村靈安宮(長昇社區內)",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉橋頭村17鄰長昇街98之1號",
     "neighbor" : "7,8,17-19",
     "deptCode" : "080",
@@ -9814,7 +9814,7 @@
     "tboxNo" : "0463",
     "tboxName" : "灣雅村活動中心",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉灣雅村彰員路一段852號",
     "neighbor" : "灣雅村",
     "deptCode" : "080",
@@ -9824,7 +9824,7 @@
     "tboxNo" : "0463",
     "tboxName" : "灣雅村活動中心",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉灣雅村彰員路一段852號",
     "neighbor" : "灣雅村",
     "deptCode" : "080",
@@ -9834,7 +9834,7 @@
     "tboxNo" : "0464",
     "tboxName" : "灣東村集會所",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉灣東村隴西二巷62號對面",
     "neighbor" : "灣東村",
     "deptCode" : "080",
@@ -9844,7 +9844,7 @@
     "tboxNo" : "0464",
     "tboxName" : "灣東村集會所",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉灣東村隴西二巷62號對面",
     "neighbor" : "灣東村",
     "deptCode" : "080",
@@ -9854,7 +9854,7 @@
     "tboxNo" : "0465",
     "tboxName" : "三春村活動中心",
     "liCode" : "016",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉三春村八鄰溪埔路2號",
     "neighbor" : "1-4,6-8",
     "deptCode" : "080",
@@ -9864,7 +9864,7 @@
     "tboxNo" : "0465",
     "tboxName" : "三春村活動中心",
     "liCode" : "016",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉三春村八鄰溪埔路2號",
     "neighbor" : "1-4,6-8",
     "deptCode" : "080",
@@ -9874,7 +9874,7 @@
     "tboxNo" : "0466",
     "tboxName" : "三春國小",
     "liCode" : "016",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉三春村三芬路47號",
     "neighbor" : "5,9-13",
     "deptCode" : "080",
@@ -9884,7 +9884,7 @@
     "tboxNo" : "0466",
     "tboxName" : "三春國小",
     "liCode" : "016",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉三春村三芬路47號",
     "neighbor" : "5,9-13",
     "deptCode" : "080",
@@ -9894,7 +9894,7 @@
     "tboxNo" : "0467",
     "tboxName" : "老人文康活動中心(一)",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉永春村長青路25號",
     "neighbor" : "1-9",
     "deptCode" : "080",
@@ -9904,7 +9904,7 @@
     "tboxNo" : "0467",
     "tboxName" : "老人文康活動中心(一)",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉永春村長青路25號",
     "neighbor" : "1-9",
     "deptCode" : "080",
@@ -9914,7 +9914,7 @@
     "tboxNo" : "0468",
     "tboxName" : "老人文康活動中心(二)",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣花壇鄉永春村長青路25號",
     "neighbor" : "10-14",
     "deptCode" : "080",
@@ -9924,7 +9924,7 @@
     "tboxNo" : "0468",
     "tboxName" : "老人文康活動中心(二)",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣花壇鄉永春村長青路25號",
     "neighbor" : "10-14",
     "deptCode" : "080",
@@ -10014,16 +10014,6 @@
     "tboxNo" : "0475",
     "tboxName" : "竹林社區活動中心",
     "liCode" : "003",
-    "voter" : "03",
-    "addr" : "彰化縣芬園鄉竹林村太平路77巷12號",
-    "neighbor" : "6",
-    "deptCode" : "090",
-    "liName" : "竹林村"
-  }, {
-    "ScopeLiName" : "竹林村",
-    "tboxNo" : "0475",
-    "tboxName" : "竹林社區活動中心",
-    "liCode" : "003",
     "voter" : "01",
     "addr" : "彰化縣芬園鄉竹林村太平路77巷12號",
     "neighbor" : "1-10",
@@ -10031,12 +10021,12 @@
     "liName" : "竹林村"
   }, {
     "ScopeLiName" : "竹林村",
-    "tboxNo" : "0476",
-    "tboxName" : "芬園鄉農會",
+    "tboxNo" : "0475",
+    "tboxName" : "竹林社區活動中心",
     "liCode" : "003",
-    "voter" : "01",
-    "addr" : "彰化縣芬園鄉竹林村彰南路4段337號",
-    "neighbor" : "11-19",
+    "voter" : "03",
+    "addr" : "彰化縣芬園鄉竹林村太平路77巷12號",
+    "neighbor" : "6",
     "deptCode" : "090",
     "liName" : "竹林村"
   }, {
@@ -10047,6 +10037,16 @@
     "voter" : "03",
     "addr" : "彰化縣芬園鄉竹林村彰南路4段337號",
     "neighbor" : "18",
+    "deptCode" : "090",
+    "liName" : "竹林村"
+  }, {
+    "ScopeLiName" : "竹林村",
+    "tboxNo" : "0476",
+    "tboxName" : "芬園鄉農會",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "彰化縣芬園鄉竹林村彰南路4段337號",
+    "neighbor" : "11-19",
     "deptCode" : "090",
     "liName" : "竹林村"
   }, {
@@ -10154,9 +10154,9 @@
     "tboxNo" : "0484",
     "tboxName" : "芬園國小(三)",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣芬園鄉社口村彰南路四段27巷28號",
-    "neighbor" : "芬園村",
+    "neighbor" : "10",
     "deptCode" : "090",
     "liName" : "芬園村"
   }, {
@@ -10164,21 +10164,11 @@
     "tboxNo" : "0484",
     "tboxName" : "芬園國小(三)",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣芬園鄉社口村彰南路四段27巷28號",
-    "neighbor" : "10",
+    "neighbor" : "芬園村",
     "deptCode" : "090",
     "liName" : "芬園村"
-  }, {
-    "ScopeLiName" : "縣庄村",
-    "tboxNo" : "0485",
-    "tboxName" : "縣庄社區活動中心",
-    "liCode" : "008",
-    "voter" : "03",
-    "addr" : "彰化縣芬園鄉縣庄村彰南路二段385巷21號",
-    "neighbor" : "6",
-    "deptCode" : "090",
-    "liName" : "縣庄村"
   }, {
     "ScopeLiName" : "縣庄村",
     "tboxNo" : "0485",
@@ -10187,6 +10177,16 @@
     "voter" : "01",
     "addr" : "彰化縣芬園鄉縣庄村彰南路二段385巷21號",
     "neighbor" : "縣庄村",
+    "deptCode" : "090",
+    "liName" : "縣庄村"
+  }, {
+    "ScopeLiName" : "縣庄村",
+    "tboxNo" : "0485",
+    "tboxName" : "縣庄社區活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "彰化縣芬園鄉縣庄村彰南路二段385巷21號",
+    "neighbor" : "6",
     "deptCode" : "090",
     "liName" : "縣庄村"
   }, {
@@ -10214,9 +10214,9 @@
     "tboxNo" : "0488",
     "tboxName" : "靈安宮",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣芬園鄉溪頭村碧園路1段21號",
-    "neighbor" : "14-22",
+    "neighbor" : "15,22",
     "deptCode" : "090",
     "liName" : "溪頭村"
   }, {
@@ -10224,9 +10224,9 @@
     "tboxNo" : "0488",
     "tboxName" : "靈安宮",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣芬園鄉溪頭村碧園路1段21號",
-    "neighbor" : "15,22",
+    "neighbor" : "14-22",
     "deptCode" : "090",
     "liName" : "溪頭村"
   }, {
@@ -10264,9 +10264,9 @@
     "tboxNo" : "0491",
     "tboxName" : "同安國小",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣芬園鄉中崙村大彰路二段400巷36號",
-    "neighbor" : "中崙村",
+    "neighbor" : "16",
     "deptCode" : "090",
     "liName" : "中崙村"
   }, {
@@ -10274,9 +10274,9 @@
     "tboxNo" : "0491",
     "tboxName" : "同安國小",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣芬園鄉中崙村大彰路二段400巷36號",
-    "neighbor" : "16",
+    "neighbor" : "中崙村",
     "deptCode" : "090",
     "liName" : "中崙村"
   }, {
@@ -10304,16 +10304,6 @@
     "tboxNo" : "0493",
     "tboxName" : "芳苑社區活動中心",
     "liCode" : "001",
-    "voter" : "01",
-    "addr" : "彰化縣芳苑鄉芳苑村芳漢路芳苑段 芳苑國小右側 ",
-    "neighbor" : "芳苑村",
-    "deptCode" : "230",
-    "liName" : "芳苑村"
-  }, {
-    "ScopeLiName" : "芳苑村",
-    "tboxNo" : "0493",
-    "tboxName" : "芳苑社區活動中心",
-    "liCode" : "001",
     "voter" : "02",
     "addr" : "彰化縣芳苑鄉芳苑村芳漢路芳苑段 芳苑國小右側 ",
     "neighbor" : "芳苑村",
@@ -10325,6 +10315,16 @@
     "tboxName" : "芳苑社區活動中心",
     "liCode" : "001",
     "voter" : "03",
+    "addr" : "彰化縣芳苑鄉芳苑村芳漢路芳苑段 芳苑國小右側 ",
+    "neighbor" : "芳苑村",
+    "deptCode" : "230",
+    "liName" : "芳苑村"
+  }, {
+    "ScopeLiName" : "芳苑村",
+    "tboxNo" : "0493",
+    "tboxName" : "芳苑社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉芳苑村芳漢路芳苑段 芳苑國小右側 ",
     "neighbor" : "芳苑村",
     "deptCode" : "230",
@@ -10404,9 +10404,9 @@
     "tboxNo" : "0498",
     "tboxName" : "三合社區活動中心",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉三合村斗苑路三合段238巷86號",
-    "neighbor" : "三合村",
+    "neighbor" : "1-4,6,8,11,12,14,15",
     "deptCode" : "230",
     "liName" : "三合村"
   }, {
@@ -10424,9 +10424,9 @@
     "tboxNo" : "0498",
     "tboxName" : "三合社區活動中心",
     "liCode" : "006",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉三合村斗苑路三合段238巷86號",
-    "neighbor" : "1-4,6,8,11,12,14,15",
+    "neighbor" : "三合村",
     "deptCode" : "230",
     "liName" : "三合村"
   }, {
@@ -10484,7 +10484,7 @@
     "tboxNo" : "0502",
     "tboxName" : "玄武宮膳宿堂",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉新街村新上路１號",
     "neighbor" : "新街村",
     "deptCode" : "230",
@@ -10494,7 +10494,7 @@
     "tboxNo" : "0502",
     "tboxName" : "玄武宮膳宿堂",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉新街村新上路１號",
     "neighbor" : "新街村",
     "deptCode" : "230",
@@ -10504,7 +10504,7 @@
     "tboxNo" : "0503",
     "tboxName" : "路上國小",
     "liCode" : "009",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉路上村新上路１２號",
     "neighbor" : "路上村",
     "deptCode" : "230",
@@ -10514,7 +10514,7 @@
     "tboxNo" : "0503",
     "tboxName" : "路上國小",
     "liCode" : "009",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉路上村新上路１２號",
     "neighbor" : "路上村",
     "deptCode" : "230",
@@ -10544,7 +10544,7 @@
     "tboxNo" : "0505",
     "tboxName" : "新謝祖厝",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉三成村小西路5-1號",
     "neighbor" : "三成村",
     "deptCode" : "230",
@@ -10554,7 +10554,7 @@
     "tboxNo" : "0505",
     "tboxName" : "新謝祖厝",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉三成村小西路5-1號",
     "neighbor" : "三成村",
     "deptCode" : "230",
@@ -10594,6 +10594,16 @@
     "tboxNo" : "0508",
     "tboxName" : "王功國小1",
     "liCode" : "015",
+    "voter" : "03",
+    "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
+    "neighbor" : "王功村",
+    "deptCode" : "230",
+    "liName" : "王功村"
+  }, {
+    "ScopeLiName" : "王功村",
+    "tboxNo" : "0508",
+    "tboxName" : "王功國小1",
+    "liCode" : "015",
     "voter" : "01",
     "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
     "neighbor" : "1-9",
@@ -10611,10 +10621,20 @@
     "liName" : "王功村"
   }, {
     "ScopeLiName" : "王功村",
-    "tboxNo" : "0508",
-    "tboxName" : "王功國小1",
+    "tboxNo" : "0509",
+    "tboxName" : "王功國小2",
     "liCode" : "015",
     "voter" : "03",
+    "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
+    "neighbor" : "王功村",
+    "deptCode" : "230",
+    "liName" : "王功村"
+  }, {
+    "ScopeLiName" : "王功村",
+    "tboxNo" : "0509",
+    "tboxName" : "王功國小2",
+    "liCode" : "015",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
     "neighbor" : "王功村",
     "deptCode" : "230",
@@ -10630,31 +10650,11 @@
     "deptCode" : "230",
     "liName" : "王功村"
   }, {
-    "ScopeLiName" : "王功村",
-    "tboxNo" : "0509",
-    "tboxName" : "王功國小2",
-    "liCode" : "015",
-    "voter" : "02",
-    "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
-    "neighbor" : "王功村",
-    "deptCode" : "230",
-    "liName" : "王功村"
-  }, {
-    "ScopeLiName" : "王功村",
-    "tboxNo" : "0509",
-    "tboxName" : "王功國小2",
-    "liCode" : "015",
-    "voter" : "03",
-    "addr" : "彰化縣芳苑鄉王功村功湖路王功段４８１號",
-    "neighbor" : "王功村",
-    "deptCode" : "230",
-    "liName" : "王功村"
-  }, {
     "ScopeLiName" : "博愛村",
     "tboxNo" : "0510",
     "tboxName" : "博愛社區活動中心",
     "liCode" : "016",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉博愛村北頭巷８號",
     "neighbor" : "博愛村",
     "deptCode" : "230",
@@ -10664,7 +10664,7 @@
     "tboxNo" : "0510",
     "tboxName" : "博愛社區活動中心",
     "liCode" : "016",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉博愛村北頭巷８號",
     "neighbor" : "博愛村",
     "deptCode" : "230",
@@ -10694,7 +10694,7 @@
     "tboxNo" : "0512",
     "tboxName" : "林姓宗祠",
     "liCode" : "019",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣芳苑鄉興仁村光正巷6號旁",
     "neighbor" : "1-7",
     "deptCode" : "230",
@@ -10704,7 +10704,7 @@
     "tboxNo" : "0512",
     "tboxName" : "林姓宗祠",
     "liCode" : "019",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉興仁村光正巷6號旁",
     "neighbor" : "1-7",
     "deptCode" : "230",
@@ -10754,7 +10754,7 @@
     "tboxNo" : "0515",
     "tboxName" : "新寶國小",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣芳苑鄉新寶村芳漢路新寶段129巷100號",
     "neighbor" : "新寶村",
     "deptCode" : "230",
@@ -10764,7 +10764,7 @@
     "tboxNo" : "0515",
     "tboxName" : "新寶國小",
     "liCode" : "020",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉新寶村芳漢路新寶段129巷100號",
     "neighbor" : "新寶村",
     "deptCode" : "230",
@@ -10814,7 +10814,7 @@
     "tboxNo" : "0518",
     "tboxName" : "草湖國中",
     "liCode" : "021",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣芳苑鄉草湖村功湖路草湖段140號",
     "neighbor" : "草湖村",
     "deptCode" : "230",
@@ -10824,7 +10824,7 @@
     "tboxNo" : "0518",
     "tboxName" : "草湖國中",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉草湖村功湖路草湖段140號",
     "neighbor" : "草湖村",
     "deptCode" : "230",
@@ -10844,9 +10844,9 @@
     "tboxNo" : "0520",
     "tboxName" : "建平社區活動中心",
     "liCode" : "023",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉建平村新興巷２１號",
-    "neighbor" : "1-4,11-14",
+    "neighbor" : "建平村",
     "deptCode" : "230",
     "liName" : "建平村"
   }, {
@@ -10854,9 +10854,9 @@
     "tboxNo" : "0520",
     "tboxName" : "建平社區活動中心",
     "liCode" : "023",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉建平村新興巷２１號",
-    "neighbor" : "建平村",
+    "neighbor" : "1-4,11-14",
     "deptCode" : "230",
     "liName" : "建平村"
   }, {
@@ -10894,7 +10894,7 @@
     "tboxNo" : "0523",
     "tboxName" : "草湖國小",
     "liCode" : "022",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣芳苑鄉文津村芳草路６６號",
     "neighbor" : "文津村",
     "deptCode" : "230",
@@ -10904,7 +10904,7 @@
     "tboxNo" : "0523",
     "tboxName" : "草湖國小",
     "liCode" : "022",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣芳苑鄉文津村芳草路６６號",
     "neighbor" : "文津村",
     "deptCode" : "230",
@@ -10924,16 +10924,6 @@
     "tboxNo" : "0525",
     "tboxName" : "建新國小2",
     "liCode" : "025",
-    "voter" : "02",
-    "addr" : "彰化縣芳苑鄉新生村草漢路草二段86號",
-    "neighbor" : "8-16",
-    "deptCode" : "230",
-    "liName" : "新生村"
-  }, {
-    "ScopeLiName" : "新生村",
-    "tboxNo" : "0525",
-    "tboxName" : "建新國小2",
-    "liCode" : "025",
     "voter" : "01",
     "addr" : "彰化縣芳苑鄉新生村草漢路草二段86號",
     "neighbor" : "8-16",
@@ -10949,6 +10939,26 @@
     "neighbor" : "8-16",
     "deptCode" : "230",
     "liName" : "新生村"
+  }, {
+    "ScopeLiName" : "新生村",
+    "tboxNo" : "0525",
+    "tboxName" : "建新國小2",
+    "liCode" : "025",
+    "voter" : "02",
+    "addr" : "彰化縣芳苑鄉新生村草漢路草二段86號",
+    "neighbor" : "8-16",
+    "deptCode" : "230",
+    "liName" : "新生村"
+  }, {
+    "ScopeLiName" : "漢寶村",
+    "tboxNo" : "0526",
+    "tboxName" : "順安宮",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "彰化縣芳苑鄉漢寶村漢崙路236號旁",
+    "neighbor" : "漢寶村",
+    "deptCode" : "230",
+    "liName" : "漢寶村"
   }, {
     "ScopeLiName" : "漢寶村",
     "tboxNo" : "0526",
@@ -10964,18 +10974,28 @@
     "tboxNo" : "0526",
     "tboxName" : "順安宮",
     "liCode" : "026",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣芳苑鄉漢寶村漢崙路236號旁",
     "neighbor" : "漢寶村",
     "deptCode" : "230",
     "liName" : "漢寶村"
   }, {
     "ScopeLiName" : "漢寶村",
-    "tboxNo" : "0526",
-    "tboxName" : "順安宮",
+    "tboxNo" : "0527",
+    "tboxName" : "漢寶社區活動中心",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "彰化縣芳苑鄉漢寶村芳漢路漢一段５１１巷６０號",
+    "neighbor" : "漢寶村",
+    "deptCode" : "230",
+    "liName" : "漢寶村"
+  }, {
+    "ScopeLiName" : "漢寶村",
+    "tboxNo" : "0527",
+    "tboxName" : "漢寶社區活動中心",
     "liCode" : "026",
     "voter" : "02",
-    "addr" : "彰化縣芳苑鄉漢寶村漢崙路236號旁",
+    "addr" : "彰化縣芳苑鄉漢寶村芳漢路漢一段５１１巷６０號",
     "neighbor" : "漢寶村",
     "deptCode" : "230",
     "liName" : "漢寶村"
@@ -10991,21 +11011,11 @@
     "liName" : "漢寶村"
   }, {
     "ScopeLiName" : "漢寶村",
-    "tboxNo" : "0527",
-    "tboxName" : "漢寶社區活動中心",
+    "tboxNo" : "0528",
+    "tboxName" : "漢寶國小",
     "liCode" : "026",
     "voter" : "02",
-    "addr" : "彰化縣芳苑鄉漢寶村芳漢路漢一段５１１巷６０號",
-    "neighbor" : "漢寶村",
-    "deptCode" : "230",
-    "liName" : "漢寶村"
-  }, {
-    "ScopeLiName" : "漢寶村",
-    "tboxNo" : "0527",
-    "tboxName" : "漢寶社區活動中心",
-    "liCode" : "026",
-    "voter" : "03",
-    "addr" : "彰化縣芳苑鄉漢寶村芳漢路漢一段５１１巷６０號",
+    "addr" : "彰化縣芳苑鄉漢寶村草漢路漢寶段５４１號",
     "neighbor" : "漢寶村",
     "deptCode" : "230",
     "liName" : "漢寶村"
@@ -11017,16 +11027,6 @@
     "voter" : "01",
     "addr" : "彰化縣芳苑鄉漢寶村草漢路漢寶段５４１號",
     "neighbor" : "9,19-24",
-    "deptCode" : "230",
-    "liName" : "漢寶村"
-  }, {
-    "ScopeLiName" : "漢寶村",
-    "tboxNo" : "0528",
-    "tboxName" : "漢寶國小",
-    "liCode" : "026",
-    "voter" : "02",
-    "addr" : "彰化縣芳苑鄉漢寶村草漢路漢寶段５４１號",
-    "neighbor" : "漢寶村",
     "deptCode" : "230",
     "liName" : "漢寶村"
   }, {
@@ -11094,7 +11094,7 @@
     "tboxNo" : "0533",
     "tboxName" : "東和里集會所(順天府)",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮東和里儒林路二段513巷33號",
     "neighbor" : "17-27",
     "deptCode" : "200",
@@ -11104,7 +11104,7 @@
     "tboxNo" : "0533",
     "tboxName" : "東和里集會所(順天府)",
     "liCode" : "001",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮東和里儒林路二段513巷33號",
     "neighbor" : "17-27",
     "deptCode" : "200",
@@ -11154,7 +11154,7 @@
     "tboxNo" : "0537",
     "tboxName" : "西平里民眾活動中心",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮西平里莊敬街53巷17號",
     "neighbor" : "西平里",
     "deptCode" : "200",
@@ -11164,7 +11164,7 @@
     "tboxNo" : "0537",
     "tboxName" : "西平里民眾活動中心",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮西平里莊敬街53巷17號",
     "neighbor" : "西平里",
     "deptCode" : "200",
@@ -11184,16 +11184,6 @@
     "tboxNo" : "0539",
     "tboxName" : "伍天宮",
     "liCode" : "004",
-    "voter" : "02",
-    "addr" : "彰化縣二林鎮北平里北安街42號",
-    "neighbor" : "13-20",
-    "deptCode" : "200",
-    "liName" : "北平里"
-  }, {
-    "ScopeLiName" : "北平里",
-    "tboxNo" : "0539",
-    "tboxName" : "伍天宮",
-    "liCode" : "004",
     "voter" : "01",
     "addr" : "彰化縣二林鎮北平里北安街42號",
     "neighbor" : "13-20",
@@ -11211,10 +11201,20 @@
     "liName" : "北平里"
   }, {
     "ScopeLiName" : "北平里",
+    "tboxNo" : "0539",
+    "tboxName" : "伍天宮",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "彰化縣二林鎮北平里北安街42號",
+    "neighbor" : "13-20",
+    "deptCode" : "200",
+    "liName" : "北平里"
+  }, {
+    "ScopeLiName" : "北平里",
     "tboxNo" : "0540",
     "tboxName" : " 二林鎮老人文康活動中心(二)",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮北平里明德街249號",
     "neighbor" : "21-25",
     "deptCode" : "200",
@@ -11234,7 +11234,7 @@
     "tboxNo" : "0540",
     "tboxName" : " 二林鎮老人文康活動中心(二)",
     "liCode" : "004",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮北平里明德街249號",
     "neighbor" : "21-25",
     "deptCode" : "200",
@@ -11244,7 +11244,7 @@
     "tboxNo" : "0541",
     "tboxName" : "代安宮(左側儲藏室)",
     "liCode" : "005",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮中西里舊2路1之2號",
     "neighbor" : "1-3,8",
     "deptCode" : "200",
@@ -11264,7 +11264,7 @@
     "tboxNo" : "0541",
     "tboxName" : "代安宮(左側儲藏室)",
     "liCode" : "005",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮中西里舊2路1之2號",
     "neighbor" : "1-3,8",
     "deptCode" : "200",
@@ -11334,7 +11334,7 @@
     "tboxNo" : "0545",
     "tboxName" : "外竹里社區活動中心",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮外竹里中南巷41-1號",
     "neighbor" : "外竹里",
     "deptCode" : "200",
@@ -11344,7 +11344,7 @@
     "tboxNo" : "0545",
     "tboxName" : "外竹里社區活動中心",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮外竹里中南巷41-1號",
     "neighbor" : "外竹里",
     "deptCode" : "200",
@@ -11374,7 +11374,7 @@
     "tboxNo" : "0546",
     "tboxName" : "雷王宮",
     "liCode" : "009",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮興華里中農路20號",
     "neighbor" : "興華里",
     "deptCode" : "200",
@@ -11384,7 +11384,7 @@
     "tboxNo" : "0546",
     "tboxName" : "雷王宮",
     "liCode" : "009",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮興華里中農路20號",
     "neighbor" : "興華里",
     "deptCode" : "200",
@@ -11394,7 +11394,7 @@
     "tboxNo" : "0547",
     "tboxName" : "東興里社區活動中心",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮東興里福建巷",
     "neighbor" : "東興里",
     "deptCode" : "200",
@@ -11404,7 +11404,7 @@
     "tboxNo" : "0547",
     "tboxName" : "東興里社區活動中心",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮東興里福建巷",
     "neighbor" : "東興里",
     "deptCode" : "200",
@@ -11564,7 +11564,7 @@
     "tboxNo" : "0554",
     "tboxName" : "保安宮",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮振興里中央北街40號",
     "neighbor" : "振興里",
     "deptCode" : "200",
@@ -11574,7 +11574,7 @@
     "tboxNo" : "0554",
     "tboxName" : "保安宮",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮振興里中央北街40號",
     "neighbor" : "振興里",
     "deptCode" : "200",
@@ -11624,7 +11624,7 @@
     "tboxNo" : "0558",
     "tboxName" : "慈靈宮",
     "liCode" : "018",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣二林鎮西庄里同安巷80號之1",
     "neighbor" : "西庄里",
     "deptCode" : "200",
@@ -11634,7 +11634,7 @@
     "tboxNo" : "0558",
     "tboxName" : "慈靈宮",
     "liCode" : "018",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮西庄里同安巷80號之1",
     "neighbor" : "西庄里",
     "deptCode" : "200",
@@ -11644,6 +11644,16 @@
     "tboxNo" : "0559",
     "tboxName" : "梅芳里社區活動中心",
     "liCode" : "019",
+    "voter" : "03",
+    "addr" : "彰化縣二林鎮梅芳里太平路四段臨69號",
+    "neighbor" : "梅芳里",
+    "deptCode" : "200",
+    "liName" : "梅芳里"
+  }, {
+    "ScopeLiName" : "梅芳里",
+    "tboxNo" : "0559",
+    "tboxName" : "梅芳里社區活動中心",
+    "liCode" : "019",
     "voter" : "01",
     "addr" : "彰化縣二林鎮梅芳里太平路四段臨69號",
     "neighbor" : "梅芳里",
@@ -11654,16 +11664,6 @@
     "tboxNo" : "0559",
     "tboxName" : "梅芳里社區活動中心",
     "liCode" : "019",
-    "voter" : "03",
-    "addr" : "彰化縣二林鎮梅芳里太平路四段臨69號",
-    "neighbor" : "梅芳里",
-    "deptCode" : "200",
-    "liName" : "梅芳里"
-  }, {
-    "ScopeLiName" : "梅芳里",
-    "tboxNo" : "0559",
-    "tboxName" : "梅芳里社區活動中心",
-    "liCode" : "019",
     "voter" : "02",
     "addr" : "彰化縣二林鎮梅芳里太平路四段臨69號",
     "neighbor" : "梅芳里",
@@ -11674,7 +11674,7 @@
     "tboxNo" : "0560",
     "tboxName" : "中興國小(一)",
     "liCode" : "020",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮華崙里光復路73號",
     "neighbor" : "1-6,18",
     "deptCode" : "200",
@@ -11684,7 +11684,7 @@
     "tboxNo" : "0560",
     "tboxName" : "中興國小(一)",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮華崙里光復路73號",
     "neighbor" : "1-6,18",
     "deptCode" : "200",
@@ -11824,7 +11824,7 @@
     "tboxNo" : "0568",
     "tboxName" : "東華里社區活動中心",
     "liCode" : "026",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣二林鎮東華里路東巷1-23號",
     "neighbor" : "東華里",
     "deptCode" : "200",
@@ -11844,7 +11844,7 @@
     "tboxNo" : "0568",
     "tboxName" : "東華里社區活動中心",
     "liCode" : "026",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣二林鎮東華里路東巷1-23號",
     "neighbor" : "東華里",
     "deptCode" : "200",
@@ -11884,7 +11884,7 @@
     "tboxNo" : "0571",
     "tboxName" : "糯米坊",
     "liCode" : "001",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉埔鹽村中正路120號",
     "neighbor" : "9-16",
     "deptCode" : "140",
@@ -11894,7 +11894,7 @@
     "tboxNo" : "0571",
     "tboxName" : "糯米坊",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣埔鹽鄉埔鹽村中正路120號",
     "neighbor" : "9-16",
     "deptCode" : "140",
@@ -11904,7 +11904,7 @@
     "tboxNo" : "0572",
     "tboxName" : "老人文康中心",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣埔鹽鄉埔南村彰水路一段340巷32號",
     "neighbor" : "1,2,7,8,13-15",
     "deptCode" : "140",
@@ -11914,7 +11914,7 @@
     "tboxNo" : "0572",
     "tboxName" : "老人文康中心",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣埔鹽鄉埔南村彰水路一段340巷32號",
     "neighbor" : "1,2,7,8,13-15",
     "deptCode" : "140",
@@ -11934,9 +11934,9 @@
     "tboxNo" : "0573",
     "tboxName" : "埔鹽國小",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔鹽鄉埔南村彰水路一段252號",
-    "neighbor" : "3~6,9~12",
+    "neighbor" : "3-6,9-12",
     "deptCode" : "140",
     "liName" : "埔南村"
   }, {
@@ -11944,21 +11944,11 @@
     "tboxNo" : "0573",
     "tboxName" : "埔鹽國小",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉埔南村彰水路一段252號",
-    "neighbor" : "3-6,9-12",
+    "neighbor" : "3~6,9~12",
     "deptCode" : "140",
     "liName" : "埔南村"
-  }, {
-    "ScopeLiName" : "廍子村",
-    "tboxNo" : "0574",
-    "tboxName" : "廍子社區活動中心",
-    "liCode" : "003",
-    "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉廍子村光明路一段101號",
-    "neighbor" : "1-11",
-    "deptCode" : "140",
-    "liName" : "廍子村"
   }, {
     "ScopeLiName" : "廍子村",
     "tboxNo" : "0574",
@@ -11979,6 +11969,26 @@
     "neighbor" : "廍子村",
     "deptCode" : "140",
     "liName" : "廍子村"
+  }, {
+    "ScopeLiName" : "廍子村",
+    "tboxNo" : "0574",
+    "tboxName" : "廍子社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "彰化縣埔鹽鄉廍子村光明路一段101號",
+    "neighbor" : "1-11",
+    "deptCode" : "140",
+    "liName" : "廍子村"
+  }, {
+    "ScopeLiName" : "出水村",
+    "tboxNo" : "0575",
+    "tboxName" : "龍水宮",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "彰化縣埔鹽鄉出水村埔港路39號",
+    "neighbor" : "出水村",
+    "deptCode" : "140",
+    "liName" : "出水村"
   }, {
     "ScopeLiName" : "出水村",
     "tboxNo" : "0575",
@@ -12000,26 +12010,6 @@
     "deptCode" : "140",
     "liName" : "出水村"
   }, {
-    "ScopeLiName" : "出水村",
-    "tboxNo" : "0575",
-    "tboxName" : "龍水宮",
-    "liCode" : "004",
-    "voter" : "02",
-    "addr" : "彰化縣埔鹽鄉出水村埔港路39號",
-    "neighbor" : "出水村",
-    "deptCode" : "140",
-    "liName" : "出水村"
-  }, {
-    "ScopeLiName" : "南港村",
-    "tboxNo" : "0576",
-    "tboxName" : "保生宮",
-    "liCode" : "005",
-    "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉南港村埔港路12-3號",
-    "neighbor" : "1~8",
-    "deptCode" : "140",
-    "liName" : "南港村"
-  }, {
     "ScopeLiName" : "南港村",
     "tboxNo" : "0576",
     "tboxName" : "保生宮",
@@ -12031,12 +12021,12 @@
     "liName" : "南港村"
   }, {
     "ScopeLiName" : "南港村",
-    "tboxNo" : "0577",
-    "tboxName" : "大德宮",
+    "tboxNo" : "0576",
+    "tboxName" : "保生宮",
     "liCode" : "005",
     "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉南港村埔菜路３２之１７號",
-    "neighbor" : "9~17",
+    "addr" : "彰化縣埔鹽鄉南港村埔港路12-3號",
+    "neighbor" : "1~8",
     "deptCode" : "140",
     "liName" : "南港村"
   }, {
@@ -12050,15 +12040,15 @@
     "deptCode" : "140",
     "liName" : "南港村"
   }, {
-    "ScopeLiName" : "打廉村",
-    "tboxNo" : "0578",
-    "tboxName" : "打廉社區活動中心",
-    "liCode" : "006",
+    "ScopeLiName" : "南港村",
+    "tboxNo" : "0577",
+    "tboxName" : "大德宮",
+    "liCode" : "005",
     "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉打廉村埔打路臨19之15號",
-    "neighbor" : "1-8",
+    "addr" : "彰化縣埔鹽鄉南港村埔菜路３２之１７號",
+    "neighbor" : "9~17",
     "deptCode" : "140",
-    "liName" : "打廉村"
+    "liName" : "南港村"
   }, {
     "ScopeLiName" : "打廉村",
     "tboxNo" : "0578",
@@ -12067,6 +12057,16 @@
     "voter" : "03",
     "addr" : "彰化縣埔鹽鄉打廉村埔打路臨19之15號",
     "neighbor" : "打廉村",
+    "deptCode" : "140",
+    "liName" : "打廉村"
+  }, {
+    "ScopeLiName" : "打廉村",
+    "tboxNo" : "0578",
+    "tboxName" : "打廉社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "彰化縣埔鹽鄉打廉村埔打路臨19之15號",
+    "neighbor" : "1-8",
     "deptCode" : "140",
     "liName" : "打廉村"
   }, {
@@ -12084,9 +12084,9 @@
     "tboxNo" : "0580",
     "tboxName" : "閭山道院",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔鹽鄉崑崙村彰水路一段11號",
-    "neighbor" : "1-12",
+    "neighbor" : "崑崙村",
     "deptCode" : "140",
     "liName" : "崑崙村"
   }, {
@@ -12094,21 +12094,11 @@
     "tboxNo" : "0580",
     "tboxName" : "閭山道院",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉崑崙村彰水路一段11號",
-    "neighbor" : "崑崙村",
+    "neighbor" : "1-12",
     "deptCode" : "140",
     "liName" : "崑崙村"
-  }, {
-    "ScopeLiName" : "角樹村",
-    "tboxNo" : "0581",
-    "tboxName" : "角樹社區活動中心",
-    "liCode" : "009",
-    "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉角樹村員鹿路一段53號",
-    "neighbor" : "1-8",
-    "deptCode" : "140",
-    "liName" : "角樹村"
   }, {
     "ScopeLiName" : "角樹村",
     "tboxNo" : "0581",
@@ -12120,6 +12110,16 @@
     "deptCode" : "140",
     "liName" : "角樹村"
   }, {
+    "ScopeLiName" : "角樹村",
+    "tboxNo" : "0581",
+    "tboxName" : "角樹社區活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "彰化縣埔鹽鄉角樹村員鹿路一段53號",
+    "neighbor" : "1-8",
+    "deptCode" : "140",
+    "liName" : "角樹村"
+  }, {
     "ScopeLiName" : "瓦磘村",
     "tboxNo" : "0582",
     "tboxName" : "老人文康中心",
@@ -12127,6 +12127,16 @@
     "voter" : "03",
     "addr" : "彰化縣埔鹽鄉瓦磘村光明路二段66號",
     "neighbor" : "瓦磘村",
+    "deptCode" : "140",
+    "liName" : "瓦磘村"
+  }, {
+    "ScopeLiName" : "瓦磘村",
+    "tboxNo" : "0582",
+    "tboxName" : "老人文康中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "彰化縣埔鹽鄉瓦磘村光明路二段66號",
+    "neighbor" : "1-12",
     "deptCode" : "140",
     "liName" : "瓦磘村"
   }, {
@@ -12140,21 +12150,11 @@
     "deptCode" : "140",
     "liName" : "瓦磘村"
   }, {
-    "ScopeLiName" : "瓦磘村",
-    "tboxNo" : "0582",
-    "tboxName" : "老人文康中心",
-    "liCode" : "010",
-    "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉瓦磘村光明路二段66號",
-    "neighbor" : "1-12",
-    "deptCode" : "140",
-    "liName" : "瓦磘村"
-  }, {
     "ScopeLiName" : "好修村",
     "tboxNo" : "0583",
     "tboxName" : "好修國小(一)",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔鹽鄉好修村員鹿路二段149號",
     "neighbor" : "1-10",
     "deptCode" : "140",
@@ -12164,7 +12164,7 @@
     "tboxNo" : "0583",
     "tboxName" : "好修國小(一)",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉好修村員鹿路二段149號",
     "neighbor" : "1-10",
     "deptCode" : "140",
@@ -12234,9 +12234,9 @@
     "tboxNo" : "0588",
     "tboxName" : "仁興宮",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣埔鹽鄉新興村仁興路39號",
-    "neighbor" : "1-7",
+    "neighbor" : "新興村",
     "deptCode" : "140",
     "liName" : "新興村"
   }, {
@@ -12244,9 +12244,9 @@
     "tboxNo" : "0588",
     "tboxName" : "仁興宮",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉新興村仁興路39號",
-    "neighbor" : "新興村",
+    "neighbor" : "1-7",
     "deptCode" : "140",
     "liName" : "新興村"
   }, {
@@ -12284,9 +12284,9 @@
     "tboxNo" : "0592",
     "tboxName" : "石埤社區活動中心",
     "liCode" : "017",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉石埤村番金路二巷15號",
-    "neighbor" : "全村,6-12",
+    "neighbor" : "6-12",
     "deptCode" : "140",
     "liName" : "石埤村"
   }, {
@@ -12294,11 +12294,21 @@
     "tboxNo" : "0592",
     "tboxName" : "石埤社區活動中心",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔鹽鄉石埤村番金路二巷15號",
-    "neighbor" : "6-12",
+    "neighbor" : "全村,6-12",
     "deptCode" : "140",
     "liName" : "石埤村"
+  }, {
+    "ScopeLiName" : "天盛村",
+    "tboxNo" : "0593",
+    "tboxName" : "天盛社區活動中心",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "彰化縣埔鹽鄉天盛村成功路3段286號",
+    "neighbor" : "1-8",
+    "deptCode" : "140",
+    "liName" : "天盛村"
   }, {
     "ScopeLiName" : "天盛村",
     "tboxNo" : "0593",
@@ -12317,16 +12327,6 @@
     "voter" : "02",
     "addr" : "彰化縣埔鹽鄉天盛村成功路3段286號",
     "neighbor" : "天盛村",
-    "deptCode" : "140",
-    "liName" : "天盛村"
-  }, {
-    "ScopeLiName" : "天盛村",
-    "tboxNo" : "0593",
-    "tboxName" : "天盛社區活動中心",
-    "liCode" : "018",
-    "voter" : "01",
-    "addr" : "彰化縣埔鹽鄉天盛村成功路3段286號",
-    "neighbor" : "1-8",
     "deptCode" : "140",
     "liName" : "天盛村"
   }, {
@@ -12374,7 +12374,7 @@
     "tboxNo" : "0596",
     "tboxName" : "四聖宮廂房",
     "liCode" : "020",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣埔鹽鄉新水村大新路臨5之18號",
     "neighbor" : "1-5",
     "deptCode" : "140",
@@ -12384,7 +12384,7 @@
     "tboxNo" : "0596",
     "tboxName" : "四聖宮廂房",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣埔鹽鄉新水村大新路臨5之18號",
     "neighbor" : "1-5",
     "deptCode" : "140",
@@ -12494,16 +12494,6 @@
     "tboxNo" : "0603",
     "tboxName" : "溪湖鎮圖書館(一)",
     "liCode" : "003",
-    "voter" : "01",
-    "addr" : "彰化縣溪湖鎮太平里太平街57號",
-    "neighbor" : "1-10,18",
-    "deptCode" : "110",
-    "liName" : "太平里"
-  }, {
-    "ScopeLiName" : "太平里",
-    "tboxNo" : "0603",
-    "tboxName" : "溪湖鎮圖書館(一)",
-    "liCode" : "003",
     "voter" : "03",
     "addr" : "彰化縣溪湖鎮太平里太平街57號",
     "neighbor" : "4,9,14,16",
@@ -12511,10 +12501,20 @@
     "liName" : "太平里"
   }, {
     "ScopeLiName" : "太平里",
+    "tboxNo" : "0603",
+    "tboxName" : "溪湖鎮圖書館(一)",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "彰化縣溪湖鎮太平里太平街57號",
+    "neighbor" : "1-10,18",
+    "deptCode" : "110",
+    "liName" : "太平里"
+  }, {
+    "ScopeLiName" : "太平里",
     "tboxNo" : "0604",
     "tboxName" : "溪湖鎮圖書館(二)",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣溪湖鎮太平里太平街57號",
     "neighbor" : "11-16,17",
     "deptCode" : "110",
@@ -12524,7 +12524,7 @@
     "tboxNo" : "0604",
     "tboxName" : "溪湖鎮圖書館(二)",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣溪湖鎮太平里太平街57號",
     "neighbor" : "11-16,17",
     "deptCode" : "110",
@@ -12554,7 +12554,7 @@
     "tboxNo" : "0607",
     "tboxName" : "湖東國小 (二)",
     "liCode" : "018",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣溪湖鎮湖東里大溪路2段423號",
     "neighbor" : "20,21",
     "deptCode" : "110",
@@ -12574,7 +12574,7 @@
     "tboxNo" : "0607",
     "tboxName" : "湖東國小 (二)",
     "liCode" : "018",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣溪湖鎮湖東里大溪路2段423號",
     "neighbor" : "20,21",
     "deptCode" : "110",
@@ -12614,7 +12614,7 @@
     "tboxNo" : "0609",
     "tboxName" : "湖東國小 (四)",
     "liCode" : "018",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣溪湖鎮湖東里大溪路二段423號",
     "neighbor" : "29-30,31-40",
     "deptCode" : "110",
@@ -12634,7 +12634,7 @@
     "tboxNo" : "0609",
     "tboxName" : "湖東國小 (四)",
     "liCode" : "018",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣溪湖鎮湖東里大溪路二段423號",
     "neighbor" : "29-30,31-40",
     "deptCode" : "110",
@@ -12644,9 +12644,9 @@
     "tboxNo" : "0610",
     "tboxName" : "中山里澤民宮",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣溪湖鎮中山里大溪路1段464號",
-    "neighbor" : "1-11",
+    "neighbor" : "3",
     "deptCode" : "110",
     "liName" : "中山里"
   }, {
@@ -12654,9 +12654,9 @@
     "tboxNo" : "0610",
     "tboxName" : "中山里澤民宮",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣溪湖鎮中山里大溪路1段464號",
-    "neighbor" : "3",
+    "neighbor" : "1-11",
     "deptCode" : "110",
     "liName" : "中山里"
   }, {
@@ -12694,6 +12694,16 @@
     "tboxNo" : "0614",
     "tboxName" : "中竹社區活動中心",
     "liCode" : "015",
+    "voter" : "01",
+    "addr" : "彰化縣溪湖鎮中竹里竹福路181號",
+    "neighbor" : "中竹里",
+    "deptCode" : "110",
+    "liName" : "中竹里"
+  }, {
+    "ScopeLiName" : "中竹里",
+    "tboxNo" : "0614",
+    "tboxName" : "中竹社區活動中心",
+    "liCode" : "015",
     "voter" : "03",
     "addr" : "彰化縣溪湖鎮中竹里竹福路181號",
     "neighbor" : "3",
@@ -12707,16 +12717,6 @@
     "voter" : "02",
     "addr" : "彰化縣溪湖鎮中竹里竹福路181號",
     "neighbor" : "3",
-    "deptCode" : "110",
-    "liName" : "中竹里"
-  }, {
-    "ScopeLiName" : "中竹里",
-    "tboxNo" : "0614",
-    "tboxName" : "中竹社區活動中心",
-    "liCode" : "015",
-    "voter" : "01",
-    "addr" : "彰化縣溪湖鎮中竹里竹福路181號",
-    "neighbor" : "中竹里",
     "deptCode" : "110",
     "liName" : "中竹里"
   }, {
@@ -12734,7 +12734,7 @@
     "tboxNo" : "0616",
     "tboxName" : "溪湖國中(二)",
     "liCode" : "005",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣溪湖鎮東寮里彰水路四段60號",
     "neighbor" : "12,16",
     "deptCode" : "110",
@@ -12754,7 +12754,7 @@
     "tboxNo" : "0616",
     "tboxName" : "溪湖國中(二)",
     "liCode" : "005",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣溪湖鎮東寮里彰水路四段60號",
     "neighbor" : "12,16",
     "deptCode" : "110",
@@ -13164,9 +13164,9 @@
     "tboxNo" : "0642",
     "tboxName" : "西勢里西安宮",
     "liCode" : "024",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣溪湖鎮西勢里西安路136號",
-    "neighbor" : "13-19",
+    "neighbor" : "19,13-19",
     "deptCode" : "110",
     "liName" : "西勢里"
   }, {
@@ -13174,9 +13174,9 @@
     "tboxNo" : "0642",
     "tboxName" : "西勢里西安宮",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣溪湖鎮西勢里西安路136號",
-    "neighbor" : "19,13-19",
+    "neighbor" : "13-19",
     "deptCode" : "110",
     "liName" : "西勢里"
   }, {
@@ -13194,9 +13194,9 @@
     "tboxNo" : "0644",
     "tboxName" : "武聖宮(一)",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔心鄉東門村武聖路491號",
-    "neighbor" : "1-8",
+    "neighbor" : "5",
     "deptCode" : "150",
     "liName" : "東門村"
   }, {
@@ -13204,9 +13204,9 @@
     "tboxNo" : "0644",
     "tboxName" : "武聖宮(一)",
     "liCode" : "001",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔心鄉東門村武聖路491號",
-    "neighbor" : "5",
+    "neighbor" : "1-8",
     "deptCode" : "150",
     "liName" : "東門村"
   }, {
@@ -13239,6 +13239,16 @@
     "neighbor" : "20",
     "deptCode" : "150",
     "liName" : "東門村"
+  }, {
+    "ScopeLiName" : "二重村",
+    "tboxNo" : "0647",
+    "tboxName" : "埔心社區活動中心",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "彰化縣埔心鄉埔心村武英北路417號",
+    "neighbor" : "7,14",
+    "deptCode" : "150",
+    "liName" : "二重村"
   }, {
     "ScopeLiName" : "埔心村",
     "tboxNo" : "0647",
@@ -13294,16 +13304,6 @@
     "tboxNo" : "0647",
     "tboxName" : "埔心社區活動中心",
     "liCode" : "017",
-    "voter" : "02",
-    "addr" : "彰化縣埔心鄉埔心村武英北路417號",
-    "neighbor" : "7,14",
-    "deptCode" : "150",
-    "liName" : "二重村"
-  }, {
-    "ScopeLiName" : "二重村",
-    "tboxNo" : "0647",
-    "tboxName" : "埔心社區活動中心",
-    "liCode" : "017",
     "voter" : "03",
     "addr" : "彰化縣埔心鄉埔心村武英北路417號",
     "neighbor" : "7,14",
@@ -13354,7 +13354,7 @@
     "tboxNo" : "0650",
     "tboxName" : "油車社區活動中心",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣埔心鄉油車村瑤鳳路2段347號",
     "neighbor" : "油車村",
     "deptCode" : "150",
@@ -13364,7 +13364,7 @@
     "tboxNo" : "0650",
     "tboxName" : "油車社區活動中心",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣埔心鄉油車村瑤鳳路2段347號",
     "neighbor" : "油車村",
     "deptCode" : "150",
@@ -13464,9 +13464,9 @@
     "tboxNo" : "0655",
     "tboxName" : "瓦南社區活動中心",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣埔心鄉瓦南村明聖路3段128巷3號",
-    "neighbor" : "1,2,3",
+    "neighbor" : "1-6,8",
     "deptCode" : "150",
     "liName" : "瓦南村"
   }, {
@@ -13474,9 +13474,9 @@
     "tboxNo" : "0655",
     "tboxName" : "瓦南社區活動中心",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣埔心鄉瓦南村明聖路3段128巷3號",
-    "neighbor" : "1-6,8",
+    "neighbor" : "1,2,3",
     "deptCode" : "150",
     "liName" : "瓦南村"
   }, {
@@ -13494,16 +13494,6 @@
     "tboxNo" : "0657",
     "tboxName" : "鎮國宮",
     "liCode" : "009",
-    "voter" : "01",
-    "addr" : "彰化縣埔心鄉經口村鎮國路71巷18號",
-    "neighbor" : "1-4,14-17",
-    "deptCode" : "150",
-    "liName" : "經口村"
-  }, {
-    "ScopeLiName" : "經口村",
-    "tboxNo" : "0657",
-    "tboxName" : "鎮國宮",
-    "liCode" : "009",
     "voter" : "02",
     "addr" : "彰化縣埔心鄉經口村鎮國路71巷18號",
     "neighbor" : "1-4,14-17",
@@ -13515,6 +13505,16 @@
     "tboxName" : "鎮國宮",
     "liCode" : "009",
     "voter" : "03",
+    "addr" : "彰化縣埔心鄉經口村鎮國路71巷18號",
+    "neighbor" : "1-4,14-17",
+    "deptCode" : "150",
+    "liName" : "經口村"
+  }, {
+    "ScopeLiName" : "經口村",
+    "tboxNo" : "0657",
+    "tboxName" : "鎮國宮",
+    "liCode" : "009",
+    "voter" : "01",
     "addr" : "彰化縣埔心鄉經口村鎮國路71巷18號",
     "neighbor" : "1-4,14-17",
     "deptCode" : "150",
@@ -13534,16 +13534,6 @@
     "tboxNo" : "0659",
     "tboxName" : "太平國小(一) ",
     "liCode" : "008",
-    "voter" : "01",
-    "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "1-8",
-    "deptCode" : "150",
-    "liName" : "太平村"
-  }, {
-    "ScopeLiName" : "太平村",
-    "tboxNo" : "0659",
-    "tboxName" : "太平國小(一) ",
-    "liCode" : "008",
     "voter" : "03",
     "addr" : "彰化縣埔心鄉太平村太平路289號",
     "neighbor" : "3",
@@ -13551,60 +13541,20 @@
     "liName" : "太平村"
   }, {
     "ScopeLiName" : "太平村",
-    "tboxNo" : "0660",
-    "tboxName" : "太平國小(二)",
+    "tboxNo" : "0659",
+    "tboxName" : "太平國小(一) ",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "11,15",
+    "neighbor" : "1-8",
     "deptCode" : "150",
     "liName" : "太平村"
-  }, {
-    "ScopeLiName" : "太平村",
-    "tboxNo" : "0660",
-    "tboxName" : "太平國小(二)",
-    "liCode" : "008",
-    "voter" : "03",
-    "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "11,15",
-    "deptCode" : "150",
-    "liName" : "太平村"
-  }, {
-    "ScopeLiName" : "經口村",
-    "tboxNo" : "0660",
-    "tboxName" : "太平國小(二)",
-    "liCode" : "009",
-    "voter" : "02",
-    "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "10",
-    "deptCode" : "150",
-    "liName" : "經口村"
   }, {
     "ScopeLiName" : "瓦南村",
     "tboxNo" : "0660",
     "tboxName" : "太平國小(二)",
     "liCode" : "007",
     "voter" : "02",
-    "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "10",
-    "deptCode" : "150",
-    "liName" : "瓦南村"
-  }, {
-    "ScopeLiName" : "經口村",
-    "tboxNo" : "0660",
-    "tboxName" : "太平國小(二)",
-    "liCode" : "009",
-    "voter" : "03",
-    "addr" : "彰化縣埔心鄉太平村太平路289號",
-    "neighbor" : "10",
-    "deptCode" : "150",
-    "liName" : "經口村"
-  }, {
-    "ScopeLiName" : "瓦南村",
-    "tboxNo" : "0660",
-    "tboxName" : "太平國小(二)",
-    "liCode" : "007",
-    "voter" : "03",
     "addr" : "彰化縣埔心鄉太平村太平路289號",
     "neighbor" : "10",
     "deptCode" : "150",
@@ -13619,6 +13569,56 @@
     "neighbor" : "9-15",
     "deptCode" : "150",
     "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0660",
+    "tboxName" : "太平國小(二)",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "彰化縣埔心鄉太平村太平路289號",
+    "neighbor" : "11,15",
+    "deptCode" : "150",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0660",
+    "tboxName" : "太平國小(二)",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "彰化縣埔心鄉太平村太平路289號",
+    "neighbor" : "11,15",
+    "deptCode" : "150",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "經口村",
+    "tboxNo" : "0660",
+    "tboxName" : "太平國小(二)",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "彰化縣埔心鄉太平村太平路289號",
+    "neighbor" : "10",
+    "deptCode" : "150",
+    "liName" : "經口村"
+  }, {
+    "ScopeLiName" : "經口村",
+    "tboxNo" : "0660",
+    "tboxName" : "太平國小(二)",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "彰化縣埔心鄉太平村太平路289號",
+    "neighbor" : "10",
+    "deptCode" : "150",
+    "liName" : "經口村"
+  }, {
+    "ScopeLiName" : "瓦南村",
+    "tboxNo" : "0660",
+    "tboxName" : "太平國小(二)",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "彰化縣埔心鄉太平村太平路289號",
+    "neighbor" : "10",
+    "deptCode" : "150",
+    "liName" : "瓦南村"
   }, {
     "ScopeLiName" : "大華村",
     "tboxNo" : "0661",
@@ -15174,7 +15174,7 @@
     "tboxNo" : "0763",
     "tboxName" : "大新國小(一)",
     "liCode" : "015",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣北斗鎮大新里大新路５５６號",
     "neighbor" : "1-2,4-6",
     "deptCode" : "190",
@@ -15184,7 +15184,7 @@
     "tboxNo" : "0763",
     "tboxName" : "大新國小(一)",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣北斗鎮大新里大新路５５６號",
     "neighbor" : "1-2,4-6",
     "deptCode" : "190",
@@ -15194,7 +15194,7 @@
     "tboxNo" : "0764",
     "tboxName" : "大新國小(二)",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣北斗鎮大新里大新路556號",
     "neighbor" : "3,7-9",
     "deptCode" : "190",
@@ -15204,7 +15204,7 @@
     "tboxNo" : "0764",
     "tboxName" : "大新國小(二)",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣北斗鎮大新里大新路556號",
     "neighbor" : "3,7-9",
     "deptCode" : "190",
@@ -15324,16 +15324,6 @@
     "tboxNo" : "0771",
     "tboxName" : "復興宮",
     "liCode" : "014",
-    "voter" : "03",
-    "addr" : "彰化縣溪州鄉尾厝村中通路90號",
-    "neighbor" : "1",
-    "deptCode" : "260",
-    "liName" : "尾厝村"
-  }, {
-    "ScopeLiName" : "尾厝村",
-    "tboxNo" : "0771",
-    "tboxName" : "復興宮",
-    "liCode" : "014",
     "voter" : "01",
     "addr" : "彰化縣溪州鄉尾厝村中通路90號",
     "neighbor" : "1-4,14",
@@ -15341,12 +15331,12 @@
     "liName" : "尾厝村"
   }, {
     "ScopeLiName" : "尾厝村",
-    "tboxNo" : "0772",
-    "tboxName" : "溪州國小",
+    "tboxNo" : "0771",
+    "tboxName" : "復興宮",
     "liCode" : "014",
-    "voter" : "01",
-    "addr" : "彰化縣溪州鄉尾厝村中山路三段451號",
-    "neighbor" : "5-13",
+    "voter" : "03",
+    "addr" : "彰化縣溪州鄉尾厝村中通路90號",
+    "neighbor" : "1",
     "deptCode" : "260",
     "liName" : "尾厝村"
   }, {
@@ -15357,6 +15347,16 @@
     "voter" : "02",
     "addr" : "彰化縣溪州鄉尾厝村中山路三段451號",
     "neighbor" : "10",
+    "deptCode" : "260",
+    "liName" : "尾厝村"
+  }, {
+    "ScopeLiName" : "尾厝村",
+    "tboxNo" : "0772",
+    "tboxName" : "溪州國小",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "彰化縣溪州鄉尾厝村中山路三段451號",
+    "neighbor" : "5-13",
     "deptCode" : "260",
     "liName" : "尾厝村"
   }, {
@@ -15374,7 +15374,7 @@
     "tboxNo" : "0773",
     "tboxName" : "東州社區活動中心",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣溪州鄉東州村保安路16號",
     "neighbor" : "1,7",
     "deptCode" : "260",
@@ -15384,7 +15384,7 @@
     "tboxNo" : "0773",
     "tboxName" : "東州社區活動中心",
     "liCode" : "017",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣溪州鄉東州村保安路16號",
     "neighbor" : "1,7",
     "deptCode" : "260",
@@ -15444,9 +15444,9 @@
     "tboxNo" : "0776",
     "tboxName" : "舊眉社區活動中心",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣溪州鄉舊眉村登山路四段27號",
-    "neighbor" : "3,5-11",
+    "neighbor" : "6,11",
     "deptCode" : "260",
     "liName" : "舊眉村"
   }, {
@@ -15454,9 +15454,9 @@
     "tboxNo" : "0776",
     "tboxName" : "舊眉社區活動中心",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣溪州鄉舊眉村登山路四段27號",
-    "neighbor" : "6,11",
+    "neighbor" : "3,5-11",
     "deptCode" : "260",
     "liName" : "舊眉村"
   }, {
@@ -15484,9 +15484,9 @@
     "tboxNo" : "0778",
     "tboxName" : "圳寮國小(二)",
     "liCode" : "006",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣溪州鄉圳寮村下樹巷29號",
-    "neighbor" : "7-13",
+    "neighbor" : "10-11",
     "deptCode" : "260",
     "liName" : "圳寮村"
   }, {
@@ -15494,21 +15494,11 @@
     "tboxNo" : "0778",
     "tboxName" : "圳寮國小(二)",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣溪州鄉圳寮村下樹巷29號",
-    "neighbor" : "10-11",
+    "neighbor" : "7-13",
     "deptCode" : "260",
     "liName" : "圳寮村"
-  }, {
-    "ScopeLiName" : "西畔村",
-    "tboxNo" : "0779",
-    "tboxName" : "三聖宮",
-    "liCode" : "009",
-    "voter" : "02",
-    "addr" : "彰化縣溪州鄉西畔村溪下路250號之2",
-    "neighbor" : "5",
-    "deptCode" : "260",
-    "liName" : "西畔村"
   }, {
     "ScopeLiName" : "西畔村",
     "tboxNo" : "0779",
@@ -15517,6 +15507,16 @@
     "voter" : "01",
     "addr" : "彰化縣溪州鄉西畔村溪下路250號之2",
     "neighbor" : "1-8,15",
+    "deptCode" : "260",
+    "liName" : "西畔村"
+  }, {
+    "ScopeLiName" : "西畔村",
+    "tboxNo" : "0779",
+    "tboxName" : "三聖宮",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "彰化縣溪州鄉西畔村溪下路250號之2",
+    "neighbor" : "5",
     "deptCode" : "260",
     "liName" : "西畔村"
   }, {
@@ -15564,9 +15564,9 @@
     "tboxNo" : "0782",
     "tboxName" : "溪陽國中",
     "liCode" : "012",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣溪州鄉成功村下柑路1號",
-    "neighbor" : "5,7",
+    "neighbor" : "1-8",
     "deptCode" : "260",
     "liName" : "成功村"
   }, {
@@ -15574,9 +15574,9 @@
     "tboxNo" : "0782",
     "tboxName" : "溪陽國中",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣溪州鄉成功村下柑路1號",
-    "neighbor" : "1-8",
+    "neighbor" : "5,7",
     "deptCode" : "260",
     "liName" : "成功村"
   }, {
@@ -15634,6 +15634,16 @@
     "tboxNo" : "0786",
     "tboxName" : "榮光社區活動中心",
     "liCode" : "018",
+    "voter" : "03",
+    "addr" : "彰化縣溪州鄉榮光村政民路27之2號",
+    "neighbor" : "7,14",
+    "deptCode" : "260",
+    "liName" : "榮光村"
+  }, {
+    "ScopeLiName" : "榮光村",
+    "tboxNo" : "0786",
+    "tboxName" : "榮光社區活動中心",
+    "liCode" : "018",
     "voter" : "02",
     "addr" : "彰化縣溪州鄉榮光村政民路27之2號",
     "neighbor" : "7,14",
@@ -15650,15 +15660,15 @@
     "deptCode" : "260",
     "liName" : "榮光村"
   }, {
-    "ScopeLiName" : "榮光村",
-    "tboxNo" : "0786",
-    "tboxName" : "榮光社區活動中心",
-    "liCode" : "018",
-    "voter" : "03",
-    "addr" : "彰化縣溪州鄉榮光村政民路27之2號",
-    "neighbor" : "7,14",
+    "ScopeLiName" : "潮洋村",
+    "tboxNo" : "0787",
+    "tboxName" : "潮洋國小",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "彰化縣溪州鄉潮洋村陸軍路一段146號",
+    "neighbor" : "潮洋村",
     "deptCode" : "260",
-    "liName" : "榮光村"
+    "liName" : "潮洋村"
   }, {
     "ScopeLiName" : "潮洋村",
     "tboxNo" : "0787",
@@ -15667,16 +15677,6 @@
     "voter" : "02",
     "addr" : "彰化縣溪州鄉潮洋村陸軍路一段146號",
     "neighbor" : "5,8",
-    "deptCode" : "260",
-    "liName" : "潮洋村"
-  }, {
-    "ScopeLiName" : "潮洋村",
-    "tboxNo" : "0787",
-    "tboxName" : "潮洋國小",
-    "liCode" : "007",
-    "voter" : "01",
-    "addr" : "彰化縣溪州鄉潮洋村陸軍路一段146號",
-    "neighbor" : "潮洋村",
     "deptCode" : "260",
     "liName" : "潮洋村"
   }, {
@@ -15704,9 +15704,9 @@
     "tboxNo" : "0789",
     "tboxName" : "菜公社區活動中心",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣溪州鄉菜公村民生路二段160號",
-    "neighbor" : "菜公村",
+    "neighbor" : "8",
     "deptCode" : "260",
     "liName" : "菜公村"
   }, {
@@ -15714,9 +15714,9 @@
     "tboxNo" : "0789",
     "tboxName" : "菜公社區活動中心",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣溪州鄉菜公村民生路二段160號",
-    "neighbor" : "8",
+    "neighbor" : "菜公村",
     "deptCode" : "260",
     "liName" : "菜公村"
   }, {
@@ -15784,9 +15784,9 @@
     "tboxNo" : "0793",
     "tboxName" : "水尾村村民活動中心",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣溪州鄉水尾村民權路5號",
-    "neighbor" : "5-10",
+    "neighbor" : "10",
     "deptCode" : "260",
     "liName" : "水尾村"
   }, {
@@ -15794,9 +15794,9 @@
     "tboxNo" : "0793",
     "tboxName" : "水尾村村民活動中心",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣溪州鄉水尾村民權路5號",
-    "neighbor" : "10",
+    "neighbor" : "5-10",
     "deptCode" : "260",
     "liName" : "水尾村"
   }, {
@@ -15824,16 +15824,6 @@
     "tboxNo" : "0795",
     "tboxName" : "大村國小(二)",
     "liCode" : "001",
-    "voter" : "01",
-    "addr" : "彰化縣大村鄉大村村中正西路381號",
-    "neighbor" : "9-12,19-20",
-    "deptCode" : "130",
-    "liName" : "大村村"
-  }, {
-    "ScopeLiName" : "大村村",
-    "tboxNo" : "0795",
-    "tboxName" : "大村國小(二)",
-    "liCode" : "001",
     "voter" : "03",
     "addr" : "彰化縣大村鄉大村村中正西路381號",
     "neighbor" : "10,12",
@@ -15841,10 +15831,20 @@
     "liName" : "大村村"
   }, {
     "ScopeLiName" : "大村村",
+    "tboxNo" : "0795",
+    "tboxName" : "大村國小(二)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "彰化縣大村鄉大村村中正西路381號",
+    "neighbor" : "9-12,19-20",
+    "deptCode" : "130",
+    "liName" : "大村村"
+  }, {
+    "ScopeLiName" : "大村村",
     "tboxNo" : "0796",
     "tboxName" : "大村社區活動中心",
     "liCode" : "001",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉大村村茄苳路一段203號",
     "neighbor" : "16,18",
     "deptCode" : "130",
@@ -15854,7 +15854,7 @@
     "tboxNo" : "0796",
     "tboxName" : "大村社區活動中心",
     "liCode" : "001",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉大村村茄苳路一段203號",
     "neighbor" : "16,18",
     "deptCode" : "130",
@@ -15869,16 +15869,6 @@
     "neighbor" : "13-18",
     "deptCode" : "130",
     "liName" : "大村村"
-  }, {
-    "ScopeLiName" : "田洋村",
-    "tboxNo" : "0797",
-    "tboxName" : "茄苳社區活動中心(一)",
-    "liCode" : "004",
-    "voter" : "02",
-    "addr" : "彰化縣大村鄉茄苳村茄苳路二段141巷31號",
-    "neighbor" : "1,15",
-    "deptCode" : "130",
-    "liName" : "田洋村"
   }, {
     "ScopeLiName" : "田洋村",
     "tboxNo" : "0797",
@@ -15899,6 +15889,16 @@
     "neighbor" : "1,10-18",
     "deptCode" : "130",
     "liName" : "茄苳村"
+  }, {
+    "ScopeLiName" : "田洋村",
+    "tboxNo" : "0797",
+    "tboxName" : "茄苳社區活動中心(一)",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "彰化縣大村鄉茄苳村茄苳路二段141巷31號",
+    "neighbor" : "1,15",
+    "deptCode" : "130",
+    "liName" : "田洋村"
   }, {
     "ScopeLiName" : "茄苳村",
     "tboxNo" : "0798",
@@ -15964,7 +15964,7 @@
     "tboxNo" : "0801",
     "tboxName" : "貢旗社區活動中心",
     "liCode" : "009",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣大村鄉貢旗村大崙路2-1號",
     "neighbor" : "5-11",
     "deptCode" : "130",
@@ -15974,21 +15974,11 @@
     "tboxNo" : "0801",
     "tboxName" : "貢旗社區活動中心",
     "liCode" : "009",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉貢旗村大崙路2-1號",
     "neighbor" : "5-11",
     "deptCode" : "130",
     "liName" : "貢旗村"
-  }, {
-    "ScopeLiName" : "南勢村",
-    "tboxNo" : "0802",
-    "tboxName" : "南勢社區活動中心",
-    "liCode" : "003",
-    "voter" : "02",
-    "addr" : "彰化縣大村鄉南勢村南一橫巷3-11號",
-    "neighbor" : "4,8",
-    "deptCode" : "130",
-    "liName" : "南勢村"
   }, {
     "ScopeLiName" : "南勢村",
     "tboxNo" : "0802",
@@ -16000,6 +15990,16 @@
     "deptCode" : "130",
     "liName" : "南勢村"
   }, {
+    "ScopeLiName" : "南勢村",
+    "tboxNo" : "0802",
+    "tboxName" : "南勢社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "彰化縣大村鄉南勢村南一橫巷3-11號",
+    "neighbor" : "4,8",
+    "deptCode" : "130",
+    "liName" : "南勢村"
+  }, {
     "ScopeLiName" : "大橋村",
     "tboxNo" : "0803",
     "tboxName" : "慈鳳宮",
@@ -16007,16 +16007,6 @@
     "voter" : "01",
     "addr" : "彰化縣大村鄉大橋村中山路三段2巷43-58號",
     "neighbor" : "1-8",
-    "deptCode" : "130",
-    "liName" : "大橋村"
-  }, {
-    "ScopeLiName" : "大橋村",
-    "tboxNo" : "0804",
-    "tboxName" : "大橋社區活動中心",
-    "liCode" : "012",
-    "voter" : "01",
-    "addr" : "彰化縣大村鄉大橋村中山路三段193巷69號",
-    "neighbor" : "9-21",
     "deptCode" : "130",
     "liName" : "大橋村"
   }, {
@@ -16040,15 +16030,15 @@
     "deptCode" : "130",
     "liName" : "大橋村"
   }, {
-    "ScopeLiName" : "加錫村",
-    "tboxNo" : "0805",
-    "tboxName" : "加錫村及貢旗村集會所活動中心",
-    "liCode" : "010",
+    "ScopeLiName" : "大橋村",
+    "tboxNo" : "0804",
+    "tboxName" : "大橋社區活動中心",
+    "liCode" : "012",
     "voter" : "01",
-    "addr" : "彰化縣大村鄉加錫村加錫二巷3-8號",
-    "neighbor" : "加錫村",
+    "addr" : "彰化縣大村鄉大橋村中山路三段193巷69號",
+    "neighbor" : "9-21",
     "deptCode" : "130",
-    "liName" : "加錫村"
+    "liName" : "大橋村"
   }, {
     "ScopeLiName" : "加錫村",
     "tboxNo" : "0805",
@@ -16057,6 +16047,16 @@
     "voter" : "02",
     "addr" : "彰化縣大村鄉加錫村加錫二巷3-8號",
     "neighbor" : "10,12",
+    "deptCode" : "130",
+    "liName" : "加錫村"
+  }, {
+    "ScopeLiName" : "加錫村",
+    "tboxNo" : "0805",
+    "tboxName" : "加錫村及貢旗村集會所活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "彰化縣大村鄉加錫村加錫二巷3-8號",
+    "neighbor" : "加錫村",
     "deptCode" : "130",
     "liName" : "加錫村"
   }, {
@@ -16094,9 +16094,9 @@
     "tboxNo" : "0807",
     "tboxName" : "普崙寺1樓南側",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉大崙村大崙路12-16號",
-    "neighbor" : "11-20",
+    "neighbor" : "14,17",
     "deptCode" : "130",
     "liName" : "大崙村"
   }, {
@@ -16104,9 +16104,9 @@
     "tboxNo" : "0807",
     "tboxName" : "普崙寺1樓南側",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣大村鄉大崙村大崙路12-16號",
-    "neighbor" : "14,17",
+    "neighbor" : "11-20",
     "deptCode" : "130",
     "liName" : "大崙村"
   }, {
@@ -16134,7 +16134,7 @@
     "tboxNo" : "0809",
     "tboxName" : "福天宮廂房",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉擺塘村擺塘巷9號",
     "neighbor" : "2,9,7",
     "deptCode" : "130",
@@ -16144,7 +16144,7 @@
     "tboxNo" : "0809",
     "tboxName" : "福天宮廂房",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉擺塘村擺塘巷9號",
     "neighbor" : "2,9,7",
     "deptCode" : "130",
@@ -16164,7 +16164,7 @@
     "tboxNo" : "0810",
     "tboxName" : "擺塘社區活動中心",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉擺塘村擺塘橫巷1-1號",
     "neighbor" : "16,10,14",
     "deptCode" : "130",
@@ -16174,7 +16174,7 @@
     "tboxNo" : "0810",
     "tboxName" : "擺塘社區活動中心",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉擺塘村擺塘橫巷1-1號",
     "neighbor" : "16,10,14",
     "deptCode" : "130",
@@ -16234,7 +16234,7 @@
     "tboxNo" : "0813",
     "tboxName" : "村上國小學生活動中心",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉村上村中山路二段242號",
     "neighbor" : "5,7,2,11",
     "deptCode" : "130",
@@ -16254,7 +16254,7 @@
     "tboxNo" : "0813",
     "tboxName" : "村上國小學生活動中心",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉村上村中山路二段242號",
     "neighbor" : "5,7,2,11",
     "deptCode" : "130",
@@ -16284,9 +16284,9 @@
     "tboxNo" : "0816",
     "tboxName" : "福星祠廂房",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣大村鄉美港村美港橫巷10-14號",
-    "neighbor" : "10",
+    "neighbor" : "6-10,20",
     "deptCode" : "130",
     "liName" : "美港村"
   }, {
@@ -16294,9 +16294,9 @@
     "tboxNo" : "0816",
     "tboxName" : "福星祠廂房",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉美港村美港橫巷10-14號",
-    "neighbor" : "6-10,20",
+    "neighbor" : "10",
     "deptCode" : "130",
     "liName" : "美港村"
   }, {
@@ -16324,9 +16324,9 @@
     "tboxNo" : "0818",
     "tboxName" : "五行宮南廂房",
     "liCode" : "015",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣大村鄉黃厝村山腳路35號",
-    "neighbor" : "3",
+    "neighbor" : "2-12",
     "deptCode" : "130",
     "liName" : "黃厝村"
   }, {
@@ -16334,21 +16334,11 @@
     "tboxNo" : "0818",
     "tboxName" : "五行宮南廂房",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉黃厝村山腳路35號",
-    "neighbor" : "2-12",
+    "neighbor" : "3",
     "deptCode" : "130",
     "liName" : "黃厝村"
-  }, {
-    "ScopeLiName" : "福興村",
-    "tboxNo" : "0819",
-    "tboxName" : "村東國小(一)",
-    "liCode" : "016",
-    "voter" : "02",
-    "addr" : "彰化縣大村鄉福興村山腳路102-1號",
-    "neighbor" : "5",
-    "deptCode" : "130",
-    "liName" : "福興村"
   }, {
     "ScopeLiName" : "福興村",
     "tboxNo" : "0819",
@@ -16357,6 +16347,16 @@
     "voter" : "01",
     "addr" : "彰化縣大村鄉福興村山腳路102-1號",
     "neighbor" : "1-7",
+    "deptCode" : "130",
+    "liName" : "福興村"
+  }, {
+    "ScopeLiName" : "福興村",
+    "tboxNo" : "0819",
+    "tboxName" : "村東國小(一)",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "彰化縣大村鄉福興村山腳路102-1號",
+    "neighbor" : "5",
     "deptCode" : "130",
     "liName" : "福興村"
   }, {
@@ -16394,7 +16394,7 @@
     "tboxNo" : "0821",
     "tboxName" : "平和社區活動中心",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣大村鄉平和村聖瑤東路77號",
     "neighbor" : "2,3",
     "deptCode" : "130",
@@ -16404,7 +16404,7 @@
     "tboxNo" : "0821",
     "tboxName" : "平和社區活動中心",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣大村鄉平和村聖瑤東路77號",
     "neighbor" : "2,3",
     "deptCode" : "130",
@@ -16490,6 +16490,16 @@
     "deptCode" : "100",
     "liName" : "林厝里"
   }, {
+    "ScopeLiName" : "崙雅里",
+    "tboxNo" : "0828",
+    "tboxName" : "林厝社區活動中心",
+    "liCode" : "025",
+    "voter" : "02",
+    "addr" : "彰化縣員林市林厝里山腳路1段48巷57號",
+    "neighbor" : "17",
+    "deptCode" : "100",
+    "liName" : "崙雅里"
+  }, {
     "ScopeLiName" : "林厝里",
     "tboxNo" : "0828",
     "tboxName" : "林厝社區活動中心",
@@ -16509,16 +16519,6 @@
     "neighbor" : "10",
     "deptCode" : "100",
     "liName" : "林厝里"
-  }, {
-    "ScopeLiName" : "崙雅里",
-    "tboxNo" : "0828",
-    "tboxName" : "林厝社區活動中心",
-    "liCode" : "025",
-    "voter" : "02",
-    "addr" : "彰化縣員林市林厝里山腳路1段48巷57號",
-    "neighbor" : "17",
-    "deptCode" : "100",
-    "liName" : "崙雅里"
   }, {
     "ScopeLiName" : "林厝里",
     "tboxNo" : "0829",
@@ -17464,7 +17464,7 @@
     "tboxNo" : "0922",
     "tboxName" : "乾巽宮",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉東寧村浮圳路490號",
     "neighbor" : "浮圳村",
     "deptCode" : "160",
@@ -17474,7 +17474,7 @@
     "tboxNo" : "0922",
     "tboxName" : "乾巽宮",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣永靖鄉東寧村浮圳路490號",
     "neighbor" : "浮圳村",
     "deptCode" : "160",
@@ -17494,16 +17494,6 @@
     "tboxNo" : "0924",
     "tboxName" : "永興國小(二)",
     "liCode" : "013",
-    "voter" : "01",
-    "addr" : "彰化縣永靖鄉東寧村永興路二段32號",
-    "neighbor" : "12-16",
-    "deptCode" : "160",
-    "liName" : "東寧村"
-  }, {
-    "ScopeLiName" : "東寧村",
-    "tboxNo" : "0924",
-    "tboxName" : "永興國小(二)",
-    "liCode" : "013",
     "voter" : "02",
     "addr" : "彰化縣永靖鄉東寧村永興路二段32號",
     "neighbor" : "12-16",
@@ -17520,15 +17510,15 @@
     "deptCode" : "160",
     "liName" : "東寧村"
   }, {
-    "ScopeLiName" : "光雲村",
-    "tboxNo" : "0925",
-    "tboxName" : "光雲社區活動中心",
-    "liCode" : "012",
+    "ScopeLiName" : "東寧村",
+    "tboxNo" : "0924",
+    "tboxName" : "永興國小(二)",
+    "liCode" : "013",
     "voter" : "01",
-    "addr" : "彰化縣永靖鄉光雲村意善巷78-1號",
-    "neighbor" : "1-8",
+    "addr" : "彰化縣永靖鄉東寧村永興路二段32號",
+    "neighbor" : "12-16",
     "deptCode" : "160",
-    "liName" : "光雲村"
+    "liName" : "東寧村"
   }, {
     "ScopeLiName" : "光雲村",
     "tboxNo" : "0925",
@@ -17545,6 +17535,16 @@
     "tboxName" : "光雲社區活動中心",
     "liCode" : "012",
     "voter" : "03",
+    "addr" : "彰化縣永靖鄉光雲村意善巷78-1號",
+    "neighbor" : "1-8",
+    "deptCode" : "160",
+    "liName" : "光雲村"
+  }, {
+    "ScopeLiName" : "光雲村",
+    "tboxNo" : "0925",
+    "tboxName" : "光雲社區活動中心",
+    "liCode" : "012",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉光雲村意善巷78-1號",
     "neighbor" : "1-8",
     "deptCode" : "160",
@@ -17604,7 +17604,7 @@
     "tboxNo" : "0929",
     "tboxName" : "永興國小(三)",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣永靖鄉東寧村永興路2段32 號",
     "neighbor" : "1-11",
     "deptCode" : "160",
@@ -17614,7 +17614,7 @@
     "tboxNo" : "0929",
     "tboxName" : "永興國小(三)",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉東寧村永興路2段32 號",
     "neighbor" : "1-11",
     "deptCode" : "160",
@@ -17624,7 +17624,7 @@
     "tboxNo" : "0930",
     "tboxName" : "永興國小(四)",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣永靖鄉東寧村永興路2段32 號",
     "neighbor" : "12-18",
     "deptCode" : "160",
@@ -17634,7 +17634,7 @@
     "tboxNo" : "0930",
     "tboxName" : "永興國小(四)",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉東寧村永興路2段32 號",
     "neighbor" : "12-18",
     "deptCode" : "160",
@@ -17684,16 +17684,6 @@
     "tboxNo" : "0933",
     "tboxName" : "永靖國小(二)",
     "liCode" : "002",
-    "voter" : "01",
-    "addr" : "彰化縣永靖鄉永東村中山路二段65號",
-    "neighbor" : "1-9",
-    "deptCode" : "160",
-    "liName" : "永西村"
-  }, {
-    "ScopeLiName" : "永西村",
-    "tboxNo" : "0933",
-    "tboxName" : "永靖國小(二)",
-    "liCode" : "002",
     "voter" : "02",
     "addr" : "彰化縣永靖鄉永東村中山路二段65號",
     "neighbor" : "1-9",
@@ -17711,10 +17701,20 @@
     "liName" : "永西村"
   }, {
     "ScopeLiName" : "永西村",
+    "tboxNo" : "0933",
+    "tboxName" : "永靖國小(二)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "彰化縣永靖鄉永東村中山路二段65號",
+    "neighbor" : "1-9",
+    "deptCode" : "160",
+    "liName" : "永西村"
+  }, {
+    "ScopeLiName" : "永西村",
     "tboxNo" : "0934",
     "tboxName" : "永靖國小(三)",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣永靖鄉永東村中山路二段65號",
     "neighbor" : "10-15",
     "deptCode" : "160",
@@ -17724,7 +17724,7 @@
     "tboxNo" : "0934",
     "tboxName" : "永靖國小(三)",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉永東村中山路二段65號",
     "neighbor" : "10-15",
     "deptCode" : "160",
@@ -17774,6 +17774,16 @@
     "tboxNo" : "0937",
     "tboxName" : "不醉宮",
     "liCode" : "004",
+    "voter" : "01",
+    "addr" : "彰化縣永靖鄉永北村水尾路182號",
+    "neighbor" : "1-8,10,14",
+    "deptCode" : "160",
+    "liName" : "永北村"
+  }, {
+    "ScopeLiName" : "永北村",
+    "tboxNo" : "0937",
+    "tboxName" : "不醉宮",
+    "liCode" : "004",
     "voter" : "03",
     "addr" : "彰化縣永靖鄉永北村水尾路182號",
     "neighbor" : "1-8,10,14",
@@ -17791,20 +17801,10 @@
     "liName" : "永北村"
   }, {
     "ScopeLiName" : "永北村",
-    "tboxNo" : "0937",
-    "tboxName" : "不醉宮",
-    "liCode" : "004",
-    "voter" : "01",
-    "addr" : "彰化縣永靖鄉永北村水尾路182號",
-    "neighbor" : "1-8,10,14",
-    "deptCode" : "160",
-    "liName" : "永北村"
-  }, {
-    "ScopeLiName" : "永北村",
     "tboxNo" : "0938",
     "tboxName" : "甘霖宮",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣永靖鄉永北村永福路一段8號",
     "neighbor" : "9,11-13,15-17",
     "deptCode" : "160",
@@ -17814,7 +17814,7 @@
     "tboxNo" : "0938",
     "tboxName" : "甘霖宮",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉永北村永福路一段8號",
     "neighbor" : "9,11-13,15-17",
     "deptCode" : "160",
@@ -17864,16 +17864,6 @@
     "tboxNo" : "0941",
     "tboxName" : "五福宮(一)",
     "liCode" : "006",
-    "voter" : "02",
-    "addr" : "彰化縣永靖鄉五福村五福巷97號",
-    "neighbor" : "1-4,16-18",
-    "deptCode" : "160",
-    "liName" : "五福村"
-  }, {
-    "ScopeLiName" : "五福村",
-    "tboxNo" : "0941",
-    "tboxName" : "五福宮(一)",
-    "liCode" : "006",
     "voter" : "03",
     "addr" : "彰化縣永靖鄉五福村五福巷97號",
     "neighbor" : "1-4,16-18",
@@ -17885,6 +17875,16 @@
     "tboxName" : "五福宮(一)",
     "liCode" : "006",
     "voter" : "01",
+    "addr" : "彰化縣永靖鄉五福村五福巷97號",
+    "neighbor" : "1-4,16-18",
+    "deptCode" : "160",
+    "liName" : "五福村"
+  }, {
+    "ScopeLiName" : "五福村",
+    "tboxNo" : "0941",
+    "tboxName" : "五福宮(一)",
+    "liCode" : "006",
+    "voter" : "02",
     "addr" : "彰化縣永靖鄉五福村五福巷97號",
     "neighbor" : "1-4,16-18",
     "deptCode" : "160",
@@ -17964,7 +17964,7 @@
     "tboxNo" : "0946",
     "tboxName" : "永靖國中(二)",
     "liCode" : "009",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉瑚璉村錫壽路123號",
     "neighbor" : "11-18",
     "deptCode" : "160",
@@ -17974,7 +17974,7 @@
     "tboxNo" : "0946",
     "tboxName" : "永靖國中(二)",
     "liCode" : "009",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣永靖鄉瑚璉村錫壽路123號",
     "neighbor" : "11-18",
     "deptCode" : "160",
@@ -17994,7 +17994,7 @@
     "tboxNo" : "0948",
     "tboxName" : "獨鰲村及敦厚村聯合集會所活動中心",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣永靖鄉獨鰲村獨鰲路二段9號",
     "neighbor" : "敦厚村",
     "deptCode" : "160",
@@ -18004,7 +18004,7 @@
     "tboxNo" : "0948",
     "tboxName" : "獨鰲村及敦厚村聯合集會所活動中心",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣永靖鄉獨鰲村獨鰲路二段9號",
     "neighbor" : "敦厚村",
     "deptCode" : "160",
@@ -18144,16 +18144,6 @@
     "tboxNo" : "0956",
     "tboxName" : "社頭國小北側社頭村1-6鄰",
     "liCode" : "001",
-    "voter" : "03",
-    "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
-    "neighbor" : "2",
-    "deptCode" : "170",
-    "liName" : "社頭村"
-  }, {
-    "ScopeLiName" : "社頭村",
-    "tboxNo" : "0956",
-    "tboxName" : "社頭國小北側社頭村1-6鄰",
-    "liCode" : "001",
     "voter" : "01",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
     "neighbor" : "1-6",
@@ -18161,12 +18151,12 @@
     "liName" : "社頭村"
   }, {
     "ScopeLiName" : "社頭村",
-    "tboxNo" : "0957",
-    "tboxName" : "社頭國小北側社頭村7-14鄰",
+    "tboxNo" : "0956",
+    "tboxName" : "社頭國小北側社頭村1-6鄰",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
-    "neighbor" : "7-14",
+    "neighbor" : "2",
     "deptCode" : "170",
     "liName" : "社頭村"
   }, {
@@ -18181,12 +18171,12 @@
     "liName" : "社頭村"
   }, {
     "ScopeLiName" : "社頭村",
-    "tboxNo" : "0958",
-    "tboxName" : "社頭國小北側社頭村15-19鄰",
+    "tboxNo" : "0957",
+    "tboxName" : "社頭國小北側社頭村7-14鄰",
     "liCode" : "001",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
-    "neighbor" : "17",
+    "neighbor" : "7-14",
     "deptCode" : "170",
     "liName" : "社頭村"
   }, {
@@ -18197,6 +18187,16 @@
     "voter" : "01",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
     "neighbor" : "15-19",
+    "deptCode" : "170",
+    "liName" : "社頭村"
+  }, {
+    "ScopeLiName" : "社頭村",
+    "tboxNo" : "0958",
+    "tboxName" : "社頭國小北側社頭村15-19鄰",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
+    "neighbor" : "17",
     "deptCode" : "170",
     "liName" : "社頭村"
   }, {
@@ -18274,9 +18274,9 @@
     "tboxNo" : "0962",
     "tboxName" : "社頭國中廣興村17-21鄰",
     "liCode" : "004",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉廣興村中興路1號",
-    "neighbor" : "17-21",
+    "neighbor" : "19,20",
     "deptCode" : "170",
     "liName" : "廣興村"
   }, {
@@ -18284,9 +18284,9 @@
     "tboxNo" : "0962",
     "tboxName" : "社頭國中廣興村17-21鄰",
     "liCode" : "004",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣社頭鄉廣興村中興路1號",
-    "neighbor" : "19,20",
+    "neighbor" : "17-21",
     "deptCode" : "170",
     "liName" : "廣興村"
   }, {
@@ -18314,7 +18314,7 @@
     "tboxNo" : "0965",
     "tboxName" : "舊社國小松竹全村",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣社頭鄉松竹村社石路956號",
     "neighbor" : "9",
     "deptCode" : "170",
@@ -18354,7 +18354,7 @@
     "tboxNo" : "0965",
     "tboxName" : "舊社國小松竹全村",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉松竹村社石路956號",
     "neighbor" : "9",
     "deptCode" : "170",
@@ -18554,9 +18554,9 @@
     "tboxNo" : "0977",
     "tboxName" : "社頭國小南側仁雅村5-8鄰",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
-    "neighbor" : "5-8",
+    "neighbor" : "7",
     "deptCode" : "170",
     "liName" : "仁雅村"
   }, {
@@ -18564,9 +18564,9 @@
     "tboxNo" : "0977",
     "tboxName" : "社頭國小南側仁雅村5-8鄰",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
-    "neighbor" : "7",
+    "neighbor" : "5-8",
     "deptCode" : "170",
     "liName" : "仁雅村"
   }, {
@@ -18584,7 +18584,7 @@
     "tboxNo" : "0978",
     "tboxName" : "社頭國小南側仁雅村9-12鄰",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
     "neighbor" : "9",
     "deptCode" : "170",
@@ -18594,7 +18594,7 @@
     "tboxNo" : "0978",
     "tboxName" : "社頭國小南側仁雅村9-12鄰",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉社頭村社斗路一段258號",
     "neighbor" : "9",
     "deptCode" : "170",
@@ -18624,9 +18624,9 @@
     "tboxNo" : "0980",
     "tboxName" : "崙雅國小美雅村全村",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣社頭鄉美雅村員集路一段615號",
-    "neighbor" : "美雅村",
+    "neighbor" : "7",
     "deptCode" : "170",
     "liName" : "美雅村"
   }, {
@@ -18634,9 +18634,9 @@
     "tboxNo" : "0980",
     "tboxName" : "崙雅國小美雅村全村",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣社頭鄉美雅村員集路一段615號",
-    "neighbor" : "7",
+    "neighbor" : "美雅村",
     "deptCode" : "170",
     "liName" : "美雅村"
   }, {
@@ -18674,9 +18674,9 @@
     "tboxNo" : "0983",
     "tboxName" : "山湖村集會所山湖全村",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣社頭鄉山湖村清水岩路19號",
-    "neighbor" : "1,4",
+    "neighbor" : "山湖村",
     "deptCode" : "170",
     "liName" : "山湖村"
   }, {
@@ -18684,21 +18684,11 @@
     "tboxNo" : "0983",
     "tboxName" : "山湖村集會所山湖全村",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣社頭鄉山湖村清水岩路19號",
-    "neighbor" : "山湖村",
+    "neighbor" : "1,4",
     "deptCode" : "170",
     "liName" : "山湖村"
-  }, {
-    "ScopeLiName" : "埤斗村",
-    "tboxNo" : "0984",
-    "tboxName" : "埤斗社區活動中心埤斗全村",
-    "liCode" : "020",
-    "voter" : "03",
-    "addr" : "彰化縣社頭鄉埤斗村山腳路一段178號",
-    "neighbor" : "4",
-    "deptCode" : "170",
-    "liName" : "埤斗村"
   }, {
     "ScopeLiName" : "埤斗村",
     "tboxNo" : "0984",
@@ -18707,6 +18697,16 @@
     "voter" : "01",
     "addr" : "彰化縣社頭鄉埤斗村山腳路一段178號",
     "neighbor" : "埤斗村",
+    "deptCode" : "170",
+    "liName" : "埤斗村"
+  }, {
+    "ScopeLiName" : "埤斗村",
+    "tboxNo" : "0984",
+    "tboxName" : "埤斗社區活動中心埤斗全村",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "彰化縣社頭鄉埤斗村山腳路一段178號",
+    "neighbor" : "4",
     "deptCode" : "170",
     "liName" : "埤斗村"
   }, {
@@ -18750,6 +18750,16 @@
     "deptCode" : "170",
     "liName" : "協和村"
   }, {
+    "ScopeLiName" : "泰安村",
+    "tboxNo" : "0989",
+    "tboxName" : "仁泰社區活動中心泰安村全村",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "彰化縣社頭鄉仁和村山腳路二段829號",
+    "neighbor" : "1",
+    "deptCode" : "170",
+    "liName" : "泰安村"
+  }, {
     "ScopeLiName" : "仁和村",
     "tboxNo" : "0989",
     "tboxName" : "仁泰社區活動中心泰安村全村",
@@ -18767,16 +18777,6 @@
     "voter" : "01",
     "addr" : "彰化縣社頭鄉仁和村山腳路二段829號",
     "neighbor" : "泰安村",
-    "deptCode" : "170",
-    "liName" : "泰安村"
-  }, {
-    "ScopeLiName" : "泰安村",
-    "tboxNo" : "0989",
-    "tboxName" : "仁泰社區活動中心泰安村全村",
-    "liCode" : "012",
-    "voter" : "03",
-    "addr" : "彰化縣社頭鄉仁和村山腳路二段829號",
-    "neighbor" : "1",
     "deptCode" : "170",
     "liName" : "泰安村"
   }, {
@@ -18834,9 +18834,9 @@
     "tboxNo" : "0995",
     "tboxName" : "溪畔社區活動中心",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田尾鄉溪畔村溪畔巷157號",
-    "neighbor" : "1",
+    "neighbor" : "溪畔村",
     "deptCode" : "210",
     "liName" : "溪畔村"
   }, {
@@ -18844,9 +18844,9 @@
     "tboxNo" : "0995",
     "tboxName" : "溪畔社區活動中心",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田尾鄉溪畔村溪畔巷157號",
-    "neighbor" : "溪畔村",
+    "neighbor" : "1",
     "deptCode" : "210",
     "liName" : "溪畔村"
   }, {
@@ -18914,9 +18914,9 @@
     "tboxNo" : "1001",
     "tboxName" : "南曾村活動中心",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田尾鄉南曾村南曾村福德巷185號",
-    "neighbor" : "南曾村",
+    "neighbor" : "4,5,6,7",
     "deptCode" : "210",
     "liName" : "南曾村"
   }, {
@@ -18924,9 +18924,9 @@
     "tboxNo" : "1001",
     "tboxName" : "南曾村活動中心",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田尾鄉南曾村南曾村福德巷185號",
-    "neighbor" : "4,5,6,7",
+    "neighbor" : "南曾村",
     "deptCode" : "210",
     "liName" : "南曾村"
   }, {
@@ -18944,9 +18944,9 @@
     "tboxNo" : "1003",
     "tboxName" : "饒平村天乙宮",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田尾鄉饒平村建平路1段66號",
-    "neighbor" : "7",
+    "neighbor" : "6,7,9-12,18,19",
     "deptCode" : "210",
     "liName" : "饒平村"
   }, {
@@ -18954,9 +18954,9 @@
     "tboxNo" : "1003",
     "tboxName" : "饒平村天乙宮",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田尾鄉饒平村建平路1段66號",
-    "neighbor" : "6,7,9-12,18,19",
+    "neighbor" : "7",
     "deptCode" : "210",
     "liName" : "饒平村"
   }, {
@@ -19114,9 +19114,9 @@
     "tboxNo" : "1015",
     "tboxName" : "北鎮社區活動中心",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田尾鄉北鎮村平和路2段臨159號",
-    "neighbor" : "北鎮村",
+    "neighbor" : "6",
     "deptCode" : "210",
     "liName" : "北鎮村"
   }, {
@@ -19124,9 +19124,9 @@
     "tboxNo" : "1015",
     "tboxName" : "北鎮社區活動中心",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田尾鄉北鎮村平和路2段臨159號",
-    "neighbor" : "6",
+    "neighbor" : "北鎮村",
     "deptCode" : "210",
     "liName" : "北鎮村"
   }, {
@@ -19404,9 +19404,9 @@
     "tboxNo" : "1033",
     "tboxName" : "三潭國小(二)",
     "liCode" : "009",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田中鎮北路里中正路715號",
-    "neighbor" : "9-16",
+    "neighbor" : "1-21",
     "deptCode" : "120",
     "liName" : "北路里"
   }, {
@@ -19414,9 +19414,9 @@
     "tboxNo" : "1033",
     "tboxName" : "三潭國小(二)",
     "liCode" : "009",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田中鎮北路里中正路715號",
-    "neighbor" : "1-21",
+    "neighbor" : "9-16",
     "deptCode" : "120",
     "liName" : "北路里"
   }, {
@@ -19434,9 +19434,9 @@
     "tboxNo" : "1035",
     "tboxName" : "第二攤販市場辦公室",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田中鎮西路里中正路305號",
-    "neighbor" : "1-16,25",
+    "neighbor" : "1-25",
     "deptCode" : "120",
     "liName" : "西路里"
   }, {
@@ -19444,9 +19444,9 @@
     "tboxNo" : "1035",
     "tboxName" : "第二攤販市場辦公室",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田中鎮西路里中正路305號",
-    "neighbor" : "1-25",
+    "neighbor" : "1-16,25",
     "deptCode" : "120",
     "liName" : "西路里"
   }, {
@@ -19554,7 +19554,7 @@
     "tboxNo" : "1044",
     "tboxName" : "大崙社區活動中心",
     "liCode" : "016",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "彰化縣田中鎮大崙里大安路二段318號",
     "neighbor" : "1-9",
     "deptCode" : "120",
@@ -19564,7 +19564,7 @@
     "tboxNo" : "1044",
     "tboxName" : "大崙社區活動中心",
     "liCode" : "016",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "彰化縣田中鎮大崙里大安路二段318號",
     "neighbor" : "1-9",
     "deptCode" : "120",
@@ -19604,9 +19604,9 @@
     "tboxNo" : "1047",
     "tboxName" : "新民國小(一)",
     "liCode" : "018",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣田中鎮新民里公館路320號",
-    "neighbor" : "1,14-18",
+    "neighbor" : "1-27",
     "deptCode" : "120",
     "liName" : "新民里"
   }, {
@@ -19614,9 +19614,9 @@
     "tboxNo" : "1047",
     "tboxName" : "新民國小(一)",
     "liCode" : "018",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣田中鎮新民里公館路320號",
-    "neighbor" : "1-27",
+    "neighbor" : "1,14-18",
     "deptCode" : "120",
     "liName" : "新民里"
   }, {
@@ -19704,6 +19704,16 @@
     "tboxNo" : "1054",
     "tboxName" : "大社社區活動中心",
     "liCode" : "022",
+    "voter" : "03",
+    "addr" : "彰化縣田中鎮大社里大社路二段649號",
+    "neighbor" : "1-10",
+    "deptCode" : "120",
+    "liName" : "大社里"
+  }, {
+    "ScopeLiName" : "大社里",
+    "tboxNo" : "1054",
+    "tboxName" : "大社社區活動中心",
+    "liCode" : "022",
     "voter" : "02",
     "addr" : "彰化縣田中鎮大社里大社路二段649號",
     "neighbor" : "1-10",
@@ -19714,16 +19724,6 @@
     "tboxNo" : "1054",
     "tboxName" : "大社社區活動中心",
     "liCode" : "022",
-    "voter" : "03",
-    "addr" : "彰化縣田中鎮大社里大社路二段649號",
-    "neighbor" : "1-10",
-    "deptCode" : "120",
-    "liName" : "大社里"
-  }, {
-    "ScopeLiName" : "大社里",
-    "tboxNo" : "1054",
-    "tboxName" : "大社社區活動中心",
-    "liCode" : "022",
     "voter" : "01",
     "addr" : "彰化縣田中鎮大社里大社路二段649號",
     "neighbor" : "1-10",
@@ -19734,7 +19734,7 @@
     "tboxNo" : "1055",
     "tboxName" : "復興社區活動中心",
     "liCode" : "016",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "彰化縣二水鄉復興村員集路5段472號",
     "neighbor" : "復興村",
     "deptCode" : "180",
@@ -19744,7 +19744,7 @@
     "tboxNo" : "1055",
     "tboxName" : "復興社區活動中心",
     "liCode" : "016",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "彰化縣二水鄉復興村員集路5段472號",
     "neighbor" : "復興村",
     "deptCode" : "180",
@@ -19874,67 +19874,67 @@
     "tboxNo" : "1063",
     "tboxName" : "二水國小(一)",
     "liCode" : "008",
+    "voter" : "03",
+    "addr" : "彰化縣二水鄉文化村光文路119號",
+    "neighbor" : "聖化村",
+    "deptCode" : "180",
+    "liName" : "聖化村"
+  }, {
+    "ScopeLiName" : "聖化村",
+    "tboxNo" : "1063",
+    "tboxName" : "二水國小(一)",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "彰化縣二水鄉文化村光文路119號",
+    "neighbor" : "聖化村",
+    "deptCode" : "180",
+    "liName" : "聖化村"
+  }, {
+    "ScopeLiName" : "聖化村",
+    "tboxNo" : "1063",
+    "tboxName" : "二水國小(一)",
+    "liCode" : "008",
     "voter" : "01",
     "addr" : "彰化縣二水鄉文化村光文路119號",
     "neighbor" : "聖化村",
     "deptCode" : "180",
     "liName" : "聖化村"
   }, {
-    "ScopeLiName" : "聖化村",
-    "tboxNo" : "1063",
-    "tboxName" : "二水國小(一)",
-    "liCode" : "008",
-    "voter" : "02",
-    "addr" : "彰化縣二水鄉文化村光文路119號",
-    "neighbor" : "聖化村",
-    "deptCode" : "180",
-    "liName" : "聖化村"
-  }, {
-    "ScopeLiName" : "聖化村",
-    "tboxNo" : "1063",
-    "tboxName" : "二水國小(一)",
-    "liCode" : "008",
-    "voter" : "03",
-    "addr" : "彰化縣二水鄉文化村光文路119號",
-    "neighbor" : "聖化村",
-    "deptCode" : "180",
-    "liName" : "聖化村"
-  }, {
-    "ScopeLiName" : "上豊村",
-    "tboxNo" : "1064",
-    "tboxName" : "二水社區發展協會",
-    "liCode" : "002",
-    "voter" : "02",
-    "addr" : "彰化縣二水鄉二水村正德巷5號",
-    "neighbor" : "8",
-    "deptCode" : "180",
-    "liName" : "上豊村"
-  }, {
-    "ScopeLiName" : "上豊村",
-    "tboxNo" : "1064",
-    "tboxName" : "二水社區發展協會",
-    "liCode" : "002",
-    "voter" : "03",
-    "addr" : "彰化縣二水鄉二水村正德巷5號",
-    "neighbor" : "8",
-    "deptCode" : "180",
-    "liName" : "上豊村"
-  }, {
     "ScopeLiName" : "過圳村",
     "tboxNo" : "1064",
     "tboxName" : "二水社區發展協會",
     "liCode" : "003",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "彰化縣二水鄉二水村正德巷5號",
     "neighbor" : "11",
     "deptCode" : "180",
     "liName" : "過圳村"
   }, {
+    "ScopeLiName" : "上豊村",
+    "tboxNo" : "1064",
+    "tboxName" : "二水社區發展協會",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "彰化縣二水鄉二水村正德巷5號",
+    "neighbor" : "8",
+    "deptCode" : "180",
+    "liName" : "上豊村"
+  }, {
+    "ScopeLiName" : "上豊村",
+    "tboxNo" : "1064",
+    "tboxName" : "二水社區發展協會",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "彰化縣二水鄉二水村正德巷5號",
+    "neighbor" : "8",
+    "deptCode" : "180",
+    "liName" : "上豊村"
+  }, {
     "ScopeLiName" : "過圳村",
     "tboxNo" : "1064",
     "tboxName" : "二水社區發展協會",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "彰化縣二水鄉二水村正德巷5號",
     "neighbor" : "11",
     "deptCode" : "180",
@@ -20020,6 +20020,16 @@
     "deptCode" : "180",
     "liName" : "修仁村"
   }, {
+    "ScopeLiName" : "源泉村",
+    "tboxNo" : "1069",
+    "tboxName" : "合興社區活動中心",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "彰化縣二水鄉合興村英義路12巷46號",
+    "neighbor" : "源泉村",
+    "deptCode" : "180",
+    "liName" : "源泉村"
+  }, {
     "ScopeLiName" : "合興村",
     "tboxNo" : "1069",
     "tboxName" : "合興社區活動中心",
@@ -20030,26 +20040,6 @@
     "deptCode" : "180",
     "liName" : "合興村"
   }, {
-    "ScopeLiName" : "源泉村",
-    "tboxNo" : "1069",
-    "tboxName" : "合興社區活動中心",
-    "liCode" : "014",
-    "voter" : "02",
-    "addr" : "彰化縣二水鄉合興村英義路12巷46號",
-    "neighbor" : "源泉村",
-    "deptCode" : "180",
-    "liName" : "源泉村"
-  }, {
-    "ScopeLiName" : "修仁村",
-    "tboxNo" : "1070",
-    "tboxName" : "源泉社區活動中心",
-    "liCode" : "012",
-    "voter" : "02",
-    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
-    "neighbor" : "1",
-    "deptCode" : "180",
-    "liName" : "修仁村"
-  }, {
     "ScopeLiName" : "修仁村",
     "tboxNo" : "1070",
     "tboxName" : "源泉社區活動中心",
@@ -20059,6 +20049,36 @@
     "neighbor" : "1",
     "deptCode" : "180",
     "liName" : "修仁村"
+  }, {
+    "ScopeLiName" : "修仁村",
+    "tboxNo" : "1070",
+    "tboxName" : "源泉社區活動中心",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
+    "neighbor" : "1",
+    "deptCode" : "180",
+    "liName" : "修仁村"
+  }, {
+    "ScopeLiName" : "源泉村",
+    "tboxNo" : "1070",
+    "tboxName" : "源泉社區活動中心",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
+    "neighbor" : "源泉村",
+    "deptCode" : "180",
+    "liName" : "源泉村"
+  }, {
+    "ScopeLiName" : "源泉村",
+    "tboxNo" : "1070",
+    "tboxName" : "源泉社區活動中心",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
+    "neighbor" : "源泉村",
+    "deptCode" : "180",
+    "liName" : "源泉村"
   }, {
     "ScopeLiName" : "源泉村",
     "tboxNo" : "1070",
@@ -20070,25 +20090,15 @@
     "deptCode" : "180",
     "liName" : "源泉村"
   }, {
-    "ScopeLiName" : "源泉村",
-    "tboxNo" : "1070",
-    "tboxName" : "源泉社區活動中心",
-    "liCode" : "014",
-    "voter" : "02",
-    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
-    "neighbor" : "源泉村",
-    "deptCode" : "180",
-    "liName" : "源泉村"
-  }, {
-    "ScopeLiName" : "源泉村",
-    "tboxNo" : "1070",
-    "tboxName" : "源泉社區活動中心",
-    "liCode" : "014",
+    "ScopeLiName" : "倡和村",
+    "tboxNo" : "1071",
+    "tboxName" : "倡和社區活動中心",
+    "liCode" : "015",
     "voter" : "03",
-    "addr" : "彰化縣二水鄉源泉村月眉巷1-2號",
-    "neighbor" : "源泉村",
+    "addr" : "彰化縣二水鄉倡和村倡和路41-1號",
+    "neighbor" : "倡和村",
     "deptCode" : "180",
-    "liName" : "源泉村"
+    "liName" : "倡和村"
   }, {
     "ScopeLiName" : "倡和村",
     "tboxNo" : "1071",
@@ -20105,16 +20115,6 @@
     "tboxName" : "倡和社區活動中心",
     "liCode" : "015",
     "voter" : "02",
-    "addr" : "彰化縣二水鄉倡和村倡和路41-1號",
-    "neighbor" : "倡和村",
-    "deptCode" : "180",
-    "liName" : "倡和村"
-  }, {
-    "ScopeLiName" : "倡和村",
-    "tboxNo" : "1071",
-    "tboxName" : "倡和社區活動中心",
-    "liCode" : "015",
-    "voter" : "03",
     "addr" : "彰化縣二水鄉倡和村倡和路41-1號",
     "neighbor" : "倡和村",
     "deptCode" : "180",

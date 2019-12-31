@@ -244,6 +244,16 @@
     "tboxNo" : "0017",
     "tboxName" : "石牌國中7年7班教室",
     "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺北市北投區吉利里石牌路1段139號",
+    "neighbor" : "榮光里",
+    "deptCode" : "120",
+    "liName" : "榮光里"
+  }, {
+    "ScopeLiName" : "榮光里",
+    "tboxNo" : "0017",
+    "tboxName" : "石牌國中7年7班教室",
+    "liCode" : "005",
     "voter" : "01",
     "addr" : "臺北市北投區吉利里石牌路1段139號",
     "neighbor" : "16-19",
@@ -255,16 +265,6 @@
     "tboxName" : "石牌國中7年7班教室",
     "liCode" : "005",
     "voter" : "02",
-    "addr" : "臺北市北投區吉利里石牌路1段139號",
-    "neighbor" : "榮光里",
-    "deptCode" : "120",
-    "liName" : "榮光里"
-  }, {
-    "ScopeLiName" : "榮光里",
-    "tboxNo" : "0017",
-    "tboxName" : "石牌國中7年7班教室",
-    "liCode" : "005",
-    "voter" : "03",
     "addr" : "臺北市北投區吉利里石牌路1段139號",
     "neighbor" : "榮光里",
     "deptCode" : "120",
@@ -374,9 +374,9 @@
     "tboxNo" : "0026",
     "tboxName" : "明德國中多功能教室",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區建民里明德路50號",
-    "neighbor" : "裕民里",
+    "neighbor" : "2,11,14,16,22",
     "deptCode" : "120",
     "liName" : "裕民里"
   }, {
@@ -384,9 +384,9 @@
     "tboxNo" : "0026",
     "tboxName" : "明德國中多功能教室",
     "liCode" : "007",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區建民里明德路50號",
-    "neighbor" : "2,11,14,16,22",
+    "neighbor" : "裕民里",
     "deptCode" : "120",
     "liName" : "裕民里"
   }, {
@@ -424,9 +424,9 @@
     "tboxNo" : "0029",
     "tboxName" : "臺北護理健康大學B112教室",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區振華里明德路365號",
-    "neighbor" : "1-6",
+    "neighbor" : "振華里",
     "deptCode" : "120",
     "liName" : "振華里"
   }, {
@@ -434,9 +434,9 @@
     "tboxNo" : "0029",
     "tboxName" : "臺北護理健康大學B112教室",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區振華里明德路365號",
-    "neighbor" : "振華里",
+    "neighbor" : "1-6",
     "deptCode" : "120",
     "liName" : "振華里"
   }, {
@@ -574,9 +574,9 @@
     "tboxNo" : "0040",
     "tboxName" : "榮民總醫院介壽堂",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區永欣里石牌路2段201號",
-    "neighbor" : "永欣里",
+    "neighbor" : "2-7",
     "deptCode" : "120",
     "liName" : "永欣里"
   }, {
@@ -584,9 +584,9 @@
     "tboxNo" : "0040",
     "tboxName" : "榮民總醫院介壽堂",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區永欣里石牌路2段201號",
-    "neighbor" : "2-7",
+    "neighbor" : "永欣里",
     "deptCode" : "120",
     "liName" : "永欣里"
   }, {
@@ -644,9 +644,9 @@
     "tboxNo" : "0045",
     "tboxName" : "陽明天母大廈交誼廳",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區立農街2段202巷6號後側",
-    "neighbor" : "永明里",
+    "neighbor" : "8,10-12",
     "deptCode" : "120",
     "liName" : "永明里"
   }, {
@@ -654,9 +654,9 @@
     "tboxNo" : "0045",
     "tboxName" : "陽明天母大廈交誼廳",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區立農街2段202巷6號後側",
-    "neighbor" : "8,10-12",
+    "neighbor" : "永明里",
     "deptCode" : "120",
     "liName" : "永明里"
   }, {
@@ -774,9 +774,9 @@
     "tboxNo" : "0054",
     "tboxName" : "石牌國小1年14班教室",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區吉利里致遠二路80號",
-    "neighbor" : "吉利里",
+    "neighbor" : "19-23",
     "deptCode" : "120",
     "liName" : "吉利里"
   }, {
@@ -784,9 +784,9 @@
     "tboxNo" : "0054",
     "tboxName" : "石牌國小1年14班教室",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區吉利里致遠二路80號",
-    "neighbor" : "19-23",
+    "neighbor" : "吉利里",
     "deptCode" : "120",
     "liName" : "吉利里"
   }, {
@@ -824,16 +824,6 @@
     "tboxNo" : "0057",
     "tboxName" : "石牌國小2年3班教室",
     "liCode" : "014",
-    "voter" : "03",
-    "addr" : "臺北市北投區吉利里致遠二路80號",
-    "neighbor" : "吉慶里",
-    "deptCode" : "120",
-    "liName" : "吉慶里"
-  }, {
-    "ScopeLiName" : "吉慶里",
-    "tboxNo" : "0057",
-    "tboxName" : "石牌國小2年3班教室",
-    "liCode" : "014",
     "voter" : "01",
     "addr" : "臺北市北投區吉利里致遠二路80號",
     "neighbor" : "12,14-18",
@@ -845,6 +835,16 @@
     "tboxName" : "石牌國小2年3班教室",
     "liCode" : "014",
     "voter" : "02",
+    "addr" : "臺北市北投區吉利里致遠二路80號",
+    "neighbor" : "吉慶里",
+    "deptCode" : "120",
+    "liName" : "吉慶里"
+  }, {
+    "ScopeLiName" : "吉慶里",
+    "tboxNo" : "0057",
+    "tboxName" : "石牌國小2年3班教室",
+    "liCode" : "014",
+    "voter" : "03",
     "addr" : "臺北市北投區吉利里致遠二路80號",
     "neighbor" : "吉慶里",
     "deptCode" : "120",
@@ -874,16 +874,6 @@
     "tboxNo" : "0060",
     "tboxName" : "石牌國小2年6班教室",
     "liCode" : "015",
-    "voter" : "03",
-    "addr" : "臺北市北投區吉利里致遠二路80號",
-    "neighbor" : "尊賢里",
-    "deptCode" : "120",
-    "liName" : "尊賢里"
-  }, {
-    "ScopeLiName" : "尊賢里",
-    "tboxNo" : "0060",
-    "tboxName" : "石牌國小2年6班教室",
-    "liCode" : "015",
     "voter" : "01",
     "addr" : "臺北市北投區吉利里致遠二路80號",
     "neighbor" : "13-20",
@@ -895,6 +885,16 @@
     "tboxName" : "石牌國小2年6班教室",
     "liCode" : "015",
     "voter" : "02",
+    "addr" : "臺北市北投區吉利里致遠二路80號",
+    "neighbor" : "尊賢里",
+    "deptCode" : "120",
+    "liName" : "尊賢里"
+  }, {
+    "ScopeLiName" : "尊賢里",
+    "tboxNo" : "0060",
+    "tboxName" : "石牌國小2年6班教室",
+    "liCode" : "015",
+    "voter" : "03",
     "addr" : "臺北市北投區吉利里致遠二路80號",
     "neighbor" : "尊賢里",
     "deptCode" : "120",
@@ -934,6 +934,16 @@
     "tboxNo" : "0064",
     "tboxName" : "立農國小2年4班教室",
     "liCode" : "016",
+    "voter" : "03",
+    "addr" : "臺北市北投區立農里立農街1段250號",
+    "neighbor" : "立賢里",
+    "deptCode" : "120",
+    "liName" : "立賢里"
+  }, {
+    "ScopeLiName" : "立賢里",
+    "tboxNo" : "0064",
+    "tboxName" : "立農國小2年4班教室",
+    "liCode" : "016",
     "voter" : "01",
     "addr" : "臺北市北投區立農里立農街1段250號",
     "neighbor" : "4,5,15,16",
@@ -945,16 +955,6 @@
     "tboxName" : "立農國小2年4班教室",
     "liCode" : "016",
     "voter" : "02",
-    "addr" : "臺北市北投區立農里立農街1段250號",
-    "neighbor" : "立賢里",
-    "deptCode" : "120",
-    "liName" : "立賢里"
-  }, {
-    "ScopeLiName" : "立賢里",
-    "tboxNo" : "0064",
-    "tboxName" : "立農國小2年4班教室",
-    "liCode" : "016",
-    "voter" : "03",
     "addr" : "臺北市北投區立農里立農街1段250號",
     "neighbor" : "立賢里",
     "deptCode" : "120",
@@ -974,9 +974,9 @@
     "tboxNo" : "0066",
     "tboxName" : "立農里里民活動場所",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區立農里吉利街123巷30號",
-    "neighbor" : "立農里",
+    "neighbor" : "5-8",
     "deptCode" : "120",
     "liName" : "立農里"
   }, {
@@ -984,9 +984,9 @@
     "tboxNo" : "0066",
     "tboxName" : "立農里里民活動場所",
     "liCode" : "017",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區立農里吉利街123巷30號",
-    "neighbor" : "5-8",
+    "neighbor" : "立農里",
     "deptCode" : "120",
     "liName" : "立農里"
   }, {
@@ -1104,7 +1104,7 @@
     "tboxNo" : "0075",
     "tboxName" : "屈原宮",
     "liCode" : "019",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區洲美里洲美街122號",
     "neighbor" : "洲美里",
     "deptCode" : "120",
@@ -1124,7 +1124,7 @@
     "tboxNo" : "0075",
     "tboxName" : "屈原宮",
     "liCode" : "019",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區洲美里洲美街122號",
     "neighbor" : "洲美里",
     "deptCode" : "120",
@@ -1144,6 +1144,16 @@
     "tboxNo" : "0077",
     "tboxName" : "清江國小1年2班教室",
     "liCode" : "020",
+    "voter" : "03",
+    "addr" : "臺北市北投區奇岩里公舘路220號",
+    "neighbor" : "奇岩里",
+    "deptCode" : "120",
+    "liName" : "奇岩里"
+  }, {
+    "ScopeLiName" : "奇岩里",
+    "tboxNo" : "0077",
+    "tboxName" : "清江國小1年2班教室",
+    "liCode" : "020",
     "voter" : "01",
     "addr" : "臺北市北投區奇岩里公舘路220號",
     "neighbor" : "3,5,6,27",
@@ -1155,16 +1165,6 @@
     "tboxName" : "清江國小1年2班教室",
     "liCode" : "020",
     "voter" : "02",
-    "addr" : "臺北市北投區奇岩里公舘路220號",
-    "neighbor" : "奇岩里",
-    "deptCode" : "120",
-    "liName" : "奇岩里"
-  }, {
-    "ScopeLiName" : "奇岩里",
-    "tboxNo" : "0077",
-    "tboxName" : "清江國小1年2班教室",
-    "liCode" : "020",
-    "voter" : "03",
     "addr" : "臺北市北投區奇岩里公舘路220號",
     "neighbor" : "奇岩里",
     "deptCode" : "120",
@@ -1254,7 +1254,7 @@
     "tboxNo" : "0086",
     "tboxName" : "北投行道會福音中心",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區清江里清江路186號",
     "neighbor" : "清江里",
     "deptCode" : "120",
@@ -1274,7 +1274,7 @@
     "tboxNo" : "0086",
     "tboxName" : "北投行道會福音中心",
     "liCode" : "021",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區清江里清江路186號",
     "neighbor" : "清江里",
     "deptCode" : "120",
@@ -1314,16 +1314,6 @@
     "tboxNo" : "0090",
     "tboxName" : "北投國小2年5班教室",
     "liCode" : "022",
-    "voter" : "03",
-    "addr" : "臺北市北投區大同里中央北路1段73號",
-    "neighbor" : "中央里",
-    "deptCode" : "120",
-    "liName" : "中央里"
-  }, {
-    "ScopeLiName" : "中央里",
-    "tboxNo" : "0090",
-    "tboxName" : "北投國小2年5班教室",
-    "liCode" : "022",
     "voter" : "01",
     "addr" : "臺北市北投區大同里中央北路1段73號",
     "neighbor" : "15-17",
@@ -1335,6 +1325,16 @@
     "tboxName" : "北投國小2年5班教室",
     "liCode" : "022",
     "voter" : "02",
+    "addr" : "臺北市北投區大同里中央北路1段73號",
+    "neighbor" : "中央里",
+    "deptCode" : "120",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0090",
+    "tboxName" : "北投國小2年5班教室",
+    "liCode" : "022",
+    "voter" : "03",
     "addr" : "臺北市北投區大同里中央北路1段73號",
     "neighbor" : "中央里",
     "deptCode" : "120",
@@ -1374,9 +1374,9 @@
     "tboxNo" : "0094",
     "tboxName" : "北投國小生活教室〈105A〉",
     "liCode" : "023",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區大同里中央北路1段73號",
-    "neighbor" : "1-5",
+    "neighbor" : "長安里",
     "deptCode" : "120",
     "liName" : "長安里"
   }, {
@@ -1384,9 +1384,9 @@
     "tboxNo" : "0094",
     "tboxName" : "北投國小生活教室〈105A〉",
     "liCode" : "023",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區大同里中央北路1段73號",
-    "neighbor" : "長安里",
+    "neighbor" : "1-5",
     "deptCode" : "120",
     "liName" : "長安里"
   }, {
@@ -1504,7 +1504,7 @@
     "tboxNo" : "0103",
     "tboxName" : "北投國中資源班CD教室",
     "liCode" : "025",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區溫泉里溫泉路62號",
     "neighbor" : "溫泉里",
     "deptCode" : "120",
@@ -1524,7 +1524,7 @@
     "tboxNo" : "0103",
     "tboxName" : "北投國中資源班CD教室",
     "liCode" : "025",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區溫泉里溫泉路62號",
     "neighbor" : "溫泉里",
     "deptCode" : "120",
@@ -1614,9 +1614,9 @@
     "tboxNo" : "0110",
     "tboxName" : "逸仙國小3年2班教室",
     "liCode" : "027",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市北投區中心里新民路2號",
-    "neighbor" : "6-9",
+    "neighbor" : "中心里",
     "deptCode" : "120",
     "liName" : "中心里"
   }, {
@@ -1624,9 +1624,9 @@
     "tboxNo" : "0110",
     "tboxName" : "逸仙國小3年2班教室",
     "liCode" : "027",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市北投區中心里新民路2號",
-    "neighbor" : "中心里",
+    "neighbor" : "6-9",
     "deptCode" : "120",
     "liName" : "中心里"
   }, {
@@ -1994,7 +1994,7 @@
     "tboxNo" : "0134",
     "tboxName" : "文化國小1年9班教室",
     "liCode" : "034",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區文化里文化三路1號",
     "neighbor" : "豐年里",
     "deptCode" : "120",
@@ -2014,7 +2014,7 @@
     "tboxNo" : "0134",
     "tboxName" : "文化國小1年9班教室",
     "liCode" : "034",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區文化里文化三路1號",
     "neighbor" : "豐年里",
     "deptCode" : "120",
@@ -2094,7 +2094,7 @@
     "tboxNo" : "0140",
     "tboxName" : "桃源國小多功能教室〈一〉",
     "liCode" : "036",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區桃源里中央北路3段40巷45號",
     "neighbor" : "桃源里",
     "deptCode" : "120",
@@ -2114,7 +2114,7 @@
     "tboxNo" : "0140",
     "tboxName" : "桃源國小多功能教室〈一〉",
     "liCode" : "036",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區桃源里中央北路3段40巷45號",
     "neighbor" : "桃源里",
     "deptCode" : "120",
@@ -2144,7 +2144,7 @@
     "tboxNo" : "0143",
     "tboxName" : "桃源國中總務處旁多功能教室",
     "liCode" : "037",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市北投區一德里中央北路4段48號",
     "neighbor" : "一德里",
     "deptCode" : "120",
@@ -2164,7 +2164,7 @@
     "tboxNo" : "0143",
     "tboxName" : "桃源國中總務處旁多功能教室",
     "liCode" : "037",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市北投區一德里中央北路4段48號",
     "neighbor" : "一德里",
     "deptCode" : "120",
@@ -2444,6 +2444,16 @@
     "tboxNo" : "0161",
     "tboxName" : "基督教天母禮拜堂",
     "liCode" : "042",
+    "voter" : "03",
+    "addr" : "臺北市士林區天母里中山北路7段216巷1號",
+    "neighbor" : "天母里",
+    "deptCode" : "110",
+    "liName" : "天母里"
+  }, {
+    "ScopeLiName" : "天母里",
+    "tboxNo" : "0161",
+    "tboxName" : "基督教天母禮拜堂",
+    "liCode" : "042",
     "voter" : "01",
     "addr" : "臺北市士林區天母里中山北路7段216巷1號",
     "neighbor" : "1-5",
@@ -2455,16 +2465,6 @@
     "tboxName" : "基督教天母禮拜堂",
     "liCode" : "042",
     "voter" : "02",
-    "addr" : "臺北市士林區天母里中山北路7段216巷1號",
-    "neighbor" : "天母里",
-    "deptCode" : "110",
-    "liName" : "天母里"
-  }, {
-    "ScopeLiName" : "天母里",
-    "tboxNo" : "0161",
-    "tboxName" : "基督教天母禮拜堂",
-    "liCode" : "042",
-    "voter" : "03",
     "addr" : "臺北市士林區天母里中山北路7段216巷1號",
     "neighbor" : "天母里",
     "deptCode" : "110",
@@ -2524,6 +2524,16 @@
     "tboxNo" : "0167",
     "tboxName" : "蘭雅國中7年4班教室",
     "liCode" : "033",
+    "voter" : "03",
+    "addr" : "臺北市士林區三玉里忠誠路2段51號",
+    "neighbor" : "三玉里",
+    "deptCode" : "110",
+    "liName" : "三玉里"
+  }, {
+    "ScopeLiName" : "三玉里",
+    "tboxNo" : "0167",
+    "tboxName" : "蘭雅國中7年4班教室",
+    "liCode" : "033",
     "voter" : "01",
     "addr" : "臺北市士林區三玉里忠誠路2段51號",
     "neighbor" : "13-16",
@@ -2535,16 +2545,6 @@
     "tboxName" : "蘭雅國中7年4班教室",
     "liCode" : "033",
     "voter" : "02",
-    "addr" : "臺北市士林區三玉里忠誠路2段51號",
-    "neighbor" : "三玉里",
-    "deptCode" : "110",
-    "liName" : "三玉里"
-  }, {
-    "ScopeLiName" : "三玉里",
-    "tboxNo" : "0167",
-    "tboxName" : "蘭雅國中7年4班教室",
-    "liCode" : "033",
-    "voter" : "03",
     "addr" : "臺北市士林區三玉里忠誠路2段51號",
     "neighbor" : "三玉里",
     "deptCode" : "110",
@@ -2594,9 +2594,9 @@
     "tboxNo" : "0172",
     "tboxName" : "臺北市立大學天母校區體育館選手休息室（四）",
     "liCode" : "036",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市士林區三玉里忠誠路2段101號",
-    "neighbor" : "16-20",
+    "neighbor" : "天福里",
     "deptCode" : "110",
     "liName" : "天福里"
   }, {
@@ -2614,9 +2614,9 @@
     "tboxNo" : "0172",
     "tboxName" : "臺北市立大學天母校區體育館選手休息室（四）",
     "liCode" : "036",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市士林區三玉里忠誠路2段101號",
-    "neighbor" : "天福里",
+    "neighbor" : "16-20",
     "deptCode" : "110",
     "liName" : "天福里"
   }, {
@@ -2634,9 +2634,9 @@
     "tboxNo" : "0174",
     "tboxName" : "士東國小1年2班教室(2樓)",
     "liCode" : "037",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市士林區天祿里中山北路6段392號",
-    "neighbor" : "6-11",
+    "neighbor" : "天祿里",
     "deptCode" : "110",
     "liName" : "天祿里"
   }, {
@@ -2654,9 +2654,9 @@
     "tboxNo" : "0174",
     "tboxName" : "士東國小1年2班教室(2樓)",
     "liCode" : "037",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市士林區天祿里中山北路6段392號",
-    "neighbor" : "天祿里",
+    "neighbor" : "6-11",
     "deptCode" : "110",
     "liName" : "天祿里"
   }, {
@@ -2804,7 +2804,7 @@
     "tboxNo" : "0185",
     "tboxName" : "天母國中8年3班教室",
     "liCode" : "039",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市士林區天和里天母東路120號",
     "neighbor" : "天和里",
     "deptCode" : "110",
@@ -2824,7 +2824,7 @@
     "tboxNo" : "0185",
     "tboxName" : "天母國中8年3班教室",
     "liCode" : "039",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市士林區天和里天母東路120號",
     "neighbor" : "天和里",
     "deptCode" : "110",
@@ -2884,9 +2884,9 @@
     "tboxNo" : "0191",
     "tboxName" : "天母國小英語(四)教室",
     "liCode" : "041",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市士林區天玉里天玉街12號",
-    "neighbor" : "天玉里",
+    "neighbor" : "19-23",
     "deptCode" : "110",
     "liName" : "天玉里"
   }, {
@@ -2904,9 +2904,9 @@
     "tboxNo" : "0191",
     "tboxName" : "天母國小英語(四)教室",
     "liCode" : "041",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市士林區天玉里天玉街12號",
-    "neighbor" : "19-23",
+    "neighbor" : "天玉里",
     "deptCode" : "110",
     "liName" : "天玉里"
   }, {
@@ -2934,16 +2934,6 @@
     "tboxNo" : "0194",
     "tboxName" : "仰德區民活動中心前半部",
     "liCode" : "027",
-    "voter" : "01",
-    "addr" : "臺北市士林區德行里德行西路30號",
-    "neighbor" : "5,8-11",
-    "deptCode" : "110",
-    "liName" : "德行里"
-  }, {
-    "ScopeLiName" : "德行里",
-    "tboxNo" : "0194",
-    "tboxName" : "仰德區民活動中心前半部",
-    "liCode" : "027",
     "voter" : "03",
     "addr" : "臺北市士林區德行里德行西路30號",
     "neighbor" : "德行里",
@@ -2957,6 +2947,16 @@
     "voter" : "02",
     "addr" : "臺北市士林區德行里德行西路30號",
     "neighbor" : "德行里",
+    "deptCode" : "110",
+    "liName" : "德行里"
+  }, {
+    "ScopeLiName" : "德行里",
+    "tboxNo" : "0194",
+    "tboxName" : "仰德區民活動中心前半部",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "臺北市士林區德行里德行西路30號",
+    "neighbor" : "5,8-11",
     "deptCode" : "110",
     "liName" : "德行里"
   }, {
@@ -2984,16 +2984,6 @@
     "tboxNo" : "0197",
     "tboxName" : "文昌國小多功能教室右半部(桌球室)",
     "liCode" : "028",
-    "voter" : "01",
-    "addr" : "臺北市士林區德華里文林路615巷20號",
-    "neighbor" : "7-10",
-    "deptCode" : "110",
-    "liName" : "德華里"
-  }, {
-    "ScopeLiName" : "德華里",
-    "tboxNo" : "0197",
-    "tboxName" : "文昌國小多功能教室右半部(桌球室)",
-    "liCode" : "028",
     "voter" : "03",
     "addr" : "臺北市士林區德華里文林路615巷20號",
     "neighbor" : "德華里",
@@ -3007,6 +2997,16 @@
     "voter" : "02",
     "addr" : "臺北市士林區德華里文林路615巷20號",
     "neighbor" : "德華里",
+    "deptCode" : "110",
+    "liName" : "德華里"
+  }, {
+    "ScopeLiName" : "德華里",
+    "tboxNo" : "0197",
+    "tboxName" : "文昌國小多功能教室右半部(桌球室)",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "臺北市士林區德華里文林路615巷20號",
+    "neighbor" : "7-10",
     "deptCode" : "110",
     "liName" : "德華里"
   }, {
@@ -3194,16 +3194,6 @@
     "tboxNo" : "0212",
     "tboxName" : "蘭雅國小2年3班教室",
     "liCode" : "035",
-    "voter" : "03",
-    "addr" : "臺北市士林區蘭興里磺溪街57號",
-    "neighbor" : "蘭興里",
-    "deptCode" : "110",
-    "liName" : "蘭興里"
-  }, {
-    "ScopeLiName" : "蘭興里",
-    "tboxNo" : "0212",
-    "tboxName" : "蘭雅國小2年3班教室",
-    "liCode" : "035",
     "voter" : "01",
     "addr" : "臺北市士林區蘭興里磺溪街57號",
     "neighbor" : "15-19",
@@ -3215,6 +3205,16 @@
     "tboxName" : "蘭雅國小2年3班教室",
     "liCode" : "035",
     "voter" : "02",
+    "addr" : "臺北市士林區蘭興里磺溪街57號",
+    "neighbor" : "蘭興里",
+    "deptCode" : "110",
+    "liName" : "蘭興里"
+  }, {
+    "ScopeLiName" : "蘭興里",
+    "tboxNo" : "0212",
+    "tboxName" : "蘭雅國小2年3班教室",
+    "liCode" : "035",
+    "voter" : "03",
     "addr" : "臺北市士林區蘭興里磺溪街57號",
     "neighbor" : "蘭興里",
     "deptCode" : "110",
@@ -3234,9 +3234,9 @@
     "tboxNo" : "0214",
     "tboxName" : "忠孝國中父母成長教室",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大同區玉泉里西寧北路32號",
-    "neighbor" : "7-15",
+    "neighbor" : "玉泉里",
     "deptCode" : "060",
     "liName" : "玉泉里"
   }, {
@@ -3244,9 +3244,9 @@
     "tboxNo" : "0214",
     "tboxName" : "忠孝國中父母成長教室",
     "liCode" : "001",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大同區玉泉里西寧北路32號",
-    "neighbor" : "玉泉里",
+    "neighbor" : "7-15",
     "deptCode" : "060",
     "liName" : "玉泉里"
   }, {
@@ -3284,9 +3284,9 @@
     "tboxNo" : "0217",
     "tboxName" : "普濟寺",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大同區建明里華陰街100號",
-    "neighbor" : "建明里",
+    "neighbor" : "7、10、12、15-18",
     "deptCode" : "060",
     "liName" : "建明里"
   }, {
@@ -3294,9 +3294,9 @@
     "tboxNo" : "0217",
     "tboxName" : "普濟寺",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大同區建明里華陰街100號",
-    "neighbor" : "7、10、12、15-18",
+    "neighbor" : "建明里",
     "deptCode" : "060",
     "liName" : "建明里"
   }, {
@@ -3324,6 +3324,16 @@
     "tboxNo" : "0219",
     "tboxName" : "日新國小1年1班教室",
     "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺北市大同區星明里太原路151號",
+    "neighbor" : "建功里",
+    "deptCode" : "060",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0219",
+    "tboxName" : "日新國小1年1班教室",
+    "liCode" : "003",
     "voter" : "01",
     "addr" : "臺北市大同區星明里太原路151號",
     "neighbor" : "2、4、9、11、13、14、22",
@@ -3335,16 +3345,6 @@
     "tboxName" : "日新國小1年1班教室",
     "liCode" : "003",
     "voter" : "02",
-    "addr" : "臺北市大同區星明里太原路151號",
-    "neighbor" : "建功里",
-    "deptCode" : "060",
-    "liName" : "建功里"
-  }, {
-    "ScopeLiName" : "建功里",
-    "tboxNo" : "0219",
-    "tboxName" : "日新國小1年1班教室",
-    "liCode" : "003",
-    "voter" : "03",
     "addr" : "臺北市大同區星明里太原路151號",
     "neighbor" : "建功里",
     "deptCode" : "060",
@@ -3364,7 +3364,7 @@
     "tboxNo" : "0221",
     "tboxName" : "建成國中家長會辦公室",
     "liCode" : "004",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大同區建泰里長安西路37－1號",
     "neighbor" : "建泰里",
     "deptCode" : "060",
@@ -3384,7 +3384,7 @@
     "tboxNo" : "0221",
     "tboxName" : "建成國中家長會辦公室",
     "liCode" : "004",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大同區建泰里長安西路37－1號",
     "neighbor" : "建泰里",
     "deptCode" : "060",
@@ -3704,7 +3704,7 @@
     "tboxNo" : "0243",
     "tboxName" : "延平區民活動中心",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大同區延平里保安街47之1號3樓",
     "neighbor" : "延平里",
     "deptCode" : "060",
@@ -3714,7 +3714,7 @@
     "tboxNo" : "0243",
     "tboxName" : "延平區民活動中心",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大同區延平里保安街47之1號3樓",
     "neighbor" : "延平里",
     "deptCode" : "060",
@@ -7354,16 +7354,6 @@
     "tboxNo" : "0471",
     "tboxName" : "崇實區民活動中心1樓閱覽室",
     "liCode" : "013",
-    "voter" : "01",
-    "addr" : "臺北市中山區劍潭里5鄰通北街143號1樓",
-    "neighbor" : "1-3,5-14",
-    "deptCode" : "040",
-    "liName" : "劍潭里"
-  }, {
-    "ScopeLiName" : "劍潭里",
-    "tboxNo" : "0471",
-    "tboxName" : "崇實區民活動中心1樓閱覽室",
-    "liCode" : "013",
     "voter" : "03",
     "addr" : "臺北市中山區劍潭里5鄰通北街143號1樓",
     "neighbor" : "劍潭里",
@@ -7377,6 +7367,16 @@
     "voter" : "02",
     "addr" : "臺北市中山區劍潭里5鄰通北街143號1樓",
     "neighbor" : "劍潭里",
+    "deptCode" : "040",
+    "liName" : "劍潭里"
+  }, {
+    "ScopeLiName" : "劍潭里",
+    "tboxNo" : "0471",
+    "tboxName" : "崇實區民活動中心1樓閱覽室",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "臺北市中山區劍潭里5鄰通北街143號1樓",
+    "neighbor" : "1-3,5-14",
     "deptCode" : "040",
     "liName" : "劍潭里"
   }, {
@@ -7444,7 +7444,7 @@
     "tboxNo" : "0478",
     "tboxName" : "大直國小(本土教室(1))",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區大直里28鄰大直街２號",
     "neighbor" : "大直里",
     "deptCode" : "040",
@@ -7454,7 +7454,7 @@
     "tboxNo" : "0478",
     "tboxName" : "大直國小(本土教室(1))",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區大直里28鄰大直街２號",
     "neighbor" : "大直里",
     "deptCode" : "040",
@@ -7474,16 +7474,6 @@
     "tboxNo" : "0479",
     "tboxName" : "永安國小(地下1樓餐廳(1))",
     "liCode" : "015",
-    "voter" : "02",
-    "addr" : "臺北市中山區永安里32鄰明水路397巷19弄1號",
-    "neighbor" : "成功里",
-    "deptCode" : "040",
-    "liName" : "成功里"
-  }, {
-    "ScopeLiName" : "成功里",
-    "tboxNo" : "0479",
-    "tboxName" : "永安國小(地下1樓餐廳(1))",
-    "liCode" : "015",
     "voter" : "03",
     "addr" : "臺北市中山區永安里32鄰明水路397巷19弄1號",
     "neighbor" : "成功里",
@@ -7497,6 +7487,16 @@
     "voter" : "01",
     "addr" : "臺北市中山區永安里32鄰明水路397巷19弄1號",
     "neighbor" : "1-7",
+    "deptCode" : "040",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0479",
+    "tboxName" : "永安國小(地下1樓餐廳(1))",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "臺北市中山區永安里32鄰明水路397巷19弄1號",
+    "neighbor" : "成功里",
     "deptCode" : "040",
     "liName" : "成功里"
   }, {
@@ -7764,7 +7764,7 @@
     "tboxNo" : "0498",
     "tboxName" : "花國鮮花禮品行（車庫）",
     "liCode" : "020",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區新福里3鄰松江路402巷8弄6號",
     "neighbor" : "新福里",
     "deptCode" : "040",
@@ -7774,7 +7774,7 @@
     "tboxNo" : "0498",
     "tboxName" : "花國鮮花禮品行（車庫）",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區新福里3鄰松江路402巷8弄6號",
     "neighbor" : "新福里",
     "deptCode" : "040",
@@ -8394,7 +8394,7 @@
     "tboxNo" : "0539",
     "tboxName" : "吉林國小(1年2班)",
     "liCode" : "030",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區中原里6鄰長春路116號",
     "neighbor" : "中吉里",
     "deptCode" : "040",
@@ -8414,7 +8414,7 @@
     "tboxNo" : "0539",
     "tboxName" : "吉林國小(1年2班)",
     "liCode" : "030",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區中原里6鄰長春路116號",
     "neighbor" : "中吉里",
     "deptCode" : "040",
@@ -8554,16 +8554,6 @@
     "tboxNo" : "0549",
     "tboxName" : "長春國小(1年5班)",
     "liCode" : "033",
-    "voter" : "01",
-    "addr" : "臺北市中山區中央里1鄰長春路165號",
-    "neighbor" : "14-17",
-    "deptCode" : "040",
-    "liName" : "中央里"
-  }, {
-    "ScopeLiName" : "中央里",
-    "tboxNo" : "0549",
-    "tboxName" : "長春國小(1年5班)",
-    "liCode" : "033",
     "voter" : "02",
     "addr" : "臺北市中山區中央里1鄰長春路165號",
     "neighbor" : "中央里",
@@ -8580,11 +8570,21 @@
     "deptCode" : "040",
     "liName" : "中央里"
   }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0549",
+    "tboxName" : "長春國小(1年5班)",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "臺北市中山區中央里1鄰長春路165號",
+    "neighbor" : "14-17",
+    "deptCode" : "040",
+    "liName" : "中央里"
+  }, {
     "ScopeLiName" : "朱馥里",
     "tboxNo" : "0550",
     "tboxName" : "長春國小(1年4班)",
     "liCode" : "034",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區中央里1鄰長春路165號",
     "neighbor" : "朱馥里",
     "deptCode" : "040",
@@ -8604,7 +8604,7 @@
     "tboxNo" : "0550",
     "tboxName" : "長春國小(1年4班)",
     "liCode" : "034",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區中央里1鄰長春路165號",
     "neighbor" : "朱馥里",
     "deptCode" : "040",
@@ -8654,7 +8654,7 @@
     "tboxNo" : "0554",
     "tboxName" : "興安花園社區管理委員會(3樓會議室)",
     "liCode" : "035",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區龍洲里9鄰復興北路190巷1號3樓之3",
     "neighbor" : "龍洲里",
     "deptCode" : "040",
@@ -8664,7 +8664,7 @@
     "tboxNo" : "0554",
     "tboxName" : "興安花園社區管理委員會(3樓會議室)",
     "liCode" : "035",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區龍洲里9鄰復興北路190巷1號3樓之3",
     "neighbor" : "龍洲里",
     "deptCode" : "040",
@@ -8714,16 +8714,6 @@
     "tboxNo" : "0559",
     "tboxName" : "五福財神爺廟（右側）",
     "liCode" : "036",
-    "voter" : "03",
-    "addr" : "臺北市中山區朱園里７鄰建國北路１段５０巷３１號對面（伊通街口）",
-    "neighbor" : "朱園里",
-    "deptCode" : "040",
-    "liName" : "朱園里"
-  }, {
-    "ScopeLiName" : "朱園里",
-    "tboxNo" : "0559",
-    "tboxName" : "五福財神爺廟（右側）",
-    "liCode" : "036",
     "voter" : "01",
     "addr" : "臺北市中山區朱園里７鄰建國北路１段５０巷３１號對面（伊通街口）",
     "neighbor" : "8-15",
@@ -8735,6 +8725,16 @@
     "tboxName" : "五福財神爺廟（右側）",
     "liCode" : "036",
     "voter" : "02",
+    "addr" : "臺北市中山區朱園里７鄰建國北路１段５０巷３１號對面（伊通街口）",
+    "neighbor" : "朱園里",
+    "deptCode" : "040",
+    "liName" : "朱園里"
+  }, {
+    "ScopeLiName" : "朱園里",
+    "tboxNo" : "0559",
+    "tboxName" : "五福財神爺廟（右側）",
+    "liCode" : "036",
+    "voter" : "03",
     "addr" : "臺北市中山區朱園里７鄰建國北路１段５０巷３１號對面（伊通街口）",
     "neighbor" : "朱園里",
     "deptCode" : "040",
@@ -8844,7 +8844,7 @@
     "tboxNo" : "0566",
     "tboxName" : "中正國小(B101)",
     "liCode" : "039",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中山區力行里27鄰龍江路62號",
     "neighbor" : "力行里",
     "deptCode" : "040",
@@ -8864,7 +8864,7 @@
     "tboxNo" : "0566",
     "tboxName" : "中正國小(B101)",
     "liCode" : "039",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中山區力行里27鄰龍江路62號",
     "neighbor" : "力行里",
     "deptCode" : "040",
@@ -8974,7 +8974,7 @@
     "tboxNo" : "0575",
     "tboxName" : "三民國小一年一班",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區莊敬里12鄰民權東路5段1號",
     "neighbor" : "莊敬里",
     "deptCode" : "010",
@@ -8994,7 +8994,7 @@
     "tboxNo" : "0575",
     "tboxName" : "三民國小一年一班",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區莊敬里12鄰民權東路5段1號",
     "neighbor" : "莊敬里",
     "deptCode" : "010",
@@ -9044,6 +9044,16 @@
     "tboxNo" : "0580",
     "tboxName" : "二村基石中心",
     "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺北市松山區東榮里8鄰民生東路5段69巷2弄10號",
+    "neighbor" : "16-21",
+    "deptCode" : "010",
+    "liName" : "東榮里"
+  }, {
+    "ScopeLiName" : "東榮里",
+    "tboxNo" : "0580",
+    "tboxName" : "二村基石中心",
+    "liCode" : "003",
     "voter" : "03",
     "addr" : "臺北市松山區東榮里8鄰民生東路5段69巷2弄10號",
     "neighbor" : "東榮里",
@@ -9057,16 +9067,6 @@
     "voter" : "02",
     "addr" : "臺北市松山區東榮里8鄰民生東路5段69巷2弄10號",
     "neighbor" : "東榮里",
-    "deptCode" : "010",
-    "liName" : "東榮里"
-  }, {
-    "ScopeLiName" : "東榮里",
-    "tboxNo" : "0580",
-    "tboxName" : "二村基石中心",
-    "liCode" : "003",
-    "voter" : "01",
-    "addr" : "臺北市松山區東榮里8鄰民生東路5段69巷2弄10號",
-    "neighbor" : "16-21",
     "deptCode" : "010",
     "liName" : "東榮里"
   }, {
@@ -9094,6 +9094,16 @@
     "tboxNo" : "0583",
     "tboxName" : "圖書館三民分館視聽室",
     "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺北市松山區三民里24鄰民生東路5段163之1號6樓",
+    "neighbor" : "8,10-15",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0583",
+    "tboxName" : "圖書館三民分館視聽室",
+    "liCode" : "004",
     "voter" : "01",
     "addr" : "臺北市松山區三民里24鄰民生東路5段163之1號6樓",
     "neighbor" : "8,10-15",
@@ -9105,16 +9115,6 @@
     "tboxName" : "圖書館三民分館視聽室",
     "liCode" : "004",
     "voter" : "03",
-    "addr" : "臺北市松山區三民里24鄰民生東路5段163之1號6樓",
-    "neighbor" : "8,10-15",
-    "deptCode" : "010",
-    "liName" : "三民里"
-  }, {
-    "ScopeLiName" : "三民里",
-    "tboxNo" : "0583",
-    "tboxName" : "圖書館三民分館視聽室",
-    "liCode" : "004",
-    "voter" : "02",
     "addr" : "臺北市松山區三民里24鄰民生東路5段163之1號6樓",
     "neighbor" : "8,10-15",
     "deptCode" : "010",
@@ -9174,6 +9174,16 @@
     "tboxNo" : "0589",
     "tboxName" : "民生國中活動中心東側",
     "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺北市松山區新益里15鄰新東街30巷1號 由撫遠街255巷對面側門進入 ",
+    "neighbor" : "新益里",
+    "deptCode" : "010",
+    "liName" : "新益里"
+  }, {
+    "ScopeLiName" : "新益里",
+    "tboxNo" : "0589",
+    "tboxName" : "民生國中活動中心東側",
+    "liCode" : "005",
     "voter" : "02",
     "addr" : "臺北市松山區新益里15鄰新東街30巷1號 由撫遠街255巷對面側門進入 ",
     "neighbor" : "新益里",
@@ -9187,16 +9197,6 @@
     "voter" : "01",
     "addr" : "臺北市松山區新益里15鄰新東街30巷1號 由撫遠街255巷對面側門進入 ",
     "neighbor" : "13-18",
-    "deptCode" : "010",
-    "liName" : "新益里"
-  }, {
-    "ScopeLiName" : "新益里",
-    "tboxNo" : "0589",
-    "tboxName" : "民生國中活動中心東側",
-    "liCode" : "005",
-    "voter" : "03",
-    "addr" : "臺北市松山區新益里15鄰新東街30巷1號 由撫遠街255巷對面側門進入 ",
-    "neighbor" : "新益里",
     "deptCode" : "010",
     "liName" : "新益里"
   }, {
@@ -9214,7 +9214,7 @@
     "tboxNo" : "0590",
     "tboxName" : "海華大廈休閒中心",
     "liCode" : "006",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區富錦里6鄰民生東路5段171號地下1樓",
     "neighbor" : "富錦里",
     "deptCode" : "010",
@@ -9224,7 +9224,7 @@
     "tboxNo" : "0590",
     "tboxName" : "海華大廈休閒中心",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區富錦里6鄰民生東路5段171號地下1樓",
     "neighbor" : "富錦里",
     "deptCode" : "010",
@@ -9274,16 +9274,6 @@
     "tboxNo" : "0595",
     "tboxName" : "民生國中童軍教室",
     "liCode" : "007",
-    "voter" : "01",
-    "addr" : "臺北市松山區新東里15鄰新東街30巷1號",
-    "neighbor" : "1,16-19",
-    "deptCode" : "010",
-    "liName" : "新東里"
-  }, {
-    "ScopeLiName" : "新東里",
-    "tboxNo" : "0595",
-    "tboxName" : "民生國中童軍教室",
-    "liCode" : "007",
     "voter" : "02",
     "addr" : "臺北市松山區新東里15鄰新東街30巷1號",
     "neighbor" : "新東里",
@@ -9297,6 +9287,16 @@
     "voter" : "03",
     "addr" : "臺北市松山區新東里15鄰新東街30巷1號",
     "neighbor" : "新東里",
+    "deptCode" : "010",
+    "liName" : "新東里"
+  }, {
+    "ScopeLiName" : "新東里",
+    "tboxNo" : "0595",
+    "tboxName" : "民生國中童軍教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺北市松山區新東里15鄰新東街30巷1號",
+    "neighbor" : "1,16-19",
     "deptCode" : "010",
     "liName" : "新東里"
   }, {
@@ -9334,7 +9334,7 @@
     "tboxNo" : "0598",
     "tboxName" : "健康國小終身學習中心前川堂",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區自強里3鄰延壽街168號",
     "neighbor" : "富泰里",
     "deptCode" : "010",
@@ -9344,7 +9344,7 @@
     "tboxNo" : "0598",
     "tboxName" : "健康國小終身學習中心前川堂",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區自強里3鄰延壽街168號",
     "neighbor" : "富泰里",
     "deptCode" : "010",
@@ -9424,16 +9424,6 @@
     "tboxNo" : "0604",
     "tboxName" : "民族國小幼兒園活動室",
     "liCode" : "010",
-    "voter" : "03",
-    "addr" : "臺北市松山區精忠里5鄰民生東路4段97巷7號",
-    "neighbor" : "精忠里",
-    "deptCode" : "010",
-    "liName" : "精忠里"
-  }, {
-    "ScopeLiName" : "精忠里",
-    "tboxNo" : "0604",
-    "tboxName" : "民族國小幼兒園活動室",
-    "liCode" : "010",
     "voter" : "01",
     "addr" : "臺北市松山區精忠里5鄰民生東路4段97巷7號",
     "neighbor" : "1-5",
@@ -9445,6 +9435,16 @@
     "tboxName" : "民族國小幼兒園活動室",
     "liCode" : "010",
     "voter" : "02",
+    "addr" : "臺北市松山區精忠里5鄰民生東路4段97巷7號",
+    "neighbor" : "精忠里",
+    "deptCode" : "010",
+    "liName" : "精忠里"
+  }, {
+    "ScopeLiName" : "精忠里",
+    "tboxNo" : "0604",
+    "tboxName" : "民族國小幼兒園活動室",
+    "liCode" : "010",
+    "voter" : "03",
     "addr" : "臺北市松山區精忠里5鄰民生東路4段97巷7號",
     "neighbor" : "精忠里",
     "deptCode" : "010",
@@ -9594,9 +9594,9 @@
     "tboxNo" : "0617",
     "tboxName" : "民生國小一年二班教室",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市松山區中華里23鄰敦化北路199巷18號1樓",
-    "neighbor" : "龍田里",
+    "neighbor" : "20-26",
     "deptCode" : "010",
     "liName" : "龍田里"
   }, {
@@ -9614,9 +9614,9 @@
     "tboxNo" : "0617",
     "tboxName" : "民生國小一年二班教室",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市松山區中華里23鄰敦化北路199巷18號1樓",
-    "neighbor" : "20-26",
+    "neighbor" : "龍田里",
     "deptCode" : "010",
     "liName" : "龍田里"
   }, {
@@ -9644,16 +9644,6 @@
     "tboxNo" : "0620",
     "tboxName" : "車庫",
     "liCode" : "013",
-    "voter" : "03",
-    "addr" : "臺北市松山區東昌里4鄰民生東路4段112巷3弄3號",
-    "neighbor" : "東昌里",
-    "deptCode" : "010",
-    "liName" : "東昌里"
-  }, {
-    "ScopeLiName" : "東昌里",
-    "tboxNo" : "0620",
-    "tboxName" : "車庫",
-    "liCode" : "013",
     "voter" : "01",
     "addr" : "臺北市松山區東昌里4鄰民生東路4段112巷3弄3號",
     "neighbor" : "1-6",
@@ -9665,6 +9655,16 @@
     "tboxName" : "車庫",
     "liCode" : "013",
     "voter" : "02",
+    "addr" : "臺北市松山區東昌里4鄰民生東路4段112巷3弄3號",
+    "neighbor" : "東昌里",
+    "deptCode" : "010",
+    "liName" : "東昌里"
+  }, {
+    "ScopeLiName" : "東昌里",
+    "tboxNo" : "0620",
+    "tboxName" : "車庫",
+    "liCode" : "013",
+    "voter" : "03",
     "addr" : "臺北市松山區東昌里4鄰民生東路4段112巷3弄3號",
     "neighbor" : "東昌里",
     "deptCode" : "010",
@@ -9694,6 +9694,16 @@
     "tboxNo" : "0623",
     "tboxName" : "東勢里民活動場所",
     "liCode" : "014",
+    "voter" : "01",
+    "addr" : "臺北市松山區東勢里南京東路四段133巷8弄17號",
+    "neighbor" : "14-18",
+    "deptCode" : "010",
+    "liName" : "東勢里"
+  }, {
+    "ScopeLiName" : "東勢里",
+    "tboxNo" : "0623",
+    "tboxName" : "東勢里民活動場所",
+    "liCode" : "014",
     "voter" : "03",
     "addr" : "臺北市松山區東勢里南京東路四段133巷8弄17號",
     "neighbor" : "東勢里",
@@ -9707,16 +9717,6 @@
     "voter" : "02",
     "addr" : "臺北市松山區東勢里南京東路四段133巷8弄17號",
     "neighbor" : "東勢里",
-    "deptCode" : "010",
-    "liName" : "東勢里"
-  }, {
-    "ScopeLiName" : "東勢里",
-    "tboxNo" : "0623",
-    "tboxName" : "東勢里民活動場所",
-    "liCode" : "014",
-    "voter" : "01",
-    "addr" : "臺北市松山區東勢里南京東路四段133巷8弄17號",
-    "neighbor" : "14-18",
     "deptCode" : "010",
     "liName" : "東勢里"
   }, {
@@ -9754,9 +9754,9 @@
     "tboxNo" : "0627",
     "tboxName" : "中華里辦公處",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市松山區中華里13鄰敦化北路145巷23弄1號",
-    "neighbor" : "11-16",
+    "neighbor" : "中華里",
     "deptCode" : "010",
     "liName" : "中華里"
   }, {
@@ -9764,9 +9764,9 @@
     "tboxNo" : "0627",
     "tboxName" : "中華里辦公處",
     "liCode" : "015",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市松山區中華里13鄰敦化北路145巷23弄1號",
-    "neighbor" : "中華里",
+    "neighbor" : "11-16",
     "deptCode" : "010",
     "liName" : "中華里"
   }, {
@@ -9834,6 +9834,16 @@
     "tboxNo" : "0633",
     "tboxName" : "思高幼兒園思高中心",
     "liCode" : "016",
+    "voter" : "03",
+    "addr" : "臺北市松山區民有里2鄰民生東路3段125號",
+    "neighbor" : "民有里",
+    "deptCode" : "010",
+    "liName" : "民有里"
+  }, {
+    "ScopeLiName" : "民有里",
+    "tboxNo" : "0633",
+    "tboxName" : "思高幼兒園思高中心",
+    "liCode" : "016",
     "voter" : "01",
     "addr" : "臺北市松山區民有里2鄰民生東路3段125號",
     "neighbor" : "1-4,12",
@@ -9850,15 +9860,15 @@
     "deptCode" : "010",
     "liName" : "民有里"
   }, {
-    "ScopeLiName" : "民有里",
-    "tboxNo" : "0633",
-    "tboxName" : "思高幼兒園思高中心",
-    "liCode" : "016",
+    "ScopeLiName" : "民福里",
+    "tboxNo" : "0634",
+    "tboxName" : "民福里民活動場所",
+    "liCode" : "017",
     "voter" : "03",
-    "addr" : "臺北市松山區民有里2鄰民生東路3段125號",
-    "neighbor" : "民有里",
+    "addr" : "臺北市松山區民福里10鄰民權東路3段103巷5弄5號1樓",
+    "neighbor" : "民福里",
     "deptCode" : "010",
-    "liName" : "民有里"
+    "liName" : "民福里"
   }, {
     "ScopeLiName" : "民福里",
     "tboxNo" : "0634",
@@ -9875,16 +9885,6 @@
     "tboxName" : "民福里民活動場所",
     "liCode" : "017",
     "voter" : "02",
-    "addr" : "臺北市松山區民福里10鄰民權東路3段103巷5弄5號1樓",
-    "neighbor" : "民福里",
-    "deptCode" : "010",
-    "liName" : "民福里"
-  }, {
-    "ScopeLiName" : "民福里",
-    "tboxNo" : "0634",
-    "tboxName" : "民福里民活動場所",
-    "liCode" : "017",
-    "voter" : "03",
     "addr" : "臺北市松山區民福里10鄰民權東路3段103巷5弄5號1樓",
     "neighbor" : "民福里",
     "deptCode" : "010",
@@ -9924,7 +9924,7 @@
     "tboxNo" : "0638",
     "tboxName" : "松基區民活動中心第三教室",
     "liCode" : "035",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區松基里15鄰長春路339巷2號地下1樓",
     "neighbor" : "松基里",
     "deptCode" : "010",
@@ -9944,7 +9944,7 @@
     "tboxNo" : "0638",
     "tboxName" : "松基區民活動中心第三教室",
     "liCode" : "035",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區松基里15鄰長春路339巷2號地下1樓",
     "neighbor" : "松基里",
     "deptCode" : "010",
@@ -10014,7 +10014,7 @@
     "tboxNo" : "0645",
     "tboxName" : "恩友堂第2交誼廳",
     "liCode" : "019",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區安平里24鄰寶清街123號1樓",
     "neighbor" : "安平里",
     "deptCode" : "010",
@@ -10034,7 +10034,7 @@
     "tboxNo" : "0645",
     "tboxName" : "恩友堂第2交誼廳",
     "liCode" : "019",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區安平里24鄰寶清街123號1樓",
     "neighbor" : "安平里",
     "deptCode" : "010",
@@ -10064,6 +10064,16 @@
     "tboxNo" : "0648",
     "tboxName" : "西松高中(三品教室)",
     "liCode" : "020",
+    "voter" : "03",
+    "addr" : "臺北市松山區鵬程里11鄰健康路325巷7號1樓",
+    "neighbor" : "鵬程里",
+    "deptCode" : "010",
+    "liName" : "鵬程里"
+  }, {
+    "ScopeLiName" : "鵬程里",
+    "tboxNo" : "0648",
+    "tboxName" : "西松高中(三品教室)",
+    "liCode" : "020",
     "voter" : "01",
     "addr" : "臺北市松山區鵬程里11鄰健康路325巷7號1樓",
     "neighbor" : "8-11",
@@ -10075,16 +10085,6 @@
     "tboxName" : "西松高中(三品教室)",
     "liCode" : "020",
     "voter" : "02",
-    "addr" : "臺北市松山區鵬程里11鄰健康路325巷7號1樓",
-    "neighbor" : "鵬程里",
-    "deptCode" : "010",
-    "liName" : "鵬程里"
-  }, {
-    "ScopeLiName" : "鵬程里",
-    "tboxNo" : "0648",
-    "tboxName" : "西松高中(三品教室)",
-    "liCode" : "020",
-    "voter" : "03",
     "addr" : "臺北市松山區鵬程里11鄰健康路325巷7號1樓",
     "neighbor" : "鵬程里",
     "deptCode" : "010",
@@ -10464,7 +10464,7 @@
     "tboxNo" : "0676",
     "tboxName" : "麗山國中8年3班教室",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市內湖區內湖路1段629巷42號",
     "neighbor" : "港都里",
     "deptCode" : "100",
@@ -10484,7 +10484,7 @@
     "tboxNo" : "0676",
     "tboxName" : "麗山國中8年3班教室",
     "liCode" : "006",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市內湖區內湖路1段629巷42號",
     "neighbor" : "港都里",
     "deptCode" : "100",
@@ -10674,16 +10674,6 @@
     "tboxNo" : "0691",
     "tboxName" : "內湖區民活動中心",
     "liCode" : "009",
-    "voter" : "02",
-    "addr" : "臺北市內湖區內湖路2段355巷21號",
-    "neighbor" : "內湖里",
-    "deptCode" : "100",
-    "liName" : "內湖里"
-  }, {
-    "ScopeLiName" : "內湖里",
-    "tboxNo" : "0691",
-    "tboxName" : "內湖區民活動中心",
-    "liCode" : "009",
     "voter" : "01",
     "addr" : "臺北市內湖區內湖路2段355巷21號",
     "neighbor" : "11-16",
@@ -10695,6 +10685,16 @@
     "tboxName" : "內湖區民活動中心",
     "liCode" : "009",
     "voter" : "03",
+    "addr" : "臺北市內湖區內湖路2段355巷21號",
+    "neighbor" : "內湖里",
+    "deptCode" : "100",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0691",
+    "tboxName" : "內湖區民活動中心",
+    "liCode" : "009",
+    "voter" : "02",
     "addr" : "臺北市內湖區內湖路2段355巷21號",
     "neighbor" : "內湖里",
     "deptCode" : "100",
@@ -10764,9 +10764,9 @@
     "tboxNo" : "0697",
     "tboxName" : "市有房舍",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區內湖路2段179巷81弄16號",
-    "neighbor" : "7,8,15-18",
+    "neighbor" : "湖濱里",
     "deptCode" : "100",
     "liName" : "湖濱里"
   }, {
@@ -10774,9 +10774,9 @@
     "tboxNo" : "0697",
     "tboxName" : "市有房舍",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區內湖路2段179巷81弄16號",
-    "neighbor" : "湖濱里",
+    "neighbor" : "7,8,15-18",
     "deptCode" : "100",
     "liName" : "湖濱里"
   }, {
@@ -10824,9 +10824,9 @@
     "tboxNo" : "0701",
     "tboxName" : "方濟中學美術教室",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區成功路3段61號",
-    "neighbor" : "紫星里",
+    "neighbor" : "28-34",
     "deptCode" : "100",
     "liName" : "紫星里"
   }, {
@@ -10834,9 +10834,9 @@
     "tboxNo" : "0701",
     "tboxName" : "方濟中學美術教室",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區成功路3段61號",
-    "neighbor" : "28-34",
+    "neighbor" : "紫星里",
     "deptCode" : "100",
     "liName" : "紫星里"
   }, {
@@ -10874,7 +10874,7 @@
     "tboxNo" : "0705",
     "tboxName" : "大湖國小藝文教室川堂",
     "liCode" : "012",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市內湖區大湖山莊街170號",
     "neighbor" : "大湖里",
     "deptCode" : "100",
@@ -10884,7 +10884,7 @@
     "tboxNo" : "0705",
     "tboxName" : "大湖國小藝文教室川堂",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市內湖區大湖山莊街170號",
     "neighbor" : "大湖里",
     "deptCode" : "100",
@@ -10924,16 +10924,6 @@
     "tboxNo" : "0708",
     "tboxName" : "基督教浸信會榮恩堂(接觸點社區服務中心)",
     "liCode" : "013",
-    "voter" : "03",
-    "addr" : "臺北市內湖區內湖路3段139號",
-    "neighbor" : "金龍里",
-    "deptCode" : "100",
-    "liName" : "金龍里"
-  }, {
-    "ScopeLiName" : "金龍里",
-    "tboxNo" : "0708",
-    "tboxName" : "基督教浸信會榮恩堂(接觸點社區服務中心)",
-    "liCode" : "013",
     "voter" : "01",
     "addr" : "臺北市內湖區內湖路3段139號",
     "neighbor" : "9-16",
@@ -10945,6 +10935,16 @@
     "tboxName" : "基督教浸信會榮恩堂(接觸點社區服務中心)",
     "liCode" : "013",
     "voter" : "02",
+    "addr" : "臺北市內湖區內湖路3段139號",
+    "neighbor" : "金龍里",
+    "deptCode" : "100",
+    "liName" : "金龍里"
+  }, {
+    "ScopeLiName" : "金龍里",
+    "tboxNo" : "0708",
+    "tboxName" : "基督教浸信會榮恩堂(接觸點社區服務中心)",
+    "liCode" : "013",
+    "voter" : "03",
     "addr" : "臺北市內湖區內湖路3段139號",
     "neighbor" : "金龍里",
     "deptCode" : "100",
@@ -11064,7 +11064,7 @@
     "tboxNo" : "0717",
     "tboxName" : "碧山市場辦公室",
     "liCode" : "015",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市內湖區內湖路3段60巷10弄2號",
     "neighbor" : "碧山里",
     "deptCode" : "100",
@@ -11074,7 +11074,7 @@
     "tboxNo" : "0717",
     "tboxName" : "碧山市場辦公室",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市內湖區內湖路3段60巷10弄2號",
     "neighbor" : "碧山里",
     "deptCode" : "100",
@@ -11114,6 +11114,16 @@
     "tboxNo" : "0721",
     "tboxName" : "警智新村(面中庭右側)",
     "liCode" : "016",
+    "voter" : "03",
+    "addr" : "臺北市內湖區康寧路1段167-1號",
+    "neighbor" : "紫雲里",
+    "deptCode" : "100",
+    "liName" : "紫雲里"
+  }, {
+    "ScopeLiName" : "紫雲里",
+    "tboxNo" : "0721",
+    "tboxName" : "警智新村(面中庭右側)",
+    "liCode" : "016",
     "voter" : "01",
     "addr" : "臺北市內湖區康寧路1段167-1號",
     "neighbor" : "3,5,6,20-22",
@@ -11125,16 +11135,6 @@
     "tboxName" : "警智新村(面中庭右側)",
     "liCode" : "016",
     "voter" : "02",
-    "addr" : "臺北市內湖區康寧路1段167-1號",
-    "neighbor" : "紫雲里",
-    "deptCode" : "100",
-    "liName" : "紫雲里"
-  }, {
-    "ScopeLiName" : "紫雲里",
-    "tboxNo" : "0721",
-    "tboxName" : "警智新村(面中庭右側)",
-    "liCode" : "016",
-    "voter" : "03",
     "addr" : "臺北市內湖區康寧路1段167-1號",
     "neighbor" : "紫雲里",
     "deptCode" : "100",
@@ -11304,9 +11304,9 @@
     "tboxNo" : "0734",
     "tboxName" : "內湖高中分組教室3",
     "liCode" : "019",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區文德路218號",
-    "neighbor" : "4,6,8-10",
+    "neighbor" : "紫陽里",
     "deptCode" : "100",
     "liName" : "紫陽里"
   }, {
@@ -11314,9 +11314,9 @@
     "tboxNo" : "0734",
     "tboxName" : "內湖高中分組教室3",
     "liCode" : "019",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區文德路218號",
-    "neighbor" : "紫陽里",
+    "neighbor" : "4,6,8-10",
     "deptCode" : "100",
     "liName" : "紫陽里"
   }, {
@@ -11424,9 +11424,9 @@
     "tboxNo" : "0741",
     "tboxName" : "瑞光綠地(1)",
     "liCode" : "021",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區陽光街265巷11號旁",
-    "neighbor" : "瑞光里",
+    "neighbor" : "1-7",
     "deptCode" : "100",
     "liName" : "瑞光里"
   }, {
@@ -11434,9 +11434,9 @@
     "tboxNo" : "0741",
     "tboxName" : "瑞光綠地(1)",
     "liCode" : "021",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區陽光街265巷11號旁",
-    "neighbor" : "1-7",
+    "neighbor" : "瑞光里",
     "deptCode" : "100",
     "liName" : "瑞光里"
   }, {
@@ -11544,7 +11544,7 @@
     "tboxNo" : "0750",
     "tboxName" : "東湖國小102教室",
     "liCode" : "023",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市內湖區東湖路115號",
     "neighbor" : "東湖里",
     "deptCode" : "100",
@@ -11554,7 +11554,7 @@
     "tboxNo" : "0750",
     "tboxName" : "東湖國小102教室",
     "liCode" : "023",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市內湖區東湖路115號",
     "neighbor" : "東湖里",
     "deptCode" : "100",
@@ -11654,7 +11654,7 @@
     "tboxNo" : "0758",
     "tboxName" : "東湖國中704教室",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市內湖區康樂街131號",
     "neighbor" : "樂康里",
     "deptCode" : "100",
@@ -11664,7 +11664,7 @@
     "tboxNo" : "0758",
     "tboxName" : "東湖國中704教室",
     "liCode" : "024",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市內湖區康樂街131號",
     "neighbor" : "樂康里",
     "deptCode" : "100",
@@ -11684,9 +11684,9 @@
     "tboxNo" : "0760",
     "tboxName" : "七星生態花園專業教室(一)",
     "liCode" : "025",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區康樂街191巷臨16號",
-    "neighbor" : "6,8,16",
+    "neighbor" : "內溝里",
     "deptCode" : "100",
     "liName" : "內溝里"
   }, {
@@ -11694,9 +11694,9 @@
     "tboxNo" : "0760",
     "tboxName" : "七星生態花園專業教室(一)",
     "liCode" : "025",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區康樂街191巷臨16號",
-    "neighbor" : "內溝里",
+    "neighbor" : "6,8,16",
     "deptCode" : "100",
     "liName" : "內溝里"
   }, {
@@ -11744,16 +11744,6 @@
     "tboxNo" : "0764",
     "tboxName" : "週美里里民活動廣場(1)",
     "liCode" : "026",
-    "voter" : "03",
-    "addr" : "臺北市內湖區潭美街100號",
-    "neighbor" : "週美里",
-    "deptCode" : "100",
-    "liName" : "週美里"
-  }, {
-    "ScopeLiName" : "週美里",
-    "tboxNo" : "0764",
-    "tboxName" : "週美里里民活動廣場(1)",
-    "liCode" : "026",
     "voter" : "01",
     "addr" : "臺北市內湖區潭美街100號",
     "neighbor" : "1-4",
@@ -11765,6 +11755,16 @@
     "tboxName" : "週美里里民活動廣場(1)",
     "liCode" : "026",
     "voter" : "02",
+    "addr" : "臺北市內湖區潭美街100號",
+    "neighbor" : "週美里",
+    "deptCode" : "100",
+    "liName" : "週美里"
+  }, {
+    "ScopeLiName" : "週美里",
+    "tboxNo" : "0764",
+    "tboxName" : "週美里里民活動廣場(1)",
+    "liCode" : "026",
+    "voter" : "03",
     "addr" : "臺北市內湖區潭美街100號",
     "neighbor" : "週美里",
     "deptCode" : "100",
@@ -11844,6 +11844,16 @@
     "tboxNo" : "0772",
     "tboxName" : "行善區民活動中心大廳",
     "liCode" : "027",
+    "voter" : "02",
+    "addr" : "臺北市內湖區行善路25巷13號2樓",
+    "neighbor" : "行善里",
+    "deptCode" : "100",
+    "liName" : "行善里"
+  }, {
+    "ScopeLiName" : "行善里",
+    "tboxNo" : "0772",
+    "tboxName" : "行善區民活動中心大廳",
+    "liCode" : "027",
     "voter" : "01",
     "addr" : "臺北市內湖區行善路25巷13號2樓",
     "neighbor" : "16,19-22",
@@ -11860,15 +11870,15 @@
     "deptCode" : "100",
     "liName" : "行善里"
   }, {
-    "ScopeLiName" : "行善里",
-    "tboxNo" : "0772",
-    "tboxName" : "行善區民活動中心大廳",
-    "liCode" : "027",
-    "voter" : "02",
-    "addr" : "臺北市內湖區行善路25巷13號2樓",
-    "neighbor" : "行善里",
+    "ScopeLiName" : "石潭里",
+    "tboxNo" : "0773",
+    "tboxName" : "(舊)潭美國小大門",
+    "liCode" : "028",
+    "voter" : "03",
+    "addr" : "臺北市內湖區新明路22號",
+    "neighbor" : "石潭里",
     "deptCode" : "100",
-    "liName" : "行善里"
+    "liName" : "石潭里"
   }, {
     "ScopeLiName" : "石潭里",
     "tboxNo" : "0773",
@@ -11877,16 +11887,6 @@
     "voter" : "01",
     "addr" : "臺北市內湖區新明路22號",
     "neighbor" : "12,14-20",
-    "deptCode" : "100",
-    "liName" : "石潭里"
-  }, {
-    "ScopeLiName" : "石潭里",
-    "tboxNo" : "0773",
-    "tboxName" : "(舊)潭美國小大門",
-    "liCode" : "028",
-    "voter" : "03",
-    "addr" : "臺北市內湖區新明路22號",
-    "neighbor" : "石潭里",
     "deptCode" : "100",
     "liName" : "石潭里"
   }, {
@@ -11934,6 +11934,16 @@
     "tboxNo" : "0777",
     "tboxName" : "新湖國小幼兒多功能教室(1)",
     "liCode" : "029",
+    "voter" : "03",
+    "addr" : "臺北市內湖區民權東路6段138號",
+    "neighbor" : "湖興里",
+    "deptCode" : "100",
+    "liName" : "湖興里"
+  }, {
+    "ScopeLiName" : "湖興里",
+    "tboxNo" : "0777",
+    "tboxName" : "新湖國小幼兒多功能教室(1)",
+    "liCode" : "029",
     "voter" : "02",
     "addr" : "臺北市內湖區民權東路6段138號",
     "neighbor" : "湖興里",
@@ -11947,16 +11957,6 @@
     "voter" : "01",
     "addr" : "臺北市內湖區民權東路6段138號",
     "neighbor" : "5-11",
-    "deptCode" : "100",
-    "liName" : "湖興里"
-  }, {
-    "ScopeLiName" : "湖興里",
-    "tboxNo" : "0777",
-    "tboxName" : "新湖國小幼兒多功能教室(1)",
-    "liCode" : "029",
-    "voter" : "03",
-    "addr" : "臺北市內湖區民權東路6段138號",
-    "neighbor" : "湖興里",
     "deptCode" : "100",
     "liName" : "湖興里"
   }, {
@@ -11994,16 +11994,6 @@
     "tboxNo" : "0781",
     "tboxName" : "三民國中7年2班教室",
     "liCode" : "030",
-    "voter" : "01",
-    "addr" : "臺北市內湖區民權東路6段45號",
-    "neighbor" : "9-14,16",
-    "deptCode" : "100",
-    "liName" : "湖元里"
-  }, {
-    "ScopeLiName" : "湖元里",
-    "tboxNo" : "0781",
-    "tboxName" : "三民國中7年2班教室",
-    "liCode" : "030",
     "voter" : "02",
     "addr" : "臺北市內湖區民權東路6段45號",
     "neighbor" : "湖元里",
@@ -12017,6 +12007,16 @@
     "voter" : "03",
     "addr" : "臺北市內湖區民權東路6段45號",
     "neighbor" : "湖元里",
+    "deptCode" : "100",
+    "liName" : "湖元里"
+  }, {
+    "ScopeLiName" : "湖元里",
+    "tboxNo" : "0781",
+    "tboxName" : "三民國中7年2班教室",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "臺北市內湖區民權東路6段45號",
+    "neighbor" : "9-14,16",
     "deptCode" : "100",
     "liName" : "湖元里"
   }, {
@@ -12104,16 +12104,6 @@
     "tboxNo" : "0788",
     "tboxName" : "大湖國小東側門川堂",
     "liCode" : "032",
-    "voter" : "01",
-    "addr" : "臺北市內湖區大湖山莊街170號",
-    "neighbor" : "1-8",
-    "deptCode" : "100",
-    "liName" : "秀湖里"
-  }, {
-    "ScopeLiName" : "秀湖里",
-    "tboxNo" : "0788",
-    "tboxName" : "大湖國小東側門川堂",
-    "liCode" : "032",
     "voter" : "02",
     "addr" : "臺北市內湖區大湖山莊街170號",
     "neighbor" : "秀湖里",
@@ -12127,6 +12117,16 @@
     "voter" : "03",
     "addr" : "臺北市內湖區大湖山莊街170號",
     "neighbor" : "秀湖里",
+    "deptCode" : "100",
+    "liName" : "秀湖里"
+  }, {
+    "ScopeLiName" : "秀湖里",
+    "tboxNo" : "0788",
+    "tboxName" : "大湖國小東側門川堂",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "臺北市內湖區大湖山莊街170號",
+    "neighbor" : "1-8",
     "deptCode" : "100",
     "liName" : "秀湖里"
   }, {
@@ -12164,16 +12164,6 @@
     "tboxNo" : "0792",
     "tboxName" : "安泰福德宮",
     "liCode" : "033",
-    "voter" : "01",
-    "addr" : "臺北市內湖區安泰街54巷1號 對面 ",
-    "neighbor" : "1-4,15",
-    "deptCode" : "100",
-    "liName" : "安泰里"
-  }, {
-    "ScopeLiName" : "安泰里",
-    "tboxNo" : "0792",
-    "tboxName" : "安泰福德宮",
-    "liCode" : "033",
     "voter" : "02",
     "addr" : "臺北市內湖區安泰街54巷1號 對面 ",
     "neighbor" : "安泰里",
@@ -12187,6 +12177,16 @@
     "voter" : "03",
     "addr" : "臺北市內湖區安泰街54巷1號 對面 ",
     "neighbor" : "安泰里",
+    "deptCode" : "100",
+    "liName" : "安泰里"
+  }, {
+    "ScopeLiName" : "安泰里",
+    "tboxNo" : "0792",
+    "tboxName" : "安泰福德宮",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "臺北市內湖區安泰街54巷1號 對面 ",
+    "neighbor" : "1-4,15",
     "deptCode" : "100",
     "liName" : "安泰里"
   }, {
@@ -12234,16 +12234,6 @@
     "tboxNo" : "0797",
     "tboxName" : "麗湖國小東側風雨操場(2)",
     "liCode" : "034",
-    "voter" : "02",
-    "addr" : "臺北市內湖區金湖路363巷8號",
-    "neighbor" : "金湖里",
-    "deptCode" : "100",
-    "liName" : "金湖里"
-  }, {
-    "ScopeLiName" : "金湖里",
-    "tboxNo" : "0797",
-    "tboxName" : "麗湖國小東側風雨操場(2)",
-    "liCode" : "034",
     "voter" : "01",
     "addr" : "臺北市內湖區金湖路363巷8號",
     "neighbor" : "10-13,19",
@@ -12255,6 +12245,16 @@
     "tboxName" : "麗湖國小東側風雨操場(2)",
     "liCode" : "034",
     "voter" : "03",
+    "addr" : "臺北市內湖區金湖路363巷8號",
+    "neighbor" : "金湖里",
+    "deptCode" : "100",
+    "liName" : "金湖里"
+  }, {
+    "ScopeLiName" : "金湖里",
+    "tboxNo" : "0797",
+    "tboxName" : "麗湖國小東側風雨操場(2)",
+    "liCode" : "034",
+    "voter" : "02",
     "addr" : "臺北市內湖區金湖路363巷8號",
     "neighbor" : "金湖里",
     "deptCode" : "100",
@@ -12334,9 +12334,9 @@
     "tboxNo" : "0804",
     "tboxName" : "明湖國小1年2班教室",
     "liCode" : "035",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區康寧路3段105號",
-    "neighbor" : "20-23",
+    "neighbor" : "康寧里",
     "deptCode" : "100",
     "liName" : "康寧里"
   }, {
@@ -12344,9 +12344,9 @@
     "tboxNo" : "0804",
     "tboxName" : "明湖國小1年2班教室",
     "liCode" : "035",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區康寧路3段105號",
-    "neighbor" : "康寧里",
+    "neighbor" : "20-23",
     "deptCode" : "100",
     "liName" : "康寧里"
   }, {
@@ -12374,9 +12374,9 @@
     "tboxNo" : "0807",
     "tboxName" : "明湖國小潛能中心(一)",
     "liCode" : "036",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市內湖區康寧路3段105號",
-    "neighbor" : "16-20",
+    "neighbor" : "明湖里",
     "deptCode" : "100",
     "liName" : "明湖里"
   }, {
@@ -12384,9 +12384,9 @@
     "tboxNo" : "0807",
     "tboxName" : "明湖國小潛能中心(一)",
     "liCode" : "036",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市內湖區康寧路3段105號",
-    "neighbor" : "明湖里",
+    "neighbor" : "16-20",
     "deptCode" : "100",
     "liName" : "明湖里"
   }, {
@@ -12464,6 +12464,16 @@
     "tboxNo" : "0812",
     "tboxName" : "麗山國小2樓1年4班教室",
     "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺北市內湖區港華街100號",
+    "neighbor" : "14-16",
+    "deptCode" : "100",
+    "liName" : "麗山里"
+  }, {
+    "ScopeLiName" : "麗山里",
+    "tboxNo" : "0812",
+    "tboxName" : "麗山國小2樓1年4班教室",
+    "liCode" : "038",
     "voter" : "03",
     "addr" : "臺北市內湖區港華街100號",
     "neighbor" : "麗山里",
@@ -12477,16 +12487,6 @@
     "voter" : "02",
     "addr" : "臺北市內湖區港華街100號",
     "neighbor" : "麗山里",
-    "deptCode" : "100",
-    "liName" : "麗山里"
-  }, {
-    "ScopeLiName" : "麗山里",
-    "tboxNo" : "0812",
-    "tboxName" : "麗山國小2樓1年4班教室",
-    "liCode" : "038",
-    "voter" : "01",
-    "addr" : "臺北市內湖區港華街100號",
-    "neighbor" : "14-16",
     "deptCode" : "100",
     "liName" : "麗山里"
   }, {
@@ -12574,9 +12574,9 @@
     "tboxNo" : "0819",
     "tboxName" : "明湖國中9年20班教室",
     "liCode" : "040",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市內湖區康寧路3段60號",
-    "neighbor" : "4,6-7",
+    "neighbor" : "南湖里",
     "deptCode" : "100",
     "liName" : "南湖里"
   }, {
@@ -12584,9 +12584,9 @@
     "tboxNo" : "0819",
     "tboxName" : "明湖國中9年20班教室",
     "liCode" : "040",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市內湖區康寧路3段60號",
-    "neighbor" : "南湖里",
+    "neighbor" : "4,6-7",
     "deptCode" : "100",
     "liName" : "南湖里"
   }, {
@@ -12614,9 +12614,9 @@
     "tboxNo" : "0821",
     "tboxName" : "南港高工綜合二教室",
     "liCode" : "001",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市南港區南港里興中路29號",
-    "neighbor" : "南港里",
+    "neighbor" : "2-7",
     "deptCode" : "090",
     "liName" : "南港里"
   }, {
@@ -12624,9 +12624,9 @@
     "tboxNo" : "0821",
     "tboxName" : "南港高工綜合二教室",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市南港區南港里興中路29號",
-    "neighbor" : "2-7",
+    "neighbor" : "南港里",
     "deptCode" : "090",
     "liName" : "南港里"
   }, {
@@ -12684,9 +12684,9 @@
     "tboxNo" : "0826",
     "tboxName" : "國家文官學院(A202教室)",
     "liCode" : "002",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市南港區中南里忠孝東路7段576號2樓",
-    "neighbor" : "中南里",
+    "neighbor" : "11-17",
     "deptCode" : "090",
     "liName" : "中南里"
   }, {
@@ -12694,9 +12694,9 @@
     "tboxNo" : "0826",
     "tboxName" : "國家文官學院(A202教室)",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市南港區中南里忠孝東路7段576號2樓",
-    "neighbor" : "11-17",
+    "neighbor" : "中南里",
     "deptCode" : "090",
     "liName" : "中南里"
   }, {
@@ -13204,7 +13204,7 @@
     "tboxNo" : "0861",
     "tboxName" : "東方大地住戶管理委員會會議室",
     "liCode" : "007",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市南港區東明里興華路30巷1號",
     "neighbor" : "東明里",
     "deptCode" : "090",
@@ -13214,7 +13214,7 @@
     "tboxNo" : "0861",
     "tboxName" : "東方大地住戶管理委員會會議室",
     "liCode" : "007",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市南港區東明里興華路30巷1號",
     "neighbor" : "東明里",
     "deptCode" : "090",
@@ -13224,9 +13224,9 @@
     "tboxNo" : "0862",
     "tboxName" : "玉成國小101班教室",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市南港區西新里向陽路31號",
-    "neighbor" : "1-5,17",
+    "neighbor" : "西新里",
     "deptCode" : "090",
     "liName" : "西新里"
   }, {
@@ -13244,9 +13244,9 @@
     "tboxNo" : "0862",
     "tboxName" : "玉成國小101班教室",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市南港區西新里向陽路31號",
-    "neighbor" : "西新里",
+    "neighbor" : "1-5,17",
     "deptCode" : "090",
     "liName" : "西新里"
   }, {
@@ -13304,7 +13304,7 @@
     "tboxNo" : "0867",
     "tboxName" : "松山國小(活動中心)",
     "liCode" : "009",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區慈祐里20鄰八德路4段746號",
     "neighbor" : "玉成里",
     "deptCode" : "090",
@@ -13314,7 +13314,7 @@
     "tboxNo" : "0867",
     "tboxName" : "松山國小(活動中心)",
     "liCode" : "009",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區慈祐里20鄰八德路4段746號",
     "neighbor" : "玉成里",
     "deptCode" : "090",
@@ -13344,7 +13344,7 @@
     "tboxNo" : "0869",
     "tboxName" : "南港運動中心2樓幼兒遊戲區",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市南港區合成里玉成街69號2樓",
     "neighbor" : "合成里",
     "deptCode" : "090",
@@ -13354,7 +13354,7 @@
     "tboxNo" : "0869",
     "tboxName" : "南港運動中心2樓幼兒遊戲區",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市南港區合成里玉成街69號2樓",
     "neighbor" : "合成里",
     "deptCode" : "090",
@@ -13424,9 +13424,9 @@
     "tboxNo" : "0875",
     "tboxName" : "南港高中704教室",
     "liCode" : "006",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市南港區西新里向陽路21號",
-    "neighbor" : "新光里",
+    "neighbor" : "13-18",
     "deptCode" : "090",
     "liName" : "新光里"
   }, {
@@ -13434,9 +13434,9 @@
     "tboxNo" : "0875",
     "tboxName" : "南港高中704教室",
     "liCode" : "006",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市南港區西新里向陽路21號",
-    "neighbor" : "13-18",
+    "neighbor" : "新光里",
     "deptCode" : "090",
     "liName" : "新光里"
   }, {
@@ -13464,16 +13464,6 @@
     "tboxNo" : "0878",
     "tboxName" : "成德國小多功能辦公室(二)",
     "liCode" : "015",
-    "voter" : "01",
-    "addr" : "臺北市南港區聯成里東新街65號",
-    "neighbor" : "13-19",
-    "deptCode" : "090",
-    "liName" : "聯成里"
-  }, {
-    "ScopeLiName" : "聯成里",
-    "tboxNo" : "0878",
-    "tboxName" : "成德國小多功能辦公室(二)",
-    "liCode" : "015",
     "voter" : "03",
     "addr" : "臺北市南港區聯成里東新街65號",
     "neighbor" : "聯成里",
@@ -13484,21 +13474,21 @@
     "tboxNo" : "0878",
     "tboxName" : "成德國小多功能辦公室(二)",
     "liCode" : "015",
+    "voter" : "01",
+    "addr" : "臺北市南港區聯成里東新街65號",
+    "neighbor" : "13-19",
+    "deptCode" : "090",
+    "liName" : "聯成里"
+  }, {
+    "ScopeLiName" : "聯成里",
+    "tboxNo" : "0878",
+    "tboxName" : "成德國小多功能辦公室(二)",
+    "liCode" : "015",
     "voter" : "02",
     "addr" : "臺北市南港區聯成里東新街65號",
     "neighbor" : "聯成里",
     "deptCode" : "090",
     "liName" : "聯成里"
-  }, {
-    "ScopeLiName" : "萬福里",
-    "tboxNo" : "0879",
-    "tboxName" : "萬福里里民活動場所",
-    "liCode" : "012",
-    "voter" : "02",
-    "addr" : "臺北市南港區萬福里忠孝東路6段70巷21弄8號",
-    "neighbor" : "萬福里",
-    "deptCode" : "090",
-    "liName" : "萬福里"
   }, {
     "ScopeLiName" : "萬福里",
     "tboxNo" : "0879",
@@ -13517,6 +13507,16 @@
     "voter" : "01",
     "addr" : "臺北市南港區萬福里忠孝東路6段70巷21弄8號",
     "neighbor" : "3,4,9-11,17",
+    "deptCode" : "090",
+    "liName" : "萬福里"
+  }, {
+    "ScopeLiName" : "萬福里",
+    "tboxNo" : "0879",
+    "tboxName" : "萬福里里民活動場所",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺北市南港區萬福里忠孝東路6段70巷21弄8號",
+    "neighbor" : "萬福里",
     "deptCode" : "090",
     "liName" : "萬福里"
   }, {
@@ -13574,7 +13574,7 @@
     "tboxNo" : "0884",
     "tboxName" : "成德國中7年6班",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市南港區成福里東新街108巷23號",
     "neighbor" : "鴻福里",
     "deptCode" : "090",
@@ -13584,7 +13584,7 @@
     "tboxNo" : "0884",
     "tboxName" : "成德國中7年6班",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市南港區成福里東新街108巷23號",
     "neighbor" : "鴻福里",
     "deptCode" : "090",
@@ -13614,9 +13614,9 @@
     "tboxNo" : "0887",
     "tboxName" : "福德國小3年3班",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市信義區中行里福德街253號3樓",
-    "neighbor" : "百福里",
+    "neighbor" : "13-20",
     "deptCode" : "090",
     "liName" : "百福里"
   }, {
@@ -13624,9 +13624,9 @@
     "tboxNo" : "0887",
     "tboxName" : "福德國小3年3班",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市信義區中行里福德街253號3樓",
-    "neighbor" : "13-20",
+    "neighbor" : "百福里",
     "deptCode" : "090",
     "liName" : "百福里"
   }, {
@@ -13664,9 +13664,9 @@
     "tboxNo" : "0890",
     "tboxName" : "成德國中成雁文創中心",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市南港區成福里東新街108巷23號",
-    "neighbor" : "成福里",
+    "neighbor" : "16-20,29",
     "deptCode" : "090",
     "liName" : "成福里"
   }, {
@@ -13674,9 +13674,9 @@
     "tboxNo" : "0890",
     "tboxName" : "成德國中成雁文創中心",
     "liCode" : "011",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市南港區成福里東新街108巷23號",
-    "neighbor" : "16-20,29",
+    "neighbor" : "成福里",
     "deptCode" : "090",
     "liName" : "成福里"
   }, {
@@ -13744,7 +13744,7 @@
     "tboxNo" : "0896",
     "tboxName" : "仁福區民活動中心(二)",
     "liCode" : "019",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市南港區仁福里福德街443號",
     "neighbor" : "仁福里",
     "deptCode" : "090",
@@ -13764,7 +13764,7 @@
     "tboxNo" : "0896",
     "tboxName" : "仁福區民活動中心(二)",
     "liCode" : "019",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市南港區仁福里福德街443號",
     "neighbor" : "仁福里",
     "deptCode" : "090",
@@ -13794,9 +13794,9 @@
     "tboxNo" : "0898",
     "tboxName" : "福星國小活動中心音樂教室B",
     "liCode" : "001",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區福星里6鄰中華路1段66號",
-    "neighbor" : "5,8-13",
+    "neighbor" : "福星里",
     "deptCode" : "070",
     "liName" : "福星里"
   }, {
@@ -13804,9 +13804,9 @@
     "tboxNo" : "0898",
     "tboxName" : "福星國小活動中心音樂教室B",
     "liCode" : "001",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區福星里6鄰中華路1段66號",
-    "neighbor" : "福星里",
+    "neighbor" : "5,8-13",
     "deptCode" : "070",
     "liName" : "福星里"
   }, {
@@ -13834,6 +13834,16 @@
     "tboxNo" : "0901",
     "tboxName" : "西門國小幼兒園花鹿班",
     "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺北市萬華區西門里9鄰成都路98號",
+    "neighbor" : "1-5",
+    "deptCode" : "070",
+    "liName" : "萬壽里"
+  }, {
+    "ScopeLiName" : "萬壽里",
+    "tboxNo" : "0901",
+    "tboxName" : "西門國小幼兒園花鹿班",
+    "liCode" : "002",
     "voter" : "02",
     "addr" : "臺北市萬華區西門里9鄰成都路98號",
     "neighbor" : "萬壽里",
@@ -13847,16 +13857,6 @@
     "voter" : "03",
     "addr" : "臺北市萬華區西門里9鄰成都路98號",
     "neighbor" : "萬壽里",
-    "deptCode" : "070",
-    "liName" : "萬壽里"
-  }, {
-    "ScopeLiName" : "萬壽里",
-    "tboxNo" : "0901",
-    "tboxName" : "西門國小幼兒園花鹿班",
-    "liCode" : "002",
-    "voter" : "01",
-    "addr" : "臺北市萬華區西門里9鄰成都路98號",
-    "neighbor" : "1-5",
     "deptCode" : "070",
     "liName" : "萬壽里"
   }, {
@@ -13894,6 +13894,16 @@
     "tboxNo" : "0905",
     "tboxName" : "西門國小6年1班教室",
     "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺北市萬華區西門里9鄰成都路98號",
+    "neighbor" : "西門里",
+    "deptCode" : "070",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0905",
+    "tboxName" : "西門國小6年1班教室",
+    "liCode" : "003",
     "voter" : "01",
     "addr" : "臺北市萬華區西門里9鄰成都路98號",
     "neighbor" : "4-11",
@@ -13905,16 +13915,6 @@
     "tboxName" : "西門國小6年1班教室",
     "liCode" : "003",
     "voter" : "02",
-    "addr" : "臺北市萬華區西門里9鄰成都路98號",
-    "neighbor" : "西門里",
-    "deptCode" : "070",
-    "liName" : "西門里"
-  }, {
-    "ScopeLiName" : "西門里",
-    "tboxNo" : "0905",
-    "tboxName" : "西門國小6年1班教室",
-    "liCode" : "003",
-    "voter" : "03",
     "addr" : "臺北市萬華區西門里9鄰成都路98號",
     "neighbor" : "西門里",
     "deptCode" : "070",
@@ -14024,9 +14024,9 @@
     "tboxNo" : "0914",
     "tboxName" : "臺北市義勇消防大隊城中第一分隊",
     "liCode" : "005",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區菜園里7鄰成都路175號",
-    "neighbor" : "4,5,7-9",
+    "neighbor" : "菜園里",
     "deptCode" : "070",
     "liName" : "菜園里"
   }, {
@@ -14044,9 +14044,9 @@
     "tboxNo" : "0914",
     "tboxName" : "臺北市義勇消防大隊城中第一分隊",
     "liCode" : "005",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區菜園里7鄰成都路175號",
-    "neighbor" : "菜園里",
+    "neighbor" : "4,5,7-9",
     "deptCode" : "070",
     "liName" : "菜園里"
   }, {
@@ -14094,9 +14094,9 @@
     "tboxNo" : "0919",
     "tboxName" : "龍山國小活動中心左側",
     "liCode" : "006",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區青山里20鄰和平西路3段235號2樓",
-    "neighbor" : "青山里",
+    "neighbor" : "13-18",
     "deptCode" : "070",
     "liName" : "青山里"
   }, {
@@ -14104,9 +14104,9 @@
     "tboxNo" : "0919",
     "tboxName" : "龍山國小活動中心左側",
     "liCode" : "006",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區青山里20鄰和平西路3段235號2樓",
-    "neighbor" : "13-18",
+    "neighbor" : "青山里",
     "deptCode" : "070",
     "liName" : "青山里"
   }, {
@@ -14154,16 +14154,6 @@
     "tboxNo" : "0923",
     "tboxName" : "老松國小擊樂教室",
     "liCode" : "007",
-    "voter" : "03",
-    "addr" : "臺北市萬華區福音里12鄰桂林路64號",
-    "neighbor" : "富民里",
-    "deptCode" : "070",
-    "liName" : "富民里"
-  }, {
-    "ScopeLiName" : "富民里",
-    "tboxNo" : "0923",
-    "tboxName" : "老松國小擊樂教室",
-    "liCode" : "007",
     "voter" : "01",
     "addr" : "臺北市萬華區福音里12鄰桂林路64號",
     "neighbor" : "1,10-12,15",
@@ -14175,6 +14165,16 @@
     "tboxName" : "老松國小擊樂教室",
     "liCode" : "007",
     "voter" : "02",
+    "addr" : "臺北市萬華區福音里12鄰桂林路64號",
+    "neighbor" : "富民里",
+    "deptCode" : "070",
+    "liName" : "富民里"
+  }, {
+    "ScopeLiName" : "富民里",
+    "tboxNo" : "0923",
+    "tboxName" : "老松國小擊樂教室",
+    "liCode" : "007",
+    "voter" : "03",
     "addr" : "臺北市萬華區福音里12鄰桂林路64號",
     "neighbor" : "富民里",
     "deptCode" : "070",
@@ -14334,9 +14334,9 @@
     "tboxNo" : "0934",
     "tboxName" : "龍山國中(左側美髮教室)",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區富福里15鄰南寧路46號",
-    "neighbor" : "富福里",
+    "neighbor" : "13-18",
     "deptCode" : "070",
     "liName" : "富福里"
   }, {
@@ -14344,9 +14344,9 @@
     "tboxNo" : "0934",
     "tboxName" : "龍山國中(左側美髮教室)",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區富福里15鄰南寧路46號",
-    "neighbor" : "13-18",
+    "neighbor" : "富福里",
     "deptCode" : "070",
     "liName" : "富福里"
   }, {
@@ -14464,9 +14464,9 @@
     "tboxNo" : "0944",
     "tboxName" : "華江國小校史室",
     "liCode" : "018",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區華江里17鄰環河南路2段250巷42弄2號",
-    "neighbor" : "華江里",
+    "neighbor" : "25-28",
     "deptCode" : "070",
     "liName" : "華江里"
   }, {
@@ -14474,9 +14474,9 @@
     "tboxNo" : "0944",
     "tboxName" : "華江國小校史室",
     "liCode" : "018",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區華江里17鄰環河南路2段250巷42弄2號",
-    "neighbor" : "25-28",
+    "neighbor" : "華江里",
     "deptCode" : "070",
     "liName" : "華江里"
   }, {
@@ -15414,6 +15414,16 @@
     "tboxNo" : "1005",
     "tboxName" : "光仁國小106教室",
     "liCode" : "031",
+    "voter" : "03",
+    "addr" : "臺北市萬華區壽德里10鄰萬大路423巷15號",
+    "neighbor" : "興德里",
+    "deptCode" : "070",
+    "liName" : "興德里"
+  }, {
+    "ScopeLiName" : "興德里",
+    "tboxNo" : "1005",
+    "tboxName" : "光仁國小106教室",
+    "liCode" : "031",
     "voter" : "01",
     "addr" : "臺北市萬華區壽德里10鄰萬大路423巷15號",
     "neighbor" : "13-18",
@@ -15425,16 +15435,6 @@
     "tboxName" : "光仁國小106教室",
     "liCode" : "031",
     "voter" : "02",
-    "addr" : "臺北市萬華區壽德里10鄰萬大路423巷15號",
-    "neighbor" : "興德里",
-    "deptCode" : "070",
-    "liName" : "興德里"
-  }, {
-    "ScopeLiName" : "興德里",
-    "tboxNo" : "1005",
-    "tboxName" : "光仁國小106教室",
-    "liCode" : "031",
-    "voter" : "03",
     "addr" : "臺北市萬華區壽德里10鄰萬大路423巷15號",
     "neighbor" : "興德里",
     "deptCode" : "070",
@@ -15454,9 +15454,9 @@
     "tboxNo" : "1007",
     "tboxName" : "日祥區民活動中心(教室三)",
     "liCode" : "033",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市萬華區日祥里23鄰青年路186之1號",
-    "neighbor" : "日祥里",
+    "neighbor" : "2,21-23",
     "deptCode" : "070",
     "liName" : "日祥里"
   }, {
@@ -15464,9 +15464,9 @@
     "tboxNo" : "1007",
     "tboxName" : "日祥區民活動中心(教室三)",
     "liCode" : "033",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市萬華區日祥里23鄰青年路186之1號",
-    "neighbor" : "2,21-23",
+    "neighbor" : "日祥里",
     "deptCode" : "070",
     "liName" : "日祥里"
   }, {
@@ -15534,16 +15534,6 @@
     "tboxNo" : "1013",
     "tboxName" : "南機場3號基地國宅管理委員會(地下室左側)",
     "liCode" : "034",
-    "voter" : "03",
-    "addr" : "臺北市萬華區忠貞里16鄰青年路106巷2號地下室",
-    "neighbor" : "忠貞里",
-    "deptCode" : "070",
-    "liName" : "忠貞里"
-  }, {
-    "ScopeLiName" : "忠貞里",
-    "tboxNo" : "1013",
-    "tboxName" : "南機場3號基地國宅管理委員會(地下室左側)",
-    "liCode" : "034",
     "voter" : "01",
     "addr" : "臺北市萬華區忠貞里16鄰青年路106巷2號地下室",
     "neighbor" : "11-17",
@@ -15555,6 +15545,16 @@
     "tboxName" : "南機場3號基地國宅管理委員會(地下室左側)",
     "liCode" : "034",
     "voter" : "02",
+    "addr" : "臺北市萬華區忠貞里16鄰青年路106巷2號地下室",
+    "neighbor" : "忠貞里",
+    "deptCode" : "070",
+    "liName" : "忠貞里"
+  }, {
+    "ScopeLiName" : "忠貞里",
+    "tboxNo" : "1013",
+    "tboxName" : "南機場3號基地國宅管理委員會(地下室左側)",
+    "liCode" : "034",
+    "voter" : "03",
     "addr" : "臺北市萬華區忠貞里16鄰青年路106巷2號地下室",
     "neighbor" : "忠貞里",
     "deptCode" : "070",
@@ -15574,6 +15574,16 @@
     "tboxNo" : "1015",
     "tboxName" : "忠恕社區辦公室",
     "liCode" : "013",
+    "voter" : "02",
+    "addr" : "臺北市萬華區新忠里2鄰中華路2段364巷22弄29號地下室",
+    "neighbor" : "新忠里",
+    "deptCode" : "070",
+    "liName" : "新忠里"
+  }, {
+    "ScopeLiName" : "新忠里",
+    "tboxNo" : "1015",
+    "tboxName" : "忠恕社區辦公室",
+    "liCode" : "013",
     "voter" : "03",
     "addr" : "臺北市萬華區新忠里2鄰中華路2段364巷22弄29號地下室",
     "neighbor" : "新忠里",
@@ -15587,16 +15597,6 @@
     "voter" : "01",
     "addr" : "臺北市萬華區新忠里2鄰中華路2段364巷22弄29號地下室",
     "neighbor" : "1,2,4-6,8-10",
-    "deptCode" : "070",
-    "liName" : "新忠里"
-  }, {
-    "ScopeLiName" : "新忠里",
-    "tboxNo" : "1015",
-    "tboxName" : "忠恕社區辦公室",
-    "liCode" : "013",
-    "voter" : "02",
-    "addr" : "臺北市萬華區新忠里2鄰中華路2段364巷22弄29號地下室",
-    "neighbor" : "新忠里",
     "deptCode" : "070",
     "liName" : "新忠里"
   }, {
@@ -15644,7 +15644,7 @@
     "tboxNo" : "1019",
     "tboxName" : "青年社區管理委員會(閱覽室)",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市萬華區新和里13鄰中華路2段416巷9之4號",
     "neighbor" : "新和里",
     "deptCode" : "070",
@@ -15654,7 +15654,7 @@
     "tboxNo" : "1019",
     "tboxName" : "青年社區管理委員會(閱覽室)",
     "liCode" : "014",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市萬華區新和里13鄰中華路2段416巷9之4號",
     "neighbor" : "新和里",
     "deptCode" : "070",
@@ -15704,7 +15704,7 @@
     "tboxNo" : "1024",
     "tboxName" : "南機場13號基地管理委員會(辦公室)左側",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市萬華區新安里8鄰萬大路187巷1弄2號地下室",
     "neighbor" : "新安里",
     "deptCode" : "070",
@@ -15724,7 +15724,7 @@
     "tboxNo" : "1024",
     "tboxName" : "南機場13號基地管理委員會(辦公室)左側",
     "liCode" : "021",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市萬華區新安里8鄰萬大路187巷1弄2號地下室",
     "neighbor" : "新安里",
     "deptCode" : "070",
@@ -15804,7 +15804,7 @@
     "tboxNo" : "1031",
     "tboxName" : "國興幼兒園企鵝班遊戲室外（左側）",
     "liCode" : "035",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市萬華區凌霄里11鄰國興路46號後門",
     "neighbor" : "凌霄里",
     "deptCode" : "070",
@@ -15814,7 +15814,7 @@
     "tboxNo" : "1031",
     "tboxName" : "國興幼兒園企鵝班遊戲室外（左側）",
     "liCode" : "035",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市萬華區凌霄里11鄰國興路46號後門",
     "neighbor" : "凌霄里",
     "deptCode" : "070",
@@ -15825,6 +15825,16 @@
     "tboxName" : "古亭國中第2校區學生活動中心1樓(外側)",
     "liCode" : "036",
     "voter" : "03",
+    "addr" : "臺北市萬華區騰雲里4鄰中華路2段606巷3號1樓",
+    "neighbor" : "騰雲里",
+    "deptCode" : "070",
+    "liName" : "騰雲里"
+  }, {
+    "ScopeLiName" : "騰雲里",
+    "tboxNo" : "1032",
+    "tboxName" : "古亭國中第2校區學生活動中心1樓(外側)",
+    "liCode" : "036",
+    "voter" : "02",
     "addr" : "臺北市萬華區騰雲里4鄰中華路2段606巷3號1樓",
     "neighbor" : "騰雲里",
     "deptCode" : "070",
@@ -15837,16 +15847,6 @@
     "voter" : "01",
     "addr" : "臺北市萬華區騰雲里4鄰中華路2段606巷3號1樓",
     "neighbor" : "1-7",
-    "deptCode" : "070",
-    "liName" : "騰雲里"
-  }, {
-    "ScopeLiName" : "騰雲里",
-    "tboxNo" : "1032",
-    "tboxName" : "古亭國中第2校區學生活動中心1樓(外側)",
-    "liCode" : "036",
-    "voter" : "02",
-    "addr" : "臺北市萬華區騰雲里4鄰中華路2段606巷3號1樓",
-    "neighbor" : "騰雲里",
     "deptCode" : "070",
     "liName" : "騰雲里"
   }, {
@@ -15894,7 +15894,7 @@
     "tboxNo" : "1037",
     "tboxName" : "古亭國中藝文國學室",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區永功里23鄰中華路2段465號",
     "neighbor" : "永功里",
     "deptCode" : "050",
@@ -15914,7 +15914,7 @@
     "tboxNo" : "1037",
     "tboxName" : "古亭國中藝文國學室",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區永功里23鄰中華路2段465號",
     "neighbor" : "永功里",
     "deptCode" : "050",
@@ -15974,9 +15974,9 @@
     "tboxNo" : "1042",
     "tboxName" : "聖維雅納天主堂",
     "liCode" : "012",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市中正區永昌里15鄰詔安街236號",
-    "neighbor" : "14-19",
+    "neighbor" : "永昌里",
     "deptCode" : "050",
     "liName" : "永昌里"
   }, {
@@ -15984,9 +15984,9 @@
     "tboxNo" : "1042",
     "tboxName" : "聖維雅納天主堂",
     "liCode" : "012",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市中正區永昌里15鄰詔安街236號",
-    "neighbor" : "永昌里",
+    "neighbor" : "14-19",
     "deptCode" : "050",
     "liName" : "永昌里"
   }, {
@@ -16004,7 +16004,7 @@
     "tboxNo" : "1044",
     "tboxName" : "國語實驗小學1年5班教室",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區龍光里1鄰南海路58號",
     "neighbor" : "龍興里",
     "deptCode" : "050",
@@ -16024,7 +16024,7 @@
     "tboxNo" : "1044",
     "tboxName" : "國語實驗小學1年5班教室",
     "liCode" : "013",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區龍光里1鄰南海路58號",
     "neighbor" : "龍興里",
     "deptCode" : "050",
@@ -16114,7 +16114,7 @@
     "tboxNo" : "1051",
     "tboxName" : "國語實驗小學1年1班教室",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區龍光里1鄰南海路58號",
     "neighbor" : "廈安里",
     "deptCode" : "050",
@@ -16134,7 +16134,7 @@
     "tboxNo" : "1051",
     "tboxName" : "國語實驗小學1年1班教室",
     "liCode" : "015",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區龍光里1鄰南海路58號",
     "neighbor" : "廈安里",
     "deptCode" : "050",
@@ -16904,16 +16904,6 @@
     "tboxNo" : "1102",
     "tboxName" : "伽耶山基金會印儀學苑",
     "liCode" : "029",
-    "voter" : "03",
-    "addr" : "臺北市中正區文北里18鄰濟南路2段36號",
-    "neighbor" : "文北里",
-    "deptCode" : "050",
-    "liName" : "文北里"
-  }, {
-    "ScopeLiName" : "文北里",
-    "tboxNo" : "1102",
-    "tboxName" : "伽耶山基金會印儀學苑",
-    "liCode" : "029",
     "voter" : "01",
     "addr" : "臺北市中正區文北里18鄰濟南路2段36號",
     "neighbor" : "13,16,18,23-25,27",
@@ -16925,6 +16915,16 @@
     "tboxName" : "伽耶山基金會印儀學苑",
     "liCode" : "029",
     "voter" : "02",
+    "addr" : "臺北市中正區文北里18鄰濟南路2段36號",
+    "neighbor" : "文北里",
+    "deptCode" : "050",
+    "liName" : "文北里"
+  }, {
+    "ScopeLiName" : "文北里",
+    "tboxNo" : "1102",
+    "tboxName" : "伽耶山基金會印儀學苑",
+    "liCode" : "029",
+    "voter" : "03",
     "addr" : "臺北市中正區文北里18鄰濟南路2段36號",
     "neighbor" : "文北里",
     "deptCode" : "050",
@@ -16944,16 +16944,6 @@
     "tboxNo" : "1104",
     "tboxName" : "金甌女中205教室",
     "liCode" : "030",
-    "voter" : "01",
-    "addr" : "臺北市大安區光明里9鄰杭州南路2段1號",
-    "neighbor" : "1-5",
-    "deptCode" : "050",
-    "liName" : "文祥里"
-  }, {
-    "ScopeLiName" : "文祥里",
-    "tboxNo" : "1104",
-    "tboxName" : "金甌女中205教室",
-    "liCode" : "030",
     "voter" : "02",
     "addr" : "臺北市大安區光明里9鄰杭州南路2段1號",
     "neighbor" : "文祥里",
@@ -16967,6 +16957,16 @@
     "voter" : "03",
     "addr" : "臺北市大安區光明里9鄰杭州南路2段1號",
     "neighbor" : "文祥里",
+    "deptCode" : "050",
+    "liName" : "文祥里"
+  }, {
+    "ScopeLiName" : "文祥里",
+    "tboxNo" : "1104",
+    "tboxName" : "金甌女中205教室",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "臺北市大安區光明里9鄰杭州南路2段1號",
+    "neighbor" : "1-5",
     "deptCode" : "050",
     "liName" : "文祥里"
   }, {
@@ -17044,7 +17044,7 @@
     "tboxNo" : "1112",
     "tboxName" : "大雄精舍",
     "liCode" : "031",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區三愛里15鄰信義路2段271號",
     "neighbor" : "三愛里",
     "deptCode" : "050",
@@ -17064,7 +17064,7 @@
     "tboxNo" : "1112",
     "tboxName" : "大雄精舍",
     "liCode" : "031",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區三愛里15鄰信義路2段271號",
     "neighbor" : "三愛里",
     "deptCode" : "050",
@@ -17114,16 +17114,6 @@
     "tboxNo" : "1117",
     "tboxName" : "大安老人服務暨日間照顧中心(餐廳)",
     "liCode" : "001",
-    "voter" : "02",
-    "addr" : "臺北市大安區德安里2鄰四維路76巷12號",
-    "neighbor" : "德安里",
-    "deptCode" : "030",
-    "liName" : "德安里"
-  }, {
-    "ScopeLiName" : "德安里",
-    "tboxNo" : "1117",
-    "tboxName" : "大安老人服務暨日間照顧中心(餐廳)",
-    "liCode" : "001",
     "voter" : "01",
     "addr" : "臺北市大安區德安里2鄰四維路76巷12號",
     "neighbor" : "3-4,8-10",
@@ -17135,6 +17125,16 @@
     "tboxName" : "大安老人服務暨日間照顧中心(餐廳)",
     "liCode" : "001",
     "voter" : "03",
+    "addr" : "臺北市大安區德安里2鄰四維路76巷12號",
+    "neighbor" : "德安里",
+    "deptCode" : "030",
+    "liName" : "德安里"
+  }, {
+    "ScopeLiName" : "德安里",
+    "tboxNo" : "1117",
+    "tboxName" : "大安老人服務暨日間照顧中心(餐廳)",
+    "liCode" : "001",
+    "voter" : "02",
     "addr" : "臺北市大安區德安里2鄰四維路76巷12號",
     "neighbor" : "德安里",
     "deptCode" : "030",
@@ -17174,9 +17174,9 @@
     "tboxNo" : "1121",
     "tboxName" : "基督教信義會恩光堂",
     "liCode" : "002",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市大安區仁慈里16鄰復興南路1段253巷13號",
-    "neighbor" : "仁慈里",
+    "neighbor" : "12-17",
     "deptCode" : "030",
     "liName" : "仁慈里"
   }, {
@@ -17194,9 +17194,9 @@
     "tboxNo" : "1121",
     "tboxName" : "基督教信義會恩光堂",
     "liCode" : "002",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市大安區仁慈里16鄰復興南路1段253巷13號",
-    "neighbor" : "12-17",
+    "neighbor" : "仁慈里",
     "deptCode" : "030",
     "liName" : "仁慈里"
   }, {
@@ -17344,9 +17344,9 @@
     "tboxNo" : "1131",
     "tboxName" : "復興小學誠賢樓雙語部1年和班",
     "liCode" : "005",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大安區仁愛里21鄰敦化南路1段262號",
-    "neighbor" : "1-6",
+    "neighbor" : "仁愛里",
     "deptCode" : "030",
     "liName" : "仁愛里"
   }, {
@@ -17354,9 +17354,9 @@
     "tboxNo" : "1131",
     "tboxName" : "復興小學誠賢樓雙語部1年和班",
     "liCode" : "005",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大安區仁愛里21鄰敦化南路1段262號",
-    "neighbor" : "仁愛里",
+    "neighbor" : "1-6",
     "deptCode" : "030",
     "liName" : "仁愛里"
   }, {
@@ -17480,41 +17480,11 @@
     "deptCode" : "030",
     "liName" : "民輝里"
   }, {
-    "ScopeLiName" : "民輝里",
-    "tboxNo" : "1142",
-    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
-    "liCode" : "007",
-    "voter" : "02",
-    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
-    "neighbor" : "民輝里",
-    "deptCode" : "030",
-    "liName" : "民輝里"
-  }, {
-    "ScopeLiName" : "民輝里",
-    "tboxNo" : "1142",
-    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
-    "liCode" : "007",
-    "voter" : "03",
-    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
-    "neighbor" : "民輝里",
-    "deptCode" : "030",
-    "liName" : "民輝里"
-  }, {
     "ScopeLiName" : "昌隆里",
     "tboxNo" : "1142",
     "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
     "liCode" : "008",
     "voter" : "02",
-    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
-    "neighbor" : "昌隆里",
-    "deptCode" : "030",
-    "liName" : "昌隆里"
-  }, {
-    "ScopeLiName" : "昌隆里",
-    "tboxNo" : "1142",
-    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
-    "liCode" : "008",
-    "voter" : "03",
     "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
     "neighbor" : "昌隆里",
     "deptCode" : "030",
@@ -17530,6 +17500,36 @@
     "deptCode" : "030",
     "liName" : "民輝里"
   }, {
+    "ScopeLiName" : "民輝里",
+    "tboxNo" : "1142",
+    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
+    "neighbor" : "民輝里",
+    "deptCode" : "030",
+    "liName" : "民輝里"
+  }, {
+    "ScopeLiName" : "民輝里",
+    "tboxNo" : "1142",
+    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
+    "neighbor" : "民輝里",
+    "deptCode" : "030",
+    "liName" : "民輝里"
+  }, {
+    "ScopeLiName" : "昌隆里",
+    "tboxNo" : "1142",
+    "tboxName" : "國立臺北科技大學土木工程館1樓大廳",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺北市大安區民輝里16鄰新生南路1段3號",
+    "neighbor" : "昌隆里",
+    "deptCode" : "030",
+    "liName" : "昌隆里"
+  }, {
     "ScopeLiName" : "昌隆里",
     "tboxNo" : "1143",
     "tboxName" : "敦歆幼兒園",
@@ -17544,9 +17544,9 @@
     "tboxNo" : "1144",
     "tboxName" : "基督教忠孝神召會",
     "liCode" : "008",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大安區昌隆里13鄰忠孝東路3段217巷5弄8號",
-    "neighbor" : "8-14",
+    "neighbor" : "昌隆里",
     "deptCode" : "030",
     "liName" : "昌隆里"
   }, {
@@ -17554,9 +17554,9 @@
     "tboxNo" : "1144",
     "tboxName" : "基督教忠孝神召會",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大安區昌隆里13鄰忠孝東路3段217巷5弄8號",
-    "neighbor" : "昌隆里",
+    "neighbor" : "8-14",
     "deptCode" : "030",
     "liName" : "昌隆里"
   }, {
@@ -17584,16 +17584,6 @@
     "tboxNo" : "1147",
     "tboxName" : "誠安里社區關懷據點",
     "liCode" : "009",
-    "voter" : "01",
-    "addr" : "臺北市大安區誠安里14鄰安東街31之1號",
-    "neighbor" : "12-17",
-    "deptCode" : "030",
-    "liName" : "誠安里"
-  }, {
-    "ScopeLiName" : "誠安里",
-    "tboxNo" : "1147",
-    "tboxName" : "誠安里社區關懷據點",
-    "liCode" : "009",
     "voter" : "03",
     "addr" : "臺北市大安區誠安里14鄰安東街31之1號",
     "neighbor" : "誠安里",
@@ -17607,6 +17597,16 @@
     "voter" : "02",
     "addr" : "臺北市大安區誠安里14鄰安東街31之1號",
     "neighbor" : "誠安里",
+    "deptCode" : "030",
+    "liName" : "誠安里"
+  }, {
+    "ScopeLiName" : "誠安里",
+    "tboxNo" : "1147",
+    "tboxName" : "誠安里社區關懷據點",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺北市大安區誠安里14鄰安東街31之1號",
+    "neighbor" : "12-17",
     "deptCode" : "030",
     "liName" : "誠安里"
   }, {
@@ -17624,9 +17624,9 @@
     "tboxNo" : "1149",
     "tboxName" : "光武里里民活動場所",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市大安區光武里9鄰敦化南路1段160巷20號",
-    "neighbor" : "光武里",
+    "neighbor" : "15-19",
     "deptCode" : "030",
     "liName" : "光武里"
   }, {
@@ -17644,9 +17644,9 @@
     "tboxNo" : "1149",
     "tboxName" : "光武里里民活動場所",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市大安區光武里9鄰敦化南路1段160巷20號",
-    "neighbor" : "15-19",
+    "neighbor" : "光武里",
     "deptCode" : "030",
     "liName" : "光武里"
   }, {
@@ -17704,7 +17704,7 @@
     "tboxNo" : "1155",
     "tboxName" : "新民國小1年愛班教室",
     "liCode" : "011",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區龍坡里22鄰辛亥路1段113號",
     "neighbor" : "龍坡里",
     "deptCode" : "030",
@@ -17724,7 +17724,7 @@
     "tboxNo" : "1155",
     "tboxName" : "新民國小1年愛班教室",
     "liCode" : "011",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區龍坡里22鄰辛亥路1段113號",
     "neighbor" : "龍坡里",
     "deptCode" : "030",
@@ -17754,7 +17754,7 @@
     "tboxNo" : "1158",
     "tboxName" : "古亭國小2年1班教室",
     "liCode" : "012",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區古風里5鄰羅斯福路3段201號",
     "neighbor" : "龍泉里",
     "deptCode" : "030",
@@ -17774,7 +17774,7 @@
     "tboxNo" : "1158",
     "tboxName" : "古亭國小2年1班教室",
     "liCode" : "012",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區古風里5鄰羅斯福路3段201號",
     "neighbor" : "龍泉里",
     "deptCode" : "030",
@@ -17924,9 +17924,9 @@
     "tboxNo" : "1168",
     "tboxName" : "新生國小1年1班",
     "liCode" : "015",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大安區龍安里10鄰新生南路2段36號",
-    "neighbor" : "1-2",
+    "neighbor" : "龍安里",
     "deptCode" : "030",
     "liName" : "龍安里"
   }, {
@@ -17934,9 +17934,9 @@
     "tboxNo" : "1168",
     "tboxName" : "新生國小1年1班",
     "liCode" : "015",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大安區龍安里10鄰新生南路2段36號",
-    "neighbor" : "龍安里",
+    "neighbor" : "1-2",
     "deptCode" : "030",
     "liName" : "龍安里"
   }, {
@@ -17974,6 +17974,16 @@
     "tboxNo" : "1172",
     "tboxName" : "基督教頌主堂",
     "liCode" : "016",
+    "voter" : "02",
+    "addr" : "臺北市大安區錦安里6鄰潮州街124號",
+    "neighbor" : "錦安里",
+    "deptCode" : "030",
+    "liName" : "錦安里"
+  }, {
+    "ScopeLiName" : "錦安里",
+    "tboxNo" : "1172",
+    "tboxName" : "基督教頌主堂",
+    "liCode" : "016",
     "voter" : "03",
     "addr" : "臺北市大安區錦安里6鄰潮州街124號",
     "neighbor" : "錦安里",
@@ -17987,16 +17997,6 @@
     "voter" : "01",
     "addr" : "臺北市大安區錦安里6鄰潮州街124號",
     "neighbor" : "1-2,5-6",
-    "deptCode" : "030",
-    "liName" : "錦安里"
-  }, {
-    "ScopeLiName" : "錦安里",
-    "tboxNo" : "1172",
-    "tboxName" : "基督教頌主堂",
-    "liCode" : "016",
-    "voter" : "02",
-    "addr" : "臺北市大安區錦安里6鄰潮州街124號",
-    "neighbor" : "錦安里",
     "deptCode" : "030",
     "liName" : "錦安里"
   }, {
@@ -18184,7 +18184,7 @@
     "tboxNo" : "1185",
     "tboxName" : "中正國中720教室",
     "liCode" : "020",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區新營里23鄰愛國東路158號",
     "neighbor" : "錦泰里",
     "deptCode" : "030",
@@ -18204,7 +18204,7 @@
     "tboxNo" : "1185",
     "tboxName" : "中正國中720教室",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區新營里23鄰愛國東路158號",
     "neighbor" : "錦泰里",
     "deptCode" : "030",
@@ -18284,9 +18284,9 @@
     "tboxNo" : "1191",
     "tboxName" : "大安高工至善樓107教室",
     "liCode" : "022",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市大安區龍圖里8鄰復興南路2段52號",
-    "neighbor" : "龍圖里",
+    "neighbor" : "1-5",
     "deptCode" : "030",
     "liName" : "龍圖里"
   }, {
@@ -18294,9 +18294,9 @@
     "tboxNo" : "1191",
     "tboxName" : "大安高工至善樓107教室",
     "liCode" : "022",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市大安區龍圖里8鄰復興南路2段52號",
-    "neighbor" : "1-5",
+    "neighbor" : "龍圖里",
     "deptCode" : "030",
     "liName" : "龍圖里"
   }, {
@@ -18444,16 +18444,6 @@
     "tboxNo" : "1201",
     "tboxName" : "建安國小2年1班教室",
     "liCode" : "027",
-    "voter" : "03",
-    "addr" : "臺北市大安區龍雲里17鄰大安路2段99號",
-    "neighbor" : "龍雲里",
-    "deptCode" : "030",
-    "liName" : "龍雲里"
-  }, {
-    "ScopeLiName" : "龍雲里",
-    "tboxNo" : "1201",
-    "tboxName" : "建安國小2年1班教室",
-    "liCode" : "027",
     "voter" : "01",
     "addr" : "臺北市大安區龍雲里17鄰大安路2段99號",
     "neighbor" : "1-6",
@@ -18465,6 +18455,16 @@
     "tboxName" : "建安國小2年1班教室",
     "liCode" : "027",
     "voter" : "02",
+    "addr" : "臺北市大安區龍雲里17鄰大安路2段99號",
+    "neighbor" : "龍雲里",
+    "deptCode" : "030",
+    "liName" : "龍雲里"
+  }, {
+    "ScopeLiName" : "龍雲里",
+    "tboxNo" : "1201",
+    "tboxName" : "建安國小2年1班教室",
+    "liCode" : "027",
+    "voter" : "03",
     "addr" : "臺北市大安區龍雲里17鄰大安路2段99號",
     "neighbor" : "龍雲里",
     "deptCode" : "030",
@@ -18524,9 +18524,9 @@
     "tboxNo" : "1207",
     "tboxName" : "龍生里里民活動場所",
     "liCode" : "028",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大安區龍生里10鄰和平東路2段107巷9號",
-    "neighbor" : "11,17-20",
+    "neighbor" : "龍生里",
     "deptCode" : "030",
     "liName" : "龍生里"
   }, {
@@ -18544,9 +18544,9 @@
     "tboxNo" : "1207",
     "tboxName" : "龍生里里民活動場所",
     "liCode" : "028",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大安區龍生里10鄰和平東路2段107巷9號",
-    "neighbor" : "龍生里",
+    "neighbor" : "11,17-20",
     "deptCode" : "030",
     "liName" : "龍生里"
   }, {
@@ -19154,6 +19154,16 @@
     "tboxNo" : "1246",
     "tboxName" : "國立臺北教大實小3年甲班",
     "liCode" : "040",
+    "voter" : "01",
+    "addr" : "臺北市大安區龍淵里25鄰和平東路2段94號",
+    "neighbor" : "1-5",
+    "deptCode" : "030",
+    "liName" : "龍淵里"
+  }, {
+    "ScopeLiName" : "龍淵里",
+    "tboxNo" : "1246",
+    "tboxName" : "國立臺北教大實小3年甲班",
+    "liCode" : "040",
     "voter" : "03",
     "addr" : "臺北市大安區龍淵里25鄰和平東路2段94號",
     "neighbor" : "龍淵里",
@@ -19167,16 +19177,6 @@
     "voter" : "02",
     "addr" : "臺北市大安區龍淵里25鄰和平東路2段94號",
     "neighbor" : "龍淵里",
-    "deptCode" : "030",
-    "liName" : "龍淵里"
-  }, {
-    "ScopeLiName" : "龍淵里",
-    "tboxNo" : "1246",
-    "tboxName" : "國立臺北教大實小3年甲班",
-    "liCode" : "040",
-    "voter" : "01",
-    "addr" : "臺北市大安區龍淵里25鄰和平東路2段94號",
-    "neighbor" : "1-5",
     "deptCode" : "030",
     "liName" : "龍淵里"
   }, {
@@ -19244,16 +19244,6 @@
     "tboxNo" : "1253",
     "tboxName" : "龍安國小誠正樓3年3班",
     "liCode" : "041",
-    "voter" : "02",
-    "addr" : "臺北市大安區龍門里10鄰新生南路3段33號",
-    "neighbor" : "龍門里",
-    "deptCode" : "030",
-    "liName" : "龍門里"
-  }, {
-    "ScopeLiName" : "龍門里",
-    "tboxNo" : "1253",
-    "tboxName" : "龍安國小誠正樓3年3班",
-    "liCode" : "041",
     "voter" : "01",
     "addr" : "臺北市大安區龍門里10鄰新生南路3段33號",
     "neighbor" : "7-10",
@@ -19265,6 +19255,16 @@
     "tboxName" : "龍安國小誠正樓3年3班",
     "liCode" : "041",
     "voter" : "03",
+    "addr" : "臺北市大安區龍門里10鄰新生南路3段33號",
+    "neighbor" : "龍門里",
+    "deptCode" : "030",
+    "liName" : "龍門里"
+  }, {
+    "ScopeLiName" : "龍門里",
+    "tboxNo" : "1253",
+    "tboxName" : "龍安國小誠正樓3年3班",
+    "liCode" : "041",
+    "voter" : "02",
     "addr" : "臺北市大安區龍門里10鄰新生南路3段33號",
     "neighbor" : "龍門里",
     "deptCode" : "030",
@@ -19294,7 +19294,7 @@
     "tboxNo" : "1256",
     "tboxName" : "樂民館(懷恩堂B1)",
     "liCode" : "043",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區大學里4鄰新生南路3段90號",
     "neighbor" : "大學里",
     "deptCode" : "030",
@@ -19304,7 +19304,7 @@
     "tboxNo" : "1256",
     "tboxName" : "樂民館(懷恩堂B1)",
     "liCode" : "043",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區大學里4鄰新生南路3段90號",
     "neighbor" : "大學里",
     "deptCode" : "030",
@@ -19434,7 +19434,7 @@
     "tboxNo" : "1266",
     "tboxName" : "大安國小1年7班",
     "liCode" : "046",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區芳和里8鄰臥龍街129號",
     "neighbor" : "黎元里",
     "deptCode" : "030",
@@ -19454,7 +19454,7 @@
     "tboxNo" : "1266",
     "tboxName" : "大安國小1年7班",
     "liCode" : "046",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區芳和里8鄰臥龍街129號",
     "neighbor" : "黎元里",
     "deptCode" : "030",
@@ -19494,16 +19494,6 @@
     "tboxNo" : "1270",
     "tboxName" : "海巡署教育訓練測考中心會客室",
     "liCode" : "047",
-    "voter" : "02",
-    "addr" : "臺北市大安區黎孝里24鄰臥龍街240-2號",
-    "neighbor" : "黎孝里",
-    "deptCode" : "030",
-    "liName" : "黎孝里"
-  }, {
-    "ScopeLiName" : "黎孝里",
-    "tboxNo" : "1270",
-    "tboxName" : "海巡署教育訓練測考中心會客室",
-    "liCode" : "047",
     "voter" : "03",
     "addr" : "臺北市大安區黎孝里24鄰臥龍街240-2號",
     "neighbor" : "黎孝里",
@@ -19517,6 +19507,16 @@
     "voter" : "01",
     "addr" : "臺北市大安區黎孝里24鄰臥龍街240-2號",
     "neighbor" : "12-15",
+    "deptCode" : "030",
+    "liName" : "黎孝里"
+  }, {
+    "ScopeLiName" : "黎孝里",
+    "tboxNo" : "1270",
+    "tboxName" : "海巡署教育訓練測考中心會客室",
+    "liCode" : "047",
+    "voter" : "02",
+    "addr" : "臺北市大安區黎孝里24鄰臥龍街240-2號",
+    "neighbor" : "黎孝里",
     "deptCode" : "030",
     "liName" : "黎孝里"
   }, {
@@ -19564,7 +19564,7 @@
     "tboxNo" : "1274",
     "tboxName" : "基督教信義會和平教會",
     "liCode" : "048",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區黎和里2鄰富陽街113號",
     "neighbor" : "黎和里",
     "deptCode" : "030",
@@ -19574,7 +19574,7 @@
     "tboxNo" : "1274",
     "tboxName" : "基督教信義會和平教會",
     "liCode" : "048",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區黎和里2鄰富陽街113號",
     "neighbor" : "黎和里",
     "deptCode" : "030",
@@ -19604,6 +19604,16 @@
     "tboxNo" : "1277",
     "tboxName" : "東區地下街第七廣場(二)",
     "liCode" : "049",
+    "voter" : "03",
+    "addr" : "臺北市大安區光武里3鄰大安路1段77號B1 近捷運忠孝敦化站2號出入口 ",
+    "neighbor" : "建安里",
+    "deptCode" : "030",
+    "liName" : "建安里"
+  }, {
+    "ScopeLiName" : "建安里",
+    "tboxNo" : "1277",
+    "tboxName" : "東區地下街第七廣場(二)",
+    "liCode" : "049",
     "voter" : "02",
     "addr" : "臺北市大安區光武里3鄰大安路1段77號B1 近捷運忠孝敦化站2號出入口 ",
     "neighbor" : "建安里",
@@ -19617,16 +19627,6 @@
     "voter" : "01",
     "addr" : "臺北市大安區光武里3鄰大安路1段77號B1 近捷運忠孝敦化站2號出入口 ",
     "neighbor" : "7-13",
-    "deptCode" : "030",
-    "liName" : "建安里"
-  }, {
-    "ScopeLiName" : "建安里",
-    "tboxNo" : "1277",
-    "tboxName" : "東區地下街第七廣場(二)",
-    "liCode" : "049",
-    "voter" : "03",
-    "addr" : "臺北市大安區光武里3鄰大安路1段77號B1 近捷運忠孝敦化站2號出入口 ",
-    "neighbor" : "建安里",
     "deptCode" : "030",
     "liName" : "建安里"
   }, {
@@ -19654,7 +19654,7 @@
     "tboxNo" : "1280",
     "tboxName" : "仁愛國中社區共讀站",
     "liCode" : "050",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市大安區敦安里6鄰仁愛路4段130號",
     "neighbor" : "建倫里",
     "deptCode" : "030",
@@ -19664,7 +19664,7 @@
     "tboxNo" : "1280",
     "tboxName" : "仁愛國中社區共讀站",
     "liCode" : "050",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市大安區敦安里6鄰仁愛路4段130號",
     "neighbor" : "建倫里",
     "deptCode" : "030",
@@ -19704,9 +19704,9 @@
     "tboxNo" : "1283",
     "tboxName" : "仁愛國小自強樓4年1班",
     "liCode" : "051",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
-    "neighbor" : "敦安里",
+    "neighbor" : "1-5,11",
     "deptCode" : "030",
     "liName" : "敦安里"
   }, {
@@ -19714,9 +19714,9 @@
     "tboxNo" : "1283",
     "tboxName" : "仁愛國小自強樓4年1班",
     "liCode" : "051",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
-    "neighbor" : "1-5,11",
+    "neighbor" : "敦安里",
     "deptCode" : "030",
     "liName" : "敦安里"
   }, {
@@ -19774,9 +19774,9 @@
     "tboxNo" : "1287",
     "tboxName" : "光復國小1年1班教室",
     "liCode" : "052",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市信義區興隆里9鄰光復南路271號",
-    "neighbor" : "1-5,11",
+    "neighbor" : "正聲里",
     "deptCode" : "030",
     "liName" : "正聲里"
   }, {
@@ -19784,9 +19784,9 @@
     "tboxNo" : "1287",
     "tboxName" : "光復國小1年1班教室",
     "liCode" : "052",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市信義區興隆里9鄰光復南路271號",
-    "neighbor" : "正聲里",
+    "neighbor" : "1-5,11",
     "deptCode" : "030",
     "liName" : "正聲里"
   }, {
@@ -19834,16 +19834,6 @@
     "tboxNo" : "1292",
     "tboxName" : "仁愛國小莊敬樓1年6班",
     "liCode" : "053",
-    "voter" : "02",
-    "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
-    "neighbor" : "敦煌里",
-    "deptCode" : "030",
-    "liName" : "敦煌里"
-  }, {
-    "ScopeLiName" : "敦煌里",
-    "tboxNo" : "1292",
-    "tboxName" : "仁愛國小莊敬樓1年6班",
-    "liCode" : "053",
     "voter" : "03",
     "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
     "neighbor" : "敦煌里",
@@ -19857,6 +19847,16 @@
     "voter" : "01",
     "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
     "neighbor" : "12-15,21",
+    "deptCode" : "030",
+    "liName" : "敦煌里"
+  }, {
+    "ScopeLiName" : "敦煌里",
+    "tboxNo" : "1292",
+    "tboxName" : "仁愛國小莊敬樓1年6班",
+    "liCode" : "053",
+    "voter" : "02",
+    "addr" : "臺北市大安區敦安里6鄰安和路1段60號",
+    "neighbor" : "敦煌里",
     "deptCode" : "030",
     "liName" : "敦煌里"
   }, {
@@ -19924,9 +19924,9 @@
     "tboxNo" : "1297",
     "tboxName" : "光復國小社會教室(一)",
     "liCode" : "055",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市信義區興隆里9鄰光復南路271號",
-    "neighbor" : "車層里",
+    "neighbor" : "1-6",
     "deptCode" : "030",
     "liName" : "車層里"
   }, {
@@ -19934,9 +19934,9 @@
     "tboxNo" : "1297",
     "tboxName" : "光復國小社會教室(一)",
     "liCode" : "055",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市信義區興隆里9鄰光復南路271號",
-    "neighbor" : "1-6",
+    "neighbor" : "車層里",
     "deptCode" : "030",
     "liName" : "車層里"
   }, {
@@ -19994,16 +19994,6 @@
     "tboxNo" : "1302",
     "tboxName" : "光信區民活動中心",
     "liCode" : "056",
-    "voter" : "03",
-    "addr" : "臺北市大安區光信里21鄰延吉街236巷17號2樓",
-    "neighbor" : "光信里",
-    "deptCode" : "030",
-    "liName" : "光信里"
-  }, {
-    "ScopeLiName" : "光信里",
-    "tboxNo" : "1302",
-    "tboxName" : "光信區民活動中心",
-    "liCode" : "056",
     "voter" : "01",
     "addr" : "臺北市大安區光信里21鄰延吉街236巷17號2樓",
     "neighbor" : "19-25",
@@ -20015,6 +20005,16 @@
     "tboxName" : "光信區民活動中心",
     "liCode" : "056",
     "voter" : "02",
+    "addr" : "臺北市大安區光信里21鄰延吉街236巷17號2樓",
+    "neighbor" : "光信里",
+    "deptCode" : "030",
+    "liName" : "光信里"
+  }, {
+    "ScopeLiName" : "光信里",
+    "tboxNo" : "1302",
+    "tboxName" : "光信區民活動中心",
+    "liCode" : "056",
+    "voter" : "03",
     "addr" : "臺北市大安區光信里21鄰延吉街236巷17號2樓",
     "neighbor" : "光信里",
     "deptCode" : "030",
@@ -20054,16 +20054,6 @@
     "tboxNo" : "1306",
     "tboxName" : "民族實中體健教室",
     "liCode" : "057",
-    "voter" : "03",
-    "addr" : "臺北市大安區學府里1鄰羅斯福路4段113巷13號",
-    "neighbor" : "學府里",
-    "deptCode" : "030",
-    "liName" : "學府里"
-  }, {
-    "ScopeLiName" : "學府里",
-    "tboxNo" : "1306",
-    "tboxName" : "民族實中體健教室",
-    "liCode" : "057",
     "voter" : "01",
     "addr" : "臺北市大安區學府里1鄰羅斯福路4段113巷13號",
     "neighbor" : "1-5",
@@ -20075,6 +20065,16 @@
     "tboxName" : "民族實中體健教室",
     "liCode" : "057",
     "voter" : "02",
+    "addr" : "臺北市大安區學府里1鄰羅斯福路4段113巷13號",
+    "neighbor" : "學府里",
+    "deptCode" : "030",
+    "liName" : "學府里"
+  }, {
+    "ScopeLiName" : "學府里",
+    "tboxNo" : "1306",
+    "tboxName" : "民族實中體健教室",
+    "liCode" : "057",
+    "voter" : "03",
     "addr" : "臺北市大安區學府里1鄰羅斯福路4段113巷13號",
     "neighbor" : "學府里",
     "deptCode" : "030",
@@ -21924,6 +21924,16 @@
     "tboxNo" : "1431",
     "tboxName" : "吳興國小(2年1班)和平101",
     "liCode" : "031",
+    "voter" : "01",
+    "addr" : "臺北市信義區三張里松仁路226號",
+    "neighbor" : "1-6,21-23",
+    "deptCode" : "020",
+    "liName" : "三犁里"
+  }, {
+    "ScopeLiName" : "三犁里",
+    "tboxNo" : "1431",
+    "tboxName" : "吳興國小(2年1班)和平101",
+    "liCode" : "031",
     "voter" : "03",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "三犁里",
@@ -21937,16 +21947,6 @@
     "voter" : "02",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "三犁里",
-    "deptCode" : "020",
-    "liName" : "三犁里"
-  }, {
-    "ScopeLiName" : "三犁里",
-    "tboxNo" : "1431",
-    "tboxName" : "吳興國小(2年1班)和平101",
-    "liCode" : "031",
-    "voter" : "01",
-    "addr" : "臺北市信義區三張里松仁路226號",
-    "neighbor" : "1-6,21-23",
     "deptCode" : "020",
     "liName" : "三犁里"
   }, {
@@ -22014,16 +22014,6 @@
     "tboxNo" : "1438",
     "tboxName" : "吳興國小吳興1班(莊敬101)",
     "liCode" : "032",
-    "voter" : "03",
-    "addr" : "臺北市信義區三張里松仁路226號",
-    "neighbor" : "六合里",
-    "deptCode" : "020",
-    "liName" : "六合里"
-  }, {
-    "ScopeLiName" : "六合里",
-    "tboxNo" : "1438",
-    "tboxName" : "吳興國小吳興1班(莊敬101)",
-    "liCode" : "032",
     "voter" : "01",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "19-24,35",
@@ -22035,6 +22025,16 @@
     "tboxName" : "吳興國小吳興1班(莊敬101)",
     "liCode" : "032",
     "voter" : "02",
+    "addr" : "臺北市信義區三張里松仁路226號",
+    "neighbor" : "六合里",
+    "deptCode" : "020",
+    "liName" : "六合里"
+  }, {
+    "ScopeLiName" : "六合里",
+    "tboxNo" : "1438",
+    "tboxName" : "吳興國小吳興1班(莊敬101)",
+    "liCode" : "032",
+    "voter" : "03",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "六合里",
     "deptCode" : "020",
@@ -22074,16 +22074,6 @@
     "tboxNo" : "1442",
     "tboxName" : "吳興國小課後照顧教室1",
     "liCode" : "033",
-    "voter" : "03",
-    "addr" : "臺北市信義區三張里松仁路226號",
-    "neighbor" : "泰和里",
-    "deptCode" : "020",
-    "liName" : "泰和里"
-  }, {
-    "ScopeLiName" : "泰和里",
-    "tboxNo" : "1442",
-    "tboxName" : "吳興國小課後照顧教室1",
-    "liCode" : "033",
     "voter" : "01",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "12-17",
@@ -22095,6 +22085,16 @@
     "tboxName" : "吳興國小課後照顧教室1",
     "liCode" : "033",
     "voter" : "02",
+    "addr" : "臺北市信義區三張里松仁路226號",
+    "neighbor" : "泰和里",
+    "deptCode" : "020",
+    "liName" : "泰和里"
+  }, {
+    "ScopeLiName" : "泰和里",
+    "tboxNo" : "1442",
+    "tboxName" : "吳興國小課後照顧教室1",
+    "liCode" : "033",
+    "voter" : "03",
     "addr" : "臺北市信義區三張里松仁路226號",
     "neighbor" : "泰和里",
     "deptCode" : "020",
@@ -22174,7 +22174,7 @@
     "tboxNo" : "1449",
     "tboxName" : "三興國小創意1",
     "liCode" : "034",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市信義區景聯里基隆路2段99號2樓",
     "neighbor" : "景聯里",
     "deptCode" : "020",
@@ -22184,7 +22184,7 @@
     "tboxNo" : "1449",
     "tboxName" : "三興國小創意1",
     "liCode" : "034",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市信義區景聯里基隆路2段99號2樓",
     "neighbor" : "景聯里",
     "deptCode" : "020",
@@ -22214,9 +22214,9 @@
     "tboxNo" : "1452",
     "tboxName" : "三興國小1年5班",
     "liCode" : "035",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市信義區景聯里基隆路2段99號",
-    "neighbor" : "景勤里",
+    "neighbor" : "12-16",
     "deptCode" : "020",
     "liName" : "景勤里"
   }, {
@@ -22224,9 +22224,9 @@
     "tboxNo" : "1452",
     "tboxName" : "三興國小1年5班",
     "liCode" : "035",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市信義區景聯里基隆路2段99號",
-    "neighbor" : "12-16",
+    "neighbor" : "景勤里",
     "deptCode" : "020",
     "liName" : "景勤里"
   }, {
@@ -22254,6 +22254,16 @@
     "tboxNo" : "1454",
     "tboxName" : "雙和里民活動場所",
     "liCode" : "036",
+    "voter" : "01",
+    "addr" : "臺北市信義區雙和里吳興街284巷24弄16號",
+    "neighbor" : "5-7,11,18",
+    "deptCode" : "020",
+    "liName" : "雙和里"
+  }, {
+    "ScopeLiName" : "雙和里",
+    "tboxNo" : "1454",
+    "tboxName" : "雙和里民活動場所",
+    "liCode" : "036",
     "voter" : "02",
     "addr" : "臺北市信義區雙和里吳興街284巷24弄16號",
     "neighbor" : "雙和里",
@@ -22267,16 +22277,6 @@
     "voter" : "03",
     "addr" : "臺北市信義區雙和里吳興街284巷24弄16號",
     "neighbor" : "雙和里",
-    "deptCode" : "020",
-    "liName" : "雙和里"
-  }, {
-    "ScopeLiName" : "雙和里",
-    "tboxNo" : "1454",
-    "tboxName" : "雙和里民活動場所",
-    "liCode" : "036",
-    "voter" : "01",
-    "addr" : "臺北市信義區雙和里吳興街284巷24弄16號",
-    "neighbor" : "5-7,11,18",
     "deptCode" : "020",
     "liName" : "雙和里"
   }, {
@@ -22334,6 +22334,16 @@
     "tboxNo" : "1460",
     "tboxName" : "三興國小多功能教室(1)",
     "liCode" : "037",
+    "voter" : "01",
+    "addr" : "臺北市信義區景聯里基隆路2段99號2樓",
+    "neighbor" : "12-17",
+    "deptCode" : "020",
+    "liName" : "嘉興里"
+  }, {
+    "ScopeLiName" : "嘉興里",
+    "tboxNo" : "1460",
+    "tboxName" : "三興國小多功能教室(1)",
+    "liCode" : "037",
     "voter" : "02",
     "addr" : "臺北市信義區景聯里基隆路2段99號2樓",
     "neighbor" : "嘉興里",
@@ -22350,15 +22360,15 @@
     "deptCode" : "020",
     "liName" : "嘉興里"
   }, {
-    "ScopeLiName" : "嘉興里",
-    "tboxNo" : "1460",
-    "tboxName" : "三興國小多功能教室(1)",
-    "liCode" : "037",
-    "voter" : "01",
-    "addr" : "臺北市信義區景聯里基隆路2段99號2樓",
-    "neighbor" : "12-17",
+    "ScopeLiName" : "黎順里",
+    "tboxNo" : "1461",
+    "tboxName" : "喬治高職浩然樓1樓閱覽室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺北市信義區黎順里基隆路2段155號",
+    "neighbor" : "黎順里",
     "deptCode" : "020",
-    "liName" : "嘉興里"
+    "liName" : "黎順里"
   }, {
     "ScopeLiName" : "黎順里",
     "tboxNo" : "1461",
@@ -22367,16 +22377,6 @@
     "voter" : "01",
     "addr" : "臺北市信義區黎順里基隆路2段155號",
     "neighbor" : "1-8",
-    "deptCode" : "020",
-    "liName" : "黎順里"
-  }, {
-    "ScopeLiName" : "黎順里",
-    "tboxNo" : "1461",
-    "tboxName" : "喬治高職浩然樓1樓閱覽室",
-    "liCode" : "038",
-    "voter" : "03",
-    "addr" : "臺北市信義區黎順里基隆路2段155號",
-    "neighbor" : "黎順里",
     "deptCode" : "020",
     "liName" : "黎順里"
   }, {
@@ -22414,9 +22414,9 @@
     "tboxNo" : "1464",
     "tboxName" : "安順宮",
     "liCode" : "039",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市信義區黎平里嘉興街315號旁",
-    "neighbor" : "1-4",
+    "neighbor" : "黎平里",
     "deptCode" : "020",
     "liName" : "黎平里"
   }, {
@@ -22434,9 +22434,9 @@
     "tboxNo" : "1464",
     "tboxName" : "安順宮",
     "liCode" : "039",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市信義區黎平里嘉興街315號旁",
-    "neighbor" : "黎平里",
+    "neighbor" : "1-4",
     "deptCode" : "020",
     "liName" : "黎平里"
   }, {
@@ -22494,16 +22494,6 @@
     "tboxNo" : "1470",
     "tboxName" : "黎忠區民活動中心(韻律教室)",
     "liCode" : "040",
-    "voter" : "02",
-    "addr" : "臺北市信義區黎忠里和平東路3段391巷16號2樓",
-    "neighbor" : "黎忠里",
-    "deptCode" : "020",
-    "liName" : "黎忠里"
-  }, {
-    "ScopeLiName" : "黎忠里",
-    "tboxNo" : "1470",
-    "tboxName" : "黎忠區民活動中心(韻律教室)",
-    "liCode" : "040",
     "voter" : "01",
     "addr" : "臺北市信義區黎忠里和平東路3段391巷16號2樓",
     "neighbor" : "6-10",
@@ -22515,6 +22505,16 @@
     "tboxName" : "黎忠區民活動中心(韻律教室)",
     "liCode" : "040",
     "voter" : "03",
+    "addr" : "臺北市信義區黎忠里和平東路3段391巷16號2樓",
+    "neighbor" : "黎忠里",
+    "deptCode" : "020",
+    "liName" : "黎忠里"
+  }, {
+    "ScopeLiName" : "黎忠里",
+    "tboxNo" : "1470",
+    "tboxName" : "黎忠區民活動中心(韻律教室)",
+    "liCode" : "040",
+    "voter" : "02",
     "addr" : "臺北市信義區黎忠里和平東路3段391巷16號2樓",
     "neighbor" : "黎忠里",
     "deptCode" : "020",
@@ -22554,9 +22554,9 @@
     "tboxNo" : "1473",
     "tboxName" : "大我新莊聯勤202廠退員宿舍大智樓1樓文康室",
     "liCode" : "041",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市信義區黎安里和平東路3段555巷8號1樓",
-    "neighbor" : "1-2,7-11",
+    "neighbor" : "黎安里",
     "deptCode" : "020",
     "liName" : "黎安里"
   }, {
@@ -22564,9 +22564,9 @@
     "tboxNo" : "1473",
     "tboxName" : "大我新莊聯勤202廠退員宿舍大智樓1樓文康室",
     "liCode" : "041",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市信義區黎安里和平東路3段555巷8號1樓",
-    "neighbor" : "黎安里",
+    "neighbor" : "1-2,7-11",
     "deptCode" : "020",
     "liName" : "黎安里"
   }, {
@@ -22624,9 +22624,9 @@
     "tboxNo" : "1479",
     "tboxName" : "台北府城隍廟活動中心",
     "liCode" : "018",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市松山區慈祐里18鄰市民大道6段103號",
-    "neighbor" : "18-21",
+    "neighbor" : "慈祐里",
     "deptCode" : "010",
     "liName" : "慈祐里"
   }, {
@@ -22634,9 +22634,9 @@
     "tboxNo" : "1479",
     "tboxName" : "台北府城隍廟活動中心",
     "liCode" : "018",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市松山區慈祐里18鄰市民大道6段103號",
-    "neighbor" : "慈祐里",
+    "neighbor" : "18-21",
     "deptCode" : "010",
     "liName" : "慈祐里"
   }, {
@@ -22674,9 +22674,9 @@
     "tboxNo" : "1481",
     "tboxName" : "中崙高中2樓7年6班教室",
     "liCode" : "022",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市松山區吉祥里１０鄰八德路4段101號2樓",
-    "neighbor" : "吉祥里",
+    "neighbor" : "5-8,12",
     "deptCode" : "010",
     "liName" : "吉祥里"
   }, {
@@ -22684,9 +22684,9 @@
     "tboxNo" : "1481",
     "tboxName" : "中崙高中2樓7年6班教室",
     "liCode" : "022",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市松山區吉祥里１０鄰八德路4段101號2樓",
-    "neighbor" : "5-8,12",
+    "neighbor" : "吉祥里",
     "deptCode" : "010",
     "liName" : "吉祥里"
   }, {
@@ -22754,9 +22754,9 @@
     "tboxNo" : "1487",
     "tboxName" : "新聚區民活動中心(2)",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市松山區新聚里3鄰南京東路5段374號1樓",
-    "neighbor" : "新聚里",
+    "neighbor" : "9,13-16,19",
     "deptCode" : "010",
     "liName" : "新聚里"
   }, {
@@ -22764,9 +22764,9 @@
     "tboxNo" : "1487",
     "tboxName" : "新聚區民活動中心(2)",
     "liCode" : "024",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市松山區新聚里3鄰南京東路5段374號1樓",
-    "neighbor" : "9,13-16,19",
+    "neighbor" : "新聚里",
     "deptCode" : "010",
     "liName" : "新聚里"
   }, {
@@ -22824,9 +22824,9 @@
     "tboxNo" : "1492",
     "tboxName" : "復盛區民活動中心第2教室",
     "liCode" : "025",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市松山區復盛里21鄰市民大道5段99之2號 八德路4段106巷內 ",
-    "neighbor" : "復盛里",
+    "neighbor" : "8-14",
     "deptCode" : "010",
     "liName" : "復盛里"
   }, {
@@ -22834,9 +22834,9 @@
     "tboxNo" : "1492",
     "tboxName" : "復盛區民活動中心第2教室",
     "liCode" : "025",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市松山區復盛里21鄰市民大道5段99之2號 八德路4段106巷內 ",
-    "neighbor" : "8-14",
+    "neighbor" : "復盛里",
     "deptCode" : "010",
     "liName" : "復盛里"
   }, {
@@ -22870,31 +22870,11 @@
     "deptCode" : "010",
     "liName" : "中正里"
   }, {
-    "ScopeLiName" : "中正里",
-    "tboxNo" : "1496",
-    "tboxName" : "敦化國中703教室",
-    "liCode" : "026",
-    "voter" : "02",
-    "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
-    "neighbor" : "中正里",
-    "deptCode" : "010",
-    "liName" : "中正里"
-  }, {
     "ScopeLiName" : "敦化里",
     "tboxNo" : "1496",
     "tboxName" : "敦化國中703教室",
     "liCode" : "030",
     "voter" : "03",
-    "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
-    "neighbor" : "敦化里",
-    "deptCode" : "010",
-    "liName" : "敦化里"
-  }, {
-    "ScopeLiName" : "敦化里",
-    "tboxNo" : "1496",
-    "tboxName" : "敦化國中703教室",
-    "liCode" : "030",
-    "voter" : "02",
     "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
     "neighbor" : "敦化里",
     "deptCode" : "010",
@@ -22914,11 +22894,31 @@
     "tboxNo" : "1496",
     "tboxName" : "敦化國中703教室",
     "liCode" : "026",
+    "voter" : "02",
+    "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
+    "neighbor" : "中正里",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "1496",
+    "tboxName" : "敦化國中703教室",
+    "liCode" : "026",
     "voter" : "03",
     "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
     "neighbor" : "中正里",
     "deptCode" : "010",
     "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "敦化里",
+    "tboxNo" : "1496",
+    "tboxName" : "敦化國中703教室",
+    "liCode" : "030",
+    "voter" : "02",
+    "addr" : "臺北市松山區中正里011鄰南京東路3段300號1樓",
+    "neighbor" : "敦化里",
+    "deptCode" : "010",
+    "liName" : "敦化里"
   }, {
     "ScopeLiName" : "中正里",
     "tboxNo" : "1497",
@@ -22974,16 +22974,6 @@
     "tboxNo" : "1502",
     "tboxName" : "張先生宅",
     "liCode" : "027",
-    "voter" : "01",
-    "addr" : "臺北市松山區中崙里9鄰八德路2段366巷17號",
-    "neighbor" : "7-13",
-    "deptCode" : "010",
-    "liName" : "中崙里"
-  }, {
-    "ScopeLiName" : "中崙里",
-    "tboxNo" : "1502",
-    "tboxName" : "張先生宅",
-    "liCode" : "027",
     "voter" : "02",
     "addr" : "臺北市松山區中崙里9鄰八德路2段366巷17號",
     "neighbor" : "中崙里",
@@ -23001,6 +22991,16 @@
     "liName" : "中崙里"
   }, {
     "ScopeLiName" : "中崙里",
+    "tboxNo" : "1502",
+    "tboxName" : "張先生宅",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "臺北市松山區中崙里9鄰八德路2段366巷17號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "中崙里"
+  }, {
+    "ScopeLiName" : "中崙里",
     "tboxNo" : "1503",
     "tboxName" : "周先生宅",
     "liCode" : "027",
@@ -23014,7 +23014,7 @@
     "tboxNo" : "1504",
     "tboxName" : "育達商職102教室",
     "liCode" : "028",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區美仁里2鄰寧安街12號",
     "neighbor" : "美仁里",
     "deptCode" : "010",
@@ -23034,7 +23034,7 @@
     "tboxNo" : "1504",
     "tboxName" : "育達商職102教室",
     "liCode" : "028",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區美仁里2鄰寧安街12號",
     "neighbor" : "美仁里",
     "deptCode" : "010",
@@ -23114,9 +23114,9 @@
     "tboxNo" : "1511",
     "tboxName" : "臺灣土地銀行前騎樓",
     "liCode" : "030",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市松山區敦化里1鄰敦化南路1段1號前",
-    "neighbor" : "1,3-5,14,15,17,18",
+    "neighbor" : "敦化里",
     "deptCode" : "010",
     "liName" : "敦化里"
   }, {
@@ -23124,9 +23124,9 @@
     "tboxNo" : "1511",
     "tboxName" : "臺灣土地銀行前騎樓",
     "liCode" : "030",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市松山區敦化里1鄰敦化南路1段1號前",
-    "neighbor" : "敦化里",
+    "neighbor" : "1,3-5,14,15,17,18",
     "deptCode" : "010",
     "liName" : "敦化里"
   }, {
@@ -23164,7 +23164,7 @@
     "tboxNo" : "1513",
     "tboxName" : "聖若瑟天主堂",
     "liCode" : "031",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市松山區復源里1鄰八德路3段158巷22號1樓",
     "neighbor" : "復源里",
     "deptCode" : "010",
@@ -23174,7 +23174,7 @@
     "tboxNo" : "1513",
     "tboxName" : "聖若瑟天主堂",
     "liCode" : "031",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市松山區復源里1鄰八德路3段158巷22號1樓",
     "neighbor" : "復源里",
     "deptCode" : "010",
@@ -23264,9 +23264,9 @@
     "tboxNo" : "1520",
     "tboxName" : "法光寺",
     "liCode" : "033",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市松山區復勢里018鄰光復北路60巷20號1樓",
-    "neighbor" : "復勢里",
+    "neighbor" : "12-15",
     "deptCode" : "010",
     "liName" : "復勢里"
   }, {
@@ -23284,9 +23284,9 @@
     "tboxNo" : "1520",
     "tboxName" : "法光寺",
     "liCode" : "033",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市松山區復勢里018鄰光復北路60巷20號1樓",
-    "neighbor" : "12-15",
+    "neighbor" : "復勢里",
     "deptCode" : "010",
     "liName" : "復勢里"
   }, {
@@ -23304,16 +23304,6 @@
     "tboxNo" : "1522",
     "tboxName" : "財團法人基督長老教會中崙教會",
     "liCode" : "034",
-    "voter" : "01",
-    "addr" : "臺北市松山區福成里003鄰敦化南路1段80巷36號1樓",
-    "neighbor" : "1-5",
-    "deptCode" : "010",
-    "liName" : "福成里"
-  }, {
-    "ScopeLiName" : "福成里",
-    "tboxNo" : "1522",
-    "tboxName" : "財團法人基督長老教會中崙教會",
-    "liCode" : "034",
     "voter" : "03",
     "addr" : "臺北市松山區福成里003鄰敦化南路1段80巷36號1樓",
     "neighbor" : "福成里",
@@ -23327,6 +23317,16 @@
     "voter" : "02",
     "addr" : "臺北市松山區福成里003鄰敦化南路1段80巷36號1樓",
     "neighbor" : "福成里",
+    "deptCode" : "010",
+    "liName" : "福成里"
+  }, {
+    "ScopeLiName" : "福成里",
+    "tboxNo" : "1522",
+    "tboxName" : "財團法人基督長老教會中崙教會",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "臺北市松山區福成里003鄰敦化南路1段80巷36號1樓",
+    "neighbor" : "1-5",
     "deptCode" : "010",
     "liName" : "福成里"
   }, {
@@ -23344,6 +23344,16 @@
     "tboxNo" : "1524",
     "tboxName" : "景美國小1年3班教室",
     "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺北市文山區景文街１０８號",
+    "neighbor" : "景行里",
+    "deptCode" : "080",
+    "liName" : "景行里"
+  }, {
+    "ScopeLiName" : "景行里",
+    "tboxNo" : "1524",
+    "tboxName" : "景美國小1年3班教室",
+    "liCode" : "001",
     "voter" : "01",
     "addr" : "臺北市文山區景文街１０８號",
     "neighbor" : "1-3,8-9",
@@ -23355,16 +23365,6 @@
     "tboxName" : "景美國小1年3班教室",
     "liCode" : "001",
     "voter" : "02",
-    "addr" : "臺北市文山區景文街１０８號",
-    "neighbor" : "景行里",
-    "deptCode" : "080",
-    "liName" : "景行里"
-  }, {
-    "ScopeLiName" : "景行里",
-    "tboxNo" : "1524",
-    "tboxName" : "景美國小1年3班教室",
-    "liCode" : "001",
-    "voter" : "03",
     "addr" : "臺北市文山區景文街１０８號",
     "neighbor" : "景行里",
     "deptCode" : "080",
@@ -23424,6 +23424,16 @@
     "tboxNo" : "1530",
     "tboxName" : "景興國小2年2班教室(102)",
     "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺北市文山區景華街150巷21號",
+    "neighbor" : "5-9,11-13",
+    "deptCode" : "080",
+    "liName" : "景東里"
+  }, {
+    "ScopeLiName" : "景東里",
+    "tboxNo" : "1530",
+    "tboxName" : "景興國小2年2班教室(102)",
+    "liCode" : "002",
     "voter" : "03",
     "addr" : "臺北市文山區景華街150巷21號",
     "neighbor" : "景東里",
@@ -23437,16 +23447,6 @@
     "voter" : "02",
     "addr" : "臺北市文山區景華街150巷21號",
     "neighbor" : "景東里",
-    "deptCode" : "080",
-    "liName" : "景東里"
-  }, {
-    "ScopeLiName" : "景東里",
-    "tboxNo" : "1530",
-    "tboxName" : "景興國小2年2班教室(102)",
-    "liCode" : "002",
-    "voter" : "01",
-    "addr" : "臺北市文山區景華街150巷21號",
-    "neighbor" : "5-9,11-13",
     "deptCode" : "080",
     "liName" : "景東里"
   }, {
@@ -23494,9 +23494,9 @@
     "tboxNo" : "1534",
     "tboxName" : "滬江高中信義樓103教室",
     "liCode" : "003",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區羅斯福路6段336號",
-    "neighbor" : "景美里",
+    "neighbor" : "6-9,11",
     "deptCode" : "080",
     "liName" : "景美里"
   }, {
@@ -23504,9 +23504,9 @@
     "tboxNo" : "1534",
     "tboxName" : "滬江高中信義樓103教室",
     "liCode" : "003",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區羅斯福路6段336號",
-    "neighbor" : "6-9,11",
+    "neighbor" : "景美里",
     "deptCode" : "080",
     "liName" : "景美里"
   }, {
@@ -23544,6 +23544,16 @@
     "tboxNo" : "1538",
     "tboxName" : "溪口國小2樓2年1班教室",
     "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺北市文山區景福街225號",
+    "neighbor" : "景慶里",
+    "deptCode" : "080",
+    "liName" : "景慶里"
+  }, {
+    "ScopeLiName" : "景慶里",
+    "tboxNo" : "1538",
+    "tboxName" : "溪口國小2樓2年1班教室",
+    "liCode" : "004",
     "voter" : "02",
     "addr" : "臺北市文山區景福街225號",
     "neighbor" : "景慶里",
@@ -23557,16 +23567,6 @@
     "voter" : "01",
     "addr" : "臺北市文山區景福街225號",
     "neighbor" : "14-19",
-    "deptCode" : "080",
-    "liName" : "景慶里"
-  }, {
-    "ScopeLiName" : "景慶里",
-    "tboxNo" : "1538",
-    "tboxName" : "溪口國小2樓2年1班教室",
-    "liCode" : "004",
-    "voter" : "03",
-    "addr" : "臺北市文山區景福街225號",
-    "neighbor" : "景慶里",
     "deptCode" : "080",
     "liName" : "景慶里"
   }, {
@@ -23594,6 +23594,16 @@
     "tboxNo" : "1541",
     "tboxName" : "志清國小1年4班教室(105)",
     "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺北市文山區景福街21巷5號",
+    "neighbor" : "景仁里",
+    "deptCode" : "080",
+    "liName" : "景仁里"
+  }, {
+    "ScopeLiName" : "景仁里",
+    "tboxNo" : "1541",
+    "tboxName" : "志清國小1年4班教室(105)",
+    "liCode" : "005",
     "voter" : "02",
     "addr" : "臺北市文山區景福街21巷5號",
     "neighbor" : "景仁里",
@@ -23611,16 +23621,6 @@
     "liName" : "景仁里"
   }, {
     "ScopeLiName" : "景仁里",
-    "tboxNo" : "1541",
-    "tboxName" : "志清國小1年4班教室(105)",
-    "liCode" : "005",
-    "voter" : "03",
-    "addr" : "臺北市文山區景福街21巷5號",
-    "neighbor" : "景仁里",
-    "deptCode" : "080",
-    "liName" : "景仁里"
-  }, {
-    "ScopeLiName" : "景仁里",
     "tboxNo" : "1542",
     "tboxName" : "志清國小1年5班教室(104)",
     "liCode" : "005",
@@ -23634,9 +23634,9 @@
     "tboxNo" : "1543",
     "tboxName" : "景美國中輔導教室",
     "liCode" : "006",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市文山區景中街27號",
-    "neighbor" : "景華里",
+    "neighbor" : "1-5",
     "deptCode" : "080",
     "liName" : "景華里"
   }, {
@@ -23654,9 +23654,9 @@
     "tboxNo" : "1543",
     "tboxName" : "景美國中輔導教室",
     "liCode" : "006",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市文山區景中街27號",
-    "neighbor" : "1-5",
+    "neighbor" : "景華里",
     "deptCode" : "080",
     "liName" : "景華里"
   }, {
@@ -23894,9 +23894,9 @@
     "tboxNo" : "1561",
     "tboxName" : "萬福國小2樓C203教室",
     "liCode" : "010",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市文山區羅斯福路5段170巷32號",
-    "neighbor" : "9-12,18",
+    "neighbor" : "萬年里",
     "deptCode" : "080",
     "liName" : "萬年里"
   }, {
@@ -23904,9 +23904,9 @@
     "tboxNo" : "1561",
     "tboxName" : "萬福國小2樓C203教室",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市文山區羅斯福路5段170巷32號",
-    "neighbor" : "萬年里",
+    "neighbor" : "9-12,18",
     "deptCode" : "080",
     "liName" : "萬年里"
   }, {
@@ -24054,9 +24054,9 @@
     "tboxNo" : "1570",
     "tboxName" : "靜心中小學幼兒園區體適能區",
     "liCode" : "013",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市文山區興隆路2段46號",
-    "neighbor" : "15-20",
+    "neighbor" : "興豐里",
     "deptCode" : "080",
     "liName" : "興豐里"
   }, {
@@ -24064,11 +24064,21 @@
     "tboxNo" : "1570",
     "tboxName" : "靜心中小學幼兒園區體適能區",
     "liCode" : "013",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市文山區興隆路2段46號",
-    "neighbor" : "興豐里",
+    "neighbor" : "15-20",
     "deptCode" : "080",
     "liName" : "興豐里"
+  }, {
+    "ScopeLiName" : "興邦里",
+    "tboxNo" : "1571",
+    "tboxName" : "興德國小生活學習教室1",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "臺北市文山區興隆路2段235號",
+    "neighbor" : "1-6",
+    "deptCode" : "080",
+    "liName" : "興邦里"
   }, {
     "ScopeLiName" : "興邦里",
     "tboxNo" : "1571",
@@ -24087,16 +24097,6 @@
     "voter" : "03",
     "addr" : "臺北市文山區興隆路2段235號",
     "neighbor" : "興邦里",
-    "deptCode" : "080",
-    "liName" : "興邦里"
-  }, {
-    "ScopeLiName" : "興邦里",
-    "tboxNo" : "1571",
-    "tboxName" : "興德國小生活學習教室1",
-    "liCode" : "042",
-    "voter" : "01",
-    "addr" : "臺北市文山區興隆路2段235號",
-    "neighbor" : "1-6",
     "deptCode" : "080",
     "liName" : "興邦里"
   }, {
@@ -24124,9 +24124,9 @@
     "tboxNo" : "1574",
     "tboxName" : "興華國小2樓6年3班教室",
     "liCode" : "014",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區興隆路3段125巷6號",
-    "neighbor" : "興光里",
+    "neighbor" : "1-9",
     "deptCode" : "080",
     "liName" : "興光里"
   }, {
@@ -24134,9 +24134,9 @@
     "tboxNo" : "1574",
     "tboxName" : "興華國小2樓6年3班教室",
     "liCode" : "014",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區興隆路3段125巷6號",
-    "neighbor" : "1-9",
+    "neighbor" : "興光里",
     "deptCode" : "080",
     "liName" : "興光里"
   }, {
@@ -24194,16 +24194,6 @@
     "tboxNo" : "1579",
     "tboxName" : "家家社區媽媽教室",
     "liCode" : "015",
-    "voter" : "02",
-    "addr" : "臺北市文山區興隆路3段221巷4弄6號地下室",
-    "neighbor" : "興家里",
-    "deptCode" : "080",
-    "liName" : "興家里"
-  }, {
-    "ScopeLiName" : "興家里",
-    "tboxNo" : "1579",
-    "tboxName" : "家家社區媽媽教室",
-    "liCode" : "015",
     "voter" : "01",
     "addr" : "臺北市文山區興隆路3段221巷4弄6號地下室",
     "neighbor" : "11,15-20",
@@ -24215,6 +24205,16 @@
     "tboxName" : "家家社區媽媽教室",
     "liCode" : "015",
     "voter" : "03",
+    "addr" : "臺北市文山區興隆路3段221巷4弄6號地下室",
+    "neighbor" : "興家里",
+    "deptCode" : "080",
+    "liName" : "興家里"
+  }, {
+    "ScopeLiName" : "興家里",
+    "tboxNo" : "1579",
+    "tboxName" : "家家社區媽媽教室",
+    "liCode" : "015",
+    "voter" : "02",
     "addr" : "臺北市文山區興隆路3段221巷4弄6號地下室",
     "neighbor" : "興家里",
     "deptCode" : "080",
@@ -24254,6 +24254,16 @@
     "tboxNo" : "1583",
     "tboxName" : "文山運動中心兒童遊戲室",
     "liCode" : "016",
+    "voter" : "03",
+    "addr" : "臺北市文山區興隆路3段222號",
+    "neighbor" : "興得里",
+    "deptCode" : "080",
+    "liName" : "興得里"
+  }, {
+    "ScopeLiName" : "興得里",
+    "tboxNo" : "1583",
+    "tboxName" : "文山運動中心兒童遊戲室",
+    "liCode" : "016",
     "voter" : "01",
     "addr" : "臺北市文山區興隆路3段222號",
     "neighbor" : "17,19,21-23,25",
@@ -24265,16 +24275,6 @@
     "tboxName" : "文山運動中心兒童遊戲室",
     "liCode" : "016",
     "voter" : "02",
-    "addr" : "臺北市文山區興隆路3段222號",
-    "neighbor" : "興得里",
-    "deptCode" : "080",
-    "liName" : "興得里"
-  }, {
-    "ScopeLiName" : "興得里",
-    "tboxNo" : "1583",
-    "tboxName" : "文山運動中心兒童遊戲室",
-    "liCode" : "016",
-    "voter" : "03",
     "addr" : "臺北市文山區興隆路3段222號",
     "neighbor" : "興得里",
     "deptCode" : "080",
@@ -24334,7 +24334,7 @@
     "tboxNo" : "1588",
     "tboxName" : "興隆國小1年2班教室",
     "liCode" : "017",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市文山區福興路2號",
     "neighbor" : "興業里",
     "deptCode" : "080",
@@ -24344,7 +24344,7 @@
     "tboxNo" : "1588",
     "tboxName" : "興隆國小1年2班教室",
     "liCode" : "017",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區福興路2號",
     "neighbor" : "興業里",
     "deptCode" : "080",
@@ -24384,7 +24384,7 @@
     "tboxNo" : "1592",
     "tboxName" : "興安宮",
     "liCode" : "018",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市文山區仙岩路16巷64號",
     "neighbor" : "興安里",
     "deptCode" : "080",
@@ -24404,7 +24404,7 @@
     "tboxNo" : "1592",
     "tboxName" : "興安宮",
     "liCode" : "018",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區仙岩路16巷64號",
     "neighbor" : "興安里",
     "deptCode" : "080",
@@ -24434,6 +24434,16 @@
     "tboxNo" : "1595",
     "tboxName" : "靜心中小學1年仁班教室",
     "liCode" : "019",
+    "voter" : "02",
+    "addr" : "臺北市文山區興隆路2段46號",
+    "neighbor" : "興福里",
+    "deptCode" : "080",
+    "liName" : "興福里"
+  }, {
+    "ScopeLiName" : "興福里",
+    "tboxNo" : "1595",
+    "tboxName" : "靜心中小學1年仁班教室",
+    "liCode" : "019",
     "voter" : "03",
     "addr" : "臺北市文山區興隆路2段46號",
     "neighbor" : "興福里",
@@ -24447,16 +24457,6 @@
     "voter" : "01",
     "addr" : "臺北市文山區興隆路2段46號",
     "neighbor" : "13-17",
-    "deptCode" : "080",
-    "liName" : "興福里"
-  }, {
-    "ScopeLiName" : "興福里",
-    "tboxNo" : "1595",
-    "tboxName" : "靜心中小學1年仁班教室",
-    "liCode" : "019",
-    "voter" : "02",
-    "addr" : "臺北市文山區興隆路2段46號",
-    "neighbor" : "興福里",
     "deptCode" : "080",
     "liName" : "興福里"
   }, {
@@ -24504,9 +24504,9 @@
     "tboxNo" : "1600",
     "tboxName" : "興福國中2樓903教室",
     "liCode" : "020",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區福興路80號",
-    "neighbor" : "7-11,13",
+    "neighbor" : "興旺里",
     "deptCode" : "080",
     "liName" : "興旺里"
   }, {
@@ -24514,9 +24514,9 @@
     "tboxNo" : "1600",
     "tboxName" : "興福國中2樓903教室",
     "liCode" : "020",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區福興路80號",
-    "neighbor" : "興旺里",
+    "neighbor" : "7-11,13",
     "deptCode" : "080",
     "liName" : "興旺里"
   }, {
@@ -24564,16 +24564,6 @@
     "tboxNo" : "1604",
     "tboxName" : "興隆國小2年2班教室",
     "liCode" : "021",
-    "voter" : "02",
-    "addr" : "臺北市文山區福興路2號",
-    "neighbor" : "興泰里",
-    "deptCode" : "080",
-    "liName" : "興泰里"
-  }, {
-    "ScopeLiName" : "興泰里",
-    "tboxNo" : "1604",
-    "tboxName" : "興隆國小2年2班教室",
-    "liCode" : "021",
     "voter" : "01",
     "addr" : "臺北市文山區福興路2號",
     "neighbor" : "8-13",
@@ -24584,21 +24574,21 @@
     "tboxNo" : "1604",
     "tboxName" : "興隆國小2年2班教室",
     "liCode" : "021",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區福興路2號",
     "neighbor" : "興泰里",
     "deptCode" : "080",
     "liName" : "興泰里"
   }, {
-    "ScopeLiName" : "興昌里",
-    "tboxNo" : "1605",
-    "tboxName" : "辛亥國小2樓1年1班教室",
-    "liCode" : "022",
+    "ScopeLiName" : "興泰里",
+    "tboxNo" : "1604",
+    "tboxName" : "興隆國小2年2班教室",
+    "liCode" : "021",
     "voter" : "03",
-    "addr" : "臺北市文山區辛亥路4段103號",
-    "neighbor" : "興昌里",
+    "addr" : "臺北市文山區福興路2號",
+    "neighbor" : "興泰里",
     "deptCode" : "080",
-    "liName" : "興昌里"
+    "liName" : "興泰里"
   }, {
     "ScopeLiName" : "興昌里",
     "tboxNo" : "1605",
@@ -24615,6 +24605,16 @@
     "tboxName" : "辛亥國小2樓1年1班教室",
     "liCode" : "022",
     "voter" : "02",
+    "addr" : "臺北市文山區辛亥路4段103號",
+    "neighbor" : "興昌里",
+    "deptCode" : "080",
+    "liName" : "興昌里"
+  }, {
+    "ScopeLiName" : "興昌里",
+    "tboxNo" : "1605",
+    "tboxName" : "辛亥國小2樓1年1班教室",
+    "liCode" : "022",
+    "voter" : "03",
     "addr" : "臺北市文山區辛亥路4段103號",
     "neighbor" : "興昌里",
     "deptCode" : "080",
@@ -24654,16 +24654,6 @@
     "tboxNo" : "1609",
     "tboxName" : "國家考場1008試場",
     "liCode" : "023",
-    "voter" : "03",
-    "addr" : "臺北市文山區木柵路1段72號",
-    "neighbor" : "試院里",
-    "deptCode" : "080",
-    "liName" : "試院里"
-  }, {
-    "ScopeLiName" : "試院里",
-    "tboxNo" : "1609",
-    "tboxName" : "國家考場1008試場",
-    "liCode" : "023",
     "voter" : "01",
     "addr" : "臺北市文山區木柵路1段72號",
     "neighbor" : "1-6",
@@ -24675,6 +24665,16 @@
     "tboxName" : "國家考場1008試場",
     "liCode" : "023",
     "voter" : "02",
+    "addr" : "臺北市文山區木柵路1段72號",
+    "neighbor" : "試院里",
+    "deptCode" : "080",
+    "liName" : "試院里"
+  }, {
+    "ScopeLiName" : "試院里",
+    "tboxNo" : "1609",
+    "tboxName" : "國家考場1008試場",
+    "liCode" : "023",
+    "voter" : "03",
     "addr" : "臺北市文山區木柵路1段72號",
     "neighbor" : "試院里",
     "deptCode" : "080",
@@ -24754,9 +24754,9 @@
     "tboxNo" : "1617",
     "tboxName" : "國家考場1001試場",
     "liCode" : "024",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區木柵路1段72號",
-    "neighbor" : "6,16-17",
+    "neighbor" : "華興里",
     "deptCode" : "080",
     "liName" : "華興里"
   }, {
@@ -24774,9 +24774,9 @@
     "tboxNo" : "1617",
     "tboxName" : "國家考場1001試場",
     "liCode" : "024",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區木柵路1段72號",
-    "neighbor" : "華興里",
+    "neighbor" : "6,16-17",
     "deptCode" : "080",
     "liName" : "華興里"
   }, {
@@ -24924,7 +24924,7 @@
     "tboxNo" : "1628",
     "tboxName" : "木柵國小1年3班教室",
     "liCode" : "027",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市文山區木柵路3段191號",
     "neighbor" : "木柵里",
     "deptCode" : "080",
@@ -24934,7 +24934,7 @@
     "tboxNo" : "1628",
     "tboxName" : "木柵國小1年3班教室",
     "liCode" : "027",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區木柵路3段191號",
     "neighbor" : "木柵里",
     "deptCode" : "080",
@@ -25004,16 +25004,6 @@
     "tboxNo" : "1635",
     "tboxName" : "木柵國小資源教室",
     "liCode" : "028",
-    "voter" : "01",
-    "addr" : "臺北市文山區木柵路3段191號",
-    "neighbor" : "12,14-18,25-26",
-    "deptCode" : "080",
-    "liName" : "木新里"
-  }, {
-    "ScopeLiName" : "木新里",
-    "tboxNo" : "1635",
-    "tboxName" : "木柵國小資源教室",
-    "liCode" : "028",
     "voter" : "03",
     "addr" : "臺北市文山區木柵路3段191號",
     "neighbor" : "木新里",
@@ -25027,6 +25017,16 @@
     "voter" : "02",
     "addr" : "臺北市文山區木柵路3段191號",
     "neighbor" : "木新里",
+    "deptCode" : "080",
+    "liName" : "木新里"
+  }, {
+    "ScopeLiName" : "木新里",
+    "tboxNo" : "1635",
+    "tboxName" : "木柵國小資源教室",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "臺北市文山區木柵路3段191號",
+    "neighbor" : "12,14-18,25-26",
     "deptCode" : "080",
     "liName" : "木新里"
   }, {
@@ -25074,9 +25074,9 @@
     "tboxNo" : "1639",
     "tboxName" : "忠順廟左方室",
     "liCode" : "029",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區中崙路13號",
-    "neighbor" : "1-2,10-11,13",
+    "neighbor" : "順興里",
     "deptCode" : "080",
     "liName" : "順興里"
   }, {
@@ -25084,9 +25084,9 @@
     "tboxNo" : "1639",
     "tboxName" : "忠順廟左方室",
     "liCode" : "029",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區中崙路13號",
-    "neighbor" : "順興里",
+    "neighbor" : "1-2,10-11,13",
     "deptCode" : "080",
     "liName" : "順興里"
   }, {
@@ -25134,7 +25134,7 @@
     "tboxNo" : "1644",
     "tboxName" : "社會局老人自費安養中心〈松柏樓1樓活動中心〉",
     "liCode" : "038",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區興隆路4段109巷30弄6號",
     "neighbor" : "忠順里",
     "deptCode" : "080",
@@ -25144,7 +25144,7 @@
     "tboxNo" : "1644",
     "tboxName" : "社會局老人自費安養中心〈松柏樓1樓活動中心〉",
     "liCode" : "038",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市文山區興隆路4段109巷30弄6號",
     "neighbor" : "忠順里",
     "deptCode" : "080",
@@ -25204,6 +25204,16 @@
     "tboxNo" : "1649",
     "tboxName" : "實踐國中信義樓2樓903教室",
     "liCode" : "030",
+    "voter" : "03",
+    "addr" : "臺北市文山區辛亥路7段67號",
+    "neighbor" : "樟林里",
+    "deptCode" : "080",
+    "liName" : "樟林里"
+  }, {
+    "ScopeLiName" : "樟林里",
+    "tboxNo" : "1649",
+    "tboxName" : "實踐國中信義樓2樓903教室",
+    "liCode" : "030",
     "voter" : "01",
     "addr" : "臺北市文山區辛亥路7段67號",
     "neighbor" : "14-19",
@@ -25215,16 +25225,6 @@
     "tboxName" : "實踐國中信義樓2樓903教室",
     "liCode" : "030",
     "voter" : "02",
-    "addr" : "臺北市文山區辛亥路7段67號",
-    "neighbor" : "樟林里",
-    "deptCode" : "080",
-    "liName" : "樟林里"
-  }, {
-    "ScopeLiName" : "樟林里",
-    "tboxNo" : "1649",
-    "tboxName" : "實踐國中信義樓2樓903教室",
-    "liCode" : "030",
-    "voter" : "03",
     "addr" : "臺北市文山區辛亥路7段67號",
     "neighbor" : "樟林里",
     "deptCode" : "080",
@@ -25274,9 +25274,9 @@
     "tboxNo" : "1654",
     "tboxName" : "景美女中信義樓2年温班教室",
     "liCode" : "031",
-    "voter" : "03",
+    "voter" : "01",
     "addr" : "臺北市文山區木新路3段312號",
-    "neighbor" : "樟新里",
+    "neighbor" : "5,10-11,13-14",
     "deptCode" : "080",
     "liName" : "樟新里"
   }, {
@@ -25294,9 +25294,9 @@
     "tboxNo" : "1654",
     "tboxName" : "景美女中信義樓2年温班教室",
     "liCode" : "031",
-    "voter" : "01",
+    "voter" : "03",
     "addr" : "臺北市文山區木新路3段312號",
-    "neighbor" : "5,10-11,13-14",
+    "neighbor" : "樟新里",
     "deptCode" : "080",
     "liName" : "樟新里"
   }, {
@@ -25324,16 +25324,6 @@
     "tboxNo" : "1657",
     "tboxName" : "景美女中信義樓2年儉班教室",
     "liCode" : "041",
-    "voter" : "03",
-    "addr" : "臺北市文山區木新路3段312號",
-    "neighbor" : "樟文里",
-    "deptCode" : "080",
-    "liName" : "樟文里"
-  }, {
-    "ScopeLiName" : "樟文里",
-    "tboxNo" : "1657",
-    "tboxName" : "景美女中信義樓2年儉班教室",
-    "liCode" : "041",
     "voter" : "01",
     "addr" : "臺北市文山區木新路3段312號",
     "neighbor" : "9,13-16",
@@ -25345,6 +25335,16 @@
     "tboxName" : "景美女中信義樓2年儉班教室",
     "liCode" : "041",
     "voter" : "02",
+    "addr" : "臺北市文山區木新路3段312號",
+    "neighbor" : "樟文里",
+    "deptCode" : "080",
+    "liName" : "樟文里"
+  }, {
+    "ScopeLiName" : "樟文里",
+    "tboxNo" : "1657",
+    "tboxName" : "景美女中信義樓2年儉班教室",
+    "liCode" : "041",
+    "voter" : "03",
     "addr" : "臺北市文山區木新路3段312號",
     "neighbor" : "樟文里",
     "deptCode" : "080",
@@ -25384,9 +25384,9 @@
     "tboxNo" : "1661",
     "tboxName" : "力行國小1年1班教室",
     "liCode" : "032",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區木新路3段155巷7號",
-    "neighbor" : "樟腳里",
+    "neighbor" : "6-9",
     "deptCode" : "080",
     "liName" : "樟腳里"
   }, {
@@ -25394,9 +25394,9 @@
     "tboxNo" : "1661",
     "tboxName" : "力行國小1年1班教室",
     "liCode" : "032",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區木新路3段155巷7號",
-    "neighbor" : "6-9",
+    "neighbor" : "樟腳里",
     "deptCode" : "080",
     "liName" : "樟腳里"
   }, {
@@ -25434,16 +25434,6 @@
     "tboxNo" : "1664",
     "tboxName" : "力行國小1年4班教室",
     "liCode" : "043",
-    "voter" : "02",
-    "addr" : "臺北市文山區木新路3段155巷7號",
-    "neighbor" : "樟樹里",
-    "deptCode" : "080",
-    "liName" : "樟樹里"
-  }, {
-    "ScopeLiName" : "樟樹里",
-    "tboxNo" : "1664",
-    "tboxName" : "力行國小1年4班教室",
-    "liCode" : "043",
     "voter" : "01",
     "addr" : "臺北市文山區木新路3段155巷7號",
     "neighbor" : "1-2,9-10,16",
@@ -25455,6 +25445,16 @@
     "tboxName" : "力行國小1年4班教室",
     "liCode" : "043",
     "voter" : "03",
+    "addr" : "臺北市文山區木新路3段155巷7號",
+    "neighbor" : "樟樹里",
+    "deptCode" : "080",
+    "liName" : "樟樹里"
+  }, {
+    "ScopeLiName" : "樟樹里",
+    "tboxNo" : "1664",
+    "tboxName" : "力行國小1年4班教室",
+    "liCode" : "043",
+    "voter" : "02",
     "addr" : "臺北市文山區木新路3段155巷7號",
     "neighbor" : "樟樹里",
     "deptCode" : "080",
@@ -25524,16 +25524,6 @@
     "tboxNo" : "1671",
     "tboxName" : "財團法人臺北市基督教萬芳浸信會",
     "liCode" : "033",
-    "voter" : "03",
-    "addr" : "臺北市文山區萬美街1段19巷5之1號",
-    "neighbor" : "萬芳里",
-    "deptCode" : "080",
-    "liName" : "萬芳里"
-  }, {
-    "ScopeLiName" : "萬芳里",
-    "tboxNo" : "1671",
-    "tboxName" : "財團法人臺北市基督教萬芳浸信會",
-    "liCode" : "033",
     "voter" : "01",
     "addr" : "臺北市文山區萬美街1段19巷5之1號",
     "neighbor" : "25-30",
@@ -25545,6 +25535,16 @@
     "tboxName" : "財團法人臺北市基督教萬芳浸信會",
     "liCode" : "033",
     "voter" : "02",
+    "addr" : "臺北市文山區萬美街1段19巷5之1號",
+    "neighbor" : "萬芳里",
+    "deptCode" : "080",
+    "liName" : "萬芳里"
+  }, {
+    "ScopeLiName" : "萬芳里",
+    "tboxNo" : "1671",
+    "tboxName" : "財團法人臺北市基督教萬芳浸信會",
+    "liCode" : "033",
+    "voter" : "03",
     "addr" : "臺北市文山區萬美街1段19巷5之1號",
     "neighbor" : "萬芳里",
     "deptCode" : "080",
@@ -25584,9 +25584,9 @@
     "tboxNo" : "1675",
     "tboxName" : "萬芳國小2樓1年2班教室(208)",
     "liCode" : "039",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區萬和街1號",
-    "neighbor" : "萬美里",
+    "neighbor" : "21-26",
     "deptCode" : "080",
     "liName" : "萬美里"
   }, {
@@ -25594,9 +25594,9 @@
     "tboxNo" : "1675",
     "tboxName" : "萬芳國小2樓1年2班教室(208)",
     "liCode" : "039",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區萬和街1號",
-    "neighbor" : "21-26",
+    "neighbor" : "萬美里",
     "deptCode" : "080",
     "liName" : "萬美里"
   }, {
@@ -25724,16 +25724,6 @@
     "tboxNo" : "1686",
     "tboxName" : "萬興國小1年4班教室",
     "liCode" : "035",
-    "voter" : "03",
-    "addr" : "臺北市文山區秀明路2段114號",
-    "neighbor" : "萬興里",
-    "deptCode" : "080",
-    "liName" : "萬興里"
-  }, {
-    "ScopeLiName" : "萬興里",
-    "tboxNo" : "1686",
-    "tboxName" : "萬興國小1年4班教室",
-    "liCode" : "035",
     "voter" : "01",
     "addr" : "臺北市文山區秀明路2段114號",
     "neighbor" : "26-31",
@@ -25745,6 +25735,16 @@
     "tboxName" : "萬興國小1年4班教室",
     "liCode" : "035",
     "voter" : "02",
+    "addr" : "臺北市文山區秀明路2段114號",
+    "neighbor" : "萬興里",
+    "deptCode" : "080",
+    "liName" : "萬興里"
+  }, {
+    "ScopeLiName" : "萬興里",
+    "tboxNo" : "1686",
+    "tboxName" : "萬興國小1年4班教室",
+    "liCode" : "035",
+    "voter" : "03",
     "addr" : "臺北市文山區秀明路2段114號",
     "neighbor" : "萬興里",
     "deptCode" : "080",
@@ -25784,9 +25784,9 @@
     "tboxNo" : "1690",
     "tboxName" : "政大附中蘇東坡教室",
     "liCode" : "040",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區政大一街353號",
-    "neighbor" : "政大里",
+    "neighbor" : "14-18",
     "deptCode" : "080",
     "liName" : "政大里"
   }, {
@@ -25794,9 +25794,9 @@
     "tboxNo" : "1690",
     "tboxName" : "政大附中蘇東坡教室",
     "liCode" : "040",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區政大一街353號",
-    "neighbor" : "14-18",
+    "neighbor" : "政大里",
     "deptCode" : "080",
     "liName" : "政大里"
   }, {
@@ -25814,9 +25814,9 @@
     "tboxNo" : "1691",
     "tboxName" : "北政國中7年美班教室",
     "liCode" : "036",
-    "voter" : "02",
+    "voter" : "01",
     "addr" : "臺北市文山區指南路3段2巷14號",
-    "neighbor" : "指南里",
+    "neighbor" : "1-3,11,13-14,18",
     "deptCode" : "080",
     "liName" : "指南里"
   }, {
@@ -25824,9 +25824,9 @@
     "tboxNo" : "1691",
     "tboxName" : "北政國中7年美班教室",
     "liCode" : "036",
-    "voter" : "01",
+    "voter" : "02",
     "addr" : "臺北市文山區指南路3段2巷14號",
-    "neighbor" : "1-3,11,13-14,18",
+    "neighbor" : "指南里",
     "deptCode" : "080",
     "liName" : "指南里"
   }, {
@@ -25864,16 +25864,6 @@
     "tboxNo" : "1694",
     "tboxName" : "東山高中司機休息室",
     "liCode" : "037",
-    "voter" : "02",
-    "addr" : "臺北市文山區老泉街26巷3號",
-    "neighbor" : "老泉里",
-    "deptCode" : "080",
-    "liName" : "老泉里"
-  }, {
-    "ScopeLiName" : "老泉里",
-    "tboxNo" : "1694",
-    "tboxName" : "東山高中司機休息室",
-    "liCode" : "037",
     "voter" : "01",
     "addr" : "臺北市文山區老泉街26巷3號",
     "neighbor" : "1-9",
@@ -25884,21 +25874,21 @@
     "tboxNo" : "1694",
     "tboxName" : "東山高中司機休息室",
     "liCode" : "037",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市文山區老泉街26巷3號",
     "neighbor" : "老泉里",
     "deptCode" : "080",
     "liName" : "老泉里"
   }, {
-    "ScopeLiName" : "水源里",
-    "tboxNo" : "1695",
-    "tboxName" : "水源區民活動中心(教室A前段)",
-    "liCode" : "001",
+    "ScopeLiName" : "老泉里",
+    "tboxNo" : "1694",
+    "tboxName" : "東山高中司機休息室",
+    "liCode" : "037",
     "voter" : "03",
-    "addr" : "臺北市中正區水源里4鄰羅斯福路4段92號4樓",
-    "neighbor" : "水源里",
-    "deptCode" : "050",
-    "liName" : "水源里"
+    "addr" : "臺北市文山區老泉街26巷3號",
+    "neighbor" : "老泉里",
+    "deptCode" : "080",
+    "liName" : "老泉里"
   }, {
     "ScopeLiName" : "水源里",
     "tboxNo" : "1695",
@@ -25915,6 +25905,16 @@
     "tboxName" : "水源區民活動中心(教室A前段)",
     "liCode" : "001",
     "voter" : "02",
+    "addr" : "臺北市中正區水源里4鄰羅斯福路4段92號4樓",
+    "neighbor" : "水源里",
+    "deptCode" : "050",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "1695",
+    "tboxName" : "水源區民活動中心(教室A前段)",
+    "liCode" : "001",
+    "voter" : "03",
     "addr" : "臺北市中正區水源里4鄰羅斯福路4段92號4樓",
     "neighbor" : "水源里",
     "deptCode" : "050",
@@ -25994,7 +25994,7 @@
     "tboxNo" : "1701",
     "tboxName" : "中華福音神學院之台北展翔教會",
     "liCode" : "003",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區文盛里6鄰汀州路3段101號",
     "neighbor" : "文盛里",
     "deptCode" : "050",
@@ -26004,7 +26004,7 @@
     "tboxNo" : "1701",
     "tboxName" : "中華福音神學院之台北展翔教會",
     "liCode" : "003",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區文盛里6鄰汀州路3段101號",
     "neighbor" : "文盛里",
     "deptCode" : "050",
@@ -26284,7 +26284,7 @@
     "tboxNo" : "1720",
     "tboxName" : "強恕中學操場(2)",
     "liCode" : "008",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區板溪里6鄰汀州路2段143號",
     "neighbor" : "板溪里",
     "deptCode" : "050",
@@ -26304,7 +26304,7 @@
     "tboxNo" : "1720",
     "tboxName" : "強恕中學操場(2)",
     "liCode" : "008",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區板溪里6鄰汀州路2段143號",
     "neighbor" : "板溪里",
     "deptCode" : "050",
@@ -26334,16 +26334,6 @@
     "tboxNo" : "1723",
     "tboxName" : "基督教廈門街浸信會",
     "liCode" : "009",
-    "voter" : "01",
-    "addr" : "臺北市中正區螢圃里14鄰廈門街81巷20號",
-    "neighbor" : "2-4、8、11、13、16",
-    "deptCode" : "050",
-    "liName" : "螢圃里"
-  }, {
-    "ScopeLiName" : "螢圃里",
-    "tboxNo" : "1723",
-    "tboxName" : "基督教廈門街浸信會",
-    "liCode" : "009",
     "voter" : "02",
     "addr" : "臺北市中正區螢圃里14鄰廈門街81巷20號",
     "neighbor" : "螢圃里",
@@ -26357,6 +26347,16 @@
     "voter" : "03",
     "addr" : "臺北市中正區螢圃里14鄰廈門街81巷20號",
     "neighbor" : "螢圃里",
+    "deptCode" : "050",
+    "liName" : "螢圃里"
+  }, {
+    "ScopeLiName" : "螢圃里",
+    "tboxNo" : "1723",
+    "tboxName" : "基督教廈門街浸信會",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺北市中正區螢圃里14鄰廈門街81巷20號",
+    "neighbor" : "2-4、8、11、13、16",
     "deptCode" : "050",
     "liName" : "螢圃里"
   }, {
@@ -26414,7 +26414,7 @@
     "tboxNo" : "1728",
     "tboxName" : "螢橋國小1年1班教室",
     "liCode" : "010",
-    "voter" : "03",
+    "voter" : "02",
     "addr" : "臺北市中正區螢雪里9鄰詔安街29號",
     "neighbor" : "螢雪里",
     "deptCode" : "050",
@@ -26424,7 +26424,7 @@
     "tboxNo" : "1728",
     "tboxName" : "螢橋國小1年1班教室",
     "liCode" : "010",
-    "voter" : "02",
+    "voter" : "03",
     "addr" : "臺北市中正區螢雪里9鄰詔安街29號",
     "neighbor" : "螢雪里",
     "deptCode" : "050",
