@@ -1,67 +1,83 @@
 {
   "politics" : [ {
     "prvCode" : "00",
-    "date" : "20191218",
-    "cityCode" : "000",
-    "station" : "華視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/fueoCSkrEFk",
-    "title" : "第15任總統候選人 第1場電視政見發表會"
-  }, {
-    "prvCode" : "00",
-    "date" : "20191220",
-    "cityCode" : "000",
-    "station" : "公視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/3IXVgsbbXNs",
-    "title" : "第15任副總統候選人電視政見發表會"
-  }, {
-    "prvCode" : "00",
-    "date" : "20191225",
-    "cityCode" : "000",
-    "station" : "中視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/cRQxL123iu4",
-    "title" : "第15任總統候選人 第2場電視政見發表會"
-  }, {
-    "prvCode" : "00",
-    "date" : "20191227",
-    "cityCode" : "000",
-    "station" : "台視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/X5k2Ix-7m5E",
-    "title" : "第15任總統候選人 第3場電視政見發表會"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200101",
-    "cityCode" : "004",
-    "station" : "北視有線電視第3頻道",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/rrMvgrYwx2U",
-    "title" : "新竹縣第十屆立法委員選舉電視政見發表會第1選舉區"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200101",
-    "cityCode" : "004",
-    "station" : "北視有線電視第3頻道",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/m5tRciKcMZM",
-    "title" : "新竹縣第十屆立法委員選舉電視政見發表會第2選舉區"
-  }, {
-    "prvCode" : "00",
     "date" : "20200103",
-    "cityCode" : "000",
-    "station" : "原住民電視台",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/axpZeC0woP4",
-    "title" : "第10屆山地原住民立法委員選舉候選人電視政見發表會"
-  }, {
-    "prvCode" : "00",
-    "date" : "20200103",
+    "areaCode" : "00",
     "cityCode" : "000",
     "station" : "原住民電視台",
     "time" : "",
     "href" : "https://www.youtube.com/embed/LqeH1-cob9s",
-    "title" : "第10屆平地原住民立法委員選舉候選人電視政見發表會"
+    "title" : "第10屆平地原住民立法委員選舉候選人電視政見發表會",
+    "typeCode" : "L2"
+  }, {
+    "prvCode" : "00",
+    "date" : "20200103",
+    "areaCode" : "00",
+    "cityCode" : "000",
+    "station" : "原住民電視台",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/axpZeC0woP4",
+    "title" : "第10屆山地原住民立法委員選舉候選人電視政見發表會",
+    "typeCode" : "L3"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200101",
+    "areaCode" : "02",
+    "cityCode" : "004",
+    "station" : "北視有線電視第3頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/m5tRciKcMZM",
+    "title" : "新竹縣第十屆立法委員選舉電視政見發表會第2選舉區",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200101",
+    "areaCode" : "01",
+    "cityCode" : "004",
+    "station" : "北視有線電視第3頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/rrMvgrYwx2U",
+    "title" : "新竹縣第十屆立法委員選舉電視政見發表會第1選舉區",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191227",
+    "areaCode" : "00",
+    "cityCode" : "000",
+    "station" : "台視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/X5k2Ix-7m5E",
+    "title" : "第15任總統候選人 第3場電視政見發表會",
+    "typeCode" : "P1"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191225",
+    "areaCode" : "00",
+    "cityCode" : "000",
+    "station" : "中視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/cRQxL123iu4",
+    "title" : "第15任總統候選人 第2場電視政見發表會",
+    "typeCode" : "P1"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191220",
+    "areaCode" : "00",
+    "cityCode" : "000",
+    "station" : "公視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/3IXVgsbbXNs",
+    "title" : "第15任副總統候選人電視政見發表會",
+    "typeCode" : "P1"
+  }, {
+    "prvCode" : "00",
+    "date" : "20191218",
+    "areaCode" : "00",
+    "cityCode" : "000",
+    "station" : "華視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/fueoCSkrEFk",
+    "title" : "第15任總統候選人 第1場電視政見發表會",
+    "typeCode" : "P1"
   } ]
 }
