@@ -1,5 +1,6 @@
 <?php
 foreach(glob(__DIR__ . '/politics/*.csv') AS $csvFile) {
+    if(strpos($csvFile, '第')) { continue; } // 不分區 / 總統副總統
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     $pool = array();
