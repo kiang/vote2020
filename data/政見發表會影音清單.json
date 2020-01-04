@@ -1,5 +1,55 @@
 {
   "politics" : [ {
+    "prvCode" : "10",
+    "date" : "20200103",
+    "areaCode" : "00",
+    "cityCode" : "014",
+    "station" : "臺東縣政府簡報室",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/6BvhFVPkQks",
+    "title" : "第10屆立法委員選舉臺東縣選舉區候選人公辦電視政見發表會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200103",
+    "areaCode" : "02",
+    "cityCode" : "010",
+    "station" : "嘉義世新有線電視公司（嘉義縣中埔鄉中山路五段505號）",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/cDUXYK_CdlI",
+    "title" : "嘉義縣第10屆區域立法委員選舉公辦電視政見發表會第一選區第1場(山區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200103",
+    "areaCode" : "01",
+    "cityCode" : "010",
+    "station" : "嘉義世新有線電視公司（嘉義縣中埔鄉中山路五段505號）",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/k1DLi0FXvaY",
+    "title" : "嘉義縣第10屆區域立法委員選舉公辦電視政見發表會第一選區第1場(海區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200103",
+    "areaCode" : "01",
+    "cityCode" : "008",
+    "station" : "有線電視第3、4頻道/南投縣政府地下二樓大禮堂",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/FsHXQewcwQs",
+    "title" : "南投縣第10屆立法委員選舉候選人公辦電視政見發表會_第一選舉區(第一場)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200103",
+    "areaCode" : "02",
+    "cityCode" : "008",
+    "station" : "有線電視第3、4頻道/南投縣政府地下二樓大禮堂",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/mG9A179jxec",
+    "title" : "南投縣第10屆立法委員選舉候選人公辦電視政見發表會_第二選舉區(第一場)",
+    "typeCode" : "L1"
+  }, {
     "prvCode" : "00",
     "date" : "20200103",
     "areaCode" : "00",
