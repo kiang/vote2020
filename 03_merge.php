@@ -20,11 +20,10 @@ foreach(glob(__DIR__ . '/politics/*.csv') AS $csvFile) {
                     $txtFile = __DIR__ . '/politics/' . $pool[$key]['縣市'] . '-' . $pool[$key]['姓名'] . '.txt';
                     if(file_exists($txtFile)) {
                         $cand['politics'] = file_get_contents($txtFile);
-                    } else {
-                        $jpgFile = __DIR__ . '/politics/' . $pool[$key]['縣市'] . '-' . $pool[$key]['姓名'] . '.jpg';
-                        if(file_exists($jpgFile)) {
-                            $cand['politicsUrl'] = '/politics/' . $pool[$key]['縣市'] . '-' . $pool[$key]['姓名'] . '.jpg';
-                        }
+                    } 
+                    $jpgFile = __DIR__ . '/politics/' . $pool[$key]['縣市'] . '-' . $pool[$key]['姓名'] . '.jpg';
+                    if(file_exists($jpgFile)) {
+                        $cand['politicsUrl'] = '/politics/' . $pool[$key]['縣市'] . '-' . $pool[$key]['姓名'] . '.jpg';
                     }
                     $json[$k1][$k2]['cands'][$k3] = $cand;
                 }
