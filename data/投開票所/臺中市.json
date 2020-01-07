@@ -1400,25 +1400,25 @@
     "deptCode" : "220",
     "liName" : "福興里"
   }, {
-    "ScopeLiName" : "龜里",
+    "ScopeLiName" : "龜壳里",
     "tboxNo" : "0064",
     "tboxName" : "三光國小三里薪傳館(1)",
     "liCode" : "004",
     "voter" : "01",
-    "addr" : "臺中市大安區龜里中松路297號",
+    "addr" : "臺中市大安區龜壳里中松路297號",
     "neighbor" : "1-5",
     "deptCode" : "220",
-    "liName" : "龜里"
+    "liName" : "龜壳里"
   }, {
-    "ScopeLiName" : "龜里",
+    "ScopeLiName" : "龜壳里",
     "tboxNo" : "0065",
     "tboxName" : "三光國小三里薪傳館(2)",
     "liCode" : "004",
     "voter" : "01",
-    "addr" : "臺中市大安區龜里中松路297號",
+    "addr" : "臺中市大安區龜壳里中松路297號",
     "neighbor" : "6-12",
     "deptCode" : "220",
-    "liName" : "龜里"
+    "liName" : "龜壳里"
   }, {
     "ScopeLiName" : "頂安里",
     "tboxNo" : "0066",
