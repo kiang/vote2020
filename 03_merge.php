@@ -18,6 +18,12 @@ foreach(glob(__DIR__ . '/politics/*.csv') AS $csvFile) {
             $json['P1'][$k] = $cand;
         }
     } elseif(false !== strpos($csvFile, '全國不分區')) {
+        $pFh = fopen(__DIR__ . '/spreadsheets/第10屆全國不分區及僑居國外國民立法委員選舉公報_政見.csv', 'r');
+        $pHead = fgetcsv($pFh, 2048);
+        $politics = array();
+        while($line = fgetcsv($pFh, 2048)) {
+            $politics[$line[0]] = $line[2];
+        }
         $fh = fopen($csvFile, 'r');
         $head = fgetcsv($fh, 2048);
         $pool = array();
@@ -29,6 +35,9 @@ foreach(glob(__DIR__ . '/politics/*.csv') AS $csvFile) {
         $jsonFile = __DIR__ . '/data/不分區候選人.json';
         $json = json_decode(file_get_contents($jsonFile), true);
         foreach($json['L4'] AS $k1 => $l1) {
+            if(isset($politics[$l1['partyNo']])) {
+                $json['L4'][$k1]['politics'] = $politics[$l1['partyNo']];
+            }
             foreach($l1['cands'] AS $k2 => $cand) {
                 $key = $l1['partyName'] . $cand['candNo'];
                 $cand['educ'] = $pool[$key]['學歷'];
