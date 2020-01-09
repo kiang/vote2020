@@ -10210,45 +10210,45 @@
     "deptCode" : "140",
     "liName" : "港東里"
   }, {
-    "ScopeLiName" : "林里",
+    "ScopeLiName" : "檨林里",
     "tboxNo" : "0521",
     "tboxName" : "松林國小",
     "liCode" : "004",
     "voter" : "03",
-    "addr" : "臺南市西港區林里3鄰子林39之1號",
-    "neighbor" : "林里",
+    "addr" : "臺南市西港區檨林里3鄰檨子林39之1號",
+    "neighbor" : "檨林里",
     "deptCode" : "140",
-    "liName" : "林里"
+    "liName" : "檨林里"
   }, {
-    "ScopeLiName" : "林里",
+    "ScopeLiName" : "檨林里",
     "tboxNo" : "0521",
     "tboxName" : "松林國小",
     "liCode" : "004",
     "voter" : "01",
-    "addr" : "臺南市西港區林里3鄰子林39之1號",
+    "addr" : "臺南市西港區檨林里3鄰檨子林39之1號",
     "neighbor" : "1-6",
     "deptCode" : "140",
-    "liName" : "林里"
+    "liName" : "檨林里"
   }, {
-    "ScopeLiName" : "林里",
+    "ScopeLiName" : "檨林里",
     "tboxNo" : "0522",
     "tboxName" : "松林國小",
     "liCode" : "004",
     "voter" : "01",
-    "addr" : "臺南市西港區林里3鄰子林39之1號",
+    "addr" : "臺南市西港區檨林里3鄰檨子林39之1號",
     "neighbor" : "7-12",
     "deptCode" : "140",
-    "liName" : "林里"
+    "liName" : "檨林里"
   }, {
-    "ScopeLiName" : "林里",
+    "ScopeLiName" : "檨林里",
     "tboxNo" : "0522",
     "tboxName" : "松林國小",
     "liCode" : "004",
     "voter" : "02",
-    "addr" : "臺南市西港區林里3鄰子林39之1號",
-    "neighbor" : "林里",
+    "addr" : "臺南市西港區檨林里3鄰檨子林39之1號",
+    "neighbor" : "檨林里",
     "deptCode" : "140",
-    "liName" : "林里"
+    "liName" : "檨林里"
   }, {
     "ScopeLiName" : "後營里",
     "tboxNo" : "0523",
@@ -10335,7 +10335,7 @@
     "tboxName" : "永樂里活動中心",
     "liCode" : "010",
     "voter" : "01",
-    "addr" : "臺南市西港區永樂里4鄰大寮59之35號",
+    "addr" : "臺南市西港區永樂里4鄰大塭寮59之35號",
     "neighbor" : "1-7",
     "deptCode" : "140",
     "liName" : "永樂里"
@@ -11115,7 +11115,7 @@
     "tboxName" : "山上區玉峰里活動中心",
     "liCode" : "005",
     "voter" : "03",
-    "addr" : "臺南市山上區玉峯里3鄰蚵潭35號",
+    "addr" : "臺南市山上區玉峯里3鄰蚵殼潭35號",
     "neighbor" : "6",
     "deptCode" : "220",
     "liName" : "玉峯里"
@@ -11125,7 +11125,7 @@
     "tboxName" : "山上區玉峰里活動中心",
     "liCode" : "005",
     "voter" : "01",
-    "addr" : "臺南市山上區玉峯里3鄰蚵潭35號",
+    "addr" : "臺南市山上區玉峯里3鄰蚵殼潭35號",
     "neighbor" : "玉峯里",
     "deptCode" : "220",
     "liName" : "玉峯里"
@@ -11590,85 +11590,85 @@
     "deptCode" : "350",
     "liName" : "東和里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0588",
-    "tboxName" : "南社區活動中心",
+    "tboxName" : "塭南社區活動中心",
     "liCode" : "003",
     "voter" : "01",
-    "addr" : "臺南市安南區南里3鄰環福街117號",
+    "addr" : "臺南市安南區塭南里3鄰環福街117號",
     "neighbor" : "3,9,11-12,17-20",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0588",
-    "tboxName" : "南社區活動中心",
+    "tboxName" : "塭南社區活動中心",
     "liCode" : "003",
     "voter" : "02",
-    "addr" : "臺南市安南區南里3鄰環福街117號",
+    "addr" : "臺南市安南區塭南里3鄰環福街117號",
     "neighbor" : "19",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0589",
-    "tboxName" : "南里活動中心(西側)",
+    "tboxName" : "塭南里活動中心(西側)",
     "liCode" : "003",
     "voter" : "02",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "2,6",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0589",
-    "tboxName" : "南里活動中心(西側)",
+    "tboxName" : "塭南里活動中心(西側)",
     "liCode" : "003",
     "voter" : "01",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "1-2,4,6,15-16",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0589",
-    "tboxName" : "南里活動中心(西側)",
+    "tboxName" : "塭南里活動中心(西側)",
     "liCode" : "003",
     "voter" : "03",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "2,6",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0590",
-    "tboxName" : "南里活動中心(東側)",
+    "tboxName" : "塭南里活動中心(東側)",
     "liCode" : "003",
     "voter" : "02",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "8,14",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0590",
-    "tboxName" : "南里活動中心(東側)",
+    "tboxName" : "塭南里活動中心(東側)",
     "liCode" : "003",
     "voter" : "01",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "5,7-8,10,13-14",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
-    "ScopeLiName" : "南里",
+    "ScopeLiName" : "塭南里",
     "tboxNo" : "0590",
-    "tboxName" : "南里活動中心(東側)",
+    "tboxName" : "塭南里活動中心(東側)",
     "liCode" : "003",
     "voter" : "03",
-    "addr" : "臺南市安南區南里7鄰安昌街130號",
+    "addr" : "臺南市安南區塭南里7鄰安昌街130號",
     "neighbor" : "8,14",
     "deptCode" : "350",
-    "liName" : "南里"
+    "liName" : "塭南里"
   }, {
     "ScopeLiName" : "州南里",
     "tboxNo" : "0591",
@@ -13160,25 +13160,25 @@
     "deptCode" : "350",
     "liName" : "學東里"
   }, {
-    "ScopeLiName" : "公里",
+    "ScopeLiName" : "公塭里",
     "tboxNo" : "0659",
-    "tboxName" : "公里活動中心",
+    "tboxName" : "公塭里活動中心",
     "liCode" : "024",
     "voter" : "01",
-    "addr" : "臺南市安南區公里5鄰育英街116號",
-    "neighbor" : "公里",
+    "addr" : "臺南市安南區公塭里5鄰育英街116號",
+    "neighbor" : "公塭里",
     "deptCode" : "350",
-    "liName" : "公里"
+    "liName" : "公塭里"
   }, {
-    "ScopeLiName" : "公里",
+    "ScopeLiName" : "公塭里",
     "tboxNo" : "0659",
-    "tboxName" : "公里活動中心",
+    "tboxName" : "公塭里活動中心",
     "liCode" : "024",
     "voter" : "03",
-    "addr" : "臺南市安南區公里5鄰育英街116號",
+    "addr" : "臺南市安南區公塭里5鄰育英街116號",
     "neighbor" : "4",
     "deptCode" : "350",
-    "liName" : "公里"
+    "liName" : "公塭里"
   }, {
     "ScopeLiName" : "佃東里",
     "tboxNo" : "0660",
@@ -22182,70 +22182,70 @@
   }, {
     "ScopeLiName" : "\uD85B\uDC21拔里",
     "tboxNo" : "1034",
-    "tboxName" : "拔國小",
+    "tboxName" : "\uD85B\uDC21拔國小",
     "liCode" : "018",
     "voter" : "01",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰拔林54號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰\uD85B\uDC21拔林54號",
     "neighbor" : "1-4",
     "deptCode" : "180",
     "liName" : "\uD85B\uDC21拔里"
   }, {
     "ScopeLiName" : "\uD85B\uDC21拔里",
     "tboxNo" : "1034",
-    "tboxName" : "拔國小",
+    "tboxName" : "\uD85B\uDC21拔國小",
     "liCode" : "018",
     "voter" : "02",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰拔林54號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰\uD85B\uDC21拔林54號",
     "neighbor" : "1-4",
     "deptCode" : "180",
     "liName" : "\uD85B\uDC21拔里"
   }, {
     "ScopeLiName" : "\uD85B\uDC21拔里",
     "tboxNo" : "1035",
-    "tboxName" : "拔國小",
+    "tboxName" : "\uD85B\uDC21拔國小",
     "liCode" : "018",
     "voter" : "01",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰拔林54號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰\uD85B\uDC21拔林54號",
     "neighbor" : "5-10",
     "deptCode" : "180",
     "liName" : "\uD85B\uDC21拔里"
   }, {
     "ScopeLiName" : "\uD85B\uDC21拔里",
     "tboxNo" : "1035",
-    "tboxName" : "拔國小",
+    "tboxName" : "\uD85B\uDC21拔國小",
     "liCode" : "018",
     "voter" : "02",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰拔林54號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰\uD85B\uDC21拔林54號",
     "neighbor" : "5-10",
     "deptCode" : "180",
     "liName" : "\uD85B\uDC21拔里"
   }, {
     "ScopeLiName" : "\uD85B\uDC21拔里",
     "tboxNo" : "1035",
-    "tboxName" : "拔國小",
+    "tboxName" : "\uD85B\uDC21拔國小",
     "liCode" : "018",
     "voter" : "03",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰拔林54號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里2鄰\uD85B\uDC21拔林54號",
     "neighbor" : "5-10",
     "deptCode" : "180",
     "liName" : "\uD85B\uDC21拔里"
   }, {
     "ScopeLiName" : "羊林里",
     "tboxNo" : "1036",
-    "tboxName" : "拔及羊林里活動中心",
+    "tboxName" : "\uD85B\uDC21拔及羊林里活動中心",
     "liCode" : "019",
     "voter" : "03",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里8鄰拔林329號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里8鄰\uD85B\uDC21拔林329號",
     "neighbor" : "羊林里",
     "deptCode" : "180",
     "liName" : "羊林里"
   }, {
     "ScopeLiName" : "羊林里",
     "tboxNo" : "1036",
-    "tboxName" : "拔及羊林里活動中心",
+    "tboxName" : "\uD85B\uDC21拔及羊林里活動中心",
     "liCode" : "019",
     "voter" : "01",
-    "addr" : "臺南市新化區\uD85B\uDC21拔里8鄰拔林329號",
+    "addr" : "臺南市新化區\uD85B\uDC21拔里8鄰\uD85B\uDC21拔林329號",
     "neighbor" : "羊林里",
     "deptCode" : "180",
     "liName" : "羊林里"
