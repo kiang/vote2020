@@ -13,11 +13,11 @@
     "prvCode" : "10",
     "date" : "20200107",
     "areaCode" : "00",
-    "cityCode" : "002",
-    "station" : "聯禾有線電視股份有限公司/第4頻道",
+    "cityCode" : "020",
+    "station" : "中正公園音樂台",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/Ejr74pzRbic",
-    "title" : "第10屆立法委員宜蘭縣候選人公辦政見發表會第二場(上)",
+    "href" : "https://www.youtube.com/embed/leg-MwDzgiM",
+    "title" : "嘉義市第10屆立法委員選舉候選人公辦政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -28,6 +28,16 @@
     "time" : "",
     "href" : "https://www.youtube.com/embed/RIXO9kUqlxI",
     "title" : "第10屆立法委員宜蘭縣候選人公辦政見發表會第二場(下)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200107",
+    "areaCode" : "00",
+    "cityCode" : "002",
+    "station" : "聯禾有線電視股份有限公司/第4頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/Ejr74pzRbic",
+    "title" : "第10屆立法委員宜蘭縣候選人公辦政見發表會第二場(上)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -92,12 +102,12 @@
   }, {
     "prvCode" : "68",
     "date" : "20200106",
-    "areaCode" : "01",
+    "areaCode" : "04",
     "cityCode" : "000",
     "station" : "華視教育頻道/選委會第一會議室",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/ojRGzZNgS8E",
-    "title" : "桃園市第十屆立法委員選舉第一選舉區公辦電視政見發表會",
+    "href" : "https://www.youtube.com/embed/XlbdIAPy5HQ",
+    "title" : "桃園市第十屆立法委員選舉第四選舉區公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "68",
@@ -112,22 +122,12 @@
   }, {
     "prvCode" : "68",
     "date" : "20200106",
-    "areaCode" : "04",
+    "areaCode" : "01",
     "cityCode" : "000",
     "station" : "華視教育頻道/選委會第一會議室",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/XlbdIAPy5HQ",
-    "title" : "桃園市第十屆立法委員選舉第四選舉區公辦電視政見發表會",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200106",
-    "areaCode" : "02",
-    "cityCode" : "013",
-    "station" : "屏東縣有線電視台（第3頻道）",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/1fFphkwckKU",
-    "title" : "第十屆立法委員政見發表會 第二選區（第2場次）",
+    "href" : "https://www.youtube.com/embed/ojRGzZNgS8E",
+    "title" : "桃園市第十屆立法委員選舉第一選舉區公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -140,14 +140,24 @@
     "title" : "第十屆立法委員政見發表會 第一選區（第2場次）",
     "typeCode" : "L1"
   }, {
+    "prvCode" : "10",
+    "date" : "20200106",
+    "areaCode" : "02",
+    "cityCode" : "013",
+    "station" : "屏東縣有線電視台（第3頻道）",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/1fFphkwckKU",
+    "title" : "第十屆立法委員政見發表會 第二選區（第2場次）",
+    "typeCode" : "L1"
+  }, {
     "prvCode" : "63",
     "date" : "20200105",
     "areaCode" : "05",
     "cityCode" : "000",
     "station" : "臺北市公用頻道(有線電視系統第3頻道)",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/9R7hCBa5dIg",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第五選舉區)",
+    "href" : "https://www.youtube.com/embed/wz8FjnQnLCQ",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第5選舉區)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "63",
@@ -156,8 +166,8 @@
     "cityCode" : "000",
     "station" : "臺北市公用頻道(有線電視系統第3頻道)",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/9R7hCBa5dIg",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第六選舉區)",
+    "href" : "https://www.youtube.com/embed/hmEDuLF_lTY",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第6選舉區)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "63",
@@ -166,8 +176,8 @@
     "cityCode" : "000",
     "station" : "臺北市公用頻道(有線電視系統第3頻道)",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/9R7hCBa5dIg",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第七選舉區)",
+    "href" : "https://www.youtube.com/embed/Qx1Qb8Ebtsw",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第7選舉區)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "63",
@@ -176,8 +186,58 @@
     "cityCode" : "000",
     "station" : "臺北市公用頻道(有線電視系統第3頻道)",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/9R7hCBa5dIg",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第八選舉區)",
+    "href" : "https://www.youtube.com/embed/uQ-erCqJeMY",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第8選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200104",
+    "areaCode" : "00",
+    "cityCode" : "020",
+    "station" : "世新電視台",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/9CNBaJm5brI",
+    "title" : "嘉義市第10屆立法委員選舉候選人電視公辦政見發表會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "63",
+    "date" : "20200104",
+    "areaCode" : "03",
+    "cityCode" : "000",
+    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/O_7faYP-YhI",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第3選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "63",
+    "date" : "20200104",
+    "areaCode" : "04",
+    "cityCode" : "000",
+    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/zKLeoswktKA",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第4選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "63",
+    "date" : "20200104",
+    "areaCode" : "02",
+    "cityCode" : "000",
+    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/aCC2ACA0M7Q",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第2選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "63",
+    "date" : "20200104",
+    "areaCode" : "01",
+    "cityCode" : "000",
+    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/5HFd_paKNfE",
+    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第1選舉區)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -202,16 +262,6 @@
   }, {
     "prvCode" : "66",
     "date" : "20200104",
-    "areaCode" : "06",
-    "cityCode" : "000",
-    "station" : "群健有線電視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/8levWfNzj-M",
-    "title" : "第10屆立法委員選舉臺中市第6選區候選人公辦電視政見發表會",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "66",
-    "date" : "20200104",
     "areaCode" : "08",
     "cityCode" : "000",
     "station" : "豐盟有線電視",
@@ -220,44 +270,14 @@
     "title" : "第10屆立法委員選舉臺中市第8選區候選人公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
-    "prvCode" : "63",
+    "prvCode" : "66",
     "date" : "20200104",
-    "areaCode" : "03",
+    "areaCode" : "06",
     "cityCode" : "000",
-    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
+    "station" : "群健有線電視",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/yTGu7BsWxIs",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第三選舉區)",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "63",
-    "date" : "20200104",
-    "areaCode" : "02",
-    "cityCode" : "000",
-    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/yTGu7BsWxIs",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第二選舉區)",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "63",
-    "date" : "20200104",
-    "areaCode" : "04",
-    "cityCode" : "000",
-    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/yTGu7BsWxIs",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第四選舉區)",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "63",
-    "date" : "20200104",
-    "areaCode" : "01",
-    "cityCode" : "000",
-    "station" : "臺北市公用頻道(有線電視系統第3頻道)",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/yTGu7BsWxIs",
-    "title" : "第10屆區域立法委員選舉臺北市公辦政見發表會(第一選舉區)",
+    "href" : "https://www.youtube.com/embed/8levWfNzj-M",
+    "title" : "第10屆立法委員選舉臺中市第6選區候選人公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "64",
@@ -272,16 +292,6 @@
   }, {
     "prvCode" : "64",
     "date" : "20200104",
-    "areaCode" : "01",
-    "cityCode" : "000",
-    "station" : "慶聯有限電視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/MIGznHuVWLo",
-    "title" : "第10屆立法委員高雄市第1選舉區候選人政見發表",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "64",
-    "date" : "20200104",
     "areaCode" : "06",
     "cityCode" : "000",
     "station" : "慶聯有限電視",
@@ -290,9 +300,19 @@
     "title" : "第10屆立法委員高雄市第6選舉區候選人政見發表-2",
     "typeCode" : "L1"
   }, {
+    "prvCode" : "64",
+    "date" : "20200104",
+    "areaCode" : "01",
+    "cityCode" : "000",
+    "station" : "慶聯有限電視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/MIGznHuVWLo",
+    "title" : "第10屆立法委員高雄市第1選舉區候選人政見發表",
+    "typeCode" : "L1"
+  }, {
     "prvCode" : "10",
     "date" : "20200103",
-    "areaCode" : "02",
+    "areaCode" : "01",
     "cityCode" : "005",
     "station" : "吉元 信和有線電視於CH3同步直播",
     "time" : "",
@@ -302,7 +322,7 @@
   }, {
     "prvCode" : "10",
     "date" : "20200103",
-    "areaCode" : "01",
+    "areaCode" : "02",
     "cityCode" : "005",
     "station" : "吉元 信和有線電視於CH3同步直播",
     "time" : "",
@@ -318,16 +338,6 @@
     "time" : "",
     "href" : "https://www.youtube.com/embed/UVKH7gqHmoY",
     "title" : "2020連江縣第十屆立法委員選舉",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "66",
-    "date" : "20200103",
-    "areaCode" : "03",
-    "cityCode" : "000",
-    "station" : "豐盟有線電視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/qixzYoFNz24",
-    "title" : "第10屆立法委員選舉臺中市第3選區候選人公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "66",
@@ -350,14 +360,14 @@
     "title" : "第10屆立法委員選舉臺中市第2選區候選人公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
-    "prvCode" : "65",
+    "prvCode" : "66",
     "date" : "20200103",
-    "areaCode" : "12",
+    "areaCode" : "03",
     "cityCode" : "000",
-    "station" : "有線電視頻道",
+    "station" : "豐盟有線電視",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/XAfnwSTl_bE",
-    "title" : "第10屆立法委員選舉新北市第12選區公辦電視政見發表會",
+    "href" : "https://www.youtube.com/embed/qixzYoFNz24",
+    "title" : "第10屆立法委員選舉臺中市第3選區候選人公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "65",
@@ -372,22 +382,32 @@
   }, {
     "prvCode" : "65",
     "date" : "20200103",
-    "areaCode" : "10",
-    "cityCode" : "000",
-    "station" : "有線電視頻道",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/ZZaWC9cwoX0",
-    "title" : "新北市第10屆立法委員公辦電視政見發表會 第10選舉區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "65",
-    "date" : "20200103",
     "areaCode" : "01",
     "cityCode" : "000",
     "station" : "有線電視頻道",
     "time" : "",
     "href" : "https://www.youtube.com/embed/aIn5AAd6iZM",
     "title" : "第10屆立法委員新北市第1選舉區公辦電視政見發表會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "65",
+    "date" : "20200103",
+    "areaCode" : "12",
+    "cityCode" : "000",
+    "station" : "有線電視頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/XAfnwSTl_bE",
+    "title" : "第10屆立法委員選舉新北市第12選區公辦電視政見發表會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "65",
+    "date" : "20200103",
+    "areaCode" : "10",
+    "cityCode" : "000",
+    "station" : "有線電視頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/ZZaWC9cwoX0",
+    "title" : "新北市第10屆立法委員公辦電視政見發表會 第10選舉區",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -512,22 +532,22 @@
   }, {
     "prvCode" : "64",
     "date" : "20200103",
-    "areaCode" : "04",
-    "cityCode" : "000",
-    "station" : "慶聯有限電視",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/tD5H-fOIM0M",
-    "title" : "第10屆立法委員選舉高雄市第4選舉區候選人政見發表會",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "64",
-    "date" : "20200103",
     "areaCode" : "03",
     "cityCode" : "000",
     "station" : "慶聯有限電視",
     "time" : "",
     "href" : "https://www.youtube.com/embed/rpUGFW6wbSw",
     "title" : "第10屆立法委員選舉高雄市第3選舉區候選人政見發表會之二",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "64",
+    "date" : "20200103",
+    "areaCode" : "05",
+    "cityCode" : "000",
+    "station" : "慶聯有限電視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/7JgSA9FH-E4",
+    "title" : "第10屆立法委員選舉高雄市第5選舉區候選人政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "64",
@@ -542,12 +562,12 @@
   }, {
     "prvCode" : "64",
     "date" : "20200103",
-    "areaCode" : "05",
+    "areaCode" : "04",
     "cityCode" : "000",
     "station" : "慶聯有限電視",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/7JgSA9FH-E4",
-    "title" : "第10屆立法委員選舉高雄市第5選舉區候選人政見發表會",
+    "href" : "https://www.youtube.com/embed/tD5H-fOIM0M",
+    "title" : "第10屆立法委員選舉高雄市第4選舉區候選人政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -612,12 +632,12 @@
   }, {
     "prvCode" : "65",
     "date" : "20200102",
-    "areaCode" : "09",
+    "areaCode" : "03",
     "cityCode" : "000",
     "station" : "有線電視頻道",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/Axwmb0cANsk",
-    "title" : "第10屆立法委員新北市第9選舉區公辦電視政見會",
+    "href" : "https://www.youtube.com/embed/0S7zdbOg9rA",
+    "title" : "第10屆立法委員新北市第3選舉區公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "65",
@@ -632,32 +652,12 @@
   }, {
     "prvCode" : "65",
     "date" : "20200102",
-    "areaCode" : "07",
+    "areaCode" : "04",
     "cityCode" : "000",
     "station" : "有線電視頻道",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/vXMbxvA8J7E",
-    "title" : "新北市第10屆立法委員公辦電視政見發表會 7選區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "65",
-    "date" : "20200102",
-    "areaCode" : "06",
-    "cityCode" : "000",
-    "station" : "有線電視頻道",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/MiLxi9enF1Q",
-    "title" : "新北市第10屆立法委員公辦電視政見發表會 第6選舉區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "65",
-    "date" : "20200102",
-    "areaCode" : "08",
-    "cityCode" : "000",
-    "station" : "有線電視頻道",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/0UYx1JJmykg",
-    "title" : "第10屆立法委員新北市第8選舉區公辦電視政見會",
+    "href" : "https://www.youtube.com/embed/zlmCeISjP-0",
+    "title" : "第10屆立法委員新北市第4選區公辦電視政見發表會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "65",
@@ -672,22 +672,62 @@
   }, {
     "prvCode" : "65",
     "date" : "20200102",
-    "areaCode" : "04",
+    "areaCode" : "09",
     "cityCode" : "000",
     "station" : "有線電視頻道",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/zlmCeISjP-0",
-    "title" : "第10屆立法委員新北市第4選區公辦電視政見發表會",
+    "href" : "https://www.youtube.com/embed/Axwmb0cANsk",
+    "title" : "第10屆立法委員新北市第9選舉區公辦電視政見會",
     "typeCode" : "L1"
   }, {
     "prvCode" : "65",
     "date" : "20200102",
-    "areaCode" : "03",
+    "areaCode" : "08",
     "cityCode" : "000",
     "station" : "有線電視頻道",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/0S7zdbOg9rA",
-    "title" : "第10屆立法委員新北市第3選舉區公辦電視政見發表會",
+    "href" : "https://www.youtube.com/embed/0UYx1JJmykg",
+    "title" : "第10屆立法委員新北市第8選舉區公辦電視政見會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "65",
+    "date" : "20200102",
+    "areaCode" : "06",
+    "cityCode" : "000",
+    "station" : "有線電視頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/MiLxi9enF1Q",
+    "title" : "新北市第10屆立法委員公辦電視政見發表會 第6選舉區",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "65",
+    "date" : "20200102",
+    "areaCode" : "07",
+    "cityCode" : "000",
+    "station" : "有線電視頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/vXMbxvA8J7E",
+    "title" : "新北市第10屆立法委員公辦電視政見發表會 7選區",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200102",
+    "areaCode" : "03",
+    "cityCode" : "007",
+    "station" : "彰化縣公益頻道(CH03)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/rfcORbRv7yQ",
+    "title" : "第10屆立法委員選舉彰化縣公辦政見發表會－第3及第4選舉區",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200102",
+    "areaCode" : "01",
+    "cityCode" : "007",
+    "station" : "彰化縣公益頻道(CH03)",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/elCwYRfphA0",
+    "title" : "第10屆立法委員選舉彰化縣公辦政見發表會－第1及第2選舉區",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -708,56 +748,6 @@
     "time" : "",
     "href" : "https://www.youtube.com/embed/rfcORbRv7yQ",
     "title" : "第10屆立法委員選舉彰化縣公辦政見發表會－第3及第4選舉區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200102",
-    "areaCode" : "03",
-    "cityCode" : "007",
-    "station" : "彰化縣公益頻道(CH03)",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/rfcORbRv7yQ",
-    "title" : "第10屆立法委員選舉彰化縣公辦政見發表會－第3及第4選舉區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200102",
-    "areaCode" : "01",
-    "cityCode" : "007",
-    "station" : "彰化縣公益頻道(CH03)",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/elCwYRfphA0",
-    "title" : "第10屆立法委員選舉彰化縣公辦政見發表會－第1及第2選舉區",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "67",
-    "date" : "20200102",
-    "areaCode" : "03",
-    "cityCode" : "000",
-    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/J0JGXEyaOxM",
-    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第3、4選舉區)",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "67",
-    "date" : "20200102",
-    "areaCode" : "01",
-    "cityCode" : "000",
-    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/ha5vD2dYEsU",
-    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第1、2選舉區)",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "67",
-    "date" : "20200102",
-    "areaCode" : "04",
-    "cityCode" : "000",
-    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/J0JGXEyaOxM",
-    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第3、4選舉區)",
     "typeCode" : "L1"
   }, {
     "prvCode" : "67",
@@ -765,6 +755,36 @@
     "areaCode" : "02",
     "cityCode" : "000",
     "station" : "臺南市有線電視第3頻道",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/ha5vD2dYEsU",
+    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第1、2選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "67",
+    "date" : "20200102",
+    "areaCode" : "03",
+    "cityCode" : "000",
+    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/J0JGXEyaOxM",
+    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第3、4選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "67",
+    "date" : "20200102",
+    "areaCode" : "04",
+    "cityCode" : "000",
+    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/J0JGXEyaOxM",
+    "title" : "臺南市第十屆立法委員公辦電視政見發表會(第3、4選舉區)",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "67",
+    "date" : "20200102",
+    "areaCode" : "01",
+    "cityCode" : "000",
+    "station" : "臺南市有線電視第3頻道/雙子星有線電視股份有限公司",
     "time" : "",
     "href" : "https://www.youtube.com/embed/ha5vD2dYEsU",
     "title" : "臺南市第十屆立法委員公辦電視政見發表會(第1、2選舉區)",
@@ -802,6 +822,16 @@
   }, {
     "prvCode" : "64",
     "date" : "20200102",
+    "areaCode" : "08",
+    "cityCode" : "000",
+    "station" : "慶聯有限電視",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/MC0I5iUZQcE",
+    "title" : "第10屆立法委員選舉高雄市第8選舉區候選人政見發表會",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "64",
+    "date" : "20200102",
     "areaCode" : "02",
     "cityCode" : "000",
     "station" : "慶聯有限電視",
@@ -810,14 +840,14 @@
     "title" : "第10屆立法委員選舉高雄市第2選舉區候選人政見發表會",
     "typeCode" : "L1"
   }, {
-    "prvCode" : "64",
-    "date" : "20200102",
-    "areaCode" : "08",
-    "cityCode" : "000",
-    "station" : "慶聯有限電視",
+    "prvCode" : "10",
+    "date" : "20200101",
+    "areaCode" : "02",
+    "cityCode" : "013",
+    "station" : "屏東縣有線電視台（第3頻道）",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/MC0I5iUZQcE",
-    "title" : "第10屆立法委員選舉高雄市第8選舉區候選人政見發表會",
+    "href" : "https://www.youtube.com/embed/zAhe3orArTY",
+    "title" : "第十屆立法委員政見發表會 第二選區（第1場次）",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -832,12 +862,22 @@
   }, {
     "prvCode" : "10",
     "date" : "20200101",
-    "areaCode" : "02",
-    "cityCode" : "013",
-    "station" : "屏東縣有線電視台（第3頻道）",
+    "areaCode" : "01",
+    "cityCode" : "009",
+    "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/zAhe3orArTY",
-    "title" : "第十屆立法委員政見發表會 第二選區（第1場次）",
+    "href" : "https://www.youtube.com/embed/01kwIBzKOgo",
+    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第1選舉區李昭儀",
+    "typeCode" : "L1"
+  }, {
+    "prvCode" : "10",
+    "date" : "20200101",
+    "areaCode" : "02",
+    "cityCode" : "009",
+    "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
+    "time" : "",
+    "href" : "https://www.youtube.com/embed/Kn0pIJFqWSI",
+    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區張永津",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -856,8 +896,8 @@
     "cityCode" : "009",
     "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/IiVHbsbIMZA",
-    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區劉建國",
+    "href" : "https://www.youtube.com/embed/RA_7odpeyqs",
+    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區彭新銘",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -866,8 +906,8 @@
     "cityCode" : "009",
     "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/Kn0pIJFqWSI",
-    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區張永津",
+    "href" : "https://www.youtube.com/embed/IiVHbsbIMZA",
+    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區劉建國",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
@@ -886,38 +926,18 @@
     "cityCode" : "009",
     "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/t9bw6QrUoQg",
-    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第1選舉區張嘉郡",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200101",
-    "areaCode" : "01",
-    "cityCode" : "009",
-    "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
-    "time" : "",
-    "href" : "https://www.youtube.com/embed/01kwIBzKOgo",
-    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第1選舉區李昭儀",
-    "typeCode" : "L1"
-  }, {
-    "prvCode" : "10",
-    "date" : "20200101",
-    "areaCode" : "01",
-    "cityCode" : "009",
-    "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
-    "time" : "",
     "href" : "https://www.youtube.com/embed/kk3cH8Bw8Dc",
     "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第1選舉區蘇治芬",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
     "date" : "20200101",
-    "areaCode" : "02",
+    "areaCode" : "01",
     "cityCode" : "009",
     "station" : "佳聯、北港有線電視 第4頻道上午10時至12時、第39頻道中午1時至3時及晚上7時至9時",
     "time" : "",
-    "href" : "https://www.youtube.com/embed/RA_7odpeyqs",
-    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第2選舉區彭新銘",
+    "href" : "https://www.youtube.com/embed/t9bw6QrUoQg",
+    "title" : "第10屆立法委員選舉雲林縣公辦電視政見發表會 第1選舉區張嘉郡",
     "typeCode" : "L1"
   }, {
     "prvCode" : "10",
