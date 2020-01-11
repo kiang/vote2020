@@ -1,0 +1,1943 @@
+{
+  "tboxs" : [ {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0001",
+    "tboxName" : "中正國民小學1年1班教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市中興里民生路38號",
+    "neighbor" : "復興里",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "長安里",
+    "tboxNo" : "0002",
+    "tboxName" : "中正國民小學1年2班教室",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市中興里民生路38號",
+    "neighbor" : "長安里",
+    "deptCode" : "010",
+    "liName" : "長安里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0003",
+    "tboxName" : "中正國民小學2年2班教室",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市中興里民生路38號",
+    "neighbor" : "中央里",
+    "deptCode" : "010",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "啟明里",
+    "tboxNo" : "0004",
+    "tboxName" : "馬公東甲北極殿活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市啟明里啟明街2號",
+    "neighbor" : "啟明里",
+    "deptCode" : "010",
+    "liName" : "啟明里"
+  }, {
+    "ScopeLiName" : "重慶里",
+    "tboxNo" : "0005",
+    "tboxName" : "馬公市民服務中心（舊啟明派出所）",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市重慶里仁愛路16號",
+    "neighbor" : "重慶里",
+    "deptCode" : "010",
+    "liName" : "重慶里"
+  }, {
+    "ScopeLiName" : "中興里",
+    "tboxNo" : "0006",
+    "tboxName" : "澎湖縣政府衛生局",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市中興里中正路115號1樓",
+    "neighbor" : "中興里",
+    "deptCode" : "010",
+    "liName" : "中興里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0007",
+    "tboxName" : "馬公國小2年1班教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光復里明遠路2號",
+    "neighbor" : "1-15,29",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0008",
+    "tboxName" : "馬公國小2年2班教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光復里明遠路2號",
+    "neighbor" : "16-28",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0009",
+    "tboxName" : "文光國中資源教室3",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光明里文光路17號",
+    "neighbor" : "光明里",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光榮里",
+    "tboxNo" : "0010",
+    "tboxName" : "龍行新城B區活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光榮里貿商街131號",
+    "neighbor" : "1-8,31-33",
+    "deptCode" : "010",
+    "liName" : "光榮里"
+  }, {
+    "ScopeLiName" : "光榮里",
+    "tboxNo" : "0011",
+    "tboxName" : "文光國小1年2班教室",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光榮里三多路450號",
+    "neighbor" : "10-19,24",
+    "deptCode" : "010",
+    "liName" : "光榮里"
+  }, {
+    "ScopeLiName" : "光榮里",
+    "tboxNo" : "0012",
+    "tboxName" : "光榮社區活動中心(新活動中心)",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光榮里三多路437號",
+    "neighbor" : "9,20-23,25-30,34",
+    "deptCode" : "010",
+    "liName" : "光榮里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0013",
+    "tboxName" : "中興國小第二棟東側體育室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市朝陽里光復路186號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0014",
+    "tboxName" : "中興國小第二棟西側潛能開發班教室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市朝陽里光復路186號",
+    "neighbor" : "11-18",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0015",
+    "tboxName" : "朝陽里社區活動中心東側",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市朝陽里六合路21巷18號",
+    "neighbor" : "19-28,30",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "朝陽里",
+    "tboxNo" : "0016",
+    "tboxName" : "朝陽里社區活動中心西側",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市朝陽里六合路21巷18號",
+    "neighbor" : "29,31-37",
+    "deptCode" : "010",
+    "liName" : "朝陽里"
+  }, {
+    "ScopeLiName" : "陽明里",
+    "tboxNo" : "0017",
+    "tboxName" : "澎湖縣身心障礙福利服務中心",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市陽明里同和路33號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "陽明里"
+  }, {
+    "ScopeLiName" : "陽明里",
+    "tboxNo" : "0018",
+    "tboxName" : "文光國中9年1班教室",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光明里文光路17號",
+    "neighbor" : "17-28",
+    "deptCode" : "010",
+    "liName" : "陽明里"
+  }, {
+    "ScopeLiName" : "重光里",
+    "tboxNo" : "0019",
+    "tboxName" : "重光社區長青會館",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市重光里53號",
+    "neighbor" : "重光里",
+    "deptCode" : "010",
+    "liName" : "重光里"
+  }, {
+    "ScopeLiName" : "西衛里",
+    "tboxNo" : "0020",
+    "tboxName" : "西衛舊社區活動中心",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西衛里84號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "西衛里"
+  }, {
+    "ScopeLiName" : "西衛里",
+    "tboxNo" : "0021",
+    "tboxName" : "西衛宸威殿1樓會議室",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西衛里95號",
+    "neighbor" : "10-18",
+    "deptCode" : "010",
+    "liName" : "西衛里"
+  }, {
+    "ScopeLiName" : "西衛里",
+    "tboxNo" : "0022",
+    "tboxName" : "西衛社區暨農漁民活動中心(新活動中心)東側",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西衛里157-8號",
+    "neighbor" : "19-26",
+    "deptCode" : "010",
+    "liName" : "西衛里"
+  }, {
+    "ScopeLiName" : "西衛里",
+    "tboxNo" : "0023",
+    "tboxName" : "西衛社區暨農漁民活動中心(新活動中心)西側",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西衛里157-8號",
+    "neighbor" : "27-30",
+    "deptCode" : "010",
+    "liName" : "西衛里"
+  }, {
+    "ScopeLiName" : "西文里",
+    "tboxNo" : "0024",
+    "tboxName" : "西文社區活動中心",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西文里12號之3",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "西文里"
+  }, {
+    "ScopeLiName" : "西文里",
+    "tboxNo" : "0025",
+    "tboxName" : "文澳國民小學多功能體育館北側",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西文里文學路221號",
+    "neighbor" : "10-18",
+    "deptCode" : "010",
+    "liName" : "西文里"
+  }, {
+    "ScopeLiName" : "西文里",
+    "tboxNo" : "0026",
+    "tboxName" : "文澳國民小學多功能體育館南側",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市西文里文學路221號",
+    "neighbor" : "19-24",
+    "deptCode" : "010",
+    "liName" : "西文里"
+  }, {
+    "ScopeLiName" : "東文里",
+    "tboxNo" : "0027",
+    "tboxName" : "東文社區活動中心東側",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市東文里民富街46號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "東文里"
+  }, {
+    "ScopeLiName" : "東文里",
+    "tboxNo" : "0028",
+    "tboxName" : "東文社區活動中心西側",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市東文里民富街46號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "東文里"
+  }, {
+    "ScopeLiName" : "東文里",
+    "tboxNo" : "0029",
+    "tboxName" : "澎湖縣勞工育樂中心",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市案山里大賢街160號",
+    "neighbor" : "14-18",
+    "deptCode" : "010",
+    "liName" : "東文里"
+  }, {
+    "ScopeLiName" : "案山里",
+    "tboxNo" : "0030",
+    "tboxName" : "案山社區暨農漁民活動中心(南側)",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市案山里51之20號",
+    "neighbor" : "1-11,22,23",
+    "deptCode" : "010",
+    "liName" : "案山里"
+  }, {
+    "ScopeLiName" : "案山里",
+    "tboxNo" : "0031",
+    "tboxName" : "案山社區暨農漁民活動中心(北側)",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市案山里51之20號",
+    "neighbor" : "12-21",
+    "deptCode" : "010",
+    "liName" : "案山里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0032",
+    "tboxName" : "光華社區活動中心",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光華里21號",
+    "neighbor" : "光華里",
+    "deptCode" : "010",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "前寮里",
+    "tboxNo" : "0033",
+    "tboxName" : "前寮里里集會所活動中心",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市前寮里33-8號",
+    "neighbor" : "前寮里",
+    "deptCode" : "010",
+    "liName" : "前寮里"
+  }, {
+    "ScopeLiName" : "石泉里",
+    "tboxNo" : "0034",
+    "tboxName" : "石泉社區活動中心",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市石泉里32號之1",
+    "neighbor" : "1-9,17",
+    "deptCode" : "010",
+    "liName" : "石泉里"
+  }, {
+    "ScopeLiName" : "石泉里",
+    "tboxNo" : "0035",
+    "tboxName" : "中正國民中學7年1班教室",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市光華里101號",
+    "neighbor" : "10-16",
+    "deptCode" : "010",
+    "liName" : "石泉里"
+  }, {
+    "ScopeLiName" : "菜園里",
+    "tboxNo" : "0036",
+    "tboxName" : "黃姓紫雲宗祠",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市菜園里31號",
+    "neighbor" : "菜園里",
+    "deptCode" : "010",
+    "liName" : "菜園里"
+  }, {
+    "ScopeLiName" : "東衛里",
+    "tboxNo" : "0037",
+    "tboxName" : "東衛社區活動中心",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市東衛里27號之6",
+    "neighbor" : "1-12,20",
+    "deptCode" : "010",
+    "liName" : "東衛里"
+  }, {
+    "ScopeLiName" : "東衛里",
+    "tboxNo" : "0038",
+    "tboxName" : "東衛國小4年級教室",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市東衛里169號",
+    "neighbor" : "13-19,21",
+    "deptCode" : "010",
+    "liName" : "東衛里"
+  }, {
+    "ScopeLiName" : "安宅里",
+    "tboxNo" : "0039",
+    "tboxName" : "安宅社區暨農漁民活動中心",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市安宅里6號之6",
+    "neighbor" : "安宅里",
+    "deptCode" : "010",
+    "liName" : "安宅里"
+  }, {
+    "ScopeLiName" : "興仁里",
+    "tboxNo" : "0040",
+    "tboxName" : "興仁社區活動中心",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市興仁里47號之1",
+    "neighbor" : "興仁里",
+    "deptCode" : "010",
+    "liName" : "興仁里"
+  }, {
+    "ScopeLiName" : "烏崁里",
+    "tboxNo" : "0041",
+    "tboxName" : "烏崁里民集會所",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市烏崁里102號之5",
+    "neighbor" : "烏崁里",
+    "deptCode" : "010",
+    "liName" : "烏崁里"
+  }, {
+    "ScopeLiName" : "鐵線里",
+    "tboxNo" : "0042",
+    "tboxName" : "鐵線社區暨農漁民活動中心",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市鐵線里4之5號",
+    "neighbor" : "鐵線里",
+    "deptCode" : "010",
+    "liName" : "鐵線里"
+  }, {
+    "ScopeLiName" : "鎖港里",
+    "tboxNo" : "0043",
+    "tboxName" : "鎖港新社區活動中心",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市鎖港里633號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "鎖港里"
+  }, {
+    "ScopeLiName" : "鎖港里",
+    "tboxNo" : "0044",
+    "tboxName" : "鎖港舊社區活動中心",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市鎖港里1559號",
+    "neighbor" : "14-27",
+    "deptCode" : "010",
+    "liName" : "鎖港里"
+  }, {
+    "ScopeLiName" : "山水里",
+    "tboxNo" : "0045",
+    "tboxName" : "山水社區暨漁民活動中心南側",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市山水里6之8號",
+    "neighbor" : "1-12",
+    "deptCode" : "010",
+    "liName" : "山水里"
+  }, {
+    "ScopeLiName" : "山水里",
+    "tboxNo" : "0046",
+    "tboxName" : "山水社區暨漁民活動中心北側",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市山水里6之8號",
+    "neighbor" : "13-22",
+    "deptCode" : "010",
+    "liName" : "山水里"
+  }, {
+    "ScopeLiName" : "五德里",
+    "tboxNo" : "0047",
+    "tboxName" : "五德社區暨農漁民活動中心",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市五德里77號之2",
+    "neighbor" : "五德里",
+    "deptCode" : "010",
+    "liName" : "五德里"
+  }, {
+    "ScopeLiName" : "井垵里",
+    "tboxNo" : "0048",
+    "tboxName" : "井垵社區暨農漁民活動中心",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市井垵里17號之2",
+    "neighbor" : "井垵里",
+    "deptCode" : "010",
+    "liName" : "井垵里"
+  }, {
+    "ScopeLiName" : "嵵裡里",
+    "tboxNo" : "0049",
+    "tboxName" : "嵵裡社區暨農漁民活動中心1樓",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市嵵裡里99號之8",
+    "neighbor" : "嵵裡里",
+    "deptCode" : "010",
+    "liName" : "嵵裡里"
+  }, {
+    "ScopeLiName" : "風櫃里",
+    "tboxNo" : "0050",
+    "tboxName" : "風櫃新社區活動中心",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市風櫃里48號之25",
+    "neighbor" : "風櫃里",
+    "deptCode" : "010",
+    "liName" : "風櫃里"
+  }, {
+    "ScopeLiName" : "虎井里",
+    "tboxNo" : "0051",
+    "tboxName" : "虎井社區暨農漁民活動中心",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市虎井里9之2號",
+    "neighbor" : "虎井里",
+    "deptCode" : "010",
+    "liName" : "虎井里"
+  }, {
+    "ScopeLiName" : "桶盤里",
+    "tboxNo" : "0052",
+    "tboxName" : "桶盤社區暨農漁民活動中心",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "澎湖縣馬公市桶盤里31之2號",
+    "neighbor" : "桶盤里",
+    "deptCode" : "010",
+    "liName" : "桶盤里"
+  }, {
+    "ScopeLiName" : "湖西村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "1-16",
+    "deptCode" : "020",
+    "liName" : "湖西村"
+  }, {
+    "ScopeLiName" : "湖西村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "湖西村",
+    "deptCode" : "020",
+    "liName" : "湖西村"
+  }, {
+    "ScopeLiName" : "湖西村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "湖西村",
+    "deptCode" : "020",
+    "liName" : "湖西村"
+  }, {
+    "ScopeLiName" : "湖東村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "湖東村",
+    "deptCode" : "020",
+    "liName" : "湖東村"
+  }, {
+    "ScopeLiName" : "湖東村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "湖東村",
+    "deptCode" : "020",
+    "liName" : "湖東村"
+  }, {
+    "ScopeLiName" : "青螺村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "青螺村",
+    "deptCode" : "020",
+    "liName" : "青螺村"
+  }, {
+    "ScopeLiName" : "青螺村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "青螺村",
+    "deptCode" : "020",
+    "liName" : "青螺村"
+  }, {
+    "ScopeLiName" : "白坑村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "白坑村",
+    "deptCode" : "020",
+    "liName" : "白坑村"
+  }, {
+    "ScopeLiName" : "白坑村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "白坑村",
+    "deptCode" : "020",
+    "liName" : "白坑村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "南寮村",
+    "deptCode" : "020",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "南寮村",
+    "deptCode" : "020",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "北寮村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "北寮村",
+    "deptCode" : "020",
+    "liName" : "北寮村"
+  }, {
+    "ScopeLiName" : "北寮村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "北寮村",
+    "deptCode" : "020",
+    "liName" : "北寮村"
+  }, {
+    "ScopeLiName" : "紅羅村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "紅羅村",
+    "deptCode" : "020",
+    "liName" : "紅羅村"
+  }, {
+    "ScopeLiName" : "紅羅村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "紅羅村",
+    "deptCode" : "020",
+    "liName" : "紅羅村"
+  }, {
+    "ScopeLiName" : "西溪村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "西溪村",
+    "deptCode" : "020",
+    "liName" : "西溪村"
+  }, {
+    "ScopeLiName" : "西溪村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "西溪村",
+    "deptCode" : "020",
+    "liName" : "西溪村"
+  }, {
+    "ScopeLiName" : "太武村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "太武村",
+    "deptCode" : "020",
+    "liName" : "太武村"
+  }, {
+    "ScopeLiName" : "太武村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "太武村",
+    "deptCode" : "020",
+    "liName" : "太武村"
+  }, {
+    "ScopeLiName" : "隘門村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "隘門村",
+    "deptCode" : "020",
+    "liName" : "隘門村"
+  }, {
+    "ScopeLiName" : "隘門村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "隘門村",
+    "deptCode" : "020",
+    "liName" : "隘門村"
+  }, {
+    "ScopeLiName" : "林投村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "林投村",
+    "deptCode" : "020",
+    "liName" : "林投村"
+  }, {
+    "ScopeLiName" : "林投村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "林投村",
+    "deptCode" : "020",
+    "liName" : "林投村"
+  }, {
+    "ScopeLiName" : "尖山村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "尖山村",
+    "deptCode" : "020",
+    "liName" : "尖山村"
+  }, {
+    "ScopeLiName" : "尖山村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "尖山村",
+    "deptCode" : "020",
+    "liName" : "尖山村"
+  }, {
+    "ScopeLiName" : "龍門村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "龍門村",
+    "deptCode" : "020",
+    "liName" : "龍門村"
+  }, {
+    "ScopeLiName" : "龍門村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "龍門村",
+    "deptCode" : "020",
+    "liName" : "龍門村"
+  }, {
+    "ScopeLiName" : "菓葉村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "菓葉村",
+    "deptCode" : "020",
+    "liName" : "菓葉村"
+  }, {
+    "ScopeLiName" : "菓葉村",
+    "tboxNo" : "0053",
+    "tboxName" : "湖西社區活動中心(新)",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉湖西村１１－６號",
+    "neighbor" : "菓葉村",
+    "deptCode" : "020",
+    "liName" : "菓葉村"
+  }, {
+    "ScopeLiName" : "湖東村",
+    "tboxNo" : "0054",
+    "tboxName" : "湖東社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉湖東村２３號之1",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "湖東村"
+  }, {
+    "ScopeLiName" : "青螺村",
+    "tboxNo" : "0055",
+    "tboxName" : "青螺村活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉青螺村１－１號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "青螺村"
+  }, {
+    "ScopeLiName" : "白坑村",
+    "tboxNo" : "0056",
+    "tboxName" : "白坑社區活動中心(新)",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉白坑村１號之３",
+    "neighbor" : "1-5",
+    "deptCode" : "020",
+    "liName" : "白坑村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0057",
+    "tboxName" : "南寮社區活動中心(新)",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉南寮村１２１號之５",
+    "neighbor" : "1-19",
+    "deptCode" : "020",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "北寮村",
+    "tboxNo" : "0058",
+    "tboxName" : "北寮社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉北寮村２５號之２",
+    "neighbor" : "1-7",
+    "deptCode" : "020",
+    "liName" : "北寮村"
+  }, {
+    "ScopeLiName" : "紅羅村",
+    "tboxNo" : "0059",
+    "tboxName" : "紅羅社區活動中心(新)",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉紅羅村３１號之５",
+    "neighbor" : "1-12",
+    "deptCode" : "020",
+    "liName" : "紅羅村"
+  }, {
+    "ScopeLiName" : "西溪村",
+    "tboxNo" : "0060",
+    "tboxName" : "西溪社區活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉西溪村６８號",
+    "neighbor" : "1-14",
+    "deptCode" : "020",
+    "liName" : "西溪村"
+  }, {
+    "ScopeLiName" : "成功村",
+    "tboxNo" : "0061",
+    "tboxName" : "成功社區暨農漁民活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉成功村８０號之２",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "成功村"
+  }, {
+    "ScopeLiName" : "東石村",
+    "tboxNo" : "0062",
+    "tboxName" : "東石村泰靈殿",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉東石村３３號",
+    "neighbor" : "1-5",
+    "deptCode" : "020",
+    "liName" : "東石村"
+  }, {
+    "ScopeLiName" : "沙港村",
+    "tboxNo" : "0063",
+    "tboxName" : "沙港社區漁民活動中心",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉沙港村７５號之１",
+    "neighbor" : "1-20",
+    "deptCode" : "020",
+    "liName" : "沙港村"
+  }, {
+    "ScopeLiName" : "中西村",
+    "tboxNo" : "0064",
+    "tboxName" : "中西社區活動中心",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉中西村１９號之１",
+    "neighbor" : "1-7",
+    "deptCode" : "020",
+    "liName" : "中西村"
+  }, {
+    "ScopeLiName" : "成功村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "成功村",
+    "deptCode" : "020",
+    "liName" : "成功村"
+  }, {
+    "ScopeLiName" : "成功村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "成功村",
+    "deptCode" : "020",
+    "liName" : "成功村"
+  }, {
+    "ScopeLiName" : "東石村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "東石村",
+    "deptCode" : "020",
+    "liName" : "東石村"
+  }, {
+    "ScopeLiName" : "東石村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "東石村",
+    "deptCode" : "020",
+    "liName" : "東石村"
+  }, {
+    "ScopeLiName" : "中西村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "中西村",
+    "deptCode" : "020",
+    "liName" : "中西村"
+  }, {
+    "ScopeLiName" : "中西村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "中西村",
+    "deptCode" : "020",
+    "liName" : "中西村"
+  }, {
+    "ScopeLiName" : "潭邊村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "潭邊村",
+    "deptCode" : "020",
+    "liName" : "潭邊村"
+  }, {
+    "ScopeLiName" : "潭邊村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "潭邊村",
+    "deptCode" : "020",
+    "liName" : "潭邊村"
+  }, {
+    "ScopeLiName" : "鼎灣村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "鼎灣村"
+  }, {
+    "ScopeLiName" : "鼎灣村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "鼎灣村",
+    "deptCode" : "020",
+    "liName" : "鼎灣村"
+  }, {
+    "ScopeLiName" : "鼎灣村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "鼎灣村",
+    "deptCode" : "020",
+    "liName" : "鼎灣村"
+  }, {
+    "ScopeLiName" : "許家村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "許家村",
+    "deptCode" : "020",
+    "liName" : "許家村"
+  }, {
+    "ScopeLiName" : "許家村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "許家村",
+    "deptCode" : "020",
+    "liName" : "許家村"
+  }, {
+    "ScopeLiName" : "沙港村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "沙港村",
+    "deptCode" : "020",
+    "liName" : "沙港村"
+  }, {
+    "ScopeLiName" : "沙港村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "沙港村",
+    "deptCode" : "020",
+    "liName" : "沙港村"
+  }, {
+    "ScopeLiName" : "城北村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "城北村",
+    "deptCode" : "020",
+    "liName" : "城北村"
+  }, {
+    "ScopeLiName" : "城北村",
+    "tboxNo" : "0065",
+    "tboxName" : "鼎灣社區活動中心",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "澎湖縣湖西鄉鼎灣村３７號",
+    "neighbor" : "城北村",
+    "deptCode" : "020",
+    "liName" : "城北村"
+  }, {
+    "ScopeLiName" : "潭邊村",
+    "tboxNo" : "0066",
+    "tboxName" : "潭邊社區活動中心(新)",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉潭邊村４７號之１",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "潭邊村"
+  }, {
+    "ScopeLiName" : "許家村",
+    "tboxNo" : "0067",
+    "tboxName" : "許家社區活動中心(新)",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉許家村２５號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "許家村"
+  }, {
+    "ScopeLiName" : "城北村",
+    "tboxNo" : "0068",
+    "tboxName" : "城北村民眾活動中心",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉城北村２３號之１",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "城北村"
+  }, {
+    "ScopeLiName" : "太武村",
+    "tboxNo" : "0069",
+    "tboxName" : "太武村民眾活動中心",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉太武村１４號之１",
+    "neighbor" : "1-4",
+    "deptCode" : "020",
+    "liName" : "太武村"
+  }, {
+    "ScopeLiName" : "隘門村",
+    "tboxNo" : "0070",
+    "tboxName" : "隘門社區活動中心",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉隘門村４１號之１",
+    "neighbor" : "1-18",
+    "deptCode" : "020",
+    "liName" : "隘門村"
+  }, {
+    "ScopeLiName" : "林投村",
+    "tboxNo" : "0071",
+    "tboxName" : "林投村活動中心",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉林投村１３號之１",
+    "neighbor" : "1-13",
+    "deptCode" : "020",
+    "liName" : "林投村"
+  }, {
+    "ScopeLiName" : "尖山村",
+    "tboxNo" : "0072",
+    "tboxName" : "尖山社區老人活動中心",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉尖山村２９－５號",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "尖山村"
+  }, {
+    "ScopeLiName" : "龍門村",
+    "tboxNo" : "0073",
+    "tboxName" : "龍門社區活動中心",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉龍門村９９號之１",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "龍門村"
+  }, {
+    "ScopeLiName" : "龍門村",
+    "tboxNo" : "0074",
+    "tboxName" : "原龍門村觀音宮",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉龍門村１２０號",
+    "neighbor" : "11-20",
+    "deptCode" : "020",
+    "liName" : "龍門村"
+  }, {
+    "ScopeLiName" : "菓葉村",
+    "tboxNo" : "0075",
+    "tboxName" : "菓葉社區活動中心",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "澎湖縣湖西鄉菓葉村１１４號之２",
+    "neighbor" : "1-18",
+    "deptCode" : "020",
+    "liName" : "菓葉村"
+  }, {
+    "ScopeLiName" : "中屯村",
+    "tboxNo" : "0076",
+    "tboxName" : "中屯社區活動中心(原祿館)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉中屯村2鄰29-1號",
+    "neighbor" : "中屯村",
+    "deptCode" : "030",
+    "liName" : "中屯村"
+  }, {
+    "ScopeLiName" : "中屯村",
+    "tboxNo" : "0076",
+    "tboxName" : "中屯社區活動中心(原祿館)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉中屯村2鄰29-1號",
+    "neighbor" : "中屯村",
+    "deptCode" : "030",
+    "liName" : "中屯村"
+  }, {
+    "ScopeLiName" : "中屯村",
+    "tboxNo" : "0076",
+    "tboxName" : "中屯社區活動中心(原祿館)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉中屯村2鄰29-1號",
+    "neighbor" : "中屯村",
+    "deptCode" : "030",
+    "liName" : "中屯村"
+  }, {
+    "ScopeLiName" : "講美村",
+    "tboxNo" : "0077",
+    "tboxName" : "講美社區暨漁民活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉講美村2鄰17-6號",
+    "neighbor" : "講美村",
+    "deptCode" : "030",
+    "liName" : "講美村"
+  }, {
+    "ScopeLiName" : "講美村",
+    "tboxNo" : "0077",
+    "tboxName" : "講美社區暨漁民活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉講美村2鄰17-6號",
+    "neighbor" : "講美村",
+    "deptCode" : "030",
+    "liName" : "講美村"
+  }, {
+    "ScopeLiName" : "講美村",
+    "tboxNo" : "0077",
+    "tboxName" : "講美社區暨漁民活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉講美村2鄰17-6號",
+    "neighbor" : "講美村",
+    "deptCode" : "030",
+    "liName" : "講美村"
+  }, {
+    "ScopeLiName" : "城前村",
+    "tboxNo" : "0078",
+    "tboxName" : "城前社區暨漁民活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉城前村6鄰17-1號",
+    "neighbor" : "城前村",
+    "deptCode" : "030",
+    "liName" : "城前村"
+  }, {
+    "ScopeLiName" : "鎮海村",
+    "tboxNo" : "0079",
+    "tboxName" : "鎮海社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉鎮海村1鄰5-1號",
+    "neighbor" : "鎮海村",
+    "deptCode" : "030",
+    "liName" : "鎮海村"
+  }, {
+    "ScopeLiName" : "鎮海村",
+    "tboxNo" : "0079",
+    "tboxName" : "鎮海社區活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉鎮海村1鄰5-1號",
+    "neighbor" : "鎮海村",
+    "deptCode" : "030",
+    "liName" : "鎮海村"
+  }, {
+    "ScopeLiName" : "港子村",
+    "tboxNo" : "0080",
+    "tboxName" : "港子社區暨漁民活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉港子村1鄰23-2號",
+    "neighbor" : "港子村",
+    "deptCode" : "030",
+    "liName" : "港子村"
+  }, {
+    "ScopeLiName" : "岐頭村",
+    "tboxNo" : "0081",
+    "tboxName" : "岐頭社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉岐頭村2鄰45-5號",
+    "neighbor" : "岐頭村",
+    "deptCode" : "030",
+    "liName" : "岐頭村"
+  }, {
+    "ScopeLiName" : "小赤村",
+    "tboxNo" : "0082",
+    "tboxName" : "小赤社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉小赤村2鄰11-8號",
+    "neighbor" : "小赤村",
+    "deptCode" : "030",
+    "liName" : "小赤村"
+  }, {
+    "ScopeLiName" : "赤崁村",
+    "tboxNo" : "0083",
+    "tboxName" : "赤崁社區活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉赤崁村2鄰35號",
+    "neighbor" : "1-10,22",
+    "deptCode" : "030",
+    "liName" : "赤崁村"
+  }, {
+    "ScopeLiName" : "赤崁村",
+    "tboxNo" : "0083",
+    "tboxName" : "赤崁社區活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉赤崁村2鄰35號",
+    "neighbor" : "赤崁村",
+    "deptCode" : "030",
+    "liName" : "赤崁村"
+  }, {
+    "ScopeLiName" : "赤崁村",
+    "tboxNo" : "0083",
+    "tboxName" : "赤崁社區活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉赤崁村2鄰35號",
+    "neighbor" : "赤崁村",
+    "deptCode" : "030",
+    "liName" : "赤崁村"
+  }, {
+    "ScopeLiName" : "赤崁村",
+    "tboxNo" : "0084",
+    "tboxName" : "白沙國中綜合教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉赤崁村16鄰294號",
+    "neighbor" : "11-21",
+    "deptCode" : "030",
+    "liName" : "赤崁村"
+  }, {
+    "ScopeLiName" : "瓦硐村",
+    "tboxNo" : "0085",
+    "tboxName" : "瓦硐社區活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉瓦硐村1鄰40-2號",
+    "neighbor" : "瓦硐村",
+    "deptCode" : "030",
+    "liName" : "瓦硐村"
+  }, {
+    "ScopeLiName" : "後寮村",
+    "tboxNo" : "0086",
+    "tboxName" : "後寮社區活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉後寮村20鄰92-1號",
+    "neighbor" : "後寮村",
+    "deptCode" : "030",
+    "liName" : "後寮村"
+  }, {
+    "ScopeLiName" : "通梁村",
+    "tboxNo" : "0087",
+    "tboxName" : "通梁社區活動中心",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉6鄰39-2號",
+    "neighbor" : "通梁村",
+    "deptCode" : "030",
+    "liName" : "通梁村"
+  }, {
+    "ScopeLiName" : "通梁村",
+    "tboxNo" : "0087",
+    "tboxName" : "通梁社區活動中心",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉6鄰39-2號",
+    "neighbor" : "通梁村",
+    "deptCode" : "030",
+    "liName" : "通梁村"
+  }, {
+    "ScopeLiName" : "通梁村",
+    "tboxNo" : "0087",
+    "tboxName" : "通梁社區活動中心",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉6鄰39-2號",
+    "neighbor" : "通梁村",
+    "deptCode" : "030",
+    "liName" : "通梁村"
+  }, {
+    "ScopeLiName" : "吉貝村",
+    "tboxNo" : "0088",
+    "tboxName" : "吉貝社區活動中心",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉7鄰1-1號",
+    "neighbor" : "吉貝村",
+    "deptCode" : "030",
+    "liName" : "吉貝村"
+  }, {
+    "ScopeLiName" : "吉貝村",
+    "tboxNo" : "0088",
+    "tboxName" : "吉貝社區活動中心",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "澎湖縣白沙鄉7鄰1-1號",
+    "neighbor" : "吉貝村",
+    "deptCode" : "030",
+    "liName" : "吉貝村"
+  }, {
+    "ScopeLiName" : "吉貝村",
+    "tboxNo" : "0088",
+    "tboxName" : "吉貝社區活動中心",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉7鄰1-1號",
+    "neighbor" : "吉貝村",
+    "deptCode" : "030",
+    "liName" : "吉貝村"
+  }, {
+    "ScopeLiName" : "鳥嶼村",
+    "tboxNo" : "0089",
+    "tboxName" : "鳥嶼社區暨漁民活動中心",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉鳥嶼村1鄰9-2號",
+    "neighbor" : "鳥嶼村",
+    "deptCode" : "030",
+    "liName" : "鳥嶼村"
+  }, {
+    "ScopeLiName" : "員貝村",
+    "tboxNo" : "0090",
+    "tboxName" : "員貝社區活動中心",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉員貝村1鄰10-4號",
+    "neighbor" : "員貝村",
+    "deptCode" : "030",
+    "liName" : "員貝村"
+  }, {
+    "ScopeLiName" : "大倉村",
+    "tboxNo" : "0091",
+    "tboxName" : "大倉社區活動中心",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "澎湖縣白沙鄉大倉村1鄰67號",
+    "neighbor" : "大倉村",
+    "deptCode" : "030",
+    "liName" : "大倉村"
+  }, {
+    "ScopeLiName" : "大倉村",
+    "tboxNo" : "0091",
+    "tboxName" : "大倉社區活動中心",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "澎湖縣白沙鄉大倉村1鄰67號",
+    "neighbor" : "大倉村",
+    "deptCode" : "030",
+    "liName" : "大倉村"
+  }, {
+    "ScopeLiName" : "橫礁村",
+    "tboxNo" : "0092",
+    "tboxName" : "橫礁社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉橫礁村6鄰橫礁３７之1號",
+    "neighbor" : "橫礁村",
+    "deptCode" : "040",
+    "liName" : "橫礁村"
+  }, {
+    "ScopeLiName" : "合界村",
+    "tboxNo" : "0093",
+    "tboxName" : "合界社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉合界村12鄰合界頭８０號之１",
+    "neighbor" : "合界村",
+    "deptCode" : "040",
+    "liName" : "合界村"
+  }, {
+    "ScopeLiName" : "竹灣村",
+    "tboxNo" : "0094",
+    "tboxName" : "竹灣社區暨農漁民活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉竹灣村18鄰竹篙灣７０號之４",
+    "neighbor" : "竹灣村",
+    "deptCode" : "040",
+    "liName" : "竹灣村"
+  }, {
+    "ScopeLiName" : "小門村",
+    "tboxNo" : "0095",
+    "tboxName" : "小門資訊站",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉小門村6鄰小門20之5號",
+    "neighbor" : "小門村",
+    "deptCode" : "040",
+    "liName" : "小門村"
+  }, {
+    "ScopeLiName" : "大池村",
+    "tboxNo" : "0096",
+    "tboxName" : "大池社區暨農漁民活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉大池村12鄰大池角１１號之５",
+    "neighbor" : "大池村",
+    "deptCode" : "040",
+    "liName" : "大池村"
+  }, {
+    "ScopeLiName" : "二崁村",
+    "tboxNo" : "0097",
+    "tboxName" : "二崁社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉二崁村2鄰二崁２３號之１",
+    "neighbor" : "二崁村",
+    "deptCode" : "040",
+    "liName" : "二崁村"
+  }, {
+    "ScopeLiName" : "橫礁村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "橫礁村",
+    "deptCode" : "040",
+    "liName" : "橫礁村"
+  }, {
+    "ScopeLiName" : "橫礁村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "橫礁村",
+    "deptCode" : "040",
+    "liName" : "橫礁村"
+  }, {
+    "ScopeLiName" : "合界村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "合界村",
+    "deptCode" : "040",
+    "liName" : "合界村"
+  }, {
+    "ScopeLiName" : "合界村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "合界村",
+    "deptCode" : "040",
+    "liName" : "合界村"
+  }, {
+    "ScopeLiName" : "竹灣村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "竹灣村",
+    "deptCode" : "040",
+    "liName" : "竹灣村"
+  }, {
+    "ScopeLiName" : "竹灣村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "竹灣村",
+    "deptCode" : "040",
+    "liName" : "竹灣村"
+  }, {
+    "ScopeLiName" : "大池村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "大池村",
+    "deptCode" : "040",
+    "liName" : "大池村"
+  }, {
+    "ScopeLiName" : "大池村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "大池村",
+    "deptCode" : "040",
+    "liName" : "大池村"
+  }, {
+    "ScopeLiName" : "池東村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "池東村",
+    "deptCode" : "040",
+    "liName" : "池東村"
+  }, {
+    "ScopeLiName" : "池東村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "池東村",
+    "deptCode" : "040",
+    "liName" : "池東村"
+  }, {
+    "ScopeLiName" : "池東村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "池東村",
+    "deptCode" : "040",
+    "liName" : "池東村"
+  }, {
+    "ScopeLiName" : "池西村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "池西村",
+    "deptCode" : "040",
+    "liName" : "池西村"
+  }, {
+    "ScopeLiName" : "池西村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "池西村",
+    "deptCode" : "040",
+    "liName" : "池西村"
+  }, {
+    "ScopeLiName" : "內垵村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "內垵村",
+    "deptCode" : "040",
+    "liName" : "內垵村"
+  }, {
+    "ScopeLiName" : "內垵村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "內垵村",
+    "deptCode" : "040",
+    "liName" : "內垵村"
+  }, {
+    "ScopeLiName" : "外垵村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "外垵村",
+    "deptCode" : "040",
+    "liName" : "外垵村"
+  }, {
+    "ScopeLiName" : "外垵村",
+    "tboxNo" : "0098",
+    "tboxName" : "池東池西社區活動中心",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "澎湖縣西嶼鄉池東村4鄰小池角７１號",
+    "neighbor" : "外垵村",
+    "deptCode" : "040",
+    "liName" : "外垵村"
+  }, {
+    "ScopeLiName" : "池西村",
+    "tboxNo" : "0099",
+    "tboxName" : "池東國小自然課教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉池東村7鄰小池角104號",
+    "neighbor" : "池西村",
+    "deptCode" : "040",
+    "liName" : "池西村"
+  }, {
+    "ScopeLiName" : "赤馬村",
+    "tboxNo" : "0100",
+    "tboxName" : "赤馬社區暨農漁民活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉赤馬村13鄰緝馬灣146之13號",
+    "neighbor" : "赤馬村",
+    "deptCode" : "040",
+    "liName" : "赤馬村"
+  }, {
+    "ScopeLiName" : "內垵村",
+    "tboxNo" : "0101",
+    "tboxName" : "內垵社區暨農漁民活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉內垵村4鄰內垵43之5號",
+    "neighbor" : "內垵村",
+    "deptCode" : "040",
+    "liName" : "內垵村"
+  }, {
+    "ScopeLiName" : "外垵村",
+    "tboxNo" : "0102",
+    "tboxName" : "外垵社區暨農漁民活動中心",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉外垵村1鄰外垵４之２６號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "外垵村"
+  }, {
+    "ScopeLiName" : "外垵村",
+    "tboxNo" : "0103",
+    "tboxName" : "外垵國小體育館",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "澎湖縣西嶼鄉外垵村5鄰外垵29號之3",
+    "neighbor" : "18-35",
+    "deptCode" : "040",
+    "liName" : "外垵村"
+  }, {
+    "ScopeLiName" : "東安村",
+    "tboxNo" : "0104",
+    "tboxName" : "東安社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉東安村1鄰17之1號",
+    "neighbor" : "東安村",
+    "deptCode" : "050",
+    "liName" : "東安村"
+  }, {
+    "ScopeLiName" : "東安村",
+    "tboxNo" : "0104",
+    "tboxName" : "東安社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "澎湖縣望安鄉東安村1鄰17之1號",
+    "neighbor" : "東安村",
+    "deptCode" : "050",
+    "liName" : "東安村"
+  }, {
+    "ScopeLiName" : "西安村",
+    "tboxNo" : "0105",
+    "tboxName" : "西安社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉西安村11鄰26之2號",
+    "neighbor" : "西安村",
+    "deptCode" : "050",
+    "liName" : "西安村"
+  }, {
+    "ScopeLiName" : "中社村",
+    "tboxNo" : "0106",
+    "tboxName" : "中社社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉中社村7鄰61之1號",
+    "neighbor" : "中社村",
+    "deptCode" : "050",
+    "liName" : "中社村"
+  }, {
+    "ScopeLiName" : "水垵村",
+    "tboxNo" : "0107",
+    "tboxName" : "水垵社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉水垵村1鄰1之4號",
+    "neighbor" : "水垵村",
+    "deptCode" : "050",
+    "liName" : "水垵村"
+  }, {
+    "ScopeLiName" : "將軍村",
+    "tboxNo" : "0108",
+    "tboxName" : "將軍候船室",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉將軍村1鄰1之1號附近候船室",
+    "neighbor" : "將軍村",
+    "deptCode" : "050",
+    "liName" : "將軍村"
+  }, {
+    "ScopeLiName" : "將軍村",
+    "tboxNo" : "0108",
+    "tboxName" : "將軍候船室",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "澎湖縣望安鄉將軍村1鄰1之1號附近候船室",
+    "neighbor" : "將軍村",
+    "deptCode" : "050",
+    "liName" : "將軍村"
+  }, {
+    "ScopeLiName" : "將軍村",
+    "tboxNo" : "0109",
+    "tboxName" : "將軍村集會所活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉將軍村20鄰161-1號",
+    "neighbor" : "將軍村",
+    "deptCode" : "050",
+    "liName" : "將軍村"
+  }, {
+    "ScopeLiName" : "東吉村",
+    "tboxNo" : "0110",
+    "tboxName" : "原東吉國小教室",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉東吉村1鄰6號",
+    "neighbor" : "東吉村",
+    "deptCode" : "050",
+    "liName" : "東吉村"
+  }, {
+    "ScopeLiName" : "東坪村",
+    "tboxNo" : "0111",
+    "tboxName" : "東坪社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉東坪村8鄰46-2號",
+    "neighbor" : "東坪村",
+    "deptCode" : "050",
+    "liName" : "東坪村"
+  }, {
+    "ScopeLiName" : "西坪村",
+    "tboxNo" : "0112",
+    "tboxName" : "西坪社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉西坪村3鄰12之5號",
+    "neighbor" : "西坪村",
+    "deptCode" : "050",
+    "liName" : "西坪村"
+  }, {
+    "ScopeLiName" : "花嶼村",
+    "tboxNo" : "0113",
+    "tboxName" : "花嶼社區暨農漁民活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "澎湖縣望安鄉花嶼村7鄰76之3號",
+    "neighbor" : "花嶼村",
+    "deptCode" : "050",
+    "liName" : "花嶼村"
+  }, {
+    "ScopeLiName" : "花嶼村",
+    "tboxNo" : "0113",
+    "tboxName" : "花嶼社區暨農漁民活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "澎湖縣望安鄉花嶼村7鄰76之3號",
+    "neighbor" : "花嶼村",
+    "deptCode" : "050",
+    "liName" : "花嶼村"
+  }, {
+    "ScopeLiName" : "東湖村",
+    "tboxNo" : "0114",
+    "tboxName" : "東湖社區暨農漁民活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉東湖村3鄰39-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "東湖村"
+  }, {
+    "ScopeLiName" : "西湖村",
+    "tboxNo" : "0115",
+    "tboxName" : "西湖社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉西湖村6鄰38號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "西湖村"
+  }, {
+    "ScopeLiName" : "中和村",
+    "tboxNo" : "0116",
+    "tboxName" : "中和社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉中和村5鄰41-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "中和村"
+  }, {
+    "ScopeLiName" : "平和村",
+    "tboxNo" : "0117",
+    "tboxName" : "平和社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉平和村8鄰23-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "平和村"
+  }, {
+    "ScopeLiName" : "海豐村",
+    "tboxNo" : "0118",
+    "tboxName" : "海豐社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉海豐村9鄰3-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "海豐村"
+  }, {
+    "ScopeLiName" : "南港村",
+    "tboxNo" : "0119",
+    "tboxName" : "南港社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "澎湖縣七美鄉南港村1鄰43號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "南港村"
+  } ]
+}

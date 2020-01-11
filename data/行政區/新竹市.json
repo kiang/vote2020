@@ -1,0 +1,388 @@
+{
+  "area" : [ {
+    "areaCode" : 0,
+    "areaName" : "新竹市選舉區",
+    "depts" : [ {
+      "liCount" : 53,
+      "deptName" : "東區",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "南門里"
+      }, {
+        "liCode" : "002",
+        "liName" : "福德里"
+      }, {
+        "liCode" : "003",
+        "liName" : "南市里"
+      }, {
+        "liCode" : "004",
+        "liName" : "關帝里"
+      }, {
+        "liCode" : "005",
+        "liName" : "東門里"
+      }, {
+        "liCode" : "006",
+        "liName" : "榮光里"
+      }, {
+        "liCode" : "007",
+        "liName" : "成功里"
+      }, {
+        "liCode" : "008",
+        "liName" : "下竹里"
+      }, {
+        "liCode" : "009",
+        "liName" : "竹蓮里"
+      }, {
+        "liCode" : "010",
+        "liName" : "寺前里"
+      }, {
+        "liCode" : "011",
+        "liName" : "育賢里"
+      }, {
+        "liCode" : "012",
+        "liName" : "中正里"
+      }, {
+        "liCode" : "013",
+        "liName" : "公園里"
+      }, {
+        "liCode" : "014",
+        "liName" : "頂竹里"
+      }, {
+        "liCode" : "015",
+        "liName" : "南大里"
+      }, {
+        "liCode" : "016",
+        "liName" : "振興里"
+      }, {
+        "liCode" : "017",
+        "liName" : "親仁里"
+      }, {
+        "liCode" : "018",
+        "liName" : "文華里"
+      }, {
+        "liCode" : "019",
+        "liName" : "復中里"
+      }, {
+        "liCode" : "020",
+        "liName" : "三民里"
+      }, {
+        "liCode" : "021",
+        "liName" : "東園里"
+      }, {
+        "liCode" : "022",
+        "liName" : "東勢里"
+      }, {
+        "liCode" : "023",
+        "liName" : "光復里"
+      }, {
+        "liCode" : "024",
+        "liName" : "豐功里"
+      }, {
+        "liCode" : "025",
+        "liName" : "武功里"
+      }, {
+        "liCode" : "026",
+        "liName" : "綠水里"
+      }, {
+        "liCode" : "027",
+        "liName" : "東山里"
+      }, {
+        "liCode" : "028",
+        "liName" : "光鎮里"
+      }, {
+        "liCode" : "029",
+        "liName" : "新興里"
+      }, {
+        "liCode" : "030",
+        "liName" : "柴橋里"
+      }, {
+        "liCode" : "031",
+        "liName" : "高峰里"
+      }, {
+        "liCode" : "032",
+        "liName" : "仙宮里"
+      }, {
+        "liCode" : "033",
+        "liName" : "光明里"
+      }, {
+        "liCode" : "035",
+        "liName" : "立功里"
+      }, {
+        "liCode" : "036",
+        "liName" : "軍功里"
+      }, {
+        "liCode" : "037",
+        "liName" : "建功里"
+      }, {
+        "liCode" : "038",
+        "liName" : "前溪里"
+      }, {
+        "liCode" : "039",
+        "liName" : "水源里"
+      }, {
+        "liCode" : "040",
+        "liName" : "千甲里"
+      }, {
+        "liCode" : "041",
+        "liName" : "埔頂里"
+      }, {
+        "liCode" : "042",
+        "liName" : "龍山里"
+      }, {
+        "liCode" : "043",
+        "liName" : "新莊里"
+      }, {
+        "liCode" : "044",
+        "liName" : "仙水里"
+      }, {
+        "liCode" : "045",
+        "liName" : "金山里"
+      }, {
+        "liCode" : "046",
+        "liName" : "關東里"
+      }, {
+        "liCode" : "047",
+        "liName" : "科園里"
+      }, {
+        "liCode" : "048",
+        "liName" : "建華里"
+      }, {
+        "liCode" : "049",
+        "liName" : "新光里"
+      }, {
+        "liCode" : "050",
+        "liName" : "復興里"
+      }, {
+        "liCode" : "051",
+        "liName" : "錦華里"
+      }, {
+        "liCode" : "052",
+        "liName" : "湖濱里"
+      }, {
+        "liCode" : "053",
+        "liName" : "明湖里"
+      }, {
+        "liCode" : "054",
+        "liName" : "關新里"
+      } ],
+      "deptCode" : "010"
+    }, {
+      "liCount" : 45,
+      "deptName" : "北區",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "西門里"
+      }, {
+        "liCode" : "002",
+        "liName" : "仁德里"
+      }, {
+        "liCode" : "003",
+        "liName" : "潛園里"
+      }, {
+        "liCode" : "004",
+        "liName" : "中央里"
+      }, {
+        "liCode" : "005",
+        "liName" : "崇禮里"
+      }, {
+        "liCode" : "006",
+        "liName" : "石坊里"
+      }, {
+        "liCode" : "007",
+        "liName" : "興南里"
+      }, {
+        "liCode" : "008",
+        "liName" : "北門里"
+      }, {
+        "liCode" : "009",
+        "liName" : "中興里"
+      }, {
+        "liCode" : "010",
+        "liName" : "大同里"
+      }, {
+        "liCode" : "011",
+        "liName" : "中山里"
+      }, {
+        "liCode" : "012",
+        "liName" : "長和里"
+      }, {
+        "liCode" : "013",
+        "liName" : "新民里"
+      }, {
+        "liCode" : "014",
+        "liName" : "民富里"
+      }, {
+        "liCode" : "015",
+        "liName" : "水田里"
+      }, {
+        "liCode" : "016",
+        "liName" : "文雅里"
+      }, {
+        "liCode" : "017",
+        "liName" : "光田里"
+      }, {
+        "liCode" : "018",
+        "liName" : "士林里"
+      }, {
+        "liCode" : "019",
+        "liName" : "福林里"
+      }, {
+        "liCode" : "020",
+        "liName" : "古賢里"
+      }, {
+        "liCode" : "021",
+        "liName" : "湳雅里"
+      }, {
+        "liCode" : "022",
+        "liName" : "舊社里"
+      }, {
+        "liCode" : "023",
+        "liName" : "武陵里"
+      }, {
+        "liCode" : "024",
+        "liName" : "南寮里"
+      }, {
+        "liCode" : "025",
+        "liName" : "舊港里"
+      }, {
+        "liCode" : "026",
+        "liName" : "康樂里"
+      }, {
+        "liCode" : "027",
+        "liName" : "港北里"
+      }, {
+        "liCode" : "028",
+        "liName" : "中寮里"
+      }, {
+        "liCode" : "029",
+        "liName" : "海濱里"
+      }, {
+        "liCode" : "030",
+        "liName" : "客雅里"
+      }, {
+        "liCode" : "031",
+        "liName" : "育英里"
+      }, {
+        "liCode" : "032",
+        "liName" : "曲溪里"
+      }, {
+        "liCode" : "033",
+        "liName" : "西雅里"
+      }, {
+        "liCode" : "034",
+        "liName" : "南勢里"
+      }, {
+        "liCode" : "035",
+        "liName" : "大鵬里"
+      }, {
+        "liCode" : "036",
+        "liName" : "境福里"
+      }, {
+        "liCode" : "037",
+        "liName" : "磐石里"
+      }, {
+        "liCode" : "038",
+        "liName" : "新雅里"
+      }, {
+        "liCode" : "039",
+        "liName" : "光華里"
+      }, {
+        "liCode" : "040",
+        "liName" : "金華里"
+      }, {
+        "liCode" : "041",
+        "liName" : "金竹里"
+      }, {
+        "liCode" : "042",
+        "liName" : "湳中里"
+      }, {
+        "liCode" : "043",
+        "liName" : "金雅里"
+      }, {
+        "liCode" : "044",
+        "liName" : "台溪里"
+      }, {
+        "liCode" : "045",
+        "liName" : "中雅里"
+      } ],
+      "deptCode" : "020"
+    }, {
+      "liCount" : 24,
+      "deptName" : "香山區",
+      "lis" : [ {
+        "liCode" : "001",
+        "liName" : "港南里"
+      }, {
+        "liCode" : "002",
+        "liName" : "虎山里"
+      }, {
+        "liCode" : "003",
+        "liName" : "虎林里"
+      }, {
+        "liCode" : "004",
+        "liName" : "浸水里"
+      }, {
+        "liCode" : "005",
+        "liName" : "樹下里"
+      }, {
+        "liCode" : "006",
+        "liName" : "埔前里"
+      }, {
+        "liCode" : "007",
+        "liName" : "中埔里"
+      }, {
+        "liCode" : "008",
+        "liName" : "牛埔里"
+      }, {
+        "liCode" : "009",
+        "liName" : "頂埔里"
+      }, {
+        "liCode" : "010",
+        "liName" : "東香里"
+      }, {
+        "liCode" : "011",
+        "liName" : "香村里"
+      }, {
+        "liCode" : "012",
+        "liName" : "香山里"
+      }, {
+        "liCode" : "013",
+        "liName" : "大庄里"
+      }, {
+        "liCode" : "014",
+        "liName" : "美山里"
+      }, {
+        "liCode" : "015",
+        "liName" : "朝山里"
+      }, {
+        "liCode" : "016",
+        "liName" : "海山里"
+      }, {
+        "liCode" : "017",
+        "liName" : "茄苳里"
+      }, {
+        "liCode" : "018",
+        "liName" : "大湖里"
+      }, {
+        "liCode" : "019",
+        "liName" : "南隘里"
+      }, {
+        "liCode" : "020",
+        "liName" : "中隘里"
+      }, {
+        "liCode" : "021",
+        "liName" : "內湖里"
+      }, {
+        "liCode" : "022",
+        "liName" : "鹽水里"
+      }, {
+        "liCode" : "023",
+        "liName" : "南港里"
+      }, {
+        "liCode" : "024",
+        "liName" : "頂福里"
+      } ],
+      "deptCode" : "030"
+    } ]
+  } ]
+}

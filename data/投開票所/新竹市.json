@@ -1,0 +1,5853 @@
+{
+  "tboxs" : [ {
+    "ScopeLiName" : "育賢里",
+    "tboxNo" : "0001",
+    "tboxName" : "東門國小一年2班教室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "育賢里",
+    "deptCode" : "010",
+    "liName" : "育賢里"
+  }, {
+    "ScopeLiName" : "育賢里",
+    "tboxNo" : "0001",
+    "tboxName" : "東門國小一年2班教室",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "育賢里",
+    "deptCode" : "010",
+    "liName" : "育賢里"
+  }, {
+    "ScopeLiName" : "育賢里",
+    "tboxNo" : "0001",
+    "tboxName" : "東門國小一年2班教室",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "育賢里",
+    "deptCode" : "010",
+    "liName" : "育賢里"
+  }, {
+    "ScopeLiName" : "親仁里",
+    "tboxNo" : "0002",
+    "tboxName" : "東門國小二年3班教室",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "親仁里"
+  }, {
+    "ScopeLiName" : "榮光里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "榮光里",
+    "deptCode" : "010",
+    "liName" : "榮光里"
+  }, {
+    "ScopeLiName" : "榮光里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "榮光里",
+    "deptCode" : "010",
+    "liName" : "榮光里"
+  }, {
+    "ScopeLiName" : "榮光里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "榮光里",
+    "deptCode" : "010",
+    "liName" : "榮光里"
+  }, {
+    "ScopeLiName" : "親仁里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "7-18",
+    "deptCode" : "010",
+    "liName" : "親仁里"
+  }, {
+    "ScopeLiName" : "親仁里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "親仁里",
+    "deptCode" : "010",
+    "liName" : "親仁里"
+  }, {
+    "ScopeLiName" : "親仁里",
+    "tboxNo" : "0003",
+    "tboxName" : "東門國小A108社大教室",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "親仁里",
+    "deptCode" : "010",
+    "liName" : "親仁里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0004",
+    "tboxName" : "東寧宮1樓",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "新竹市東區東門里東門街150號",
+    "neighbor" : "東門里",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0004",
+    "tboxName" : "東寧宮1樓",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "新竹市東區東門里東門街150號",
+    "neighbor" : "東門里",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "東門里",
+    "tboxNo" : "0004",
+    "tboxName" : "東寧宮1樓",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "新竹市東區東門里東門街150號",
+    "neighbor" : "東門里",
+    "deptCode" : "010",
+    "liName" : "東門里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0005",
+    "tboxName" : "原中興百貨1樓中庭",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市東區成功里林森路32號",
+    "neighbor" : "成功里",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0005",
+    "tboxName" : "原中興百貨1樓中庭",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "新竹市東區成功里林森路32號",
+    "neighbor" : "成功里",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0005",
+    "tboxName" : "原中興百貨1樓中庭",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "新竹市東區成功里林森路32號",
+    "neighbor" : "成功里",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0006",
+    "tboxName" : "市立影像博物館",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市東區中正里中正路65號",
+    "neighbor" : "中正里",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0006",
+    "tboxName" : "市立影像博物館",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "新竹市東區中正里中正路65號",
+    "neighbor" : "中正里",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0006",
+    "tboxName" : "市立影像博物館",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "新竹市東區中正里中正路65號",
+    "neighbor" : "中正里",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "錦華里",
+    "tboxNo" : "0007",
+    "tboxName" : "親仁、錦華里集會所",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "新竹市東區錦華里東大路一段137之1號",
+    "neighbor" : "1-4,8-15",
+    "deptCode" : "010",
+    "liName" : "錦華里"
+  }, {
+    "ScopeLiName" : "錦華里",
+    "tboxNo" : "0007",
+    "tboxName" : "親仁、錦華里集會所",
+    "liCode" : "051",
+    "voter" : "02",
+    "addr" : "新竹市東區錦華里東大路一段137之1號",
+    "neighbor" : "錦華里",
+    "deptCode" : "010",
+    "liName" : "錦華里"
+  }, {
+    "ScopeLiName" : "錦華里",
+    "tboxNo" : "0007",
+    "tboxName" : "親仁、錦華里集會所",
+    "liCode" : "051",
+    "voter" : "03",
+    "addr" : "新竹市東區錦華里東大路一段137之1號",
+    "neighbor" : "錦華里",
+    "deptCode" : "010",
+    "liName" : "錦華里"
+  }, {
+    "ScopeLiName" : "錦華里",
+    "tboxNo" : "0008",
+    "tboxName" : "曙光女中高一勇班",
+    "liCode" : "051",
+    "voter" : "01",
+    "addr" : "新竹市東區錦華里北大路61號",
+    "neighbor" : "5-7,16-20",
+    "deptCode" : "010",
+    "liName" : "錦華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0009",
+    "tboxName" : "黑蝙蝠中隊文物陳列館地下室(文華里集會所)",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市東區文華里東大路二段16號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0010",
+    "tboxName" : "曙光小學一年勇班",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市東區文華里北大路70號",
+    "neighbor" : "5-7,17",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0010",
+    "tboxName" : "曙光小學一年勇班",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "新竹市東區文華里北大路70號",
+    "neighbor" : "文華里",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0010",
+    "tboxName" : "曙光小學一年勇班",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "新竹市東區文華里北大路70號",
+    "neighbor" : "文華里",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0011",
+    "tboxName" : "文華福德宮活動中心",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市東區文華里光華街42之8號",
+    "neighbor" : "8-10,12,15-16",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "文華里",
+    "tboxNo" : "0012",
+    "tboxName" : "勞工育樂中心1樓會議室",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市東區文華里田美三街2號",
+    "neighbor" : "11,13-14,18-19",
+    "deptCode" : "010",
+    "liName" : "文華里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0013",
+    "tboxName" : "曙光女中高二勇班",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市東區復中里北大路61號",
+    "neighbor" : "1-6,11",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0013",
+    "tboxName" : "曙光女中高二勇班",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "新竹市東區復中里北大路61號",
+    "neighbor" : "復中里",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0013",
+    "tboxName" : "曙光女中高二勇班",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "新竹市東區復中里北大路61號",
+    "neighbor" : "復中里",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0014",
+    "tboxName" : "三民國中821教室",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "7-10,12",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0015",
+    "tboxName" : "三民國中819教室",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "13-14,16-17,20",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復中里",
+    "tboxNo" : "0016",
+    "tboxName" : "三民國中818教室",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "15,18-19,21",
+    "deptCode" : "010",
+    "liName" : "復中里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0017",
+    "tboxName" : "三民國中816教室",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0017",
+    "tboxName" : "三民國中816教室",
+    "liCode" : "050",
+    "voter" : "02",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "復興里",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0017",
+    "tboxName" : "三民國中816教室",
+    "liCode" : "050",
+    "voter" : "03",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "復興里",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0018",
+    "tboxName" : "三民國中多功能教室一",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路95巷15號",
+    "neighbor" : "7-9",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0019",
+    "tboxName" : "三民國小105教室",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路66號",
+    "neighbor" : "10-13,18",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0020",
+    "tboxName" : "三民國小107教室",
+    "liCode" : "050",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路66號",
+    "neighbor" : "14-17",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0021",
+    "tboxName" : "東門國小晨希館多功能教室",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "1-5,17-18,26",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0022",
+    "tboxName" : "東門國小一年3班教室",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市東區育賢里民族路33號",
+    "neighbor" : "6,9-10,20-21",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0023",
+    "tboxName" : "行政院農業委員會農糧署北區分署新竹辦事處中庭",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市東區三民里民族路111號",
+    "neighbor" : "7,8,14-16,25",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0023",
+    "tboxName" : "行政院農業委員會農糧署北區分署新竹辦事處中庭",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "新竹市東區三民里民族路111號",
+    "neighbor" : "三民里",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0023",
+    "tboxName" : "行政院農業委員會農糧署北區分署新竹辦事處中庭",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "新竹市東區三民里民族路111號",
+    "neighbor" : "三民里",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0024",
+    "tboxName" : "三民里社區活動中心",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市東區三民里中華路二段2-1號",
+    "neighbor" : "11-13,19,22-24",
+    "deptCode" : "010",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0025",
+    "tboxName" : "三民國小101教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路66號",
+    "neighbor" : "11-12,14-15",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0026",
+    "tboxName" : "三民國小103教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路66號",
+    "neighbor" : "16-18",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0027",
+    "tboxName" : "三民國小104教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市東區復興里自由路66號",
+    "neighbor" : "19-20",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0028",
+    "tboxName" : "東園社區活動中心",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市東區東園里忠孝路414號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0028",
+    "tboxName" : "東園社區活動中心",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "新竹市東區東園里忠孝路414號",
+    "neighbor" : "東園里",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0028",
+    "tboxName" : "東園社區活動中心",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "新竹市東區東園里忠孝路414號",
+    "neighbor" : "東園里",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "東園里",
+    "tboxNo" : "0029",
+    "tboxName" : "天主教仁愛社會福利基金會仁愛工坊光復據點",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市東區東園里光復路二段902巷12號",
+    "neighbor" : "7-10,13",
+    "deptCode" : "010",
+    "liName" : "東園里"
+  }, {
+    "ScopeLiName" : "公園里",
+    "tboxNo" : "0030",
+    "tboxName" : "東大陸橋下(原花園街夜市)",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市東區公園里花園街51巷口對面",
+    "neighbor" : "1-4,6,8,16",
+    "deptCode" : "010",
+    "liName" : "公園里"
+  }, {
+    "ScopeLiName" : "公園里",
+    "tboxNo" : "0030",
+    "tboxName" : "東大陸橋下(原花園街夜市)",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "新竹市東區公園里花園街51巷口對面",
+    "neighbor" : "公園里",
+    "deptCode" : "010",
+    "liName" : "公園里"
+  }, {
+    "ScopeLiName" : "公園里",
+    "tboxNo" : "0030",
+    "tboxName" : "東大陸橋下(原花園街夜市)",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "新竹市東區公園里花園街51巷口對面",
+    "neighbor" : "公園里",
+    "deptCode" : "010",
+    "liName" : "公園里"
+  }, {
+    "ScopeLiName" : "公園里",
+    "tboxNo" : "0031",
+    "tboxName" : "復國社區(地下室-文康室)",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市東區公園里東大路一段21巷3號",
+    "neighbor" : "7,9-14",
+    "deptCode" : "010",
+    "liName" : "公園里"
+  }, {
+    "ScopeLiName" : "公園里",
+    "tboxNo" : "0032",
+    "tboxName" : "公園里里民活動中心",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市東區公園里體育街58號",
+    "neighbor" : "5,15,17-18",
+    "deptCode" : "010",
+    "liName" : "公園里"
+  }, {
+    "ScopeLiName" : "建華里",
+    "tboxNo" : "0033",
+    "tboxName" : "建華國中2102教室",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "新竹市東區建華里學府路2號",
+    "neighbor" : "3-7,15",
+    "deptCode" : "010",
+    "liName" : "建華里"
+  }, {
+    "ScopeLiName" : "建華里",
+    "tboxNo" : "0034",
+    "tboxName" : "建華國中2105教室",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "新竹市東區建華里學府路2號",
+    "neighbor" : "8-11",
+    "deptCode" : "010",
+    "liName" : "建華里"
+  }, {
+    "ScopeLiName" : "建華里",
+    "tboxNo" : "0035",
+    "tboxName" : "培英國中A105教室",
+    "liCode" : "048",
+    "voter" : "01",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "1-2,12-14",
+    "deptCode" : "010",
+    "liName" : "建華里"
+  }, {
+    "ScopeLiName" : "建華里",
+    "tboxNo" : "0035",
+    "tboxName" : "培英國中A105教室",
+    "liCode" : "048",
+    "voter" : "02",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "建華里",
+    "deptCode" : "010",
+    "liName" : "建華里"
+  }, {
+    "ScopeLiName" : "建華里",
+    "tboxNo" : "0035",
+    "tboxName" : "培英國中A105教室",
+    "liCode" : "048",
+    "voter" : "03",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "建華里",
+    "deptCode" : "010",
+    "liName" : "建華里"
+  }, {
+    "ScopeLiName" : "東山里",
+    "tboxNo" : "0036",
+    "tboxName" : "培英國中D103教室",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "1-3,6-7,12-13",
+    "deptCode" : "010",
+    "liName" : "東山里"
+  }, {
+    "ScopeLiName" : "東山里",
+    "tboxNo" : "0036",
+    "tboxName" : "培英國中D103教室",
+    "liCode" : "027",
+    "voter" : "02",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "東山里",
+    "deptCode" : "010",
+    "liName" : "東山里"
+  }, {
+    "ScopeLiName" : "東山里",
+    "tboxNo" : "0036",
+    "tboxName" : "培英國中D103教室",
+    "liCode" : "027",
+    "voter" : "03",
+    "addr" : "新竹市東區建華里學府路4號",
+    "neighbor" : "東山里",
+    "deptCode" : "010",
+    "liName" : "東山里"
+  }, {
+    "ScopeLiName" : "東山里",
+    "tboxNo" : "0037",
+    "tboxName" : "基督教東山街浸信會兒童主日學教室",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "新竹市東區東山里東山街62號",
+    "neighbor" : "4-5,8-10,20-21",
+    "deptCode" : "010",
+    "liName" : "東山里"
+  }, {
+    "ScopeLiName" : "東山里",
+    "tboxNo" : "0038",
+    "tboxName" : "東山里集會所",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "新竹市東區東山里食品路155巷29號",
+    "neighbor" : "11,14-19,22",
+    "deptCode" : "010",
+    "liName" : "東山里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0039",
+    "tboxName" : "新竹高商仁愛樓資三2教室",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市東區綠水里學府路128號",
+    "neighbor" : "1-2,9-12",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0040",
+    "tboxName" : "綠水里集會所",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市東區綠水里博愛街106號",
+    "neighbor" : "3,15-18",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0040",
+    "tboxName" : "綠水里集會所",
+    "liCode" : "026",
+    "voter" : "02",
+    "addr" : "新竹市東區綠水里博愛街106號",
+    "neighbor" : "綠水里",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0040",
+    "tboxName" : "綠水里集會所",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "新竹市東區綠水里博愛街106號",
+    "neighbor" : "綠水里",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0041",
+    "tboxName" : "東園國小迎星樓B104教室",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市東區綠水里園後街25號",
+    "neighbor" : "7-8,13-14,19-20",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0042",
+    "tboxName" : "東園國小書香樓G108教室",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市東區綠水里園後街25號",
+    "neighbor" : "4,6",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "綠水里",
+    "tboxNo" : "0043",
+    "tboxName" : "東園國小書香樓G105教室",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市東區綠水里園後街25號",
+    "neighbor" : "5,21-22",
+    "deptCode" : "010",
+    "liName" : "綠水里"
+  }, {
+    "ScopeLiName" : "東勢里",
+    "tboxNo" : "0044",
+    "tboxName" : "光復里集會所",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市東區東勢里東明街138巷1號1樓",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "東勢里"
+  }, {
+    "ScopeLiName" : "東勢里",
+    "tboxNo" : "0045",
+    "tboxName" : "潭後老人會館",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市東區東勢里東明街135號",
+    "neighbor" : "12-17",
+    "deptCode" : "010",
+    "liName" : "東勢里"
+  }, {
+    "ScopeLiName" : "東勢里",
+    "tboxNo" : "0045",
+    "tboxName" : "潭後老人會館",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "新竹市東區東勢里東明街135號",
+    "neighbor" : "東勢里",
+    "deptCode" : "010",
+    "liName" : "東勢里"
+  }, {
+    "ScopeLiName" : "東勢里",
+    "tboxNo" : "0045",
+    "tboxName" : "潭後老人會館",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "新竹市東區東勢里東明街135號",
+    "neighbor" : "東勢里",
+    "deptCode" : "010",
+    "liName" : "東勢里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0046",
+    "tboxName" : "龍台宮(面對廟左側廂房)",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市東區光復里東明街133號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0046",
+    "tboxName" : "龍台宮(面對廟左側廂房)",
+    "liCode" : "023",
+    "voter" : "02",
+    "addr" : "新竹市東區光復里東明街133號",
+    "neighbor" : "光復里",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0046",
+    "tboxName" : "龍台宮(面對廟左側廂房)",
+    "liCode" : "023",
+    "voter" : "03",
+    "addr" : "新竹市東區光復里東明街133號",
+    "neighbor" : "光復里",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0047",
+    "tboxName" : "龍台宮(面對廟右側廂房)",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市東區光復里東明街133號",
+    "neighbor" : "10-11",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "光復里",
+    "tboxNo" : "0048",
+    "tboxName" : "福龍山宮管理委員會(公益大樓)",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市東區光復里忠孝路185巷6弄28號1樓",
+    "neighbor" : "12-18",
+    "deptCode" : "010",
+    "liName" : "光復里"
+  }, {
+    "ScopeLiName" : "前溪里",
+    "tboxNo" : "0049",
+    "tboxName" : "永豐宮(後方長壽俱樂部)",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市東區前溪里公道五路三段622號",
+    "neighbor" : "1-6,11",
+    "deptCode" : "010",
+    "liName" : "前溪里"
+  }, {
+    "ScopeLiName" : "前溪里",
+    "tboxNo" : "0049",
+    "tboxName" : "永豐宮(後方長壽俱樂部)",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "新竹市東區前溪里公道五路三段622號",
+    "neighbor" : "前溪里",
+    "deptCode" : "010",
+    "liName" : "前溪里"
+  }, {
+    "ScopeLiName" : "前溪里",
+    "tboxNo" : "0049",
+    "tboxName" : "永豐宮(後方長壽俱樂部)",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "新竹市東區前溪里公道五路三段622號",
+    "neighbor" : "前溪里",
+    "deptCode" : "010",
+    "liName" : "前溪里"
+  }, {
+    "ScopeLiName" : "前溪里",
+    "tboxNo" : "0050",
+    "tboxName" : "前溪里集會所",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市東區前溪里經國路一段210號",
+    "neighbor" : "7,10,12,16",
+    "deptCode" : "010",
+    "liName" : "前溪里"
+  }, {
+    "ScopeLiName" : "前溪里",
+    "tboxNo" : "0051",
+    "tboxName" : "前溪里、復興里集會所",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市東區前溪里中華路一段380之1 號",
+    "neighbor" : "8-9,13-15",
+    "deptCode" : "010",
+    "liName" : "前溪里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "0052",
+    "tboxName" : "水源社區活動中心",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市東區水源里原興路198號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "0053",
+    "tboxName" : "聖母廟",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市東區水源里原興路366號",
+    "neighbor" : "10-12,17-20,23",
+    "deptCode" : "010",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "0054",
+    "tboxName" : "水源里集會所",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市東區水源里溪州路59巷15號",
+    "neighbor" : "13-16,21-22",
+    "deptCode" : "010",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "0054",
+    "tboxName" : "水源里集會所",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "新竹市東區水源里溪州路59巷15號",
+    "neighbor" : "水源里",
+    "deptCode" : "010",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "水源里",
+    "tboxNo" : "0054",
+    "tboxName" : "水源里集會所",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "新竹市東區水源里溪州路59巷15號",
+    "neighbor" : "水源里",
+    "deptCode" : "010",
+    "liName" : "水源里"
+  }, {
+    "ScopeLiName" : "千甲里",
+    "tboxNo" : "0055",
+    "tboxName" : "私立加米幼兒園",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市東區千甲里水利路128號",
+    "neighbor" : "4-9",
+    "deptCode" : "010",
+    "liName" : "千甲里"
+  }, {
+    "ScopeLiName" : "千甲里",
+    "tboxNo" : "0055",
+    "tboxName" : "私立加米幼兒園",
+    "liCode" : "040",
+    "voter" : "02",
+    "addr" : "新竹市東區千甲里水利路128號",
+    "neighbor" : "千甲里",
+    "deptCode" : "010",
+    "liName" : "千甲里"
+  }, {
+    "ScopeLiName" : "千甲里",
+    "tboxNo" : "0055",
+    "tboxName" : "私立加米幼兒園",
+    "liCode" : "040",
+    "voter" : "03",
+    "addr" : "新竹市東區千甲里水利路128號",
+    "neighbor" : "千甲里",
+    "deptCode" : "010",
+    "liName" : "千甲里"
+  }, {
+    "ScopeLiName" : "千甲里",
+    "tboxNo" : "0056",
+    "tboxName" : "千甲里集會所",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市東區千甲里水利路46巷71之1號",
+    "neighbor" : "1-3,10-12",
+    "deptCode" : "010",
+    "liName" : "千甲里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0057",
+    "tboxName" : "鴻儒天下社區韻律教室",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市東區豐功里建中一路37號",
+    "neighbor" : "14-15,21-25,27",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0058",
+    "tboxName" : "建功國小1年1班教室",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "5-6,11,16-20,26,30",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0058",
+    "tboxName" : "建功國小1年1班教室",
+    "liCode" : "024",
+    "voter" : "02",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "豐功里",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0058",
+    "tboxName" : "建功國小1年1班教室",
+    "liCode" : "024",
+    "voter" : "03",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "豐功里",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0059",
+    "tboxName" : "昌益事業群大樓1樓大廳",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市東區豐功里公道五路二段415號",
+    "neighbor" : "1-4,7,10,12-13,28",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "豐功里",
+    "tboxNo" : "0060",
+    "tboxName" : "德馨大廈1樓大廳",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市東區豐功里建中路98號",
+    "neighbor" : "8-9,29,31-34",
+    "deptCode" : "010",
+    "liName" : "豐功里"
+  }, {
+    "ScopeLiName" : "武功里",
+    "tboxNo" : "0061",
+    "tboxName" : "公學新城甲區活動中心",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "新竹市東區武功里建中一路58號1樓",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "武功里"
+  }, {
+    "ScopeLiName" : "武功里",
+    "tboxNo" : "0061",
+    "tboxName" : "公學新城甲區活動中心",
+    "liCode" : "025",
+    "voter" : "02",
+    "addr" : "新竹市東區武功里建中一路58號1樓",
+    "neighbor" : "武功里",
+    "deptCode" : "010",
+    "liName" : "武功里"
+  }, {
+    "ScopeLiName" : "武功里",
+    "tboxNo" : "0061",
+    "tboxName" : "公學新城甲區活動中心",
+    "liCode" : "025",
+    "voter" : "03",
+    "addr" : "新竹市東區武功里建中一路58號1樓",
+    "neighbor" : "武功里",
+    "deptCode" : "010",
+    "liName" : "武功里"
+  }, {
+    "ScopeLiName" : "武功里",
+    "tboxNo" : "0062",
+    "tboxName" : "公學新城甲區活動中心",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "新竹市東區武功里建中一路58號1樓",
+    "neighbor" : "8-14",
+    "deptCode" : "010",
+    "liName" : "武功里"
+  }, {
+    "ScopeLiName" : "武功里",
+    "tboxNo" : "0063",
+    "tboxName" : "公學新城乙區活動中心",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "新竹市東區武功里建功一路63號1樓",
+    "neighbor" : "15-23",
+    "deptCode" : "010",
+    "liName" : "武功里"
+  }, {
+    "ScopeLiName" : "軍功里",
+    "tboxNo" : "0064",
+    "tboxName" : "建功國小1年4班教室",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "1-22",
+    "deptCode" : "010",
+    "liName" : "軍功里"
+  }, {
+    "ScopeLiName" : "軍功里",
+    "tboxNo" : "0064",
+    "tboxName" : "建功國小1年4班教室",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "軍功里",
+    "deptCode" : "010",
+    "liName" : "軍功里"
+  }, {
+    "ScopeLiName" : "軍功里",
+    "tboxNo" : "0064",
+    "tboxName" : "建功國小1年4班教室",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "軍功里",
+    "deptCode" : "010",
+    "liName" : "軍功里"
+  }, {
+    "ScopeLiName" : "軍功里",
+    "tboxNo" : "0065",
+    "tboxName" : "建功國小1年3班教室",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市東區軍功里建功一路104巷22號",
+    "neighbor" : "23-24,34-40",
+    "deptCode" : "010",
+    "liName" : "軍功里"
+  }, {
+    "ScopeLiName" : "軍功里",
+    "tboxNo" : "0066",
+    "tboxName" : "軍功里集會所",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市東區軍功里建功一路49巷14號1樓",
+    "neighbor" : "25-33",
+    "deptCode" : "010",
+    "liName" : "軍功里"
+  }, {
+    "ScopeLiName" : "立功里",
+    "tboxNo" : "0067",
+    "tboxName" : "立功社區發展協會老人照顧關懷據點",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "新竹市東區立功里光復路二段42巷12弄30之1號",
+    "neighbor" : "立功里",
+    "deptCode" : "010",
+    "liName" : "立功里"
+  }, {
+    "ScopeLiName" : "立功里",
+    "tboxNo" : "0067",
+    "tboxName" : "立功社區發展協會老人照顧關懷據點",
+    "liCode" : "035",
+    "voter" : "02",
+    "addr" : "新竹市東區立功里光復路二段42巷12弄30之1號",
+    "neighbor" : "立功里",
+    "deptCode" : "010",
+    "liName" : "立功里"
+  }, {
+    "ScopeLiName" : "立功里",
+    "tboxNo" : "0067",
+    "tboxName" : "立功社區發展協會老人照顧關懷據點",
+    "liCode" : "035",
+    "voter" : "03",
+    "addr" : "新竹市東區立功里光復路二段42巷12弄30之1號",
+    "neighbor" : "立功里",
+    "deptCode" : "010",
+    "liName" : "立功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0068",
+    "tboxName" : "華夏金城活動中心",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市東區建功里金城一路97號",
+    "neighbor" : "2-4,8-9",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0069",
+    "tboxName" : "市立建功高中108教室",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市東區建功里建功二路17號",
+    "neighbor" : "13-17,21",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0069",
+    "tboxName" : "市立建功高中108教室",
+    "liCode" : "037",
+    "voter" : "02",
+    "addr" : "新竹市東區建功里建功二路17號",
+    "neighbor" : "建功里",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0069",
+    "tboxName" : "市立建功高中108教室",
+    "liCode" : "037",
+    "voter" : "03",
+    "addr" : "新竹市東區建功里建功二路17號",
+    "neighbor" : "建功里",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0070",
+    "tboxName" : "文教新城管理委員會辦公室",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市東區建功里光復路二段298巷7弄14號地下室",
+    "neighbor" : "10-11,19-20",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "建功里",
+    "tboxNo" : "0071",
+    "tboxName" : "建功社區發展協會活動中心",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市東區建功里金城一路65之1號",
+    "neighbor" : "1,5-7,12,18",
+    "deptCode" : "010",
+    "liName" : "建功里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0072",
+    "tboxName" : "光復中學慈樓1樓11號教室",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市東區光明里光復路二段153號",
+    "neighbor" : "6,8-13,16-18",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0072",
+    "tboxName" : "光復中學慈樓1樓11號教室",
+    "liCode" : "033",
+    "voter" : "02",
+    "addr" : "新竹市東區光明里光復路二段153號",
+    "neighbor" : "光明里",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0072",
+    "tboxName" : "光復中學慈樓1樓11號教室",
+    "liCode" : "033",
+    "voter" : "03",
+    "addr" : "新竹市東區光明里光復路二段153號",
+    "neighbor" : "光明里",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0073",
+    "tboxName" : "臺灣中油公司餐廳",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市東區光明里大學路8號",
+    "neighbor" : "1-5,7,15,25-28",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0074",
+    "tboxName" : "私立史丹佛竹科幼兒園B棟第3間教室",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市東區光明里大學路81巷3弄51號",
+    "neighbor" : "14,19-24",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0075",
+    "tboxName" : "龍山國小1年1班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段574號",
+    "neighbor" : "1-2,18",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0076",
+    "tboxName" : "龍山國小1年3班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段574號",
+    "neighbor" : "17",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0077",
+    "tboxName" : "光武國中3年9班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "3-4,6",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0078",
+    "tboxName" : "光武國中3年11班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "5",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0079",
+    "tboxName" : "光武國中3年13班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "7,12",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0079",
+    "tboxName" : "光武國中3年13班教室",
+    "liCode" : "042",
+    "voter" : "02",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "龍山里",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0079",
+    "tboxName" : "光武國中3年13班教室",
+    "liCode" : "042",
+    "voter" : "03",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "龍山里",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0080",
+    "tboxName" : "長春福德宮活動中心",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里長春街118巷36之1號",
+    "neighbor" : "8-10",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0081",
+    "tboxName" : "關埔國小暖風班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "11,13-14",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "龍山里",
+    "tboxNo" : "0082",
+    "tboxName" : "關埔國小新風班教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "15-16",
+    "deptCode" : "010",
+    "liName" : "龍山里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0083",
+    "tboxName" : "科園國小101教室",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "1-2,8-9,12",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0084",
+    "tboxName" : "科園國小103教室",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "3-5,13",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0085",
+    "tboxName" : "科園國小105教室",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "6,10-11",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0086",
+    "tboxName" : "科園國小202教室",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "7,14-15,17",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0086",
+    "tboxName" : "科園國小202教室",
+    "liCode" : "047",
+    "voter" : "02",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "科園里",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0086",
+    "tboxName" : "科園國小202教室",
+    "liCode" : "047",
+    "voter" : "03",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "科園里",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0087",
+    "tboxName" : "科園國小205教室",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里科學園路171號",
+    "neighbor" : "22-26",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "科園里",
+    "tboxNo" : "0088",
+    "tboxName" : "科園里集會所",
+    "liCode" : "047",
+    "voter" : "01",
+    "addr" : "新竹市東區科園里民享一街36號",
+    "neighbor" : "16,18-21",
+    "deptCode" : "010",
+    "liName" : "科園里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0089",
+    "tboxName" : "埔頂里集會所",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市東區埔頂里埔頂路136號",
+    "neighbor" : "1-5,8,18-20",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0089",
+    "tboxName" : "埔頂里集會所",
+    "liCode" : "041",
+    "voter" : "02",
+    "addr" : "新竹市東區埔頂里埔頂路136號",
+    "neighbor" : "埔頂里",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0089",
+    "tboxName" : "埔頂里集會所",
+    "liCode" : "041",
+    "voter" : "03",
+    "addr" : "新竹市東區埔頂里埔頂路136號",
+    "neighbor" : "埔頂里",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0090",
+    "tboxName" : "天主教仁愛社會福利基金會附設晨曦發展中心大廳",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市東區埔頂里慈祥路2號",
+    "neighbor" : "6,9-10,12-14,16",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0091",
+    "tboxName" : "龍山國小1年5班教室",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段574號",
+    "neighbor" : "7,11,15,17",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "埔頂里",
+    "tboxNo" : "0092",
+    "tboxName" : "關埔國小文風班教室",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "21-25",
+    "deptCode" : "010",
+    "liName" : "埔頂里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0093",
+    "tboxName" : "新莊里集會所",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市東區新莊里新莊街263號",
+    "neighbor" : "2-3,5-6,23,25",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0093",
+    "tboxName" : "新莊里集會所",
+    "liCode" : "043",
+    "voter" : "02",
+    "addr" : "新竹市東區新莊里新莊街263號",
+    "neighbor" : "新莊里",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0093",
+    "tboxName" : "新莊里集會所",
+    "liCode" : "043",
+    "voter" : "03",
+    "addr" : "新竹市東區新莊里新莊街263號",
+    "neighbor" : "新莊里",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0094",
+    "tboxName" : "光武國中卡巴迪教室",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里光復路一段512號",
+    "neighbor" : "11-14,26",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0095",
+    "tboxName" : "關埔國小微風班教室",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "4,15-20",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0096",
+    "tboxName" : "關埔國小薰風班教室",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "21-22,24,27-28",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "新莊里",
+    "tboxNo" : "0097",
+    "tboxName" : "關埔國小春風班教室",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市東區龍山里慈濟路2號",
+    "neighbor" : "1,7-10,29",
+    "deptCode" : "010",
+    "liName" : "新莊里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0098",
+    "tboxName" : "關東國小3年1班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "4-6",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0099",
+    "tboxName" : "關東國小2年11班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "1,9",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0100",
+    "tboxName" : "關東國小2年9班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "2,8",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0101",
+    "tboxName" : "關東國小2年8班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "3,7",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0101",
+    "tboxName" : "關東國小2年8班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "02",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "關新里",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關新里",
+    "tboxNo" : "0101",
+    "tboxName" : "關東國小2年8班教室(關愛樓2樓)",
+    "liCode" : "054",
+    "voter" : "03",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "關新里",
+    "deptCode" : "010",
+    "liName" : "關新里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0102",
+    "tboxName" : "關東國小1年1班教室(東棟)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "1-5",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0103",
+    "tboxName" : "關東國小2年1班教室(關愛樓1樓)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "6-11",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0104",
+    "tboxName" : "關東國小2年3班教室(關愛樓1樓)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "12-16",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0104",
+    "tboxName" : "關東國小2年3班教室(關愛樓1樓)",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "關東里",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0104",
+    "tboxName" : "關東國小2年3班教室(關愛樓1樓)",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "關東里",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "關東里",
+    "tboxNo" : "0105",
+    "tboxName" : "關東國小2年5班教室(關愛樓1樓)",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "新竹市東區關東里關東路53號",
+    "neighbor" : "17-22",
+    "deptCode" : "010",
+    "liName" : "關東里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0106",
+    "tboxName" : "新科國中B104教室",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0107",
+    "tboxName" : "金山里集會所",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市東區金山里光復路一段163巷53弄1之4號",
+    "neighbor" : "6-10",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0108",
+    "tboxName" : "新科國中C105教室",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "5,11-15",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0109",
+    "tboxName" : "新科國中C107教室",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "16-19,21-23,27",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0109",
+    "tboxName" : "新科國中C107教室",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "金山里",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0109",
+    "tboxName" : "新科國中C107教室",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "金山里",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "金山里",
+    "tboxNo" : "0110",
+    "tboxName" : "新科國中D103教室",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市東區金山里光復路一段89巷88號",
+    "neighbor" : "20,24-26",
+    "deptCode" : "010",
+    "liName" : "金山里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0111",
+    "tboxName" : "世界高中美工科製圖教室",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市東區仙水里光復路一段257號",
+    "neighbor" : "3,7-8,12",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0112",
+    "tboxName" : "科園國小體育館1樓",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市東區仙水里科學園路171號",
+    "neighbor" : "1,13,16-19",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0113",
+    "tboxName" : "鎮安宮活動中心",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市東區仙水里光復路一段525巷27號",
+    "neighbor" : "2,4,9-10",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0113",
+    "tboxName" : "鎮安宮活動中心",
+    "liCode" : "044",
+    "voter" : "02",
+    "addr" : "新竹市東區仙水里光復路一段525巷27號",
+    "neighbor" : "仙水里",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0113",
+    "tboxName" : "鎮安宮活動中心",
+    "liCode" : "044",
+    "voter" : "03",
+    "addr" : "新竹市東區仙水里光復路一段525巷27號",
+    "neighbor" : "仙水里",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙水里",
+    "tboxNo" : "0114",
+    "tboxName" : "世界高中美工科素描教室",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市東區仙水里光復路一段257號",
+    "neighbor" : "5-6,11,14-15,20",
+    "deptCode" : "010",
+    "liName" : "仙水里"
+  }, {
+    "ScopeLiName" : "仙宮里",
+    "tboxNo" : "0115",
+    "tboxName" : "仙宮里土地公活動中心",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市東區仙宮里寶山路452巷7弄對面土地公廟",
+    "neighbor" : "仙宮里",
+    "deptCode" : "010",
+    "liName" : "仙宮里"
+  }, {
+    "ScopeLiName" : "仙宮里",
+    "tboxNo" : "0115",
+    "tboxName" : "仙宮里土地公活動中心",
+    "liCode" : "032",
+    "voter" : "02",
+    "addr" : "新竹市東區仙宮里寶山路452巷7弄對面土地公廟",
+    "neighbor" : "仙宮里",
+    "deptCode" : "010",
+    "liName" : "仙宮里"
+  }, {
+    "ScopeLiName" : "仙宮里",
+    "tboxNo" : "0115",
+    "tboxName" : "仙宮里土地公活動中心",
+    "liCode" : "032",
+    "voter" : "03",
+    "addr" : "新竹市東區仙宮里寶山路452巷7弄對面土地公廟",
+    "neighbor" : "仙宮里",
+    "deptCode" : "010",
+    "liName" : "仙宮里"
+  }, {
+    "ScopeLiName" : "關帝里",
+    "tboxNo" : "0116",
+    "tboxName" : "新竹關帝廟忠義圖書館",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "新竹市東區關帝里南門街105號",
+    "neighbor" : "關帝里",
+    "deptCode" : "010",
+    "liName" : "關帝里"
+  }, {
+    "ScopeLiName" : "關帝里",
+    "tboxNo" : "0116",
+    "tboxName" : "新竹關帝廟忠義圖書館",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "新竹市東區關帝里南門街105號",
+    "neighbor" : "關帝里",
+    "deptCode" : "010",
+    "liName" : "關帝里"
+  }, {
+    "ScopeLiName" : "關帝里",
+    "tboxNo" : "0116",
+    "tboxName" : "新竹關帝廟忠義圖書館",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "新竹市東區關帝里南門街105號",
+    "neighbor" : "關帝里",
+    "deptCode" : "010",
+    "liName" : "關帝里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0117",
+    "tboxName" : "南門里集會所",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "新竹市東區南門里南門街15號",
+    "neighbor" : "南門里",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0117",
+    "tboxName" : "南門里集會所",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "新竹市東區南門里南門街15號",
+    "neighbor" : "南門里",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南門里",
+    "tboxNo" : "0117",
+    "tboxName" : "南門里集會所",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "新竹市東區南門里南門街15號",
+    "neighbor" : "南門里",
+    "deptCode" : "010",
+    "liName" : "南門里"
+  }, {
+    "ScopeLiName" : "南市里",
+    "tboxNo" : "0118",
+    "tboxName" : "南門聯里活動中心2樓",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "新竹市東區南市里南外街2號",
+    "neighbor" : "南市里",
+    "deptCode" : "010",
+    "liName" : "南市里"
+  }, {
+    "ScopeLiName" : "南市里",
+    "tboxNo" : "0118",
+    "tboxName" : "南門聯里活動中心2樓",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "新竹市東區南市里南外街2號",
+    "neighbor" : "南市里",
+    "deptCode" : "010",
+    "liName" : "南市里"
+  }, {
+    "ScopeLiName" : "南市里",
+    "tboxNo" : "0118",
+    "tboxName" : "南門聯里活動中心2樓",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "新竹市東區南市里南外街2號",
+    "neighbor" : "南市里",
+    "deptCode" : "010",
+    "liName" : "南市里"
+  }, {
+    "ScopeLiName" : "福德里",
+    "tboxNo" : "0119",
+    "tboxName" : "福德社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市東區福德里福德街2號",
+    "neighbor" : "1-6,12-14,16-17",
+    "deptCode" : "010",
+    "liName" : "福德里"
+  }, {
+    "ScopeLiName" : "福德里",
+    "tboxNo" : "0119",
+    "tboxName" : "福德社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "新竹市東區福德里福德街2號",
+    "neighbor" : "福德里",
+    "deptCode" : "010",
+    "liName" : "福德里"
+  }, {
+    "ScopeLiName" : "福德里",
+    "tboxNo" : "0119",
+    "tboxName" : "福德社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "新竹市東區福德里福德街2號",
+    "neighbor" : "福德里",
+    "deptCode" : "010",
+    "liName" : "福德里"
+  }, {
+    "ScopeLiName" : "福德里",
+    "tboxNo" : "0120",
+    "tboxName" : "南門聯里活動中心1樓",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市東區福德里南外街2號",
+    "neighbor" : "7-11,15",
+    "deptCode" : "010",
+    "liName" : "福德里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0121",
+    "tboxName" : "新竹國小振興樓二年三班教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "1-3,5-8",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0122",
+    "tboxName" : "新竹國小振興樓二年五班教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "9-11,13-15",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0123",
+    "tboxName" : "新竹國小楓香樓一年八班教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "12,16-21",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0124",
+    "tboxName" : "新竹國小楓香樓一年六班教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "4,22-26",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0125",
+    "tboxName" : "新竹國小楓香樓一年五班教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "27-32",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0125",
+    "tboxName" : "新竹國小楓香樓一年五班教室",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "振興里",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "振興里",
+    "tboxNo" : "0125",
+    "tboxName" : "新竹國小楓香樓一年五班教室",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "振興里",
+    "deptCode" : "010",
+    "liName" : "振興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0126",
+    "tboxName" : "新竹國小楓香樓一年三班教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0127",
+    "tboxName" : "新竹國小楓香樓一年一班教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "9-16",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0127",
+    "tboxName" : "新竹國小楓香樓一年一班教室",
+    "liCode" : "029",
+    "voter" : "02",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "新興里",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0127",
+    "tboxName" : "新竹國小楓香樓一年一班教室",
+    "liCode" : "029",
+    "voter" : "03",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "新興里",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0128",
+    "tboxName" : "新竹國小勸學樓多功能教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市東區振興里興學街106號",
+    "neighbor" : "17-26",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "下竹里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "下竹里",
+    "deptCode" : "010",
+    "liName" : "下竹里"
+  }, {
+    "ScopeLiName" : "下竹里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "下竹里",
+    "deptCode" : "010",
+    "liName" : "下竹里"
+  }, {
+    "ScopeLiName" : "下竹里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "下竹里",
+    "deptCode" : "010",
+    "liName" : "下竹里"
+  }, {
+    "ScopeLiName" : "寺前里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "寺前里",
+    "deptCode" : "010",
+    "liName" : "寺前里"
+  }, {
+    "ScopeLiName" : "寺前里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "寺前里",
+    "deptCode" : "010",
+    "liName" : "寺前里"
+  }, {
+    "ScopeLiName" : "寺前里",
+    "tboxNo" : "0129",
+    "tboxName" : "竹蓮寺前活動中心",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "新竹市東區竹蓮里竹蓮街101巷10號",
+    "neighbor" : "寺前里",
+    "deptCode" : "010",
+    "liName" : "寺前里"
+  }, {
+    "ScopeLiName" : "竹蓮里",
+    "tboxNo" : "0130",
+    "tboxName" : "身心障礙福利服務中心1樓",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市東區竹蓮里竹蓮街6號",
+    "neighbor" : "竹蓮里",
+    "deptCode" : "010",
+    "liName" : "竹蓮里"
+  }, {
+    "ScopeLiName" : "竹蓮里",
+    "tboxNo" : "0130",
+    "tboxName" : "身心障礙福利服務中心1樓",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "新竹市東區竹蓮里竹蓮街6號",
+    "neighbor" : "竹蓮里",
+    "deptCode" : "010",
+    "liName" : "竹蓮里"
+  }, {
+    "ScopeLiName" : "竹蓮里",
+    "tboxNo" : "0130",
+    "tboxName" : "身心障礙福利服務中心1樓",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "新竹市東區竹蓮里竹蓮街6號",
+    "neighbor" : "竹蓮里",
+    "deptCode" : "010",
+    "liName" : "竹蓮里"
+  }, {
+    "ScopeLiName" : "頂竹里",
+    "tboxNo" : "0131",
+    "tboxName" : "頂竹里集會所",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市東區頂竹里竹蓮街10號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "頂竹里"
+  }, {
+    "ScopeLiName" : "頂竹里",
+    "tboxNo" : "0132",
+    "tboxName" : "竹蓮國小三年忠班",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "12-20",
+    "deptCode" : "010",
+    "liName" : "頂竹里"
+  }, {
+    "ScopeLiName" : "頂竹里",
+    "tboxNo" : "0132",
+    "tboxName" : "竹蓮國小三年忠班",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "頂竹里",
+    "deptCode" : "010",
+    "liName" : "頂竹里"
+  }, {
+    "ScopeLiName" : "頂竹里",
+    "tboxNo" : "0132",
+    "tboxName" : "竹蓮國小三年忠班",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "頂竹里",
+    "deptCode" : "010",
+    "liName" : "頂竹里"
+  }, {
+    "ScopeLiName" : "頂竹里",
+    "tboxNo" : "0133",
+    "tboxName" : "竹蓮國小一年忠班",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "21-28",
+    "deptCode" : "010",
+    "liName" : "頂竹里"
+  }, {
+    "ScopeLiName" : "南大里",
+    "tboxNo" : "0134",
+    "tboxName" : "南大里集會所",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市東區南大里西大路72巷55號",
+    "neighbor" : "1-4,7-10,14",
+    "deptCode" : "010",
+    "liName" : "南大里"
+  }, {
+    "ScopeLiName" : "南大里",
+    "tboxNo" : "0135",
+    "tboxName" : "竹蓮國小一年孝班",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "5-6,11-13,15-16",
+    "deptCode" : "010",
+    "liName" : "南大里"
+  }, {
+    "ScopeLiName" : "南大里",
+    "tboxNo" : "0135",
+    "tboxName" : "竹蓮國小一年孝班",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "南大里",
+    "deptCode" : "010",
+    "liName" : "南大里"
+  }, {
+    "ScopeLiName" : "南大里",
+    "tboxNo" : "0135",
+    "tboxName" : "竹蓮國小一年孝班",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "新竹市東區頂竹里食品路226號",
+    "neighbor" : "南大里",
+    "deptCode" : "010",
+    "liName" : "南大里"
+  }, {
+    "ScopeLiName" : "新光里",
+    "tboxNo" : "0136",
+    "tboxName" : "開天宮(盤古廟)",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "新竹市東區新光里高峰路110巷7號",
+    "neighbor" : "2-6,20-21",
+    "deptCode" : "010",
+    "liName" : "新光里"
+  }, {
+    "ScopeLiName" : "新光里",
+    "tboxNo" : "0136",
+    "tboxName" : "開天宮(盤古廟)",
+    "liCode" : "049",
+    "voter" : "02",
+    "addr" : "新竹市東區新光里高峰路110巷7號",
+    "neighbor" : "新光里",
+    "deptCode" : "010",
+    "liName" : "新光里"
+  }, {
+    "ScopeLiName" : "新光里",
+    "tboxNo" : "0136",
+    "tboxName" : "開天宮(盤古廟)",
+    "liCode" : "049",
+    "voter" : "03",
+    "addr" : "新竹市東區新光里高峰路110巷7號",
+    "neighbor" : "新光里",
+    "deptCode" : "010",
+    "liName" : "新光里"
+  }, {
+    "ScopeLiName" : "新光里",
+    "tboxNo" : "0137",
+    "tboxName" : "新大眾廟1樓活動中心",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "新竹市東區新光里明湖路281號",
+    "neighbor" : "7-10,16-18",
+    "deptCode" : "010",
+    "liName" : "新光里"
+  }, {
+    "ScopeLiName" : "新光里",
+    "tboxNo" : "0138",
+    "tboxName" : "陽光國小活動中心1樓停車場",
+    "liCode" : "049",
+    "voter" : "01",
+    "addr" : "新竹市東區新光里明湖路200號",
+    "neighbor" : "1,11-15,19",
+    "deptCode" : "010",
+    "liName" : "新光里"
+  }, {
+    "ScopeLiName" : "光鎮里",
+    "tboxNo" : "0139",
+    "tboxName" : "育賢國中710教室",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市東區光鎮里南大路569號",
+    "neighbor" : "1-5,13,17-18",
+    "deptCode" : "010",
+    "liName" : "光鎮里"
+  }, {
+    "ScopeLiName" : "光鎮里",
+    "tboxNo" : "0139",
+    "tboxName" : "育賢國中710教室",
+    "liCode" : "028",
+    "voter" : "02",
+    "addr" : "新竹市東區光鎮里南大路569號",
+    "neighbor" : "光鎮里",
+    "deptCode" : "010",
+    "liName" : "光鎮里"
+  }, {
+    "ScopeLiName" : "光鎮里",
+    "tboxNo" : "0139",
+    "tboxName" : "育賢國中710教室",
+    "liCode" : "028",
+    "voter" : "03",
+    "addr" : "新竹市東區光鎮里南大路569號",
+    "neighbor" : "光鎮里",
+    "deptCode" : "010",
+    "liName" : "光鎮里"
+  }, {
+    "ScopeLiName" : "光鎮里",
+    "tboxNo" : "0140",
+    "tboxName" : "育賢國中806教室",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市東區光鎮里南大路569號",
+    "neighbor" : "8-11,22-24",
+    "deptCode" : "010",
+    "liName" : "光鎮里"
+  }, {
+    "ScopeLiName" : "光鎮里",
+    "tboxNo" : "0141",
+    "tboxName" : "育賢國中709教室",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市東區光鎮里南大路569號",
+    "neighbor" : "6-7,12,14-16,19-21",
+    "deptCode" : "010",
+    "liName" : "光鎮里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0142",
+    "tboxName" : "台灣基督長老教會聖經學院教育大樓1樓大廳",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市東區高峰里高峰路56號",
+    "neighbor" : "8-12,18,26-29",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0143",
+    "tboxName" : "高峰社區活動中心",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市東區高峰里高峰路235號",
+    "neighbor" : "7,14,16-17,24-25",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0144",
+    "tboxName" : "高峰國小一年仁班教室",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市東區高峰里高翠路332巷2號",
+    "neighbor" : "2-4,13,15,22",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0144",
+    "tboxName" : "高峰國小一年仁班教室",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "新竹市東區高峰里高翠路332巷2號",
+    "neighbor" : "高峰里",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0144",
+    "tboxName" : "高峰國小一年仁班教室",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "新竹市東區高峰里高翠路332巷2號",
+    "neighbor" : "高峰里",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0145",
+    "tboxName" : "高峰國小一年忠班教室",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市東區高峰里高翠路332巷2號",
+    "neighbor" : "1,6,23,30,31",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "高峰里",
+    "tboxNo" : "0146",
+    "tboxName" : "艾唯兒幼兒園活動中心禮堂",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市東區高峰里高翠路327巷8弄2號",
+    "neighbor" : "5,19-21,32",
+    "deptCode" : "010",
+    "liName" : "高峰里"
+  }, {
+    "ScopeLiName" : "湖濱里",
+    "tboxNo" : "0147",
+    "tboxName" : "蒲公英精實幼兒園",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "新竹市東區湖濱里明湖路388號",
+    "neighbor" : "1-5,18-19",
+    "deptCode" : "010",
+    "liName" : "湖濱里"
+  }, {
+    "ScopeLiName" : "湖濱里",
+    "tboxNo" : "0148",
+    "tboxName" : "湖濱里活動中心",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "新竹市東區湖濱里明湖路456巷23弄23之1號",
+    "neighbor" : "10-17",
+    "deptCode" : "010",
+    "liName" : "湖濱里"
+  }, {
+    "ScopeLiName" : "湖濱里",
+    "tboxNo" : "0149",
+    "tboxName" : "湖濱特區會議室",
+    "liCode" : "052",
+    "voter" : "01",
+    "addr" : "新竹市東區湖濱里明湖路393巷5之1號",
+    "neighbor" : "6-9",
+    "deptCode" : "010",
+    "liName" : "湖濱里"
+  }, {
+    "ScopeLiName" : "湖濱里",
+    "tboxNo" : "0149",
+    "tboxName" : "湖濱特區會議室",
+    "liCode" : "052",
+    "voter" : "02",
+    "addr" : "新竹市東區湖濱里明湖路393巷5之1號",
+    "neighbor" : "湖濱里",
+    "deptCode" : "010",
+    "liName" : "湖濱里"
+  }, {
+    "ScopeLiName" : "湖濱里",
+    "tboxNo" : "0149",
+    "tboxName" : "湖濱特區會議室",
+    "liCode" : "052",
+    "voter" : "03",
+    "addr" : "新竹市東區湖濱里明湖路393巷5之1號",
+    "neighbor" : "湖濱里",
+    "deptCode" : "010",
+    "liName" : "湖濱里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0150",
+    "tboxName" : "煙波主人社區大廳",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市東區柴橋里明湖路715號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0151",
+    "tboxName" : "正輝宮",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市東區柴橋里明湖路608巷7弄18號",
+    "neighbor" : "5-8",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0152",
+    "tboxName" : "大自然社區媽媽教室",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市東區柴橋里明湖路648巷122弄底",
+    "neighbor" : "9-12",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0153",
+    "tboxName" : "新竹美國學校餐廳",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市東區柴橋里藝術路6號",
+    "neighbor" : "13-19",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0153",
+    "tboxName" : "新竹美國學校餐廳",
+    "liCode" : "030",
+    "voter" : "02",
+    "addr" : "新竹市東區柴橋里藝術路6號",
+    "neighbor" : "柴橋里",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0153",
+    "tboxName" : "新竹美國學校餐廳",
+    "liCode" : "030",
+    "voter" : "03",
+    "addr" : "新竹市東區柴橋里藝術路6號",
+    "neighbor" : "柴橋里",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "柴橋里",
+    "tboxNo" : "0154",
+    "tboxName" : "新竹美國學校宿舍餐廳",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市東區柴橋里藝術路8號",
+    "neighbor" : "20-21",
+    "deptCode" : "010",
+    "liName" : "柴橋里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0155",
+    "tboxName" : "青草湖國小1年1班",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "新竹市東區明湖里明湖路1211號",
+    "neighbor" : "1-3",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0156",
+    "tboxName" : "青草湖國小1年2班",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "新竹市東區明湖里明湖路1211號",
+    "neighbor" : "4-8",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0157",
+    "tboxName" : "青草湖國小1年5班",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "新竹市東區明湖里明湖路1211號",
+    "neighbor" : "17,21-22",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0158",
+    "tboxName" : "春福江山活動中心",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "新竹市東區明湖里明湖路1050巷162號",
+    "neighbor" : "9-11,18-20",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0158",
+    "tboxName" : "春福江山活動中心",
+    "liCode" : "053",
+    "voter" : "02",
+    "addr" : "新竹市東區明湖里明湖路1050巷162號",
+    "neighbor" : "明湖里",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0158",
+    "tboxName" : "春福江山活動中心",
+    "liCode" : "053",
+    "voter" : "03",
+    "addr" : "新竹市東區明湖里明湖路1050巷162號",
+    "neighbor" : "明湖里",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "明湖里",
+    "tboxNo" : "0159",
+    "tboxName" : "花園新城活動中心",
+    "liCode" : "053",
+    "voter" : "01",
+    "addr" : "新竹市東區明湖里花園新城街18巷 1-2號",
+    "neighbor" : "12-16",
+    "deptCode" : "010",
+    "liName" : "明湖里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0160",
+    "tboxName" : "市立幼兒園大禮堂後半部",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路５０８號",
+    "neighbor" : "西門里",
+    "deptCode" : "020",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "西門里",
+    "tboxNo" : "0160",
+    "tboxName" : "市立幼兒園大禮堂後半部",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路５０８號",
+    "neighbor" : "西門里",
+    "deptCode" : "020",
+    "liName" : "西門里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0160",
+    "tboxName" : "市立幼兒園大禮堂後半部",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路５０８號",
+    "neighbor" : "中央里",
+    "deptCode" : "020",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "中央里",
+    "tboxNo" : "0160",
+    "tboxName" : "市立幼兒園大禮堂後半部",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路５０８號",
+    "neighbor" : "中央里",
+    "deptCode" : "020",
+    "liName" : "中央里"
+  }, {
+    "ScopeLiName" : "潛園里",
+    "tboxNo" : "0161",
+    "tboxName" : "市立幼兒園家長中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路508號",
+    "neighbor" : "潛園里",
+    "deptCode" : "020",
+    "liName" : "潛園里"
+  }, {
+    "ScopeLiName" : "潛園里",
+    "tboxNo" : "0161",
+    "tboxName" : "市立幼兒園家長中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路508號",
+    "neighbor" : "潛園里",
+    "deptCode" : "020",
+    "liName" : "潛園里"
+  }, {
+    "ScopeLiName" : "石坊里",
+    "tboxNo" : "0162",
+    "tboxName" : "臺灣基督長老教會新竹教會101教室",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "新竹市北區勝利路247號",
+    "neighbor" : "石坊里",
+    "deptCode" : "020",
+    "liName" : "石坊里"
+  }, {
+    "ScopeLiName" : "石坊里",
+    "tboxNo" : "0162",
+    "tboxName" : "臺灣基督長老教會新竹教會101教室",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "新竹市北區勝利路247號",
+    "neighbor" : "石坊里",
+    "deptCode" : "020",
+    "liName" : "石坊里"
+  }, {
+    "ScopeLiName" : "石坊里",
+    "tboxNo" : "0162",
+    "tboxName" : "臺灣基督長老教會新竹教會101教室",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "新竹市北區勝利路247號",
+    "neighbor" : "石坊里",
+    "deptCode" : "020",
+    "liName" : "石坊里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0162",
+    "tboxName" : "臺灣基督長老教會新竹教會101教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市北區勝利路247號",
+    "neighbor" : "1-2",
+    "deptCode" : "020",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "仁德里",
+    "tboxNo" : "0163",
+    "tboxName" : "市立幼兒園大禮堂前半部",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路508號",
+    "neighbor" : "仁德里",
+    "deptCode" : "020",
+    "liName" : "仁德里"
+  }, {
+    "ScopeLiName" : "仁德里",
+    "tboxNo" : "0163",
+    "tboxName" : "市立幼兒園大禮堂前半部",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "新竹市北區西大路508號",
+    "neighbor" : "仁德里",
+    "deptCode" : "020",
+    "liName" : "仁德里"
+  }, {
+    "ScopeLiName" : "仁德里",
+    "tboxNo" : "0163",
+    "tboxName" : "市立幼兒園大禮堂前半部",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路508號",
+    "neighbor" : "仁德里",
+    "deptCode" : "020",
+    "liName" : "仁德里"
+  }, {
+    "ScopeLiName" : "崇禮里",
+    "tboxNo" : "0164",
+    "tboxName" : "天主教社服中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "新竹市北區北大路373號",
+    "neighbor" : "崇禮里",
+    "deptCode" : "020",
+    "liName" : "崇禮里"
+  }, {
+    "ScopeLiName" : "崇禮里",
+    "tboxNo" : "0164",
+    "tboxName" : "天主教社服中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "新竹市北區北大路373號",
+    "neighbor" : "崇禮里",
+    "deptCode" : "020",
+    "liName" : "崇禮里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0165",
+    "tboxName" : "興南里集會所",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市北區西門街185號",
+    "neighbor" : "3-11",
+    "deptCode" : "020",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0165",
+    "tboxName" : "興南里集會所",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "新竹市北區西門街185號",
+    "neighbor" : "興南里",
+    "deptCode" : "020",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "興南里",
+    "tboxNo" : "0165",
+    "tboxName" : "興南里集會所",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "新竹市北區西門街185號",
+    "neighbor" : "興南里",
+    "deptCode" : "020",
+    "liName" : "興南里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0166",
+    "tboxName" : "育英里集會所",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市北區育英路69號",
+    "neighbor" : "3-7,9-14,27",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0167",
+    "tboxName" : "基督教蒙恩堂青年館一樓",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市北區西門街295號",
+    "neighbor" : "8,18-21,23-24,26",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0167",
+    "tboxName" : "基督教蒙恩堂青年館一樓",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "新竹市北區西門街295號",
+    "neighbor" : "育英里",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0167",
+    "tboxName" : "基督教蒙恩堂青年館一樓",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "新竹市北區西門街295號",
+    "neighbor" : "育英里",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "育英里",
+    "tboxNo" : "0168",
+    "tboxName" : "清華大學附設小學1年1班教室",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "新竹市北區四維路47號",
+    "neighbor" : "1,2,15-17,22,25",
+    "deptCode" : "020",
+    "liName" : "育英里"
+  }, {
+    "ScopeLiName" : "台溪里",
+    "tboxNo" : "0169",
+    "tboxName" : "台溪里集會所",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市北區警光路29號",
+    "neighbor" : "1-4",
+    "deptCode" : "020",
+    "liName" : "台溪里"
+  }, {
+    "ScopeLiName" : "台溪里",
+    "tboxNo" : "0169",
+    "tboxName" : "台溪里集會所",
+    "liCode" : "044",
+    "voter" : "02",
+    "addr" : "新竹市北區警光路29號",
+    "neighbor" : "台溪里",
+    "deptCode" : "020",
+    "liName" : "台溪里"
+  }, {
+    "ScopeLiName" : "台溪里",
+    "tboxNo" : "0169",
+    "tboxName" : "台溪里集會所",
+    "liCode" : "044",
+    "voter" : "03",
+    "addr" : "新竹市北區警光路29號",
+    "neighbor" : "台溪里",
+    "deptCode" : "020",
+    "liName" : "台溪里"
+  }, {
+    "ScopeLiName" : "台溪里",
+    "tboxNo" : "0170",
+    "tboxName" : "正德宮(地下1樓)",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "新竹市北區警光路29號旁",
+    "neighbor" : "5-10",
+    "deptCode" : "020",
+    "liName" : "台溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0171",
+    "tboxName" : "國軍退除役官兵輔導委員會新竹榮譽國民之家 (民主堂)",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市北區崧嶺路57巷41號",
+    "neighbor" : "1,5,10,16-18",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0172",
+    "tboxName" : "曲溪里集會所",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市北區成德路18號",
+    "neighbor" : "7,21-22",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0173",
+    "tboxName" : "成德樓",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市北區成德路138號",
+    "neighbor" : "6,14-15,20",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0174",
+    "tboxName" : "國軍退除役官兵輔導委員會新竹榮譽國民之家(才藝教室)",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市北區崧嶺路57巷41號",
+    "neighbor" : "8-9,19",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0174",
+    "tboxName" : "國軍退除役官兵輔導委員會新竹榮譽國民之家(才藝教室)",
+    "liCode" : "032",
+    "voter" : "02",
+    "addr" : "新竹市北區崧嶺路57巷41號",
+    "neighbor" : "曲溪里",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0174",
+    "tboxName" : "國軍退除役官兵輔導委員會新竹榮譽國民之家(才藝教室)",
+    "liCode" : "032",
+    "voter" : "03",
+    "addr" : "新竹市北區崧嶺路57巷41號",
+    "neighbor" : "曲溪里",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "曲溪里",
+    "tboxNo" : "0175",
+    "tboxName" : "永安福德宮",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "新竹市北區南大路706巷33號邊",
+    "neighbor" : "2-4,11-13",
+    "deptCode" : "020",
+    "liName" : "曲溪里"
+  }, {
+    "ScopeLiName" : "西雅里",
+    "tboxNo" : "0176",
+    "tboxName" : "西門國小禮堂前段",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市北區北大路450號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "西雅里"
+  }, {
+    "ScopeLiName" : "西雅里",
+    "tboxNo" : "0177",
+    "tboxName" : "西雅里集會所",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市北區經國路二段663巷38號",
+    "neighbor" : "8-9,14-16",
+    "deptCode" : "020",
+    "liName" : "西雅里"
+  }, {
+    "ScopeLiName" : "西雅里",
+    "tboxNo" : "0177",
+    "tboxName" : "西雅里集會所",
+    "liCode" : "033",
+    "voter" : "02",
+    "addr" : "新竹市北區經國路二段663巷38號",
+    "neighbor" : "西雅里",
+    "deptCode" : "020",
+    "liName" : "西雅里"
+  }, {
+    "ScopeLiName" : "西雅里",
+    "tboxNo" : "0177",
+    "tboxName" : "西雅里集會所",
+    "liCode" : "033",
+    "voter" : "03",
+    "addr" : "新竹市北區經國路二段663巷38號",
+    "neighbor" : "西雅里",
+    "deptCode" : "020",
+    "liName" : "西雅里"
+  }, {
+    "ScopeLiName" : "西雅里",
+    "tboxNo" : "0178",
+    "tboxName" : "西門國小禮堂後段",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "新竹市北區北大路450號",
+    "neighbor" : "7,10-13,17-20",
+    "deptCode" : "020",
+    "liName" : "西雅里"
+  }, {
+    "ScopeLiName" : "客雅里",
+    "tboxNo" : "0179",
+    "tboxName" : "新竹市福緣長青會",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路1段261巷79之3號旁",
+    "neighbor" : "3-7",
+    "deptCode" : "020",
+    "liName" : "客雅里"
+  }, {
+    "ScopeLiName" : "客雅里",
+    "tboxNo" : "0180",
+    "tboxName" : "西門國小一年甲班",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "新竹市北區北大路450號",
+    "neighbor" : "1-2",
+    "deptCode" : "020",
+    "liName" : "客雅里"
+  }, {
+    "ScopeLiName" : "客雅里",
+    "tboxNo" : "0180",
+    "tboxName" : "西門國小一年甲班",
+    "liCode" : "030",
+    "voter" : "02",
+    "addr" : "新竹市北區北大路450號",
+    "neighbor" : "客雅里",
+    "deptCode" : "020",
+    "liName" : "客雅里"
+  }, {
+    "ScopeLiName" : "客雅里",
+    "tboxNo" : "0180",
+    "tboxName" : "西門國小一年甲班",
+    "liCode" : "030",
+    "voter" : "03",
+    "addr" : "新竹市北區北大路450號",
+    "neighbor" : "客雅里",
+    "deptCode" : "020",
+    "liName" : "客雅里"
+  }, {
+    "ScopeLiName" : "中雅里",
+    "tboxNo" : "0181",
+    "tboxName" : "大鵬新城會議室",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市北區凌雲街30號1樓之3之5號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "中雅里"
+  }, {
+    "ScopeLiName" : "中雅里",
+    "tboxNo" : "0182",
+    "tboxName" : "布達佩斯社區A區大廳",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市北區經國路2段535號",
+    "neighbor" : "7-11",
+    "deptCode" : "020",
+    "liName" : "中雅里"
+  }, {
+    "ScopeLiName" : "中雅里",
+    "tboxNo" : "0183",
+    "tboxName" : "布達佩斯社區B區大廳",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "新竹市北區經國路2段539號",
+    "neighbor" : "12-16",
+    "deptCode" : "020",
+    "liName" : "中雅里"
+  }, {
+    "ScopeLiName" : "中雅里",
+    "tboxNo" : "0183",
+    "tboxName" : "布達佩斯社區B區大廳",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "新竹市北區經國路2段539號",
+    "neighbor" : "中雅里",
+    "deptCode" : "020",
+    "liName" : "中雅里"
+  }, {
+    "ScopeLiName" : "中雅里",
+    "tboxNo" : "0183",
+    "tboxName" : "布達佩斯社區B區大廳",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "新竹市北區經國路2段539號",
+    "neighbor" : "中雅里",
+    "deptCode" : "020",
+    "liName" : "中雅里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0184",
+    "tboxName" : "成功幼兒園",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路1段406巷15號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0184",
+    "tboxName" : "成功幼兒園",
+    "liCode" : "034",
+    "voter" : "02",
+    "addr" : "新竹市北區延平路1段406巷15號",
+    "neighbor" : "南勢里",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0184",
+    "tboxName" : "成功幼兒園",
+    "liCode" : "034",
+    "voter" : "03",
+    "addr" : "新竹市北區延平路1段406巷15號",
+    "neighbor" : "南勢里",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0185",
+    "tboxName" : "南勢里集會所",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路一段357巷29號",
+    "neighbor" : "7,9-12",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0186",
+    "tboxName" : "南勢里多功能活動中心",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "新竹市北區南勢六街11號",
+    "neighbor" : "13,17-20",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "南勢里",
+    "tboxNo" : "0187",
+    "tboxName" : "伯大尼老人養護中心",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路一段491號",
+    "neighbor" : "8,14-16",
+    "deptCode" : "020",
+    "liName" : "南勢里"
+  }, {
+    "ScopeLiName" : "大鵬里",
+    "tboxNo" : "0187",
+    "tboxName" : "伯大尼老人養護中心",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路一段491號",
+    "neighbor" : "大鵬里",
+    "deptCode" : "020",
+    "liName" : "大鵬里"
+  }, {
+    "ScopeLiName" : "大鵬里",
+    "tboxNo" : "0187",
+    "tboxName" : "伯大尼老人養護中心",
+    "liCode" : "035",
+    "voter" : "02",
+    "addr" : "新竹市北區延平路一段491號",
+    "neighbor" : "大鵬里",
+    "deptCode" : "020",
+    "liName" : "大鵬里"
+  }, {
+    "ScopeLiName" : "大鵬里",
+    "tboxNo" : "0187",
+    "tboxName" : "伯大尼老人養護中心",
+    "liCode" : "035",
+    "voter" : "03",
+    "addr" : "新竹市北區延平路一段491號",
+    "neighbor" : "大鵬里",
+    "deptCode" : "020",
+    "liName" : "大鵬里"
+  }, {
+    "ScopeLiName" : "大同里",
+    "tboxNo" : "0188",
+    "tboxName" : "新竹市議會一樓大廳",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市北區中正路122號",
+    "neighbor" : "大同里",
+    "deptCode" : "020",
+    "liName" : "大同里"
+  }, {
+    "ScopeLiName" : "大同里",
+    "tboxNo" : "0188",
+    "tboxName" : "新竹市議會一樓大廳",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "新竹市北區中正路122號",
+    "neighbor" : "大同里",
+    "deptCode" : "020",
+    "liName" : "大同里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0189",
+    "tboxName" : "新竹市第一信用合作社",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "新竹市北區大同路130號",
+    "neighbor" : "中山里",
+    "deptCode" : "020",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0189",
+    "tboxName" : "新竹市第一信用合作社",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "新竹市北區大同路130號",
+    "neighbor" : "中山里",
+    "deptCode" : "020",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中興里",
+    "tboxNo" : "0190",
+    "tboxName" : "新竹都城隍廟北門謙成會館",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市北區北門街106號",
+    "neighbor" : "中興里",
+    "deptCode" : "020",
+    "liName" : "中興里"
+  }, {
+    "ScopeLiName" : "中興里",
+    "tboxNo" : "0190",
+    "tboxName" : "新竹都城隍廟北門謙成會館",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "新竹市北區北門街106號",
+    "neighbor" : "中興里",
+    "deptCode" : "020",
+    "liName" : "中興里"
+  }, {
+    "ScopeLiName" : "新民里",
+    "tboxNo" : "0191",
+    "tboxName" : "民富國小106教室",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "7-11,13",
+    "deptCode" : "020",
+    "liName" : "新民里"
+  }, {
+    "ScopeLiName" : "新民里",
+    "tboxNo" : "0192",
+    "tboxName" : "民富國小107教室",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "1-6,12",
+    "deptCode" : "020",
+    "liName" : "新民里"
+  }, {
+    "ScopeLiName" : "新民里",
+    "tboxNo" : "0192",
+    "tboxName" : "民富國小107教室",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "新民里",
+    "deptCode" : "020",
+    "liName" : "新民里"
+  }, {
+    "ScopeLiName" : "新民里",
+    "tboxNo" : "0192",
+    "tboxName" : "民富國小107教室",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "新民里",
+    "deptCode" : "020",
+    "liName" : "新民里"
+  }, {
+    "ScopeLiName" : "長和里",
+    "tboxNo" : "0193",
+    "tboxName" : "長和里集會所",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市北區長和街60號",
+    "neighbor" : "5,8-13",
+    "deptCode" : "020",
+    "liName" : "長和里"
+  }, {
+    "ScopeLiName" : "長和里",
+    "tboxNo" : "0194",
+    "tboxName" : "長和宮大廰",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市北區北門街135號",
+    "neighbor" : "1-4,6-7",
+    "deptCode" : "020",
+    "liName" : "長和里"
+  }, {
+    "ScopeLiName" : "長和里",
+    "tboxNo" : "0194",
+    "tboxName" : "長和宮大廰",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "新竹市北區北門街135號",
+    "neighbor" : "長和里",
+    "deptCode" : "020",
+    "liName" : "長和里"
+  }, {
+    "ScopeLiName" : "長和里",
+    "tboxNo" : "0194",
+    "tboxName" : "長和宮大廰",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "新竹市北區北門街135號",
+    "neighbor" : "長和里",
+    "deptCode" : "020",
+    "liName" : "長和里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0195",
+    "tboxName" : "北門里集會所",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市北區經國路2段159巷28號",
+    "neighbor" : "北門里",
+    "deptCode" : "020",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0195",
+    "tboxName" : "北門里集會所",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "新竹市北區經國路2段159巷28號",
+    "neighbor" : "北門里",
+    "deptCode" : "020",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "北門里",
+    "tboxNo" : "0195",
+    "tboxName" : "北門里集會所",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "新竹市北區經國路2段159巷28號",
+    "neighbor" : "北門里",
+    "deptCode" : "020",
+    "liName" : "北門里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0196",
+    "tboxName" : "民富國小101教室",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "1,12,14-17",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0197",
+    "tboxName" : "民富國小401教室",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "2-5,13",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0198",
+    "tboxName" : "民富國小103教室",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "6-8,10-11,21",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0199",
+    "tboxName" : "民富國小105教室",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "9,18-20,22",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0199",
+    "tboxName" : "民富國小105教室",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "民富里",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "民富里",
+    "tboxNo" : "0199",
+    "tboxName" : "民富國小105教室",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路561號",
+    "neighbor" : "民富里",
+    "deptCode" : "020",
+    "liName" : "民富里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0200",
+    "tboxName" : "磐石里集會所一樓",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "8-13",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0200",
+    "tboxName" : "磐石里集會所一樓",
+    "liCode" : "037",
+    "voter" : "02",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "磐石里",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0200",
+    "tboxName" : "磐石里集會所一樓",
+    "liCode" : "037",
+    "voter" : "03",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "磐石里",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0201",
+    "tboxName" : "磐石里集會所二樓",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "14-18",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0202",
+    "tboxName" : "磐石里集會所三樓",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "19-23",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0203",
+    "tboxName" : "磐石里集會所四樓",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路800號",
+    "neighbor" : "24-28",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "磐石里",
+    "tboxNo" : "0204",
+    "tboxName" : "新竹市天主教仁愛社會福利基金會(仁愛工坊)西大據點",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "新竹市北區西大路681巷1號",
+    "neighbor" : "1-7",
+    "deptCode" : "020",
+    "liName" : "磐石里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0205",
+    "tboxName" : "黃帝神宮",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市北區和平路192號",
+    "neighbor" : "18-24",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0206",
+    "tboxName" : "竹光國中802教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市北區和平路1號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0206",
+    "tboxName" : "竹光國中802教室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "新竹市北區和平路1號",
+    "neighbor" : "新雅里",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0206",
+    "tboxName" : "竹光國中802教室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "新竹市北區和平路1號",
+    "neighbor" : "新雅里",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0207",
+    "tboxName" : "竹光國中803教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市北區和平路1號",
+    "neighbor" : "9-16",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "新雅里",
+    "tboxNo" : "0208",
+    "tboxName" : "竹光國中807教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "新竹市北區和平路1號",
+    "neighbor" : "17,25-27",
+    "deptCode" : "020",
+    "liName" : "新雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0209",
+    "tboxName" : "北星福德宮廣場右側",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市北區城北街137巷15號",
+    "neighbor" : "4-10",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0210",
+    "tboxName" : "北星福德宮廣場左側",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市北區城北街137巷15號",
+    "neighbor" : "1,11-15",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0210",
+    "tboxName" : "北星福德宮廣場左側",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "新竹市北區城北街137巷15號",
+    "neighbor" : "文雅里",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0210",
+    "tboxName" : "北星福德宮廣場左側",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "新竹市北區城北街137巷15號",
+    "neighbor" : "文雅里",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0211",
+    "tboxName" : "普利斯堡幼兒園10號教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市北區國光街141號",
+    "neighbor" : "2,16-20",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "文雅里",
+    "tboxNo" : "0212",
+    "tboxName" : "普利斯堡幼兒園視聽室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市北區國光街141號",
+    "neighbor" : "3,21-24",
+    "deptCode" : "020",
+    "liName" : "文雅里"
+  }, {
+    "ScopeLiName" : "水田里",
+    "tboxNo" : "0213",
+    "tboxName" : "北門國小勤學樓1-1教室",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市北區水田街33號",
+    "neighbor" : "1-10",
+    "deptCode" : "020",
+    "liName" : "水田里"
+  }, {
+    "ScopeLiName" : "水田里",
+    "tboxNo" : "0213",
+    "tboxName" : "北門國小勤學樓1-1教室",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "新竹市北區水田街33號",
+    "neighbor" : "水田里",
+    "deptCode" : "020",
+    "liName" : "水田里"
+  }, {
+    "ScopeLiName" : "水田里",
+    "tboxNo" : "0213",
+    "tboxName" : "北門國小勤學樓1-1教室",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "新竹市北區水田街33號",
+    "neighbor" : "水田里",
+    "deptCode" : "020",
+    "liName" : "水田里"
+  }, {
+    "ScopeLiName" : "水田里",
+    "tboxNo" : "0214",
+    "tboxName" : "北門國小勤學樓1-4教室",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市北區水田街33號",
+    "neighbor" : "11-17",
+    "deptCode" : "020",
+    "liName" : "水田里"
+  }, {
+    "ScopeLiName" : "水田里",
+    "tboxNo" : "0215",
+    "tboxName" : "北門國小中正堂5年6班教室",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市北區水田街33號",
+    "neighbor" : "18-25",
+    "deptCode" : "020",
+    "liName" : "水田里"
+  }, {
+    "ScopeLiName" : "光田里",
+    "tboxNo" : "0216",
+    "tboxName" : "光田里集會所",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "新竹市北區水田街150巷6號1樓",
+    "neighbor" : "1-9,14",
+    "deptCode" : "020",
+    "liName" : "光田里"
+  }, {
+    "ScopeLiName" : "光田里",
+    "tboxNo" : "0217",
+    "tboxName" : "室內停車場",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "新竹市北區水田街158號",
+    "neighbor" : "10-13,15-18",
+    "deptCode" : "020",
+    "liName" : "光田里"
+  }, {
+    "ScopeLiName" : "光田里",
+    "tboxNo" : "0217",
+    "tboxName" : "室內停車場",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "新竹市北區水田街158號",
+    "neighbor" : "光田里",
+    "deptCode" : "020",
+    "liName" : "光田里"
+  }, {
+    "ScopeLiName" : "光田里",
+    "tboxNo" : "0217",
+    "tboxName" : "室內停車場",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "新竹市北區水田街158號",
+    "neighbor" : "光田里",
+    "deptCode" : "020",
+    "liName" : "光田里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0218",
+    "tboxName" : "光華里集會所",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市北區湳雅街88號",
+    "neighbor" : "1-2,11",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0219",
+    "tboxName" : "光華國中志學樓701教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "3-7",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0219",
+    "tboxName" : "光華國中志學樓701教室",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "光華里",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0219",
+    "tboxName" : "光華國中志學樓701教室",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "光華里",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0220",
+    "tboxName" : "光華國中志學樓702教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "8-10,12-14",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "光華里",
+    "tboxNo" : "0221",
+    "tboxName" : "光華國中志學樓703教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "15-21",
+    "deptCode" : "020",
+    "liName" : "光華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0222",
+    "tboxName" : "光華國中綜合大樓1樓會議室",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "1-7,24",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0222",
+    "tboxName" : "光華國中綜合大樓1樓會議室",
+    "liCode" : "040",
+    "voter" : "02",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "金華里",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0222",
+    "tboxName" : "光華國中綜合大樓1樓會議室",
+    "liCode" : "040",
+    "voter" : "03",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "金華里",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0223",
+    "tboxName" : "光華國中志學樓體健領域教室",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "8-12",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0224",
+    "tboxName" : "光華國中志學樓表藝教室(一)",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市北區光華北街10號",
+    "neighbor" : "13-20",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "金華里",
+    "tboxNo" : "0225",
+    "tboxName" : "金華里活動中心",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "新竹市北區光華二街68號",
+    "neighbor" : "21-23,25-30",
+    "deptCode" : "020",
+    "liName" : "金華里"
+  }, {
+    "ScopeLiName" : "湳雅里",
+    "tboxNo" : "0226",
+    "tboxName" : "湳雅里集會所1樓",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市北區湳雅街147巷32號",
+    "neighbor" : "7-10",
+    "deptCode" : "020",
+    "liName" : "湳雅里"
+  }, {
+    "ScopeLiName" : "湳雅里",
+    "tboxNo" : "0226",
+    "tboxName" : "湳雅里集會所1樓",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "新竹市北區湳雅街147巷32號",
+    "neighbor" : "湳雅里",
+    "deptCode" : "020",
+    "liName" : "湳雅里"
+  }, {
+    "ScopeLiName" : "湳雅里",
+    "tboxNo" : "0226",
+    "tboxName" : "湳雅里集會所1樓",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "新竹市北區湳雅街147巷32號",
+    "neighbor" : "湳雅里",
+    "deptCode" : "020",
+    "liName" : "湳雅里"
+  }, {
+    "ScopeLiName" : "湳雅里",
+    "tboxNo" : "0227",
+    "tboxName" : "湳雅里集會所2樓",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市北區湳雅街147巷32號",
+    "neighbor" : "5,11-12",
+    "deptCode" : "020",
+    "liName" : "湳雅里"
+  }, {
+    "ScopeLiName" : "湳雅里",
+    "tboxNo" : "0228",
+    "tboxName" : "漢聲幼兒園餐廳",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路222巷16號",
+    "neighbor" : "1-4,6",
+    "deptCode" : "020",
+    "liName" : "湳雅里"
+  }, {
+    "ScopeLiName" : "金雅里",
+    "tboxNo" : "0229",
+    "tboxName" : "童欣幼兒園",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市北區金農路42巷19號",
+    "neighbor" : "1-5",
+    "deptCode" : "020",
+    "liName" : "金雅里"
+  }, {
+    "ScopeLiName" : "金雅里",
+    "tboxNo" : "0229",
+    "tboxName" : "童欣幼兒園",
+    "liCode" : "043",
+    "voter" : "02",
+    "addr" : "新竹市北區金農路42巷19號",
+    "neighbor" : "金雅里",
+    "deptCode" : "020",
+    "liName" : "金雅里"
+  }, {
+    "ScopeLiName" : "金雅里",
+    "tboxNo" : "0229",
+    "tboxName" : "童欣幼兒園",
+    "liCode" : "043",
+    "voter" : "03",
+    "addr" : "新竹市北區金農路42巷19號",
+    "neighbor" : "金雅里",
+    "deptCode" : "020",
+    "liName" : "金雅里"
+  }, {
+    "ScopeLiName" : "金雅里",
+    "tboxNo" : "0230",
+    "tboxName" : "福柏長壽會館一樓",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "新竹市北區鐵道路2段220之1號",
+    "neighbor" : "6-13",
+    "deptCode" : "020",
+    "liName" : "金雅里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0231",
+    "tboxName" : "南中宮聯誼中心",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區湳中街40巷40之7號",
+    "neighbor" : "5-9",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0232",
+    "tboxName" : "湳中里集會所",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路111之1號",
+    "neighbor" : "1-4",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0232",
+    "tboxName" : "湳中里集會所",
+    "liCode" : "042",
+    "voter" : "02",
+    "addr" : "新竹市北區武陵路111之1號",
+    "neighbor" : "湳中里",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0232",
+    "tboxName" : "湳中里集會所",
+    "liCode" : "042",
+    "voter" : "03",
+    "addr" : "新竹市北區武陵路111之1號",
+    "neighbor" : "湳中里",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0233",
+    "tboxName" : "武陵中正大廈活動中心",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路165號",
+    "neighbor" : "10-12",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0234",
+    "tboxName" : "武陵中正大廈兒童室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路165號",
+    "neighbor" : "13-15",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0235",
+    "tboxName" : "荷蘭村VIP活動中心",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路175巷6號",
+    "neighbor" : "19-21",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "湳中里",
+    "tboxNo" : "0236",
+    "tboxName" : "湳中里文康中心（荷蘭村）",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路175巷2-1號",
+    "neighbor" : "16-18",
+    "deptCode" : "020",
+    "liName" : "湳中里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0237",
+    "tboxName" : "舊社國小禮儀教室",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "1,3,5",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0238",
+    "tboxName" : "舊社國小炫風館2樓",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "2,4,22",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0239",
+    "tboxName" : "舊社國小雲雀館",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "6,18,23",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0239",
+    "tboxName" : "舊社國小雲雀館",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "舊社里",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0239",
+    "tboxName" : "舊社國小雲雀館",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "舊社里",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0240",
+    "tboxName" : "舊社國小藝文教室1",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "8-9,17,21",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0241",
+    "tboxName" : "舊社里集會所",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區湳雅街313巷5號",
+    "neighbor" : "7,10-11,19-20",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "舊社里",
+    "tboxNo" : "0242",
+    "tboxName" : "舊社里土地公廟",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市北區光華二街150巷79號",
+    "neighbor" : "12-16",
+    "deptCode" : "020",
+    "liName" : "舊社里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0243",
+    "tboxName" : "舊社國小藝文教室2",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0244",
+    "tboxName" : "舊社國小藝文教室3",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "10-14",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0245",
+    "tboxName" : "舊社國小藝文教室4",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "15-19",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0245",
+    "tboxName" : "舊社國小藝文教室4",
+    "liCode" : "041",
+    "voter" : "02",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "金竹里",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0245",
+    "tboxName" : "舊社國小藝文教室4",
+    "liCode" : "041",
+    "voter" : "03",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "金竹里",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0246",
+    "tboxName" : "舊社國小炫風館1樓",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "9,20-23",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "金竹里",
+    "tboxNo" : "0247",
+    "tboxName" : "舊社國小炫風館地下室",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "新竹市北區金竹路99號",
+    "neighbor" : "24-27",
+    "deptCode" : "020",
+    "liName" : "金竹里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0248",
+    "tboxName" : "載熙國小忠孝樓3年1班",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "1-8,32",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0249",
+    "tboxName" : "載熙國小信義樓多元教室1",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "9-14",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0250",
+    "tboxName" : "載熙國小信義樓6年1班",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "15-21",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0251",
+    "tboxName" : "載熙國小信義樓6年3班",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "22-31",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0251",
+    "tboxName" : "載熙國小信義樓6年3班",
+    "liCode" : "023",
+    "voter" : "02",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "武陵里",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "武陵里",
+    "tboxNo" : "0251",
+    "tboxName" : "載熙國小信義樓6年3班",
+    "liCode" : "023",
+    "voter" : "03",
+    "addr" : "新竹市北區東大路2段386號",
+    "neighbor" : "武陵里",
+    "deptCode" : "020",
+    "liName" : "武陵里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0252",
+    "tboxName" : "法蓮廟",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路二段375巷9號",
+    "neighbor" : "1-6,19",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0253",
+    "tboxName" : "福林里集會所",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市北區武陵路25巷1號",
+    "neighbor" : "7-9",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0254",
+    "tboxName" : "福德宮",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段217巷56弄底",
+    "neighbor" : "10-11,13-14,20",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0255",
+    "tboxName" : "諾貝兒幼兒園",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路二段165號",
+    "neighbor" : "12,15-18",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0255",
+    "tboxName" : "諾貝兒幼兒園",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "新竹市北區東大路二段165號",
+    "neighbor" : "福林里",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "福林里",
+    "tboxNo" : "0255",
+    "tboxName" : "諾貝兒幼兒園",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "新竹市北區東大路二段165號",
+    "neighbor" : "福林里",
+    "deptCode" : "020",
+    "liName" : "福林里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0256",
+    "tboxName" : "正群花園廣場大廳",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市北區中正路493號",
+    "neighbor" : "11,13-14,22-23",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0256",
+    "tboxName" : "正群花園廣場大廳",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "新竹市北區中正路493號",
+    "neighbor" : "境福里",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0256",
+    "tboxName" : "正群花園廣場大廳",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "新竹市北區中正路493號",
+    "neighbor" : "境福里",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0257",
+    "tboxName" : "微風廣場正廳",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市北區成功路65巷18號",
+    "neighbor" : "15-18",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0258",
+    "tboxName" : "境福宮",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市北區境福街197號",
+    "neighbor" : "1-2,6,8-9,21",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "境福里",
+    "tboxNo" : "0259",
+    "tboxName" : "永修精舍",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "新竹市北區境福街141巷10號 鐵道路三段81巷正對面 ",
+    "neighbor" : "3-5,7,10,12,19-20",
+    "deptCode" : "020",
+    "liName" : "境福里"
+  }, {
+    "ScopeLiName" : "士林里",
+    "tboxNo" : "0260",
+    "tboxName" : "士林里集會所",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市北區吉羊路96號1樓",
+    "neighbor" : "1-2,8-9,25-27",
+    "deptCode" : "020",
+    "liName" : "士林里"
+  }, {
+    "ScopeLiName" : "士林里",
+    "tboxNo" : "0261",
+    "tboxName" : "新恩堂",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路2段655號",
+    "neighbor" : "3-7,10-24",
+    "deptCode" : "020",
+    "liName" : "士林里"
+  }, {
+    "ScopeLiName" : "士林里",
+    "tboxNo" : "0261",
+    "tboxName" : "新恩堂",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "新竹市北區東大路2段655號",
+    "neighbor" : "士林里",
+    "deptCode" : "020",
+    "liName" : "士林里"
+  }, {
+    "ScopeLiName" : "士林里",
+    "tboxNo" : "0261",
+    "tboxName" : "新恩堂",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "新竹市北區東大路2段655號",
+    "neighbor" : "士林里",
+    "deptCode" : "020",
+    "liName" : "士林里"
+  }, {
+    "ScopeLiName" : "古賢里",
+    "tboxNo" : "0262",
+    "tboxName" : "古賢里集會所",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路3段110巷15號",
+    "neighbor" : "古賢里",
+    "deptCode" : "020",
+    "liName" : "古賢里"
+  }, {
+    "ScopeLiName" : "古賢里",
+    "tboxNo" : "0262",
+    "tboxName" : "古賢里集會所",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "新竹市北區東大路3段110巷15號",
+    "neighbor" : "古賢里",
+    "deptCode" : "020",
+    "liName" : "古賢里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0263",
+    "tboxName" : "南寮國小禮堂",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路3段465號",
+    "neighbor" : "1-6",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0264",
+    "tboxName" : "信義新村禮堂",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路4段117巷34號",
+    "neighbor" : "15-19,21,23",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0265",
+    "tboxName" : "南華國中七年一班教室",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "7",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0266",
+    "tboxName" : "慈聖宮",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市北區南寮街185號",
+    "neighbor" : "9-14",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0266",
+    "tboxName" : "慈聖宮",
+    "liCode" : "024",
+    "voter" : "02",
+    "addr" : "新竹市北區南寮街185號",
+    "neighbor" : "南寮里",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0266",
+    "tboxName" : "慈聖宮",
+    "liCode" : "024",
+    "voter" : "03",
+    "addr" : "新竹市北區南寮街185號",
+    "neighbor" : "南寮里",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "南寮里",
+    "tboxNo" : "0267",
+    "tboxName" : "南華國中八大A教室",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "8,20,22",
+    "deptCode" : "020",
+    "liName" : "南寮里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0268",
+    "tboxName" : "康福宮一樓",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路3段357巷16號",
+    "neighbor" : "4-6",
+    "deptCode" : "020",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0268",
+    "tboxName" : "康福宮一樓",
+    "liCode" : "026",
+    "voter" : "02",
+    "addr" : "新竹市北區東大路3段357巷16號",
+    "neighbor" : "康樂里",
+    "deptCode" : "020",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0268",
+    "tboxName" : "康福宮一樓",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "新竹市北區東大路3段357巷16號",
+    "neighbor" : "康樂里",
+    "deptCode" : "020",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0269",
+    "tboxName" : "康樂里集會所",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路3段357巷6號",
+    "neighbor" : "7-9",
+    "deptCode" : "020",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0270",
+    "tboxName" : "北極佑聖宮",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "新竹市北區東大路3段430巷3號",
+    "neighbor" : "1-3",
+    "deptCode" : "020",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "中寮里",
+    "tboxNo" : "0271",
+    "tboxName" : "南寮圖書館自修室",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市北區中光路17號",
+    "neighbor" : "10,13-14",
+    "deptCode" : "020",
+    "liName" : "中寮里"
+  }, {
+    "ScopeLiName" : "中寮里",
+    "tboxNo" : "0271",
+    "tboxName" : "南寮圖書館自修室",
+    "liCode" : "028",
+    "voter" : "02",
+    "addr" : "新竹市北區中光路17號",
+    "neighbor" : "中寮里",
+    "deptCode" : "020",
+    "liName" : "中寮里"
+  }, {
+    "ScopeLiName" : "中寮里",
+    "tboxNo" : "0271",
+    "tboxName" : "南寮圖書館自修室",
+    "liCode" : "028",
+    "voter" : "03",
+    "addr" : "新竹市北區中光路17號",
+    "neighbor" : "中寮里",
+    "deptCode" : "020",
+    "liName" : "中寮里"
+  }, {
+    "ScopeLiName" : "中寮里",
+    "tboxNo" : "0272",
+    "tboxName" : "中寮里集會所",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路3段392巷58弄2號",
+    "neighbor" : "1-8,11",
+    "deptCode" : "020",
+    "liName" : "中寮里"
+  }, {
+    "ScopeLiName" : "中寮里",
+    "tboxNo" : "0273",
+    "tboxName" : "煙波行館大廳",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "新竹市北區天府路1段469之1號",
+    "neighbor" : "9,12,15-17",
+    "deptCode" : "020",
+    "liName" : "中寮里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0274",
+    "tboxName" : "代天府活動中心",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市北區西濱路一段355號",
+    "neighbor" : "1-7",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0275",
+    "tboxName" : "南華國中九大A教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "11,17-18",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0275",
+    "tboxName" : "南華國中九大A教室",
+    "liCode" : "029",
+    "voter" : "02",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "海濱里",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0275",
+    "tboxName" : "南華國中九大A教室",
+    "liCode" : "029",
+    "voter" : "03",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "海濱里",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0276",
+    "tboxName" : "海濱里民眾活動中心",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市北區聖軍路26號",
+    "neighbor" : "8-10,12-14",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "海濱里",
+    "tboxNo" : "0277",
+    "tboxName" : "南華國中教室七年四班教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "新竹市北區海濱路55號",
+    "neighbor" : "15-16",
+    "deptCode" : "020",
+    "liName" : "海濱里"
+  }, {
+    "ScopeLiName" : "港北里",
+    "tboxNo" : "0278",
+    "tboxName" : "港北里集會所",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "新竹市北區港北三街1號",
+    "neighbor" : "7-12",
+    "deptCode" : "020",
+    "liName" : "港北里"
+  }, {
+    "ScopeLiName" : "港北里",
+    "tboxNo" : "0278",
+    "tboxName" : "港北里集會所",
+    "liCode" : "027",
+    "voter" : "02",
+    "addr" : "新竹市北區港北三街1號",
+    "neighbor" : "港北里",
+    "deptCode" : "020",
+    "liName" : "港北里"
+  }, {
+    "ScopeLiName" : "港北里",
+    "tboxNo" : "0278",
+    "tboxName" : "港北里集會所",
+    "liCode" : "027",
+    "voter" : "03",
+    "addr" : "新竹市北區港北三街1號",
+    "neighbor" : "港北里",
+    "deptCode" : "020",
+    "liName" : "港北里"
+  }, {
+    "ScopeLiName" : "港北里",
+    "tboxNo" : "0279",
+    "tboxName" : "港清宮旁辦公處",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "新竹市北區延平路3段145號",
+    "neighbor" : "1-6,13",
+    "deptCode" : "020",
+    "liName" : "港北里"
+  }, {
+    "ScopeLiName" : "舊港里",
+    "tboxNo" : "0280",
+    "tboxName" : "舊港里集會所",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "新竹市北區舊港54號",
+    "neighbor" : "舊港里",
+    "deptCode" : "020",
+    "liName" : "舊港里"
+  }, {
+    "ScopeLiName" : "舊港里",
+    "tboxNo" : "0280",
+    "tboxName" : "舊港里集會所",
+    "liCode" : "025",
+    "voter" : "02",
+    "addr" : "新竹市北區舊港54號",
+    "neighbor" : "舊港里",
+    "deptCode" : "020",
+    "liName" : "舊港里"
+  }, {
+    "ScopeLiName" : "舊港里",
+    "tboxNo" : "0280",
+    "tboxName" : "舊港里集會所",
+    "liCode" : "025",
+    "voter" : "03",
+    "addr" : "新竹市北區舊港54號",
+    "neighbor" : "舊港里",
+    "deptCode" : "020",
+    "liName" : "舊港里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0281",
+    "tboxName" : "頂埔里集會所",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔里經國路三段5號",
+    "neighbor" : "1,3,17,20,22,24",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0282",
+    "tboxName" : "頂埔國小106教室(一年丙班)",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "2,4-8",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0282",
+    "tboxName" : "頂埔國小106教室(一年丙班)",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "頂埔里",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0282",
+    "tboxName" : "頂埔國小106教室(一年丙班)",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "頂埔里",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0283",
+    "tboxName" : "頂埔國小104教室(一年甲班)",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "9-11,23",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0284",
+    "tboxName" : "頂埔國小108教室(音樂科任教室)",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "16,18-19,21,25-26",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂埔里",
+    "tboxNo" : "0285",
+    "tboxName" : "頂埔國小活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "12-15,27-29",
+    "deptCode" : "030",
+    "liName" : "頂埔里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0286",
+    "tboxName" : "頂埔國小110教室(一年己班)",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市香山區頂埔路23號",
+    "neighbor" : "1,2,10",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0287",
+    "tboxName" : "頂福活動中心1樓長青會",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路四段271巷3之1號  景觀大道下 ",
+    "neighbor" : "3-5,14",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0288",
+    "tboxName" : "頂福活動中心一樓",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路四段271巷3之1號  景觀大道下 ",
+    "neighbor" : "6,13,15-17",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0289",
+    "tboxName" : "頂福活動中心二樓",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路四段271巷3之1號 （景觀大道下）",
+    "neighbor" : "7-9,11-12",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0289",
+    "tboxName" : "頂福活動中心二樓",
+    "liCode" : "024",
+    "voter" : "02",
+    "addr" : "新竹市香山區中華路四段271巷3之1號 （景觀大道下）",
+    "neighbor" : "頂福里",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "頂福里",
+    "tboxNo" : "0289",
+    "tboxName" : "頂福活動中心二樓",
+    "liCode" : "024",
+    "voter" : "03",
+    "addr" : "新竹市香山區中華路四段271巷3之1號 （景觀大道下）",
+    "neighbor" : "頂福里",
+    "deptCode" : "030",
+    "liName" : "頂福里"
+  }, {
+    "ScopeLiName" : "中埔里",
+    "tboxNo" : "0290",
+    "tboxName" : "中埔里活動中心(1)",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路四段226巷5號 景觀大道下 ",
+    "neighbor" : "1-2,7-8",
+    "deptCode" : "030",
+    "liName" : "中埔里"
+  }, {
+    "ScopeLiName" : "中埔里",
+    "tboxNo" : "0291",
+    "tboxName" : "中埔里活動中心(2)",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路4段226巷5號（景觀大道下）",
+    "neighbor" : "9-12",
+    "deptCode" : "030",
+    "liName" : "中埔里"
+  }, {
+    "ScopeLiName" : "中埔里",
+    "tboxNo" : "0291",
+    "tboxName" : "中埔里活動中心(2)",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "新竹市香山區中華路4段226巷5號（景觀大道下）",
+    "neighbor" : "中埔里",
+    "deptCode" : "030",
+    "liName" : "中埔里"
+  }, {
+    "ScopeLiName" : "中埔里",
+    "tboxNo" : "0291",
+    "tboxName" : "中埔里活動中心(2)",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "新竹市香山區中華路4段226巷5號（景觀大道下）",
+    "neighbor" : "中埔里",
+    "deptCode" : "030",
+    "liName" : "中埔里"
+  }, {
+    "ScopeLiName" : "中埔里",
+    "tboxNo" : "0292",
+    "tboxName" : "香山國小(1104室)(一年孝班)",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "3-6",
+    "deptCode" : "030",
+    "liName" : "中埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0293",
+    "tboxName" : "香山國小(2207室)(四年忠班)",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "6-12",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0294",
+    "tboxName" : "香山國小(2106室)(三年仁班)",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "1-5",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0295",
+    "tboxName" : "香山國小(3101室)(四年愛班)",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "13-14",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0296",
+    "tboxName" : "香山國小(3103室)(五年孝班)",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "15-17",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0296",
+    "tboxName" : "香山國小(3103室)(五年孝班)",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "牛埔里",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "牛埔里",
+    "tboxNo" : "0296",
+    "tboxName" : "香山國小(3103室)(五年孝班)",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "牛埔里",
+    "deptCode" : "030",
+    "liName" : "牛埔里"
+  }, {
+    "ScopeLiName" : "埔前里",
+    "tboxNo" : "0297",
+    "tboxName" : "勝安宮(王母娘娘廟)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔北路37巷70號",
+    "neighbor" : "2,5,15,16",
+    "deptCode" : "030",
+    "liName" : "埔前里"
+  }, {
+    "ScopeLiName" : "埔前里",
+    "tboxNo" : "0298",
+    "tboxName" : "喬治叔叔幼兒園",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔北路66號",
+    "neighbor" : "1,3,11-13,18",
+    "deptCode" : "030",
+    "liName" : "埔前里"
+  }, {
+    "ScopeLiName" : "埔前里",
+    "tboxNo" : "0299",
+    "tboxName" : "香山國小(1103室)(一年忠班)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "4,6-10,14,17",
+    "deptCode" : "030",
+    "liName" : "埔前里"
+  }, {
+    "ScopeLiName" : "埔前里",
+    "tboxNo" : "0299",
+    "tboxName" : "香山國小(1103室)(一年忠班)",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "埔前里",
+    "deptCode" : "030",
+    "liName" : "埔前里"
+  }, {
+    "ScopeLiName" : "埔前里",
+    "tboxNo" : "0299",
+    "tboxName" : "香山國小(1103室)(一年忠班)",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "新竹市香山區牛埔東路260號",
+    "neighbor" : "埔前里",
+    "deptCode" : "030",
+    "liName" : "埔前里"
+  }, {
+    "ScopeLiName" : "樹下里",
+    "tboxNo" : "0300",
+    "tboxName" : "樹下社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "新竹市香山區樹下街97號",
+    "neighbor" : "1,7-10",
+    "deptCode" : "030",
+    "liName" : "樹下里"
+  }, {
+    "ScopeLiName" : "樹下里",
+    "tboxNo" : "0301",
+    "tboxName" : "靈安宮活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "新竹市香山區樹下街95號",
+    "neighbor" : "2-6",
+    "deptCode" : "030",
+    "liName" : "樹下里"
+  }, {
+    "ScopeLiName" : "樹下里",
+    "tboxNo" : "0301",
+    "tboxName" : "靈安宮活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "新竹市香山區樹下街95號",
+    "neighbor" : "樹下里",
+    "deptCode" : "030",
+    "liName" : "樹下里"
+  }, {
+    "ScopeLiName" : "樹下里",
+    "tboxNo" : "0301",
+    "tboxName" : "靈安宮活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "新竹市香山區樹下街95號",
+    "neighbor" : "樹下里",
+    "deptCode" : "030",
+    "liName" : "樹下里"
+  }, {
+    "ScopeLiName" : "浸水里",
+    "tboxNo" : "0302",
+    "tboxName" : "南靈宮禮堂",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "新竹市香山區浸水南街53號對面",
+    "neighbor" : "1,2,7",
+    "deptCode" : "030",
+    "liName" : "浸水里"
+  }, {
+    "ScopeLiName" : "浸水里",
+    "tboxNo" : "0302",
+    "tboxName" : "南靈宮禮堂",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "新竹市香山區浸水南街53號對面",
+    "neighbor" : "浸水里",
+    "deptCode" : "030",
+    "liName" : "浸水里"
+  }, {
+    "ScopeLiName" : "浸水里",
+    "tboxNo" : "0302",
+    "tboxName" : "南靈宮禮堂",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "新竹市香山區浸水南街53號對面",
+    "neighbor" : "浸水里",
+    "deptCode" : "030",
+    "liName" : "浸水里"
+  }, {
+    "ScopeLiName" : "浸水里",
+    "tboxNo" : "0303",
+    "tboxName" : "浸水里集會所一樓",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "新竹市香山區浸水南街84巷1號",
+    "neighbor" : "3-6,8-9",
+    "deptCode" : "030",
+    "liName" : "浸水里"
+  }, {
+    "ScopeLiName" : "虎林里",
+    "tboxNo" : "0304",
+    "tboxName" : "虎林國小104教室",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "新竹市香山區延平路二段78號",
+    "neighbor" : "7,8,10,12-15,18,19,",
+    "deptCode" : "030",
+    "liName" : "虎林里"
+  }, {
+    "ScopeLiName" : "虎林里",
+    "tboxNo" : "0305",
+    "tboxName" : "富山社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "新竹市香山區虎林街123巷12弄1號",
+    "neighbor" : "1-6,9,11,16,17",
+    "deptCode" : "030",
+    "liName" : "虎林里"
+  }, {
+    "ScopeLiName" : "虎林里",
+    "tboxNo" : "0305",
+    "tboxName" : "富山社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "新竹市香山區虎林街123巷12弄1號",
+    "neighbor" : "虎林里",
+    "deptCode" : "030",
+    "liName" : "虎林里"
+  }, {
+    "ScopeLiName" : "虎林里",
+    "tboxNo" : "0305",
+    "tboxName" : "富山社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "新竹市香山區虎林街123巷12弄1號",
+    "neighbor" : "虎林里",
+    "deptCode" : "030",
+    "liName" : "虎林里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0306",
+    "tboxName" : "舊虎林國小(虎林虎山生活館)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市香山區延平路二段336號",
+    "neighbor" : "1-6",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0307",
+    "tboxName" : "舊虎林國小(圖書室)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市香山區延平路二段336號",
+    "neighbor" : "9-13",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0308",
+    "tboxName" : "舊虎林國小(虎仔山長青會)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市香山區延平路二段336號",
+    "neighbor" : "14-16,27,28",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0309",
+    "tboxName" : "指澤宮西廂房",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市香山區延平路二段681號",
+    "neighbor" : "8,21,22,23,25,26",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0310",
+    "tboxName" : "虎山里集會所",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "新竹市香山區華江街69巷50號",
+    "neighbor" : "7,17-20,24",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0310",
+    "tboxName" : "虎山里集會所",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "新竹市香山區華江街69巷50號",
+    "neighbor" : "虎山里",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "虎山里",
+    "tboxNo" : "0310",
+    "tboxName" : "虎山里集會所",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "新竹市香山區華江街69巷50號",
+    "neighbor" : "虎山里",
+    "deptCode" : "030",
+    "liName" : "虎山里"
+  }, {
+    "ScopeLiName" : "港南里",
+    "tboxNo" : "0311",
+    "tboxName" : "港南里集會所",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "新竹市香山區海埔路168號",
+    "neighbor" : "5,9,13-14",
+    "deptCode" : "030",
+    "liName" : "港南里"
+  }, {
+    "ScopeLiName" : "港南里",
+    "tboxNo" : "0312",
+    "tboxName" : "港南國小五年忠班",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "新竹市香山區海埔路171巷91號",
+    "neighbor" : "1-3,12",
+    "deptCode" : "030",
+    "liName" : "港南里"
+  }, {
+    "ScopeLiName" : "港南里",
+    "tboxNo" : "0312",
+    "tboxName" : "港南國小五年忠班",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "新竹市香山區海埔路171巷91號",
+    "neighbor" : "港南里",
+    "deptCode" : "030",
+    "liName" : "港南里"
+  }, {
+    "ScopeLiName" : "港南里",
+    "tboxNo" : "0312",
+    "tboxName" : "港南國小五年忠班",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "新竹市香山區海埔路171巷91號",
+    "neighbor" : "港南里",
+    "deptCode" : "030",
+    "liName" : "港南里"
+  }, {
+    "ScopeLiName" : "港南里",
+    "tboxNo" : "0313",
+    "tboxName" : "港南順天宮",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "新竹市香山區海埔路74巷15號",
+    "neighbor" : "4,6-8,10-11",
+    "deptCode" : "030",
+    "liName" : "港南里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0314",
+    "tboxName" : "梅竹賞社區大廳",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市香山區富群街23號",
+    "neighbor" : "13,16",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0315",
+    "tboxName" : "東香里集會所",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市香山區東香路二段2之1號",
+    "neighbor" : "1,2,9,11,15",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0315",
+    "tboxName" : "東香里集會所",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "新竹市香山區東香路二段2之1號",
+    "neighbor" : "東香里",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0315",
+    "tboxName" : "東香里集會所",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "新竹市香山區東香路二段2之1號",
+    "neighbor" : "東香里",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0316",
+    "tboxName" : "東窯太子宮",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市香山區柴橋路256巷1號",
+    "neighbor" : "5-8,10,12",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "東香里",
+    "tboxNo" : "0317",
+    "tboxName" : "觀日大地社區活動中心",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "新竹市香山區東香里新香街358號",
+    "neighbor" : "3,4,14",
+    "deptCode" : "030",
+    "liName" : "東香里"
+  }, {
+    "ScopeLiName" : "香村里",
+    "tboxNo" : "0318",
+    "tboxName" : "香山中學7年6班",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "新竹市香山區香村里元培街124號",
+    "neighbor" : "1-8",
+    "deptCode" : "030",
+    "liName" : "香村里"
+  }, {
+    "ScopeLiName" : "香村里",
+    "tboxNo" : "0319",
+    "tboxName" : "香山中學普一孝",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "新竹市香山區香村里元培街124號",
+    "neighbor" : "9-14",
+    "deptCode" : "030",
+    "liName" : "香村里"
+  }, {
+    "ScopeLiName" : "香村里",
+    "tboxNo" : "0320",
+    "tboxName" : "香山中學8年7班",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "新竹市香山區香村里元培街124號",
+    "neighbor" : "15-17",
+    "deptCode" : "030",
+    "liName" : "香村里"
+  }, {
+    "ScopeLiName" : "香村里",
+    "tboxNo" : "0320",
+    "tboxName" : "香山中學8年7班",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "新竹市香山區香村里元培街124號",
+    "neighbor" : "香村里",
+    "deptCode" : "030",
+    "liName" : "香村里"
+  }, {
+    "ScopeLiName" : "香村里",
+    "tboxNo" : "0320",
+    "tboxName" : "香山中學8年7班",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "新竹市香山區香村里元培街124號",
+    "neighbor" : "香村里",
+    "deptCode" : "030",
+    "liName" : "香村里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0321",
+    "tboxName" : "大庄國小遊藝廊",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市香山區大庄路48號",
+    "neighbor" : "1,6-7,10,12-13",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0322",
+    "tboxName" : "大庄國小德慧樓教室1年甲班",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市香山區大庄路48號",
+    "neighbor" : "4-5,8-9,16",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0323",
+    "tboxName" : "大庄國小德慧樓教室1年丙班",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市香山區大庄路48號",
+    "neighbor" : "17-21",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0323",
+    "tboxName" : "大庄國小德慧樓教室1年丙班",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "新竹市香山區大庄路48號",
+    "neighbor" : "香山里",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0323",
+    "tboxName" : "大庄國小德慧樓教室1年丙班",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "新竹市香山區大庄路48號",
+    "neighbor" : "香山里",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "香山里",
+    "tboxNo" : "0324",
+    "tboxName" : "香山里集會所",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "新竹市香山區瑞光街25巷35號",
+    "neighbor" : "2-3,14-15",
+    "deptCode" : "030",
+    "liName" : "香山里"
+  }, {
+    "ScopeLiName" : "大庄里",
+    "tboxNo" : "0325",
+    "tboxName" : "大庄明烈宮",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市香山區宮口街10號",
+    "neighbor" : "1-7",
+    "deptCode" : "030",
+    "liName" : "大庄里"
+  }, {
+    "ScopeLiName" : "大庄里",
+    "tboxNo" : "0325",
+    "tboxName" : "大庄明烈宮",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "新竹市香山區宮口街10號",
+    "neighbor" : "大庄里",
+    "deptCode" : "030",
+    "liName" : "大庄里"
+  }, {
+    "ScopeLiName" : "大庄里",
+    "tboxNo" : "0325",
+    "tboxName" : "大庄明烈宮",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "新竹市香山區宮口街10號",
+    "neighbor" : "大庄里",
+    "deptCode" : "030",
+    "liName" : "大庄里"
+  }, {
+    "ScopeLiName" : "大庄里",
+    "tboxNo" : "0326",
+    "tboxName" : "香山大庄活動中心一樓",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市香山區宮口街30號",
+    "neighbor" : "8-11",
+    "deptCode" : "030",
+    "liName" : "大庄里"
+  }, {
+    "ScopeLiName" : "大庄里",
+    "tboxNo" : "0327",
+    "tboxName" : "香山大庄活動中心二樓",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "新竹市香山區宮口街30號",
+    "neighbor" : "12-17",
+    "deptCode" : "030",
+    "liName" : "大庄里"
+  }, {
+    "ScopeLiName" : "美山里",
+    "tboxNo" : "0328",
+    "tboxName" : "美山里集會所",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路五段323巷45弄85號",
+    "neighbor" : "美山里",
+    "deptCode" : "030",
+    "liName" : "美山里"
+  }, {
+    "ScopeLiName" : "美山里",
+    "tboxNo" : "0328",
+    "tboxName" : "美山里集會所",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "新竹市香山區中華路五段323巷45弄85號",
+    "neighbor" : "美山里",
+    "deptCode" : "030",
+    "liName" : "美山里"
+  }, {
+    "ScopeLiName" : "美山里",
+    "tboxNo" : "0328",
+    "tboxName" : "美山里集會所",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "新竹市香山區中華路五段323巷45弄85號",
+    "neighbor" : "美山里",
+    "deptCode" : "030",
+    "liName" : "美山里"
+  }, {
+    "ScopeLiName" : "朝山里",
+    "tboxNo" : "0329",
+    "tboxName" : "朝山國小二年忠班",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路五段648巷126號",
+    "neighbor" : "1-8",
+    "deptCode" : "030",
+    "liName" : "朝山里"
+  }, {
+    "ScopeLiName" : "朝山里",
+    "tboxNo" : "0329",
+    "tboxName" : "朝山國小二年忠班",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "新竹市香山區中華路五段648巷126號",
+    "neighbor" : "朝山里",
+    "deptCode" : "030",
+    "liName" : "朝山里"
+  }, {
+    "ScopeLiName" : "朝山里",
+    "tboxNo" : "0329",
+    "tboxName" : "朝山國小二年忠班",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "新竹市香山區中華路五段648巷126號",
+    "neighbor" : "朝山里",
+    "deptCode" : "030",
+    "liName" : "朝山里"
+  }, {
+    "ScopeLiName" : "朝山里",
+    "tboxNo" : "0330",
+    "tboxName" : "朝山國小一年孝班",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路五段648巷126號",
+    "neighbor" : "9-14",
+    "deptCode" : "030",
+    "liName" : "朝山里"
+  }, {
+    "ScopeLiName" : "海山里",
+    "tboxNo" : "0331",
+    "tboxName" : "海山里集會所",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市香山區長興街1之1號 海山陸橋下 ",
+    "neighbor" : "1-10",
+    "deptCode" : "030",
+    "liName" : "海山里"
+  }, {
+    "ScopeLiName" : "海山里",
+    "tboxNo" : "0331",
+    "tboxName" : "海山里集會所",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "新竹市香山區長興街1之1號 海山陸橋下 ",
+    "neighbor" : "海山里",
+    "deptCode" : "030",
+    "liName" : "海山里"
+  }, {
+    "ScopeLiName" : "海山里",
+    "tboxNo" : "0331",
+    "tboxName" : "海山里集會所",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "新竹市香山區長興街1之1號 海山陸橋下 ",
+    "neighbor" : "海山里",
+    "deptCode" : "030",
+    "liName" : "海山里"
+  }, {
+    "ScopeLiName" : "海山里",
+    "tboxNo" : "0332",
+    "tboxName" : "海山社區活動中心",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "新竹市香山區大湖路61號",
+    "neighbor" : "11-20",
+    "deptCode" : "030",
+    "liName" : "海山里"
+  }, {
+    "ScopeLiName" : "鹽水里",
+    "tboxNo" : "0333",
+    "tboxName" : "鹽水社區活動中心(1)",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市香山區長興街262巷38號",
+    "neighbor" : "1-5",
+    "deptCode" : "030",
+    "liName" : "鹽水里"
+  }, {
+    "ScopeLiName" : "鹽水里",
+    "tboxNo" : "0333",
+    "tboxName" : "鹽水社區活動中心(1)",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "新竹市香山區長興街262巷38號",
+    "neighbor" : "鹽水里",
+    "deptCode" : "030",
+    "liName" : "鹽水里"
+  }, {
+    "ScopeLiName" : "鹽水里",
+    "tboxNo" : "0333",
+    "tboxName" : "鹽水社區活動中心(1)",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "新竹市香山區長興街262巷38號",
+    "neighbor" : "鹽水里",
+    "deptCode" : "030",
+    "liName" : "鹽水里"
+  }, {
+    "ScopeLiName" : "鹽水里",
+    "tboxNo" : "0334",
+    "tboxName" : "鹽水社區活動中心(2)",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "新竹市香山區長興街262巷38號",
+    "neighbor" : "6-11",
+    "deptCode" : "030",
+    "liName" : "鹽水里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0335",
+    "tboxName" : "內湖國中903教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市香山區五福路1段12號",
+    "neighbor" : "1-2,25-28",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0336",
+    "tboxName" : "內湖國中901教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市香山區五福路一段12號",
+    "neighbor" : "3-4,10,13,16",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0337",
+    "tboxName" : "內湖國小一年甲班",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市香山區內湖路109號",
+    "neighbor" : "11,12,14,18-24",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0337",
+    "tboxName" : "內湖國小一年甲班",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "新竹市香山區內湖路109號",
+    "neighbor" : "內湖里",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0337",
+    "tboxName" : "內湖國小一年甲班",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "新竹市香山區內湖路109號",
+    "neighbor" : "內湖里",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "內湖里",
+    "tboxNo" : "0338",
+    "tboxName" : "內湖國小一年丙班",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "新竹市香山區內湖路109號",
+    "neighbor" : "5-9,15,17",
+    "deptCode" : "030",
+    "liName" : "內湖里"
+  }, {
+    "ScopeLiName" : "南港里",
+    "tboxNo" : "0339",
+    "tboxName" : "南港社區活動中心",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "新竹市香山區南港街48之1號",
+    "neighbor" : "南港里",
+    "deptCode" : "030",
+    "liName" : "南港里"
+  }, {
+    "ScopeLiName" : "南港里",
+    "tboxNo" : "0339",
+    "tboxName" : "南港社區活動中心",
+    "liCode" : "023",
+    "voter" : "02",
+    "addr" : "新竹市香山區南港街48之1號",
+    "neighbor" : "南港里",
+    "deptCode" : "030",
+    "liName" : "南港里"
+  }, {
+    "ScopeLiName" : "南港里",
+    "tboxNo" : "0339",
+    "tboxName" : "南港社區活動中心",
+    "liCode" : "023",
+    "voter" : "03",
+    "addr" : "新竹市香山區南港街48之1號",
+    "neighbor" : "南港里",
+    "deptCode" : "030",
+    "liName" : "南港里"
+  }, {
+    "ScopeLiName" : "中隘里",
+    "tboxNo" : "0340",
+    "tboxName" : "中隘里集會所",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路六段703巷19弄5號",
+    "neighbor" : "4-9",
+    "deptCode" : "030",
+    "liName" : "中隘里"
+  }, {
+    "ScopeLiName" : "中隘里",
+    "tboxNo" : "0341",
+    "tboxName" : "中隘社區活動中心",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "新竹市香山區中華路六段703巷23弄7之1號",
+    "neighbor" : "1-3,10-13",
+    "deptCode" : "030",
+    "liName" : "中隘里"
+  }, {
+    "ScopeLiName" : "中隘里",
+    "tboxNo" : "0341",
+    "tboxName" : "中隘社區活動中心",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "新竹市香山區中華路六段703巷23弄7之1號",
+    "neighbor" : "中隘里",
+    "deptCode" : "030",
+    "liName" : "中隘里"
+  }, {
+    "ScopeLiName" : "中隘里",
+    "tboxNo" : "0341",
+    "tboxName" : "中隘社區活動中心",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "新竹市香山區中華路六段703巷23弄7之1號",
+    "neighbor" : "中隘里",
+    "deptCode" : "030",
+    "liName" : "中隘里"
+  }, {
+    "ScopeLiName" : "南隘里",
+    "tboxNo" : "0342",
+    "tboxName" : "南隘社區活動中心",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "新竹市香山區南隘路二段128-1號",
+    "neighbor" : "南隘里",
+    "deptCode" : "030",
+    "liName" : "南隘里"
+  }, {
+    "ScopeLiName" : "南隘里",
+    "tboxNo" : "0342",
+    "tboxName" : "南隘社區活動中心",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "新竹市香山區南隘路二段128-1號",
+    "neighbor" : "南隘里",
+    "deptCode" : "030",
+    "liName" : "南隘里"
+  }, {
+    "ScopeLiName" : "南隘里",
+    "tboxNo" : "0342",
+    "tboxName" : "南隘社區活動中心",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "新竹市香山區南隘路二段128-1號",
+    "neighbor" : "南隘里",
+    "deptCode" : "030",
+    "liName" : "南隘里"
+  }, {
+    "ScopeLiName" : "大湖里",
+    "tboxNo" : "0343",
+    "tboxName" : "大湖國小三年甲班",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "新竹市香山區五福路一段530號",
+    "neighbor" : "大湖里",
+    "deptCode" : "030",
+    "liName" : "大湖里"
+  }, {
+    "ScopeLiName" : "大湖里",
+    "tboxNo" : "0343",
+    "tboxName" : "大湖國小三年甲班",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "新竹市香山區五福路一段530號",
+    "neighbor" : "大湖里",
+    "deptCode" : "030",
+    "liName" : "大湖里"
+  }, {
+    "ScopeLiName" : "大湖里",
+    "tboxNo" : "0343",
+    "tboxName" : "大湖國小三年甲班",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "新竹市香山區五福路一段530號",
+    "neighbor" : "大湖里",
+    "deptCode" : "030",
+    "liName" : "大湖里"
+  }, {
+    "ScopeLiName" : "茄苳里",
+    "tboxNo" : "0344",
+    "tboxName" : "茄苳國小二年甲班",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "新竹市香山區茄苳路70號",
+    "neighbor" : "茄苳里",
+    "deptCode" : "030",
+    "liName" : "茄苳里"
+  }, {
+    "ScopeLiName" : "茄苳里",
+    "tboxNo" : "0344",
+    "tboxName" : "茄苳國小二年甲班",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "新竹市香山區茄苳路70號",
+    "neighbor" : "茄苳里",
+    "deptCode" : "030",
+    "liName" : "茄苳里"
+  }, {
+    "ScopeLiName" : "茄苳里",
+    "tboxNo" : "0344",
+    "tboxName" : "茄苳國小二年甲班",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "新竹市香山區茄苳路70號",
+    "neighbor" : "茄苳里",
+    "deptCode" : "030",
+    "liName" : "茄苳里"
+  } ]
+}

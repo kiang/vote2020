@@ -1,0 +1,7083 @@
+{
+  "tboxs" : [ {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0001",
+    "tboxName" : "臺東大學附小活動中心（左）",
+    "liCode" : "023",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0001",
+    "tboxName" : "臺東大學附小活動中心（左）",
+    "liCode" : "023",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "文化里",
+    "tboxNo" : "0001",
+    "tboxName" : "臺東大學附小活動中心（左）",
+    "liCode" : "023",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "文化里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0002",
+    "tboxName" : "臺東高商（教113）教室",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0002",
+    "tboxName" : "臺東高商（教113）教室",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0002",
+    "tboxName" : "臺東高商（教113）教室",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0003",
+    "tboxName" : "臺東高商（教111）教室",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "12-23",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0003",
+    "tboxName" : "臺東高商（教111）教室",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "12-23",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "民族里",
+    "tboxNo" : "0003",
+    "tboxName" : "臺東高商（教111）教室",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "12-23",
+    "deptCode" : "010",
+    "liName" : "民族里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0004",
+    "tboxName" : "臺東高商（教118）教室",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0004",
+    "tboxName" : "臺東高商（教118）教室",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0004",
+    "tboxName" : "臺東高商（教118）教室",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0005",
+    "tboxName" : "臺東高商（教121）教室",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "11-22",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0005",
+    "tboxName" : "臺東高商（教121）教室",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "11-22",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0005",
+    "tboxName" : "臺東高商（教121）教室",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "11-22",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0006",
+    "tboxName" : "臺東高商（教123）教室",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "23-27",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0006",
+    "tboxName" : "臺東高商（教123）教室",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "23-27",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0006",
+    "tboxName" : "臺東高商（教123）教室",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "23-27",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0007",
+    "tboxName" : "臺東高商（教125）教室",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0007",
+    "tboxName" : "臺東高商（教125）教室",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "自強里",
+    "tboxNo" : "0007",
+    "tboxName" : "臺東高商（教125）教室",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民族里正氣路440號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "自強里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0008",
+    "tboxName" : "臺東縣立新生幼兒園（縣托）",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里開封街490號",
+    "neighbor" : "1-4,26-27",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0008",
+    "tboxName" : "臺東縣立新生幼兒園（縣托）",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里開封街490號",
+    "neighbor" : "1-4,26-27",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0008",
+    "tboxName" : "臺東縣立新生幼兒園（縣托）",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里開封街490號",
+    "neighbor" : "1-4,26-27",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0009",
+    "tboxName" : "寶桑國小活動中心（左）",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "5-11,22-25",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0009",
+    "tboxName" : "寶桑國小活動中心（左）",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "5-11,22-25",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0009",
+    "tboxName" : "寶桑國小活動中心（左）",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "5-11,22-25",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0010",
+    "tboxName" : "寶桑國小活動中心（右）",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "12-21,28-32",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0010",
+    "tboxName" : "寶桑國小活動中心（右）",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "12-21,28-32",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "民生里",
+    "tboxNo" : "0010",
+    "tboxName" : "寶桑國小活動中心（右）",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市民生里博愛路134號",
+    "neighbor" : "12-21,28-32",
+    "deptCode" : "010",
+    "liName" : "民生里"
+  }, {
+    "ScopeLiName" : "寶桑里",
+    "tboxNo" : "0011",
+    "tboxName" : "寶桑四維多功能活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市寶桑里博愛路16號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "寶桑里"
+  }, {
+    "ScopeLiName" : "寶桑里",
+    "tboxNo" : "0011",
+    "tboxName" : "寶桑四維多功能活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市寶桑里博愛路16號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "寶桑里"
+  }, {
+    "ScopeLiName" : "寶桑里",
+    "tboxNo" : "0011",
+    "tboxName" : "寶桑四維多功能活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市寶桑里博愛路16號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "寶桑里"
+  }, {
+    "ScopeLiName" : "民權里",
+    "tboxNo" : "0012",
+    "tboxName" : "臺東女中中正堂（左）",
+    "liCode" : "018",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "民權里"
+  }, {
+    "ScopeLiName" : "民權里",
+    "tboxNo" : "0012",
+    "tboxName" : "臺東女中中正堂（左）",
+    "liCode" : "018",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "民權里"
+  }, {
+    "ScopeLiName" : "民權里",
+    "tboxNo" : "0012",
+    "tboxName" : "臺東女中中正堂（左）",
+    "liCode" : "018",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "民權里"
+  }, {
+    "ScopeLiName" : "四維里",
+    "tboxNo" : "0013",
+    "tboxName" : "臺東女中中正堂（右）",
+    "liCode" : "014",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "四維里"
+  }, {
+    "ScopeLiName" : "四維里",
+    "tboxNo" : "0013",
+    "tboxName" : "臺東女中中正堂（右）",
+    "liCode" : "014",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "四維里"
+  }, {
+    "ScopeLiName" : "四維里",
+    "tboxNo" : "0013",
+    "tboxName" : "臺東女中中正堂（右）",
+    "liCode" : "014",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市四維里四維路一段690號",
+    "neighbor" : "1-8",
+    "deptCode" : "010",
+    "liName" : "四維里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0014",
+    "tboxName" : "仁愛國小（自然一）教室",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0014",
+    "tboxName" : "仁愛國小（自然一）教室",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0014",
+    "tboxName" : "仁愛國小（自然一）教室",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-13",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0015",
+    "tboxName" : "仁愛國小（自然二）教室",
+    "liCode" : "015",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "14-22",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0015",
+    "tboxName" : "仁愛國小（自然二）教室",
+    "liCode" : "015",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "14-22",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "中華里",
+    "tboxNo" : "0015",
+    "tboxName" : "仁愛國小（自然二）教室",
+    "liCode" : "015",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "14-22",
+    "deptCode" : "010",
+    "liName" : "中華里"
+  }, {
+    "ScopeLiName" : "仁愛里",
+    "tboxNo" : "0016",
+    "tboxName" : "仁愛國小（二甲）教室",
+    "liCode" : "019",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "仁愛里"
+  }, {
+    "ScopeLiName" : "仁愛里",
+    "tboxNo" : "0016",
+    "tboxName" : "仁愛國小（二甲）教室",
+    "liCode" : "019",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "仁愛里"
+  }, {
+    "ScopeLiName" : "仁愛里",
+    "tboxNo" : "0016",
+    "tboxName" : "仁愛國小（二甲）教室",
+    "liCode" : "019",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "仁愛里"
+  }, {
+    "ScopeLiName" : "強國里",
+    "tboxNo" : "0017",
+    "tboxName" : "仁愛國小（一乙）教室",
+    "liCode" : "016",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "強國里"
+  }, {
+    "ScopeLiName" : "強國里",
+    "tboxNo" : "0017",
+    "tboxName" : "仁愛國小（一乙）教室",
+    "liCode" : "016",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "強國里"
+  }, {
+    "ScopeLiName" : "強國里",
+    "tboxNo" : "0017",
+    "tboxName" : "仁愛國小（一乙）教室",
+    "liCode" : "016",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "強國里"
+  }, {
+    "ScopeLiName" : "大同里",
+    "tboxNo" : "0018",
+    "tboxName" : "仁愛國小（成教班）教室",
+    "liCode" : "021",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "大同里"
+  }, {
+    "ScopeLiName" : "大同里",
+    "tboxNo" : "0018",
+    "tboxName" : "仁愛國小（成教班）教室",
+    "liCode" : "021",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "大同里"
+  }, {
+    "ScopeLiName" : "大同里",
+    "tboxNo" : "0018",
+    "tboxName" : "仁愛國小（成教班）教室",
+    "liCode" : "021",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中華里四維路一段400號",
+    "neighbor" : "1-21",
+    "deptCode" : "010",
+    "liName" : "大同里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0019",
+    "tboxName" : "海山寺",
+    "liCode" : "022",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市成功里中正路88號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0019",
+    "tboxName" : "海山寺",
+    "liCode" : "022",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市成功里中正路88號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "成功里",
+    "tboxNo" : "0019",
+    "tboxName" : "海山寺",
+    "liCode" : "022",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市成功里中正路88號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "成功里"
+  }, {
+    "ScopeLiName" : "建國里",
+    "tboxNo" : "0020",
+    "tboxName" : "臺東市立幼兒園",
+    "liCode" : "017",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建國里寶桑路12號",
+    "neighbor" : "1-31",
+    "deptCode" : "010",
+    "liName" : "建國里"
+  }, {
+    "ScopeLiName" : "建國里",
+    "tboxNo" : "0020",
+    "tboxName" : "臺東市立幼兒園",
+    "liCode" : "017",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建國里寶桑路12號",
+    "neighbor" : "1-31",
+    "deptCode" : "010",
+    "liName" : "建國里"
+  }, {
+    "ScopeLiName" : "建國里",
+    "tboxNo" : "0020",
+    "tboxName" : "臺東市立幼兒園",
+    "liCode" : "017",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建國里寶桑路12號",
+    "neighbor" : "1-31",
+    "deptCode" : "010",
+    "liName" : "建國里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0021",
+    "tboxName" : "國立臺東生活美學館主展覽室（右）",
+    "liCode" : "020",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0021",
+    "tboxName" : "國立臺東生活美學館主展覽室（右）",
+    "liCode" : "020",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中正里",
+    "tboxNo" : "0021",
+    "tboxName" : "國立臺東生活美學館主展覽室（右）",
+    "liCode" : "020",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-24",
+    "deptCode" : "010",
+    "liName" : "中正里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0022",
+    "tboxName" : "國立臺東生活美學館主展覽室（左）",
+    "liCode" : "024",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0022",
+    "tboxName" : "國立臺東生活美學館主展覽室（左）",
+    "liCode" : "024",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "中山里",
+    "tboxNo" : "0022",
+    "tboxName" : "國立臺東生活美學館主展覽室（左）",
+    "liCode" : "024",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市中山里大同路254號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "中山里"
+  }, {
+    "ScopeLiName" : "興國里",
+    "tboxNo" : "0023",
+    "tboxName" : "臺東大學附小活動中心（右）",
+    "liCode" : "026",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "興國里"
+  }, {
+    "ScopeLiName" : "興國里",
+    "tboxNo" : "0023",
+    "tboxName" : "臺東大學附小活動中心（右）",
+    "liCode" : "026",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "興國里"
+  }, {
+    "ScopeLiName" : "興國里",
+    "tboxNo" : "0023",
+    "tboxName" : "臺東大學附小活動中心（右）",
+    "liCode" : "026",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市文化里博愛路345號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "興國里"
+  }, {
+    "ScopeLiName" : "鐵花里",
+    "tboxNo" : "0024",
+    "tboxName" : "臺東大學附小藝術教室A",
+    "liCode" : "028",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市博愛路路345號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "鐵花里"
+  }, {
+    "ScopeLiName" : "鐵花里",
+    "tboxNo" : "0024",
+    "tboxName" : "臺東大學附小藝術教室A",
+    "liCode" : "028",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市博愛路路345號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "鐵花里"
+  }, {
+    "ScopeLiName" : "鐵花里",
+    "tboxNo" : "0024",
+    "tboxName" : "臺東大學附小藝術教室A",
+    "liCode" : "028",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市博愛路路345號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "鐵花里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0025",
+    "tboxName" : "臺東縣老人會館",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市東海里博愛路421號",
+    "neighbor" : "1-19",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0025",
+    "tboxName" : "臺東縣老人會館",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市東海里博愛路421號",
+    "neighbor" : "1-19",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0025",
+    "tboxName" : "臺東縣老人會館",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市東海里博愛路421號",
+    "neighbor" : "1-19",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0026",
+    "tboxName" : "東海國小（4年3班）教室",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "20-23",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0026",
+    "tboxName" : "東海國小（4年3班）教室",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "20-23",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0026",
+    "tboxName" : "東海國小（4年3班）教室",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "20-23",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0027",
+    "tboxName" : "東海國小（4年4班）教室",
+    "liCode" : "036",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "24-29",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0027",
+    "tboxName" : "東海國小（4年4班）教室",
+    "liCode" : "036",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "24-29",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "東海里",
+    "tboxNo" : "0027",
+    "tboxName" : "東海國小（4年4班）教室",
+    "liCode" : "036",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市東海里長沙街329號",
+    "neighbor" : "24-29",
+    "deptCode" : "010",
+    "liName" : "東海里"
+  }, {
+    "ScopeLiName" : "復國里",
+    "tboxNo" : "0028",
+    "tboxName" : "東禪寺",
+    "liCode" : "025",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市復國里和平街115號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "復國里"
+  }, {
+    "ScopeLiName" : "復國里",
+    "tboxNo" : "0028",
+    "tboxName" : "東禪寺",
+    "liCode" : "025",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市復國里和平街115號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "復國里"
+  }, {
+    "ScopeLiName" : "復國里",
+    "tboxNo" : "0028",
+    "tboxName" : "東禪寺",
+    "liCode" : "025",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市復國里和平街115號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "復國里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0029",
+    "tboxName" : "復興國小（自然）教室",
+    "liCode" : "027",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0029",
+    "tboxName" : "復興國小（自然）教室",
+    "liCode" : "027",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "復興里",
+    "tboxNo" : "0029",
+    "tboxName" : "復興國小（自然）教室",
+    "liCode" : "027",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-14",
+    "deptCode" : "010",
+    "liName" : "復興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0030",
+    "tboxName" : "復興國小（美勞）教室",
+    "liCode" : "037",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-22",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0030",
+    "tboxName" : "復興國小（美勞）教室",
+    "liCode" : "037",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-22",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新興里",
+    "tboxNo" : "0030",
+    "tboxName" : "復興國小（美勞）教室",
+    "liCode" : "037",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新興里鐵花路87巷55號",
+    "neighbor" : "1-22",
+    "deptCode" : "010",
+    "liName" : "新興里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0031",
+    "tboxName" : "新生國小塑新樓（1甲）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "1-7,9-10",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0031",
+    "tboxName" : "新生國小塑新樓（1甲）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "1-7,9-10",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0031",
+    "tboxName" : "新生國小塑新樓（1甲）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "1-7,9-10",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0032",
+    "tboxName" : "新生國小塑新樓（1乙）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "8,11-15",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0032",
+    "tboxName" : "新生國小塑新樓（1乙）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "8,11-15",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0032",
+    "tboxName" : "新生國小塑新樓（1乙）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "8,11-15",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0033",
+    "tboxName" : "新生國小塑新樓（1丙）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "16-22,24",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0033",
+    "tboxName" : "新生國小塑新樓（1丙）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "16-22,24",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0033",
+    "tboxName" : "新生國小塑新樓（1丙）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "16-22,24",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0034",
+    "tboxName" : "新生國小塑新樓（1丁）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "23,25-28,30",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0034",
+    "tboxName" : "新生國小塑新樓（1丁）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "23,25-28,30",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0034",
+    "tboxName" : "新生國小塑新樓（1丁）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "23,25-28,30",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0035",
+    "tboxName" : "新生國小新生樓（音樂）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "29,31-36",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0035",
+    "tboxName" : "新生國小新生樓（音樂）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "29,31-36",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0035",
+    "tboxName" : "新生國小新生樓（音樂）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "29,31-36",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0036",
+    "tboxName" : "新生國小新生樓（教練）教室",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "37-40",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0036",
+    "tboxName" : "新生國小新生樓（教練）教室",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "37-40",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "新生里",
+    "tboxNo" : "0036",
+    "tboxName" : "新生國小新生樓（教練）教室",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新生里更生路474巷45號",
+    "neighbor" : "37-40",
+    "deptCode" : "010",
+    "liName" : "新生里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0037",
+    "tboxName" : "新生國中（7年6班）教室",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0037",
+    "tboxName" : "新生國中（7年6班）教室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0037",
+    "tboxName" : "新生國中（7年6班）教室",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0038",
+    "tboxName" : "新生國中（7年3班）教室",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "18-27",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0038",
+    "tboxName" : "新生國中（7年3班）教室",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "18-27",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0038",
+    "tboxName" : "新生國中（7年3班）教室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "18-27",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0039",
+    "tboxName" : "新生國中（7年1班）教室",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0039",
+    "tboxName" : "新生國中（7年1班）教室",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "中心里",
+    "tboxNo" : "0039",
+    "tboxName" : "新生國中（7年1班）教室",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市馬蘭里新生路641巷64號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "中心里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0040",
+    "tboxName" : "馬蘭國小培英樓（二甲）教室",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0040",
+    "tboxName" : "馬蘭國小培英樓（二甲）教室",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0040",
+    "tboxName" : "馬蘭國小培英樓（二甲）教室",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "1-20",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0041",
+    "tboxName" : "馬蘭國小培英樓（二乙）教室",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "21-34",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0041",
+    "tboxName" : "馬蘭國小培英樓（二乙）教室",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "21-34",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "馬蘭里",
+    "tboxNo" : "0041",
+    "tboxName" : "馬蘭國小培英樓（二乙）教室",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市馬蘭里新社三街6號",
+    "neighbor" : "21-34",
+    "deptCode" : "010",
+    "liName" : "馬蘭里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0042",
+    "tboxName" : "光明國小（社會）教室",
+    "liCode" : "032",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0042",
+    "tboxName" : "光明國小（社會）教室",
+    "liCode" : "032",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0042",
+    "tboxName" : "光明國小（社會）教室",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0043",
+    "tboxName" : "光明國小（美術）教室",
+    "liCode" : "032",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "10-16",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0043",
+    "tboxName" : "光明國小（美術）教室",
+    "liCode" : "032",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "10-16",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "光明里",
+    "tboxNo" : "0043",
+    "tboxName" : "光明國小（美術）教室",
+    "liCode" : "032",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市光明里中興路二段150巷29弄1號",
+    "neighbor" : "10-16",
+    "deptCode" : "010",
+    "liName" : "光明里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0044",
+    "tboxName" : "豐年國小會議室",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0044",
+    "tboxName" : "豐年國小會議室",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0044",
+    "tboxName" : "豐年國小會議室",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0045",
+    "tboxName" : "豐年國小語文教室",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "8-12",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0045",
+    "tboxName" : "豐年國小語文教室",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "8-12",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0045",
+    "tboxName" : "豐年國小語文教室",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "8-12",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0046",
+    "tboxName" : "豐年國小廚房",
+    "liCode" : "031",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "13-18",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0046",
+    "tboxName" : "豐年國小廚房",
+    "liCode" : "031",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "13-18",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐年里",
+    "tboxNo" : "0046",
+    "tboxName" : "豐年國小廚房",
+    "liCode" : "031",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐年里中興路三段320號",
+    "neighbor" : "13-18",
+    "deptCode" : "010",
+    "liName" : "豐年里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0047",
+    "tboxName" : "臺東專校（進電機二）教室",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0047",
+    "tboxName" : "臺東專校（進電機二）教室",
+    "liCode" : "033",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0047",
+    "tboxName" : "臺東專校（進電機二）教室",
+    "liCode" : "033",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0048",
+    "tboxName" : "臺東專校（進家政二）教室",
+    "liCode" : "033",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "5-16",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0048",
+    "tboxName" : "臺東專校（進家政二）教室",
+    "liCode" : "033",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "5-16",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "豐樂里",
+    "tboxNo" : "0048",
+    "tboxName" : "臺東專校（進家政二）教室",
+    "liCode" : "033",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐樂里正氣北路889號",
+    "neighbor" : "5-16",
+    "deptCode" : "010",
+    "liName" : "豐樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0049",
+    "tboxName" : "康樂國小傳薪樓（英語）教室",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0049",
+    "tboxName" : "康樂國小傳薪樓（英語）教室",
+    "liCode" : "034",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0049",
+    "tboxName" : "康樂國小傳薪樓（英語）教室",
+    "liCode" : "034",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "1-6",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0050",
+    "tboxName" : "康樂國小傳薪樓（三乙）教室",
+    "liCode" : "034",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0050",
+    "tboxName" : "康樂國小傳薪樓（三乙）教室",
+    "liCode" : "034",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "永樂里",
+    "tboxNo" : "0050",
+    "tboxName" : "康樂國小傳薪樓（三乙）教室",
+    "liCode" : "034",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市永樂里山西路一段256號",
+    "neighbor" : "7-13",
+    "deptCode" : "010",
+    "liName" : "永樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0051",
+    "tboxName" : "康樂德安巖",
+    "liCode" : "035",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市康樂里康樂路79號",
+    "neighbor" : "1-15",
+    "deptCode" : "010",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0051",
+    "tboxName" : "康樂德安巖",
+    "liCode" : "035",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市康樂里康樂路79號",
+    "neighbor" : "1-15",
+    "deptCode" : "010",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "康樂里",
+    "tboxNo" : "0051",
+    "tboxName" : "康樂德安巖",
+    "liCode" : "035",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市康樂里康樂路79號",
+    "neighbor" : "1-15",
+    "deptCode" : "010",
+    "liName" : "康樂里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0052",
+    "tboxName" : "豐榮國小（二甲）教室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0052",
+    "tboxName" : "豐榮國小（二甲）教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0052",
+    "tboxName" : "豐榮國小（二甲）教室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-4",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0053",
+    "tboxName" : "豐榮國小（二乙）教室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "5-8",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0053",
+    "tboxName" : "豐榮國小（二乙）教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "5-8",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0053",
+    "tboxName" : "豐榮國小（二乙）教室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "5-8",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0054",
+    "tboxName" : "豐榮國小（一丙）教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "16,18,29-30,32",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0054",
+    "tboxName" : "豐榮國小（一丙）教室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "16,18,29-30,32",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0054",
+    "tboxName" : "豐榮國小（一丙）教室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "16,18,29-30,32",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0055",
+    "tboxName" : "豐榮國小（二丙）教室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "17,31,33-34",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0055",
+    "tboxName" : "豐榮國小（二丙）教室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "17,31,33-34",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0055",
+    "tboxName" : "豐榮國小（二丙）教室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "17,31,33-34",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0056",
+    "tboxName" : "豐榮民眾活動中心",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段173號",
+    "neighbor" : "9-15,22,25-26,28",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0056",
+    "tboxName" : "豐榮民眾活動中心",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段173號",
+    "neighbor" : "9-15,22,25-26,28",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0056",
+    "tboxName" : "豐榮民眾活動中心",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段173號",
+    "neighbor" : "9-15,22,25-26,28",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0057",
+    "tboxName" : "東海國宅閱覽室",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里文心街60號",
+    "neighbor" : "19,24",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0057",
+    "tboxName" : "東海國宅閱覽室",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里文心街60號",
+    "neighbor" : "19,24",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0057",
+    "tboxName" : "東海國宅閱覽室",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里文心街60號",
+    "neighbor" : "19,24",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0058",
+    "tboxName" : "家庭教育中心",
+    "liCode" : "038",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段17號",
+    "neighbor" : "20-21,23,27,35",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0058",
+    "tboxName" : "家庭教育中心",
+    "liCode" : "038",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段17號",
+    "neighbor" : "20-21,23,27,35",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐榮里",
+    "tboxNo" : "0058",
+    "tboxName" : "家庭教育中心",
+    "liCode" : "038",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段17號",
+    "neighbor" : "20-21,23,27,35",
+    "deptCode" : "010",
+    "liName" : "豐榮里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0059",
+    "tboxName" : "豐榮國小（一甲）教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0059",
+    "tboxName" : "豐榮國小（一甲）教室",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0059",
+    "tboxName" : "豐榮國小（一甲）教室",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0060",
+    "tboxName" : "豐榮國小（一乙）教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "12-20",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0060",
+    "tboxName" : "豐榮國小（一乙）教室",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "12-20",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0060",
+    "tboxName" : "豐榮國小（一乙）教室",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "12-20",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0061",
+    "tboxName" : "豐榮國小行政大樓（烹飪）教室",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "21-27",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0061",
+    "tboxName" : "豐榮國小行政大樓（烹飪）教室",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "21-27",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0061",
+    "tboxName" : "豐榮國小行政大樓（烹飪）教室",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "21-27",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0062",
+    "tboxName" : "豐榮國小行政大樓（會客室）",
+    "liCode" : "039",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0062",
+    "tboxName" : "豐榮國小行政大樓（會客室）",
+    "liCode" : "039",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐谷里",
+    "tboxNo" : "0062",
+    "tboxName" : "豐榮國小行政大樓（會客室）",
+    "liCode" : "039",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐榮里中華路二段154巷150號",
+    "neighbor" : "28-32",
+    "deptCode" : "010",
+    "liName" : "豐谷里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0063",
+    "tboxName" : "豐里國小（一甲）教室",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0063",
+    "tboxName" : "豐里國小（一甲）教室",
+    "liCode" : "040",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0063",
+    "tboxName" : "豐里國小（一甲）教室",
+    "liCode" : "040",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "1-10",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0064",
+    "tboxName" : "豐里國小（自然）教室",
+    "liCode" : "040",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "11-21",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0064",
+    "tboxName" : "豐里國小（自然）教室",
+    "liCode" : "040",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "11-21",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐里里",
+    "tboxNo" : "0064",
+    "tboxName" : "豐里國小（自然）教室",
+    "liCode" : "040",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐里里中華路三段80號",
+    "neighbor" : "11-21",
+    "deptCode" : "010",
+    "liName" : "豐里里"
+  }, {
+    "ScopeLiName" : "豐原里",
+    "tboxNo" : "0065",
+    "tboxName" : "豐源國小（五甲）教室",
+    "liCode" : "041",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐原里中華路四段392號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "豐原里"
+  }, {
+    "ScopeLiName" : "豐原里",
+    "tboxNo" : "0065",
+    "tboxName" : "豐源國小（五甲）教室",
+    "liCode" : "041",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐原里中華路四段392號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "豐原里"
+  }, {
+    "ScopeLiName" : "豐原里",
+    "tboxNo" : "0065",
+    "tboxName" : "豐源國小（五甲）教室",
+    "liCode" : "041",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐原里中華路四段392號",
+    "neighbor" : "1-18",
+    "deptCode" : "010",
+    "liName" : "豐原里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0066",
+    "tboxName" : "臺東市老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市富岡里吉林路二段699巷22號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0066",
+    "tboxName" : "臺東市老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市富岡里吉林路二段699巷22號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0066",
+    "tboxName" : "臺東市老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市富岡里吉林路二段699巷22號",
+    "neighbor" : "1-11",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0067",
+    "tboxName" : "海神廟",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市富岡里松江路一段316巷17弄1號",
+    "neighbor" : "12-25",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0067",
+    "tboxName" : "海神廟",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市富岡里松江路一段316巷17弄1號",
+    "neighbor" : "12-25",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富岡里",
+    "tboxNo" : "0067",
+    "tboxName" : "海神廟",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市富岡里松江路一段316巷17弄1號",
+    "neighbor" : "12-25",
+    "deptCode" : "010",
+    "liName" : "富岡里"
+  }, {
+    "ScopeLiName" : "富豐里",
+    "tboxNo" : "0068",
+    "tboxName" : "富豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市富豐里吉林路一段279巷58號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "富豐里"
+  }, {
+    "ScopeLiName" : "富豐里",
+    "tboxNo" : "0068",
+    "tboxName" : "富豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市富豐里吉林路一段279巷58號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "富豐里"
+  }, {
+    "ScopeLiName" : "富豐里",
+    "tboxNo" : "0068",
+    "tboxName" : "富豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市富豐里吉林路一段279巷58號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "富豐里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0069",
+    "tboxName" : "新馬蘭部落聚會所（左）",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "1-3",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0069",
+    "tboxName" : "新馬蘭部落聚會所（左）",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "1-3",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0069",
+    "tboxName" : "新馬蘭部落聚會所（左）",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "1-3",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0070",
+    "tboxName" : "新馬蘭部落聚會所（中）",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "4-19",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0070",
+    "tboxName" : "新馬蘭部落聚會所（中）",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "4-19",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0070",
+    "tboxName" : "新馬蘭部落聚會所（中）",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南榮里青島街1號",
+    "neighbor" : "4-19",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0071",
+    "tboxName" : "大橋部落聚會所",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南榮里志航路一段412巷17弄38號",
+    "neighbor" : "20-30",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0071",
+    "tboxName" : "大橋部落聚會所",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南榮里志航路一段412巷17弄38號",
+    "neighbor" : "20-30",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "南榮里",
+    "tboxNo" : "0071",
+    "tboxName" : "大橋部落聚會所",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南榮里志航路一段412巷17弄38號",
+    "neighbor" : "20-30",
+    "deptCode" : "010",
+    "liName" : "南榮里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0072",
+    "tboxName" : "岩灣國小學生餐廳",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "1",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0072",
+    "tboxName" : "岩灣國小學生餐廳",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "1",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0072",
+    "tboxName" : "岩灣國小學生餐廳",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "1",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0073",
+    "tboxName" : "岩灣國小（一年級）教室",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "2-19",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0073",
+    "tboxName" : "岩灣國小（一年級）教室",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "2-19",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "岩灣里",
+    "tboxNo" : "0073",
+    "tboxName" : "岩灣國小（一年級）教室",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市岩灣里岩灣路50巷401弄11號",
+    "neighbor" : "2-19",
+    "deptCode" : "010",
+    "liName" : "岩灣里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0074",
+    "tboxName" : "卑南民眾活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市卑南里南清街23號",
+    "neighbor" : "6-9",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0074",
+    "tboxName" : "卑南民眾活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市卑南里南清街23號",
+    "neighbor" : "6-9",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0074",
+    "tboxName" : "卑南民眾活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市卑南里南清街23號",
+    "neighbor" : "6-9",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0075",
+    "tboxName" : "卑南國小（六勇）教室",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "1-5,10-16",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0075",
+    "tboxName" : "卑南國小（六勇）教室",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "1-5,10-16",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0075",
+    "tboxName" : "卑南國小（六勇）教室",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "1-5,10-16",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0076",
+    "tboxName" : "卑南國小（五勇）教室",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "17-29",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0076",
+    "tboxName" : "卑南國小（五勇）教室",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "17-29",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "卑南里",
+    "tboxNo" : "0076",
+    "tboxName" : "卑南國小（五勇）教室",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市卑南里更生北路317號",
+    "neighbor" : "17-29",
+    "deptCode" : "010",
+    "liName" : "卑南里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0077",
+    "tboxName" : "南王國小（一甲）教室",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "1-5",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0077",
+    "tboxName" : "南王國小（一甲）教室",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "1-5",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0077",
+    "tboxName" : "南王國小（一甲）教室",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "1-5",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0078",
+    "tboxName" : "南王國小鄉教中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "6-13",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0078",
+    "tboxName" : "南王國小鄉教中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "6-13",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0078",
+    "tboxName" : "南王國小鄉教中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "6-13",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0079",
+    "tboxName" : "南王國小會議室",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "14-20",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0079",
+    "tboxName" : "南王國小會議室",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "14-20",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "南王里",
+    "tboxNo" : "0079",
+    "tboxName" : "南王國小會議室",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市南王里更生北路726號",
+    "neighbor" : "14-20",
+    "deptCode" : "010",
+    "liName" : "南王里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0080",
+    "tboxName" : "豐田國小（四甲）教室",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "1-12",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0080",
+    "tboxName" : "豐田國小（四甲）教室",
+    "liCode" : "030",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "1-12",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0080",
+    "tboxName" : "豐田國小（四甲）教室",
+    "liCode" : "030",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "1-12",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0081",
+    "tboxName" : "豐田國小（六體）教室",
+    "liCode" : "030",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "13-25",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0081",
+    "tboxName" : "豐田國小（六體）教室",
+    "liCode" : "030",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "13-25",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "豐田里",
+    "tboxNo" : "0081",
+    "tboxName" : "豐田國小（六體）教室",
+    "liCode" : "030",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市豐田里中興路四段750號",
+    "neighbor" : "13-25",
+    "deptCode" : "010",
+    "liName" : "豐田里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0082",
+    "tboxName" : "新園國小（六年級）教室",
+    "liCode" : "029",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新園里新園路88號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0082",
+    "tboxName" : "新園國小（六年級）教室",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新園里新園路88號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0082",
+    "tboxName" : "新園國小（六年級）教室",
+    "liCode" : "029",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新園里新園路88號",
+    "neighbor" : "1-7",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0083",
+    "tboxName" : "新園社區活動中心",
+    "liCode" : "029",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市新園里中興路六段708號",
+    "neighbor" : "8-18",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0083",
+    "tboxName" : "新園社區活動中心",
+    "liCode" : "029",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市新園里中興路六段708號",
+    "neighbor" : "8-18",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "新園里",
+    "tboxNo" : "0083",
+    "tboxName" : "新園社區活動中心",
+    "liCode" : "029",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市新園里中興路六段708號",
+    "neighbor" : "8-18",
+    "deptCode" : "010",
+    "liName" : "新園里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0084",
+    "tboxName" : "建和國小歡喜樓（幼兒園）",
+    "liCode" : "042",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0084",
+    "tboxName" : "建和國小歡喜樓（幼兒園）",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0084",
+    "tboxName" : "建和國小歡喜樓（幼兒園）",
+    "liCode" : "042",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "1-17",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0085",
+    "tboxName" : "建和國小建和樓（一甲）教室",
+    "liCode" : "042",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "18-32",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0085",
+    "tboxName" : "建和國小建和樓（一甲）教室",
+    "liCode" : "042",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "18-32",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建和里",
+    "tboxNo" : "0085",
+    "tboxName" : "建和國小建和樓（一甲）教室",
+    "liCode" : "042",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建和里青海路三段640號",
+    "neighbor" : "18-32",
+    "deptCode" : "010",
+    "liName" : "建和里"
+  }, {
+    "ScopeLiName" : "建興里",
+    "tboxNo" : "0086",
+    "tboxName" : "建興里集會所",
+    "liCode" : "043",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建興里富貴街86號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "建興里"
+  }, {
+    "ScopeLiName" : "建興里",
+    "tboxNo" : "0086",
+    "tboxName" : "建興里集會所",
+    "liCode" : "043",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建興里富貴街86號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "建興里"
+  }, {
+    "ScopeLiName" : "建興里",
+    "tboxNo" : "0086",
+    "tboxName" : "建興里集會所",
+    "liCode" : "043",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建興里富貴街86號",
+    "neighbor" : "1-16",
+    "deptCode" : "010",
+    "liName" : "建興里"
+  }, {
+    "ScopeLiName" : "建業里",
+    "tboxNo" : "0087",
+    "tboxName" : "建業社區活動中心",
+    "liCode" : "044",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建業里西昌街214號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "建業里"
+  }, {
+    "ScopeLiName" : "建業里",
+    "tboxNo" : "0087",
+    "tboxName" : "建業社區活動中心",
+    "liCode" : "044",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建業里西昌街214號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "建業里"
+  }, {
+    "ScopeLiName" : "建業里",
+    "tboxNo" : "0087",
+    "tboxName" : "建業社區活動中心",
+    "liCode" : "044",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建業里西昌街214號",
+    "neighbor" : "1-25",
+    "deptCode" : "010",
+    "liName" : "建業里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0088",
+    "tboxName" : "知本社區活動中心",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市知本里知本路三段13巷40號",
+    "neighbor" : "1-2,4,17",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0088",
+    "tboxName" : "知本社區活動中心",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市知本里知本路三段13巷40號",
+    "neighbor" : "1-2,4,17",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0088",
+    "tboxName" : "知本社區活動中心",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市知本里知本路三段13巷40號",
+    "neighbor" : "1-2,4,17",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0089",
+    "tboxName" : "卡大地布聚會所",
+    "liCode" : "045",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市知本里康定街116號",
+    "neighbor" : "3,5-16,18-23",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0089",
+    "tboxName" : "卡大地布聚會所",
+    "liCode" : "045",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市知本里康定街116號",
+    "neighbor" : "3,5-16,18-23",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "知本里",
+    "tboxNo" : "0089",
+    "tboxName" : "卡大地布聚會所",
+    "liCode" : "045",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市知本里康定街116號",
+    "neighbor" : "3,5-16,18-23",
+    "deptCode" : "010",
+    "liName" : "知本里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0090",
+    "tboxName" : "榮農社區活動中心",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建農里知本路一段560號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0090",
+    "tboxName" : "榮農社區活動中心",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建農里知本路一段560號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0090",
+    "tboxName" : "榮農社區活動中心",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建農里知本路一段560號",
+    "neighbor" : "1-9",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0091",
+    "tboxName" : "退輔會臺東農場知本分場",
+    "liCode" : "046",
+    "voter" : "01",
+    "addr" : "臺東縣臺東市建農里知本路二段370號",
+    "neighbor" : "10-17",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0091",
+    "tboxName" : "退輔會臺東農場知本分場",
+    "liCode" : "046",
+    "voter" : "03",
+    "addr" : "臺東縣臺東市建農里知本路二段370號",
+    "neighbor" : "10-17",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "建農里",
+    "tboxNo" : "0091",
+    "tboxName" : "退輔會臺東農場知本分場",
+    "liCode" : "046",
+    "voter" : "02",
+    "addr" : "臺東縣臺東市建農里知本路二段370號",
+    "neighbor" : "10-17",
+    "deptCode" : "010",
+    "liName" : "建農里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0092",
+    "tboxName" : "小馬活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮信義里小馬路44號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0092",
+    "tboxName" : "小馬活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮信義里小馬路44號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0092",
+    "tboxName" : "小馬活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮信義里小馬路44號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0093",
+    "tboxName" : "都歷活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮信義里都歷路110號",
+    "neighbor" : "9-21",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0093",
+    "tboxName" : "都歷活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮信義里都歷路110號",
+    "neighbor" : "9-21",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0093",
+    "tboxName" : "都歷活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮信義里都歷路110號",
+    "neighbor" : "9-21",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0094",
+    "tboxName" : "豐田活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮信義里豐田路91號",
+    "neighbor" : "22-27",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0094",
+    "tboxName" : "豐田活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮信義里豐田路91號",
+    "neighbor" : "22-27",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "信義里",
+    "tboxNo" : "0094",
+    "tboxName" : "豐田活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮信義里豐田路91號",
+    "neighbor" : "22-27",
+    "deptCode" : "020",
+    "liName" : "信義里"
+  }, {
+    "ScopeLiName" : "和平里",
+    "tboxNo" : "0095",
+    "tboxName" : "和平里活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮和平里跋邊路15號",
+    "neighbor" : "1-11",
+    "deptCode" : "020",
+    "liName" : "和平里"
+  }, {
+    "ScopeLiName" : "和平里",
+    "tboxNo" : "0095",
+    "tboxName" : "和平里活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮和平里跋邊路15號",
+    "neighbor" : "1-11",
+    "deptCode" : "020",
+    "liName" : "和平里"
+  }, {
+    "ScopeLiName" : "和平里",
+    "tboxNo" : "0095",
+    "tboxName" : "和平里活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮和平里跋邊路15號",
+    "neighbor" : "1-11",
+    "deptCode" : "020",
+    "liName" : "和平里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0096",
+    "tboxName" : "麒麟活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠仁里麒麟路45之12號",
+    "neighbor" : "32-38",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0096",
+    "tboxName" : "麒麟活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠仁里麒麟路45之12號",
+    "neighbor" : "32-38",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0096",
+    "tboxName" : "麒麟活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠仁里麒麟路45之12號",
+    "neighbor" : "32-38",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0097",
+    "tboxName" : "舊鎮公所",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠仁里中山東路75號",
+    "neighbor" : "1-20",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0097",
+    "tboxName" : "舊鎮公所",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠仁里中山東路75號",
+    "neighbor" : "1-20",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0097",
+    "tboxName" : "舊鎮公所",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠仁里中山東路75號",
+    "neighbor" : "1-20",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0098",
+    "tboxName" : "成功國小教室",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠仁里太平路28號",
+    "neighbor" : "21-31",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0098",
+    "tboxName" : "成功國小教室",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠仁里太平路28號",
+    "neighbor" : "21-31",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠仁里",
+    "tboxNo" : "0098",
+    "tboxName" : "成功國小教室",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠仁里太平路28號",
+    "neighbor" : "21-31",
+    "deptCode" : "020",
+    "liName" : "忠仁里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0099",
+    "tboxName" : "新港國中活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠智里中正路1號",
+    "neighbor" : "1-16",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0099",
+    "tboxName" : "新港國中活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠智里中正路1號",
+    "neighbor" : "1-16",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0099",
+    "tboxName" : "新港國中活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠智里中正路1號",
+    "neighbor" : "1-16",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0100",
+    "tboxName" : "忠智里活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠智里五權路164號",
+    "neighbor" : "17-26",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0100",
+    "tboxName" : "忠智里活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠智里五權路164號",
+    "neighbor" : "17-26",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "忠智里",
+    "tboxNo" : "0100",
+    "tboxName" : "忠智里活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠智里五權路164號",
+    "neighbor" : "17-26",
+    "deptCode" : "020",
+    "liName" : "忠智里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0101",
+    "tboxName" : "三民活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮三民里三民路18號",
+    "neighbor" : "1-14",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0101",
+    "tboxName" : "三民活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮三民里三民路18號",
+    "neighbor" : "1-14",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0101",
+    "tboxName" : "三民活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮三民里三民路18號",
+    "neighbor" : "1-14",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0102",
+    "tboxName" : "成功鎮第二市場",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮三民里三民路111號",
+    "neighbor" : "15-28",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0102",
+    "tboxName" : "成功鎮第二市場",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮三民里三民路111號",
+    "neighbor" : "15-28",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三民里",
+    "tboxNo" : "0102",
+    "tboxName" : "成功鎮第二市場",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮三民里三民路111號",
+    "neighbor" : "15-28",
+    "deptCode" : "020",
+    "liName" : "三民里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0103",
+    "tboxName" : "芝田活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮三仙里芝田路10號",
+    "neighbor" : "1-6,8",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0103",
+    "tboxName" : "芝田活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮三仙里芝田路10號",
+    "neighbor" : "1-6,8",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0103",
+    "tboxName" : "芝田活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮三仙里芝田路10號",
+    "neighbor" : "1-6,8",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0104",
+    "tboxName" : "舊白守蓮活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮三仙里白蓮路260號",
+    "neighbor" : "7,9-24",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0104",
+    "tboxName" : "舊白守蓮活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮三仙里白蓮路260號",
+    "neighbor" : "7,9-24",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "三仙里",
+    "tboxNo" : "0104",
+    "tboxName" : "舊白守蓮活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮三仙里白蓮路260號",
+    "neighbor" : "7,9-24",
+    "deptCode" : "020",
+    "liName" : "三仙里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0105",
+    "tboxName" : "美山活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠孝里美山路180-1號",
+    "neighbor" : "1-6,16-17",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0105",
+    "tboxName" : "美山活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠孝里美山路180-1號",
+    "neighbor" : "1-6,16-17",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0105",
+    "tboxName" : "美山活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠孝里美山路180-1號",
+    "neighbor" : "1-6,16-17",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0106",
+    "tboxName" : "小港活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮忠孝里成廣路7號",
+    "neighbor" : "7-15",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0106",
+    "tboxName" : "小港活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮忠孝里成廣路7號",
+    "neighbor" : "7-15",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "忠孝里",
+    "tboxNo" : "0106",
+    "tboxName" : "小港活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮忠孝里成廣路7號",
+    "neighbor" : "7-15",
+    "deptCode" : "020",
+    "liName" : "忠孝里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0107",
+    "tboxName" : "重安活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮博愛里重安路1號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0107",
+    "tboxName" : "重安活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮博愛里重安路1號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0107",
+    "tboxName" : "重安活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮博愛里重安路1號",
+    "neighbor" : "1-8",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0108",
+    "tboxName" : "宜灣聚會所",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣成功鎮博愛里宜灣路52-1號",
+    "neighbor" : "9-16",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0108",
+    "tboxName" : "宜灣聚會所",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣成功鎮博愛里宜灣路52-1號",
+    "neighbor" : "9-16",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "博愛里",
+    "tboxNo" : "0108",
+    "tboxName" : "宜灣聚會所",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣成功鎮博愛里宜灣路52-1號",
+    "neighbor" : "9-16",
+    "deptCode" : "020",
+    "liName" : "博愛里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0109",
+    "tboxName" : "里壠社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮里壠里28鄰崁頂46號之1",
+    "neighbor" : "1-20",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0109",
+    "tboxName" : "里壠社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮里壠里28鄰崁頂46號之1",
+    "neighbor" : "1-20",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0109",
+    "tboxName" : "里壠社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮里壠里28鄰崁頂46號之1",
+    "neighbor" : "1-20",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0110",
+    "tboxName" : "關山工商學生活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮里壠里18鄰民權路58號",
+    "neighbor" : "21-33",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0110",
+    "tboxName" : "關山工商學生活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮里壠里18鄰民權路58號",
+    "neighbor" : "21-33",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "里壠里",
+    "tboxNo" : "0110",
+    "tboxName" : "關山工商學生活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮里壠里18鄰民權路58號",
+    "neighbor" : "21-33",
+    "deptCode" : "030",
+    "liName" : "里壠里"
+  }, {
+    "ScopeLiName" : "中福里",
+    "tboxNo" : "0111",
+    "tboxName" : "關山國小大禮堂",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮中福里中華路101號",
+    "neighbor" : "1-19",
+    "deptCode" : "030",
+    "liName" : "中福里"
+  }, {
+    "ScopeLiName" : "中福里",
+    "tboxNo" : "0111",
+    "tboxName" : "關山國小大禮堂",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮中福里中華路101號",
+    "neighbor" : "1-19",
+    "deptCode" : "030",
+    "liName" : "中福里"
+  }, {
+    "ScopeLiName" : "中福里",
+    "tboxNo" : "0111",
+    "tboxName" : "關山國小大禮堂",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮中福里中華路101號",
+    "neighbor" : "1-19",
+    "deptCode" : "030",
+    "liName" : "中福里"
+  }, {
+    "ScopeLiName" : "新福里",
+    "tboxNo" : "0112",
+    "tboxName" : "新福社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮新福里8鄰溪埔34-1號",
+    "neighbor" : "1-14",
+    "deptCode" : "030",
+    "liName" : "新福里"
+  }, {
+    "ScopeLiName" : "新福里",
+    "tboxNo" : "0112",
+    "tboxName" : "新福社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮新福里8鄰溪埔34-1號",
+    "neighbor" : "1-14",
+    "deptCode" : "030",
+    "liName" : "新福里"
+  }, {
+    "ScopeLiName" : "新福里",
+    "tboxNo" : "0112",
+    "tboxName" : "新福社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮新福里8鄰溪埔34-1號",
+    "neighbor" : "1-14",
+    "deptCode" : "030",
+    "liName" : "新福里"
+  }, {
+    "ScopeLiName" : "豐泉里",
+    "tboxNo" : "0113",
+    "tboxName" : "關山鎮老人會館",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮豐泉里忠孝路18巷2號",
+    "neighbor" : "1-12",
+    "deptCode" : "030",
+    "liName" : "豐泉里"
+  }, {
+    "ScopeLiName" : "豐泉里",
+    "tboxNo" : "0113",
+    "tboxName" : "關山鎮老人會館",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮豐泉里忠孝路18巷2號",
+    "neighbor" : "1-12",
+    "deptCode" : "030",
+    "liName" : "豐泉里"
+  }, {
+    "ScopeLiName" : "豐泉里",
+    "tboxNo" : "0113",
+    "tboxName" : "關山鎮老人會館",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮豐泉里忠孝路18巷2號",
+    "neighbor" : "1-12",
+    "deptCode" : "030",
+    "liName" : "豐泉里"
+  }, {
+    "ScopeLiName" : "月眉里",
+    "tboxNo" : "0114",
+    "tboxName" : "月眉社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮月眉里6鄰中和7之3號",
+    "neighbor" : "1-7",
+    "deptCode" : "030",
+    "liName" : "月眉里"
+  }, {
+    "ScopeLiName" : "月眉里",
+    "tboxNo" : "0114",
+    "tboxName" : "月眉社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮月眉里6鄰中和7之3號",
+    "neighbor" : "1-7",
+    "deptCode" : "030",
+    "liName" : "月眉里"
+  }, {
+    "ScopeLiName" : "月眉里",
+    "tboxNo" : "0114",
+    "tboxName" : "月眉社區活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮月眉里6鄰中和7之3號",
+    "neighbor" : "1-7",
+    "deptCode" : "030",
+    "liName" : "月眉里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0115",
+    "tboxName" : "德高社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮德高里8鄰永豐105之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0115",
+    "tboxName" : "德高社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮德高里8鄰永豐105之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0115",
+    "tboxName" : "德高社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮德高里8鄰永豐105之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0116",
+    "tboxName" : "北庄社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮德高里24鄰東明23-1號",
+    "neighbor" : "18-33",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0116",
+    "tboxName" : "北庄社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮德高里24鄰東明23-1號",
+    "neighbor" : "18-33",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "德高里",
+    "tboxNo" : "0116",
+    "tboxName" : "北庄社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮德高里24鄰東明23-1號",
+    "neighbor" : "18-33",
+    "deptCode" : "030",
+    "liName" : "德高里"
+  }, {
+    "ScopeLiName" : "電光里",
+    "tboxNo" : "0117",
+    "tboxName" : "電光多功能活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣關山鎮電光里電光里3鄰中興85號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "電光里"
+  }, {
+    "ScopeLiName" : "電光里",
+    "tboxNo" : "0117",
+    "tboxName" : "電光多功能活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣關山鎮電光里電光里3鄰中興85號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "電光里"
+  }, {
+    "ScopeLiName" : "電光里",
+    "tboxNo" : "0117",
+    "tboxName" : "電光多功能活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣關山鎮電光里電光里3鄰中興85號",
+    "neighbor" : "1-17",
+    "deptCode" : "030",
+    "liName" : "電光里"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0118",
+    "tboxName" : "賓朗國小",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷2號",
+    "neighbor" : "17-30",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0118",
+    "tboxName" : "賓朗國小",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷2號",
+    "neighbor" : "17-30",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0118",
+    "tboxName" : "賓朗國小",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷2號",
+    "neighbor" : "17-30",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0119",
+    "tboxName" : "賓朗老人暨多功能活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷3號",
+    "neighbor" : "1-16",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0119",
+    "tboxName" : "賓朗老人暨多功能活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷3號",
+    "neighbor" : "1-16",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "賓朗村",
+    "tboxNo" : "0119",
+    "tboxName" : "賓朗老人暨多功能活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉賓朗村18鄰賓朗路474巷3號",
+    "neighbor" : "1-16",
+    "deptCode" : "040",
+    "liName" : "賓朗村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0120",
+    "tboxName" : "卑南族花環部落學校",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉美農村1鄰高台9號",
+    "neighbor" : "1-6",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0120",
+    "tboxName" : "卑南族花環部落學校",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉美農村1鄰高台9號",
+    "neighbor" : "1-6",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0120",
+    "tboxName" : "卑南族花環部落學校",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉美農村1鄰高台9號",
+    "neighbor" : "1-6",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0121",
+    "tboxName" : "煙草間活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉美農村煙草間34之1號",
+    "neighbor" : "7-17",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0121",
+    "tboxName" : "煙草間活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉美農村煙草間34之1號",
+    "neighbor" : "7-17",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0121",
+    "tboxName" : "煙草間活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉美農村煙草間34之1號",
+    "neighbor" : "7-17",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0122",
+    "tboxName" : "東成國小",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉美農村22鄰班鳩92號",
+    "neighbor" : "18-26",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0122",
+    "tboxName" : "東成國小",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉美農村22鄰班鳩92號",
+    "neighbor" : "18-26",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "美農村",
+    "tboxNo" : "0122",
+    "tboxName" : "東成國小",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉美農村22鄰班鳩92號",
+    "neighbor" : "18-26",
+    "deptCode" : "040",
+    "liName" : "美農村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0123",
+    "tboxName" : "初鹿活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉初鹿村初鹿二街110號",
+    "neighbor" : "14-32",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0123",
+    "tboxName" : "初鹿活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉初鹿村初鹿二街110號",
+    "neighbor" : "14-32",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0123",
+    "tboxName" : "初鹿活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉初鹿村初鹿二街110號",
+    "neighbor" : "14-32",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0124",
+    "tboxName" : "初鹿國小",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉初鹿村梅園路97號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0124",
+    "tboxName" : "初鹿國小",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉初鹿村梅園路97號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "初鹿村",
+    "tboxNo" : "0124",
+    "tboxName" : "初鹿國小",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉初鹿村梅園路97號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "初鹿村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0125",
+    "tboxName" : "卑南老人活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉初鹿村忠孝路31號",
+    "neighbor" : "12-31",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0125",
+    "tboxName" : "卑南老人活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉初鹿村忠孝路31號",
+    "neighbor" : "12-31",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0125",
+    "tboxName" : "卑南老人活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉初鹿村忠孝路31號",
+    "neighbor" : "12-31",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0126",
+    "tboxName" : "龍過脈社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉明峰村龍過脈92之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0126",
+    "tboxName" : "龍過脈社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉明峰村龍過脈92之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "明峰村",
+    "tboxNo" : "0126",
+    "tboxName" : "龍過脈社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉明峰村龍過脈92之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "040",
+    "liName" : "明峰村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0127",
+    "tboxName" : "嘉豐活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉嘉豐村7鄰稻葉2號之1",
+    "neighbor" : "4-13",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0127",
+    "tboxName" : "嘉豐活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉嘉豐村7鄰稻葉2號之1",
+    "neighbor" : "4-13",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0127",
+    "tboxName" : "嘉豐活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉嘉豐村7鄰稻葉2號之1",
+    "neighbor" : "4-13",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0128",
+    "tboxName" : "山里分校",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉嘉豐村1鄰山里18號",
+    "neighbor" : "1-3",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0128",
+    "tboxName" : "山里分校",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉嘉豐村1鄰山里18號",
+    "neighbor" : "1-3",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "嘉豐村",
+    "tboxNo" : "0128",
+    "tboxName" : "山里分校",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉嘉豐村1鄰山里18號",
+    "neighbor" : "1-3",
+    "deptCode" : "040",
+    "liName" : "嘉豐村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0129",
+    "tboxName" : "太平文衡殿（右側餐廳）",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "1-10",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0129",
+    "tboxName" : "太平文衡殿（右側餐廳）",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "1-10",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0129",
+    "tboxName" : "太平文衡殿（右側餐廳）",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "1-10",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0130",
+    "tboxName" : "太平文衡殿(左側)",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "11-18",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0130",
+    "tboxName" : "太平文衡殿(左側)",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "11-18",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0130",
+    "tboxName" : "太平文衡殿(左側)",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉太平村太平路276號",
+    "neighbor" : "11-18",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0131",
+    "tboxName" : "太平國小",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉泰安村泰安6號",
+    "neighbor" : "19-27",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0131",
+    "tboxName" : "太平國小",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉泰安村泰安6號",
+    "neighbor" : "19-27",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "太平村",
+    "tboxNo" : "0131",
+    "tboxName" : "太平國小",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉泰安村泰安6號",
+    "neighbor" : "19-27",
+    "deptCode" : "040",
+    "liName" : "太平村"
+  }, {
+    "ScopeLiName" : "泰安村",
+    "tboxNo" : "0132",
+    "tboxName" : "泰安活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉泰安村5鄰泰安101號",
+    "neighbor" : "1-20",
+    "deptCode" : "040",
+    "liName" : "泰安村"
+  }, {
+    "ScopeLiName" : "泰安村",
+    "tboxNo" : "0132",
+    "tboxName" : "泰安活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉泰安村5鄰泰安101號",
+    "neighbor" : "1-20",
+    "deptCode" : "040",
+    "liName" : "泰安村"
+  }, {
+    "ScopeLiName" : "泰安村",
+    "tboxNo" : "0132",
+    "tboxName" : "泰安活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉泰安村5鄰泰安101號",
+    "neighbor" : "1-20",
+    "deptCode" : "040",
+    "liName" : "泰安村"
+  }, {
+    "ScopeLiName" : "利嘉村",
+    "tboxNo" : "0133",
+    "tboxName" : "利嘉活動中心",
+    "liCode" : "011",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉利嘉村17鄰利民路669號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利嘉村"
+  }, {
+    "ScopeLiName" : "利嘉村",
+    "tboxNo" : "0133",
+    "tboxName" : "利嘉活動中心",
+    "liCode" : "011",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉利嘉村17鄰利民路669號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利嘉村"
+  }, {
+    "ScopeLiName" : "利嘉村",
+    "tboxNo" : "0133",
+    "tboxName" : "利嘉活動中心",
+    "liCode" : "011",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉利嘉村17鄰利民路669號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利嘉村"
+  }, {
+    "ScopeLiName" : "東興村",
+    "tboxNo" : "0134",
+    "tboxName" : "東興活動中心",
+    "liCode" : "012",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉東興村東園一街120號",
+    "neighbor" : "1-21",
+    "deptCode" : "040",
+    "liName" : "東興村"
+  }, {
+    "ScopeLiName" : "東興村",
+    "tboxNo" : "0134",
+    "tboxName" : "東興活動中心",
+    "liCode" : "012",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉東興村東園一街120號",
+    "neighbor" : "1-21",
+    "deptCode" : "040",
+    "liName" : "東興村"
+  }, {
+    "ScopeLiName" : "東興村",
+    "tboxNo" : "0134",
+    "tboxName" : "東興活動中心",
+    "liCode" : "012",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉東興村東園一街120號",
+    "neighbor" : "1-21",
+    "deptCode" : "040",
+    "liName" : "東興村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0135",
+    "tboxName" : "溫泉活動中心",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉溫泉村11鄰溫泉路293號",
+    "neighbor" : "1-28",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0135",
+    "tboxName" : "溫泉活動中心",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉溫泉村11鄰溫泉路293號",
+    "neighbor" : "1-28",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0135",
+    "tboxName" : "溫泉活動中心",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉溫泉村11鄰溫泉路293號",
+    "neighbor" : "1-28",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0136",
+    "tboxName" : "樂山福德祠",
+    "liCode" : "013",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉溫泉村36鄰樂山133號",
+    "neighbor" : "29-36",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0136",
+    "tboxName" : "樂山福德祠",
+    "liCode" : "013",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉溫泉村36鄰樂山133號",
+    "neighbor" : "29-36",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "溫泉村",
+    "tboxNo" : "0136",
+    "tboxName" : "樂山福德祠",
+    "liCode" : "013",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉溫泉村36鄰樂山133號",
+    "neighbor" : "29-36",
+    "deptCode" : "040",
+    "liName" : "溫泉村"
+  }, {
+    "ScopeLiName" : "富山村",
+    "tboxNo" : "0137",
+    "tboxName" : "富山活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉富山村3鄰漁場64號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "富山村"
+  }, {
+    "ScopeLiName" : "富山村",
+    "tboxNo" : "0137",
+    "tboxName" : "富山活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉富山村3鄰漁場64號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "富山村"
+  }, {
+    "ScopeLiName" : "富山村",
+    "tboxNo" : "0137",
+    "tboxName" : "富山活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉富山村3鄰漁場64號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "富山村"
+  }, {
+    "ScopeLiName" : "富源村",
+    "tboxNo" : "0138",
+    "tboxName" : "富源活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉富源村8鄰富源118號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "富源村"
+  }, {
+    "ScopeLiName" : "富源村",
+    "tboxNo" : "0138",
+    "tboxName" : "富源活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉富源村8鄰富源118號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "富源村"
+  }, {
+    "ScopeLiName" : "富源村",
+    "tboxNo" : "0138",
+    "tboxName" : "富源活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉富源村8鄰富源118號",
+    "neighbor" : "1-13",
+    "deptCode" : "040",
+    "liName" : "富源村"
+  }, {
+    "ScopeLiName" : "利吉村",
+    "tboxNo" : "0139",
+    "tboxName" : "利吉分校",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣卑南鄉利吉村利吉2號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利吉村"
+  }, {
+    "ScopeLiName" : "利吉村",
+    "tboxNo" : "0139",
+    "tboxName" : "利吉分校",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣卑南鄉利吉村利吉2號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利吉村"
+  }, {
+    "ScopeLiName" : "利吉村",
+    "tboxNo" : "0139",
+    "tboxName" : "利吉分校",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣卑南鄉利吉村利吉2號",
+    "neighbor" : "1-17",
+    "deptCode" : "040",
+    "liName" : "利吉村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0140",
+    "tboxName" : "和平社區活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉鹿野村3鄰和平路57號",
+    "neighbor" : "1-5",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0140",
+    "tboxName" : "和平社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉鹿野村3鄰和平路57號",
+    "neighbor" : "1-5",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0140",
+    "tboxName" : "和平社區活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉鹿野村3鄰和平路57號",
+    "neighbor" : "1-5",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0141",
+    "tboxName" : "鹿野國小",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉鹿野村6鄰中華路一段402號",
+    "neighbor" : "6-13",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0141",
+    "tboxName" : "鹿野國小",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉鹿野村6鄰中華路一段402號",
+    "neighbor" : "6-13",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "鹿野村",
+    "tboxNo" : "0141",
+    "tboxName" : "鹿野國小",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉鹿野村6鄰中華路一段402號",
+    "neighbor" : "6-13",
+    "deptCode" : "050",
+    "liName" : "鹿野村"
+  }, {
+    "ScopeLiName" : "龍田村",
+    "tboxNo" : "0142",
+    "tboxName" : "龍田社區活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉龍田村7鄰光榮路308號",
+    "neighbor" : "1-15",
+    "deptCode" : "050",
+    "liName" : "龍田村"
+  }, {
+    "ScopeLiName" : "龍田村",
+    "tboxNo" : "0142",
+    "tboxName" : "龍田社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉龍田村7鄰光榮路308號",
+    "neighbor" : "1-15",
+    "deptCode" : "050",
+    "liName" : "龍田村"
+  }, {
+    "ScopeLiName" : "龍田村",
+    "tboxNo" : "0142",
+    "tboxName" : "龍田社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉龍田村7鄰光榮路308號",
+    "neighbor" : "1-15",
+    "deptCode" : "050",
+    "liName" : "龍田村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0143",
+    "tboxName" : "永安村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉永安村3鄰永安路257巷5號",
+    "neighbor" : "1-9",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0143",
+    "tboxName" : "永安村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉永安村3鄰永安路257巷5號",
+    "neighbor" : "1-9",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0143",
+    "tboxName" : "永安村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉永安村3鄰永安路257巷5號",
+    "neighbor" : "1-9",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0144",
+    "tboxName" : "永隆原住民多功能活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉永安村10鄰中華路三段269巷5號",
+    "neighbor" : "10-15",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0144",
+    "tboxName" : "永隆原住民多功能活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉永安村10鄰中華路三段269巷5號",
+    "neighbor" : "10-15",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "永安村",
+    "tboxNo" : "0144",
+    "tboxName" : "永隆原住民多功能活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉永安村10鄰中華路三段269巷5號",
+    "neighbor" : "10-15",
+    "deptCode" : "050",
+    "liName" : "永安村"
+  }, {
+    "ScopeLiName" : "瑞隆村",
+    "tboxNo" : "0145",
+    "tboxName" : "瑞隆社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉瑞隆村10鄰佑民路7號",
+    "neighbor" : "1-16",
+    "deptCode" : "050",
+    "liName" : "瑞隆村"
+  }, {
+    "ScopeLiName" : "瑞隆村",
+    "tboxNo" : "0145",
+    "tboxName" : "瑞隆社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉瑞隆村10鄰佑民路7號",
+    "neighbor" : "1-16",
+    "deptCode" : "050",
+    "liName" : "瑞隆村"
+  }, {
+    "ScopeLiName" : "瑞隆村",
+    "tboxNo" : "0145",
+    "tboxName" : "瑞隆社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉瑞隆村10鄰佑民路7號",
+    "neighbor" : "1-16",
+    "deptCode" : "050",
+    "liName" : "瑞隆村"
+  }, {
+    "ScopeLiName" : "瑞源村",
+    "tboxNo" : "0146",
+    "tboxName" : "瑞源國小",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉瑞源村12鄰文化路67號",
+    "neighbor" : "1-14",
+    "deptCode" : "050",
+    "liName" : "瑞源村"
+  }, {
+    "ScopeLiName" : "瑞源村",
+    "tboxNo" : "0146",
+    "tboxName" : "瑞源國小",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉瑞源村12鄰文化路67號",
+    "neighbor" : "1-14",
+    "deptCode" : "050",
+    "liName" : "瑞源村"
+  }, {
+    "ScopeLiName" : "瑞源村",
+    "tboxNo" : "0146",
+    "tboxName" : "瑞源國小",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉瑞源村12鄰文化路67號",
+    "neighbor" : "1-14",
+    "deptCode" : "050",
+    "liName" : "瑞源村"
+  }, {
+    "ScopeLiName" : "瑞和村",
+    "tboxNo" : "0147",
+    "tboxName" : "瑞和社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉瑞和村4鄰瑞景路三段121號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞和村"
+  }, {
+    "ScopeLiName" : "瑞和村",
+    "tboxNo" : "0147",
+    "tboxName" : "瑞和社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉瑞和村4鄰瑞景路三段121號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞和村"
+  }, {
+    "ScopeLiName" : "瑞和村",
+    "tboxNo" : "0147",
+    "tboxName" : "瑞和社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉瑞和村4鄰瑞景路三段121號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞和村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0148",
+    "tboxName" : "新豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉瑞豐村5鄰新和路281巷1號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0148",
+    "tboxName" : "新豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉瑞豐村5鄰新和路281巷1號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0148",
+    "tboxName" : "新豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉瑞豐村5鄰新和路281巷1號",
+    "neighbor" : "1-8",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0149",
+    "tboxName" : "瑞豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣鹿野鄉瑞豐村10鄰景新路60巷2號",
+    "neighbor" : "9-16",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0149",
+    "tboxName" : "瑞豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣鹿野鄉瑞豐村10鄰景新路60巷2號",
+    "neighbor" : "9-16",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "瑞豐村",
+    "tboxNo" : "0149",
+    "tboxName" : "瑞豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣鹿野鄉瑞豐村10鄰景新路60巷2號",
+    "neighbor" : "9-16",
+    "deptCode" : "050",
+    "liName" : "瑞豐村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0150",
+    "tboxName" : "基督長老教會池上教會",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉福原村2鄰中山路95號",
+    "neighbor" : "1-7,16-19",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0150",
+    "tboxName" : "基督長老教會池上教會",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉福原村2鄰中山路95號",
+    "neighbor" : "1-7,16-19",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0150",
+    "tboxName" : "基督長老教會池上教會",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉福原村2鄰中山路95號",
+    "neighbor" : "1-7,16-19",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0151",
+    "tboxName" : "天真幼兒園",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉福文村5鄰靜安路3號",
+    "neighbor" : "8-15",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0151",
+    "tboxName" : "天真幼兒園",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉福文村5鄰靜安路3號",
+    "neighbor" : "8-15",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福原村",
+    "tboxNo" : "0151",
+    "tboxName" : "天真幼兒園",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉福文村5鄰靜安路3號",
+    "neighbor" : "8-15",
+    "deptCode" : "060",
+    "liName" : "福原村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0152",
+    "tboxName" : "福文老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉福文村中西三路136號",
+    "neighbor" : "1-7,18-21",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0152",
+    "tboxName" : "福文老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉福文村中西三路136號",
+    "neighbor" : "1-7,18-21",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0152",
+    "tboxName" : "福文老人文康活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉福文村中西三路136號",
+    "neighbor" : "1-7,18-21",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0153",
+    "tboxName" : "福文社區活動中心(玉清宮旁)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉福文村7鄰文化路22號",
+    "neighbor" : "8-17",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0153",
+    "tboxName" : "福文社區活動中心(玉清宮旁)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉福文村7鄰文化路22號",
+    "neighbor" : "8-17",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "福文村",
+    "tboxNo" : "0153",
+    "tboxName" : "福文社區活動中心(玉清宮旁)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉福文村7鄰文化路22號",
+    "neighbor" : "8-17",
+    "deptCode" : "060",
+    "liName" : "福文村"
+  }, {
+    "ScopeLiName" : "慶豐村",
+    "tboxNo" : "0154",
+    "tboxName" : "慶豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉慶豐村7鄰慶豐82號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "慶豐村"
+  }, {
+    "ScopeLiName" : "慶豐村",
+    "tboxNo" : "0154",
+    "tboxName" : "慶豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉慶豐村7鄰慶豐82號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "慶豐村"
+  }, {
+    "ScopeLiName" : "慶豐村",
+    "tboxNo" : "0154",
+    "tboxName" : "慶豐社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉慶豐村7鄰慶豐82號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "慶豐村"
+  }, {
+    "ScopeLiName" : "大坡村",
+    "tboxNo" : "0155",
+    "tboxName" : "大坡社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉大坡村2鄰18號",
+    "neighbor" : "1-8",
+    "deptCode" : "060",
+    "liName" : "大坡村"
+  }, {
+    "ScopeLiName" : "大坡村",
+    "tboxNo" : "0155",
+    "tboxName" : "大坡社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉大坡村2鄰18號",
+    "neighbor" : "1-8",
+    "deptCode" : "060",
+    "liName" : "大坡村"
+  }, {
+    "ScopeLiName" : "大坡村",
+    "tboxNo" : "0155",
+    "tboxName" : "大坡社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉大坡村2鄰18號",
+    "neighbor" : "1-8",
+    "deptCode" : "060",
+    "liName" : "大坡村"
+  }, {
+    "ScopeLiName" : "大埔村",
+    "tboxNo" : "0156",
+    "tboxName" : "大埔老人活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉大埔村2鄰大埔14號",
+    "neighbor" : "1-9",
+    "deptCode" : "060",
+    "liName" : "大埔村"
+  }, {
+    "ScopeLiName" : "大埔村",
+    "tboxNo" : "0156",
+    "tboxName" : "大埔老人活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉大埔村2鄰大埔14號",
+    "neighbor" : "1-9",
+    "deptCode" : "060",
+    "liName" : "大埔村"
+  }, {
+    "ScopeLiName" : "大埔村",
+    "tboxNo" : "0156",
+    "tboxName" : "大埔老人活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉大埔村2鄰大埔14號",
+    "neighbor" : "1-9",
+    "deptCode" : "060",
+    "liName" : "大埔村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0157",
+    "tboxName" : "新興社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉新興村4鄰新興48之1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0157",
+    "tboxName" : "新興社區活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉新興村4鄰新興48之1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0157",
+    "tboxName" : "新興社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉新興村4鄰新興48之1號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "錦園村",
+    "tboxNo" : "0158",
+    "tboxName" : "錦園社區活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉錦園村1鄰新開園2號",
+    "neighbor" : "1-14",
+    "deptCode" : "060",
+    "liName" : "錦園村"
+  }, {
+    "ScopeLiName" : "錦園村",
+    "tboxNo" : "0158",
+    "tboxName" : "錦園社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉錦園村1鄰新開園2號",
+    "neighbor" : "1-14",
+    "deptCode" : "060",
+    "liName" : "錦園村"
+  }, {
+    "ScopeLiName" : "錦園村",
+    "tboxNo" : "0158",
+    "tboxName" : "錦園社區活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉錦園村1鄰新開園2號",
+    "neighbor" : "1-14",
+    "deptCode" : "060",
+    "liName" : "錦園村"
+  }, {
+    "ScopeLiName" : "萬安村",
+    "tboxNo" : "0159",
+    "tboxName" : "萬安社區活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉萬安村1鄰7號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "萬安村"
+  }, {
+    "ScopeLiName" : "萬安村",
+    "tboxNo" : "0159",
+    "tboxName" : "萬安社區活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉萬安村1鄰7號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "萬安村"
+  }, {
+    "ScopeLiName" : "萬安村",
+    "tboxNo" : "0159",
+    "tboxName" : "萬安社區活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉萬安村1鄰7號",
+    "neighbor" : "1-10",
+    "deptCode" : "060",
+    "liName" : "萬安村"
+  }, {
+    "ScopeLiName" : "富興村",
+    "tboxNo" : "0160",
+    "tboxName" : "富興社區活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉富興村4鄰富興62之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "富興村"
+  }, {
+    "ScopeLiName" : "富興村",
+    "tboxNo" : "0160",
+    "tboxName" : "富興社區活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉富興村4鄰富興62之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "富興村"
+  }, {
+    "ScopeLiName" : "富興村",
+    "tboxNo" : "0160",
+    "tboxName" : "富興社區活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉富興村4鄰富興62之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "060",
+    "liName" : "富興村"
+  }, {
+    "ScopeLiName" : "振興村",
+    "tboxNo" : "0161",
+    "tboxName" : "萬安國小振興分校(四年級)教室",
+    "liCode" : "010",
+    "voter" : "02",
+    "addr" : "臺東縣池上鄉振興村6鄰36號",
+    "neighbor" : "1-12",
+    "deptCode" : "060",
+    "liName" : "振興村"
+  }, {
+    "ScopeLiName" : "振興村",
+    "tboxNo" : "0161",
+    "tboxName" : "萬安國小振興分校(四年級)教室",
+    "liCode" : "010",
+    "voter" : "03",
+    "addr" : "臺東縣池上鄉振興村6鄰36號",
+    "neighbor" : "1-12",
+    "deptCode" : "060",
+    "liName" : "振興村"
+  }, {
+    "ScopeLiName" : "振興村",
+    "tboxNo" : "0161",
+    "tboxName" : "萬安國小振興分校(四年級)教室",
+    "liCode" : "010",
+    "voter" : "01",
+    "addr" : "臺東縣池上鄉振興村6鄰36號",
+    "neighbor" : "1-12",
+    "deptCode" : "060",
+    "liName" : "振興村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0162",
+    "tboxName" : "都蘭國中",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉都蘭村40鄰398號",
+    "neighbor" : "1-13,26-30",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0162",
+    "tboxName" : "都蘭國中",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉都蘭村40鄰398號",
+    "neighbor" : "1-13,26-30",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0162",
+    "tboxName" : "都蘭國中",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉都蘭村40鄰398號",
+    "neighbor" : "1-13,26-30",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0163",
+    "tboxName" : "東河鄉立圖書館",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉都蘭村20鄰91巷64號",
+    "neighbor" : "14-25",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0163",
+    "tboxName" : "東河鄉立圖書館",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉都蘭村20鄰91巷64號",
+    "neighbor" : "14-25",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0163",
+    "tboxName" : "東河鄉立圖書館",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉都蘭村20鄰91巷64號",
+    "neighbor" : "14-25",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0164",
+    "tboxName" : "都蘭社區活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉都蘭村39鄰372號",
+    "neighbor" : "31-49",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0164",
+    "tboxName" : "都蘭社區活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉都蘭村39鄰372號",
+    "neighbor" : "31-49",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "都蘭村",
+    "tboxNo" : "0164",
+    "tboxName" : "都蘭社區活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉都蘭村39鄰372號",
+    "neighbor" : "31-49",
+    "deptCode" : "070",
+    "liName" : "都蘭村"
+  }, {
+    "ScopeLiName" : "興昌村",
+    "tboxNo" : "0165",
+    "tboxName" : "興昌村辦公處",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉隆昌村6鄰26之3號",
+    "neighbor" : "1-33",
+    "deptCode" : "070",
+    "liName" : "興昌村"
+  }, {
+    "ScopeLiName" : "興昌村",
+    "tboxNo" : "0165",
+    "tboxName" : "興昌村辦公處",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉隆昌村6鄰26之3號",
+    "neighbor" : "1-33",
+    "deptCode" : "070",
+    "liName" : "興昌村"
+  }, {
+    "ScopeLiName" : "興昌村",
+    "tboxNo" : "0165",
+    "tboxName" : "興昌村辦公處",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉隆昌村6鄰26之3號",
+    "neighbor" : "1-33",
+    "deptCode" : "070",
+    "liName" : "興昌村"
+  }, {
+    "ScopeLiName" : "隆昌村",
+    "tboxNo" : "0166",
+    "tboxName" : "隆昌村辦公處",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉隆昌村18鄰230號",
+    "neighbor" : "1-20",
+    "deptCode" : "070",
+    "liName" : "隆昌村"
+  }, {
+    "ScopeLiName" : "隆昌村",
+    "tboxNo" : "0166",
+    "tboxName" : "隆昌村辦公處",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉隆昌村18鄰230號",
+    "neighbor" : "1-20",
+    "deptCode" : "070",
+    "liName" : "隆昌村"
+  }, {
+    "ScopeLiName" : "隆昌村",
+    "tboxNo" : "0166",
+    "tboxName" : "隆昌村辦公處",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉隆昌村18鄰230號",
+    "neighbor" : "1-20",
+    "deptCode" : "070",
+    "liName" : "隆昌村"
+  }, {
+    "ScopeLiName" : "東河村",
+    "tboxNo" : "0167",
+    "tboxName" : "東河村辦公處",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉東河村16鄰30號",
+    "neighbor" : "1-22",
+    "deptCode" : "070",
+    "liName" : "東河村"
+  }, {
+    "ScopeLiName" : "東河村",
+    "tboxNo" : "0167",
+    "tboxName" : "東河村辦公處",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉東河村16鄰30號",
+    "neighbor" : "1-22",
+    "deptCode" : "070",
+    "liName" : "東河村"
+  }, {
+    "ScopeLiName" : "東河村",
+    "tboxNo" : "0167",
+    "tboxName" : "東河村辦公處",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉東河村16鄰30號",
+    "neighbor" : "1-22",
+    "deptCode" : "070",
+    "liName" : "東河村"
+  }, {
+    "ScopeLiName" : "泰源村",
+    "tboxNo" : "0168",
+    "tboxName" : "泰源村辦公處",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉泰源村8鄰225號",
+    "neighbor" : "1-32",
+    "deptCode" : "070",
+    "liName" : "泰源村"
+  }, {
+    "ScopeLiName" : "泰源村",
+    "tboxNo" : "0168",
+    "tboxName" : "泰源村辦公處",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉泰源村8鄰225號",
+    "neighbor" : "1-32",
+    "deptCode" : "070",
+    "liName" : "泰源村"
+  }, {
+    "ScopeLiName" : "泰源村",
+    "tboxNo" : "0168",
+    "tboxName" : "泰源村辦公處",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉泰源村8鄰225號",
+    "neighbor" : "1-32",
+    "deptCode" : "070",
+    "liName" : "泰源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0169",
+    "tboxName" : "北源天后宮",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉北源村14鄰花固2號",
+    "neighbor" : "1-16",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0169",
+    "tboxName" : "北源天后宮",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉北源村14鄰花固2號",
+    "neighbor" : "1-16",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0169",
+    "tboxName" : "北源天后宮",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉北源村14鄰花固2號",
+    "neighbor" : "1-16",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0170",
+    "tboxName" : "北源村辦公處",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉北源村19鄰162號",
+    "neighbor" : "17-27,29",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0170",
+    "tboxName" : "北源村辦公處",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉北源村19鄰162號",
+    "neighbor" : "17-27,29",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0170",
+    "tboxName" : "北源村辦公處",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉北源村19鄰162號",
+    "neighbor" : "17-27,29",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0171",
+    "tboxName" : "北源國小",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉北源村28鄰順那21號",
+    "neighbor" : "28,30-47",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0171",
+    "tboxName" : "北源國小",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉北源村28鄰順那21號",
+    "neighbor" : "28,30-47",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "北源村",
+    "tboxNo" : "0171",
+    "tboxName" : "北源國小",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉北源村28鄰順那21號",
+    "neighbor" : "28,30-47",
+    "deptCode" : "070",
+    "liName" : "北源村"
+  }, {
+    "ScopeLiName" : "尚德村",
+    "tboxNo" : "0172",
+    "tboxName" : "尚德村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣東河鄉尚德村3鄰36號",
+    "neighbor" : "1-17",
+    "deptCode" : "070",
+    "liName" : "尚德村"
+  }, {
+    "ScopeLiName" : "尚德村",
+    "tboxNo" : "0172",
+    "tboxName" : "尚德村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣東河鄉尚德村3鄰36號",
+    "neighbor" : "1-17",
+    "deptCode" : "070",
+    "liName" : "尚德村"
+  }, {
+    "ScopeLiName" : "尚德村",
+    "tboxNo" : "0172",
+    "tboxName" : "尚德村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣東河鄉尚德村3鄰36號",
+    "neighbor" : "1-17",
+    "deptCode" : "070",
+    "liName" : "尚德村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0173",
+    "tboxName" : "膽曼社區發展協會活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉寧埔村16鄰9之3號",
+    "neighbor" : "12-17",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0173",
+    "tboxName" : "膽曼社區發展協會活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉寧埔村16鄰9之3號",
+    "neighbor" : "12-17",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0173",
+    "tboxName" : "膽曼社區發展協會活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉寧埔村16鄰9之3號",
+    "neighbor" : "12-17",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0174",
+    "tboxName" : "寧埔村活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉寧埔村11鄰16之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0174",
+    "tboxName" : "寧埔村活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉寧埔村11鄰16之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "寧埔村",
+    "tboxNo" : "0174",
+    "tboxName" : "寧埔村活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉寧埔村11鄰16之1號",
+    "neighbor" : "1-11",
+    "deptCode" : "080",
+    "liName" : "寧埔村"
+  }, {
+    "ScopeLiName" : "竹湖村",
+    "tboxNo" : "0175",
+    "tboxName" : "竹湖村民眾活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉竹湖村11鄰43之3號",
+    "neighbor" : "1-20",
+    "deptCode" : "080",
+    "liName" : "竹湖村"
+  }, {
+    "ScopeLiName" : "竹湖村",
+    "tboxNo" : "0175",
+    "tboxName" : "竹湖村民眾活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉竹湖村11鄰43之3號",
+    "neighbor" : "1-20",
+    "deptCode" : "080",
+    "liName" : "竹湖村"
+  }, {
+    "ScopeLiName" : "竹湖村",
+    "tboxNo" : "0175",
+    "tboxName" : "竹湖村民眾活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉竹湖村11鄰43之3號",
+    "neighbor" : "1-20",
+    "deptCode" : "080",
+    "liName" : "竹湖村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0176",
+    "tboxName" : "長濱鄉老人會館",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉長濱村7鄰中興路48號",
+    "neighbor" : "1-18",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0176",
+    "tboxName" : "長濱鄉老人會館",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉長濱村7鄰中興路48號",
+    "neighbor" : "1-18",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0176",
+    "tboxName" : "長濱鄉老人會館",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉長濱村7鄰中興路48號",
+    "neighbor" : "1-18",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0177",
+    "tboxName" : "長光天主教活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉長濱村24鄰105之1號",
+    "neighbor" : "19-29",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0177",
+    "tboxName" : "長光天主教活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉長濱村24鄰105之1號",
+    "neighbor" : "19-29",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "長濱村",
+    "tboxNo" : "0177",
+    "tboxName" : "長光天主教活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉長濱村24鄰105之1號",
+    "neighbor" : "19-29",
+    "deptCode" : "080",
+    "liName" : "長濱村"
+  }, {
+    "ScopeLiName" : "忠勇村",
+    "tboxNo" : "0178",
+    "tboxName" : "忠勇社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉忠勇村4鄰49號",
+    "neighbor" : "1-13",
+    "deptCode" : "080",
+    "liName" : "忠勇村"
+  }, {
+    "ScopeLiName" : "忠勇村",
+    "tboxNo" : "0178",
+    "tboxName" : "忠勇社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉忠勇村4鄰49號",
+    "neighbor" : "1-13",
+    "deptCode" : "080",
+    "liName" : "忠勇村"
+  }, {
+    "ScopeLiName" : "忠勇村",
+    "tboxNo" : "0178",
+    "tboxName" : "忠勇社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉忠勇村4鄰49號",
+    "neighbor" : "1-13",
+    "deptCode" : "080",
+    "liName" : "忠勇村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0179",
+    "tboxName" : "三間屋活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉三間村7鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0179",
+    "tboxName" : "三間屋活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉三間村7鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0179",
+    "tboxName" : "三間屋活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉三間村7鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0180",
+    "tboxName" : "大俱來社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉三間村12鄰27之6號",
+    "neighbor" : "11-15",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0180",
+    "tboxName" : "大俱來社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉三間村12鄰27之6號",
+    "neighbor" : "11-15",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0180",
+    "tboxName" : "大俱來社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉三間村12鄰27之6號",
+    "neighbor" : "11-15",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0181",
+    "tboxName" : "南溪國小教室(一)",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉三間村16鄰南溪6號",
+    "neighbor" : "16-20",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0181",
+    "tboxName" : "南溪國小教室(一)",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉三間村16鄰南溪6號",
+    "neighbor" : "16-20",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "三間村",
+    "tboxNo" : "0181",
+    "tboxName" : "南溪國小教室(一)",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉三間村16鄰南溪6號",
+    "neighbor" : "16-20",
+    "deptCode" : "080",
+    "liName" : "三間村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0182",
+    "tboxName" : "南溪國小教室(二)",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉三間村16鄰6號",
+    "neighbor" : "15-16",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0182",
+    "tboxName" : "南溪國小教室(二)",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉三間村16鄰6號",
+    "neighbor" : "15-16",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0182",
+    "tboxName" : "南溪國小教室(二)",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉三間村16鄰6號",
+    "neighbor" : "15-16",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0183",
+    "tboxName" : "樟原社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣長濱鄉樟原村1鄰6號",
+    "neighbor" : "1-14",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0183",
+    "tboxName" : "樟原社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣長濱鄉樟原村1鄰6號",
+    "neighbor" : "1-14",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "樟原村",
+    "tboxNo" : "0183",
+    "tboxName" : "樟原社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣長濱鄉樟原村1鄰6號",
+    "neighbor" : "1-14",
+    "deptCode" : "080",
+    "liName" : "樟原村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0184",
+    "tboxName" : "新美和活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉美和村3鄰24-9號",
+    "neighbor" : "1-6,13",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0184",
+    "tboxName" : "新美和活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉美和村3鄰24-9號",
+    "neighbor" : "1-6,13",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0184",
+    "tboxName" : "新美和活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉美和村3鄰24-9號",
+    "neighbor" : "1-6,13",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0185",
+    "tboxName" : "美和國小",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉美和村6鄰90號",
+    "neighbor" : "7-12",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0185",
+    "tboxName" : "美和國小",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉美和村6鄰90號",
+    "neighbor" : "7-12",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "美和村",
+    "tboxNo" : "0185",
+    "tboxName" : "美和國小",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉美和村6鄰90號",
+    "neighbor" : "7-12",
+    "deptCode" : "090",
+    "liName" : "美和村"
+  }, {
+    "ScopeLiName" : "三和村",
+    "tboxNo" : "0186",
+    "tboxName" : "三和活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉三和村1鄰22號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "三和村"
+  }, {
+    "ScopeLiName" : "三和村",
+    "tboxNo" : "0186",
+    "tboxName" : "三和活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉三和村1鄰22號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "三和村"
+  }, {
+    "ScopeLiName" : "三和村",
+    "tboxNo" : "0186",
+    "tboxName" : "三和活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉三和村1鄰22號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "三和村"
+  }, {
+    "ScopeLiName" : "華源村",
+    "tboxNo" : "0187",
+    "tboxName" : "華源活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉華源村1鄰14之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "090",
+    "liName" : "華源村"
+  }, {
+    "ScopeLiName" : "華源村",
+    "tboxNo" : "0187",
+    "tboxName" : "華源活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉華源村1鄰14之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "090",
+    "liName" : "華源村"
+  }, {
+    "ScopeLiName" : "華源村",
+    "tboxNo" : "0187",
+    "tboxName" : "華源活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉華源村1鄰14之1號",
+    "neighbor" : "1-17",
+    "deptCode" : "090",
+    "liName" : "華源村"
+  }, {
+    "ScopeLiName" : "北里村",
+    "tboxNo" : "0188",
+    "tboxName" : "北里活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉北里村3鄰20之4號",
+    "neighbor" : "1-13",
+    "deptCode" : "090",
+    "liName" : "北里村"
+  }, {
+    "ScopeLiName" : "北里村",
+    "tboxNo" : "0188",
+    "tboxName" : "北里活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉北里村3鄰20之4號",
+    "neighbor" : "1-13",
+    "deptCode" : "090",
+    "liName" : "北里村"
+  }, {
+    "ScopeLiName" : "北里村",
+    "tboxNo" : "0188",
+    "tboxName" : "北里活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉北里村3鄰20之4號",
+    "neighbor" : "1-13",
+    "deptCode" : "090",
+    "liName" : "北里村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0189",
+    "tboxName" : "大王國小(一)",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0189",
+    "tboxName" : "大王國小(一)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0189",
+    "tboxName" : "大王國小(一)",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "1-9",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0190",
+    "tboxName" : "大王國小(二)",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "10-20",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0190",
+    "tboxName" : "大王國小(二)",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "10-20",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "大王村",
+    "tboxNo" : "0190",
+    "tboxName" : "大王國小(二)",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉大王村4鄰文化路60號",
+    "neighbor" : "10-20",
+    "deptCode" : "090",
+    "liName" : "大王村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0191",
+    "tboxName" : "大王活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉大王村順安路39號",
+    "neighbor" : "1-8",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0191",
+    "tboxName" : "大王活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉大王村順安路39號",
+    "neighbor" : "1-8",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0191",
+    "tboxName" : "大王活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉大王村順安路39號",
+    "neighbor" : "1-8",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0192",
+    "tboxName" : "太麻里老人文康活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉順安路33號",
+    "neighbor" : "9-18",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0192",
+    "tboxName" : "太麻里老人文康活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉順安路33號",
+    "neighbor" : "9-18",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "泰和村",
+    "tboxNo" : "0192",
+    "tboxName" : "太麻里老人文康活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉順安路33號",
+    "neighbor" : "9-18",
+    "deptCode" : "090",
+    "liName" : "泰和村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0193",
+    "tboxName" : "香蘭國小",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉香蘭村4鄰28號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0193",
+    "tboxName" : "香蘭國小",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉香蘭村4鄰28號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0193",
+    "tboxName" : "香蘭國小",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉香蘭村4鄰28號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0194",
+    "tboxName" : "新香蘭活動中心",
+    "liCode" : "007",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉香蘭村11鄰42號",
+    "neighbor" : "8-15",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0194",
+    "tboxName" : "新香蘭活動中心",
+    "liCode" : "007",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉香蘭村11鄰42號",
+    "neighbor" : "8-15",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "香蘭村",
+    "tboxNo" : "0194",
+    "tboxName" : "新香蘭活動中心",
+    "liCode" : "007",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉香蘭村11鄰42號",
+    "neighbor" : "8-15",
+    "deptCode" : "090",
+    "liName" : "香蘭村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0195",
+    "tboxName" : "金崙活動中心",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉金崙村2鄰81號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0195",
+    "tboxName" : "金崙活動中心",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉金崙村2鄰81號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0195",
+    "tboxName" : "金崙活動中心",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉金崙村2鄰81號",
+    "neighbor" : "1-7",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0196",
+    "tboxName" : "賓茂國小",
+    "liCode" : "008",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉金崙村14鄰89號",
+    "neighbor" : "8-17",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0196",
+    "tboxName" : "賓茂國小",
+    "liCode" : "008",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉金崙村14鄰89號",
+    "neighbor" : "8-17",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "金崙村",
+    "tboxNo" : "0196",
+    "tboxName" : "賓茂國小",
+    "liCode" : "008",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉金崙村14鄰89號",
+    "neighbor" : "8-17",
+    "deptCode" : "090",
+    "liName" : "金崙村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0197",
+    "tboxName" : "大溪國小多良分校",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉多良村2鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0197",
+    "tboxName" : "大溪國小多良分校",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉多良村2鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0197",
+    "tboxName" : "大溪國小多良分校",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉多良村2鄰15號",
+    "neighbor" : "1-10",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0198",
+    "tboxName" : "多良活動中心",
+    "liCode" : "009",
+    "voter" : "02",
+    "addr" : "臺東縣太麻里鄉多良村8鄰大溪251號",
+    "neighbor" : "11-21",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0198",
+    "tboxName" : "多良活動中心",
+    "liCode" : "009",
+    "voter" : "01",
+    "addr" : "臺東縣太麻里鄉多良村8鄰大溪251號",
+    "neighbor" : "11-21",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "多良村",
+    "tboxNo" : "0198",
+    "tboxName" : "多良活動中心",
+    "liCode" : "009",
+    "voter" : "03",
+    "addr" : "臺東縣太麻里鄉多良村8鄰大溪251號",
+    "neighbor" : "11-21",
+    "deptCode" : "090",
+    "liName" : "多良村"
+  }, {
+    "ScopeLiName" : "南興村",
+    "tboxNo" : "0199",
+    "tboxName" : "南興社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉南興村173號",
+    "neighbor" : "1-13",
+    "deptCode" : "100",
+    "liName" : "南興村"
+  }, {
+    "ScopeLiName" : "南興村",
+    "tboxNo" : "0199",
+    "tboxName" : "南興社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉南興村173號",
+    "neighbor" : "1-13",
+    "deptCode" : "100",
+    "liName" : "南興村"
+  }, {
+    "ScopeLiName" : "南興村",
+    "tboxNo" : "0199",
+    "tboxName" : "南興社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉南興村173號",
+    "neighbor" : "1-13",
+    "deptCode" : "100",
+    "liName" : "南興村"
+  }, {
+    "ScopeLiName" : "尚武村",
+    "tboxNo" : "0200",
+    "tboxName" : "尚武社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉尚武村政通三街1號",
+    "neighbor" : "1-24",
+    "deptCode" : "100",
+    "liName" : "尚武村"
+  }, {
+    "ScopeLiName" : "尚武村",
+    "tboxNo" : "0200",
+    "tboxName" : "尚武社區活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉尚武村政通三街1號",
+    "neighbor" : "1-24",
+    "deptCode" : "100",
+    "liName" : "尚武村"
+  }, {
+    "ScopeLiName" : "尚武村",
+    "tboxNo" : "0200",
+    "tboxName" : "尚武社區活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉尚武村政通三街1號",
+    "neighbor" : "1-24",
+    "deptCode" : "100",
+    "liName" : "尚武村"
+  }, {
+    "ScopeLiName" : "大武村",
+    "tboxNo" : "0201",
+    "tboxName" : "大武社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉大武村56號",
+    "neighbor" : "1-25",
+    "deptCode" : "100",
+    "liName" : "大武村"
+  }, {
+    "ScopeLiName" : "大武村",
+    "tboxNo" : "0201",
+    "tboxName" : "大武社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉大武村56號",
+    "neighbor" : "1-25",
+    "deptCode" : "100",
+    "liName" : "大武村"
+  }, {
+    "ScopeLiName" : "大武村",
+    "tboxNo" : "0201",
+    "tboxName" : "大武社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉大武村56號",
+    "neighbor" : "1-25",
+    "deptCode" : "100",
+    "liName" : "大武村"
+  }, {
+    "ScopeLiName" : "大鳥村",
+    "tboxNo" : "0202",
+    "tboxName" : "大鳥國小",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉大鳥村1鄰12號",
+    "neighbor" : "1-18",
+    "deptCode" : "100",
+    "liName" : "大鳥村"
+  }, {
+    "ScopeLiName" : "大鳥村",
+    "tboxNo" : "0202",
+    "tboxName" : "大鳥國小",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉大鳥村1鄰12號",
+    "neighbor" : "1-18",
+    "deptCode" : "100",
+    "liName" : "大鳥村"
+  }, {
+    "ScopeLiName" : "大鳥村",
+    "tboxNo" : "0202",
+    "tboxName" : "大鳥國小",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉大鳥村1鄰12號",
+    "neighbor" : "1-18",
+    "deptCode" : "100",
+    "liName" : "大鳥村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0203",
+    "tboxName" : "加津林多功能活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉大竹村加津林",
+    "neighbor" : "10-17",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0203",
+    "tboxName" : "加津林多功能活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉大竹村加津林",
+    "neighbor" : "10-17",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0203",
+    "tboxName" : "加津林多功能活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉大竹村加津林",
+    "neighbor" : "10-17",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0204",
+    "tboxName" : "大竹村愛國蒲活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣大武鄉大竹村愛國蒲153號",
+    "neighbor" : "1-9",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0204",
+    "tboxName" : "大竹村愛國蒲活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣大武鄉大竹村愛國蒲153號",
+    "neighbor" : "1-9",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "大竹村",
+    "tboxNo" : "0204",
+    "tboxName" : "大竹村愛國蒲活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣大武鄉大竹村愛國蒲153號",
+    "neighbor" : "1-9",
+    "deptCode" : "100",
+    "liName" : "大竹村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0205",
+    "tboxName" : "南寮社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣綠島鄉南寮村13鄰190號",
+    "neighbor" : "1-16",
+    "deptCode" : "110",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0205",
+    "tboxName" : "南寮社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣綠島鄉南寮村13鄰190號",
+    "neighbor" : "1-16",
+    "deptCode" : "110",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "南寮村",
+    "tboxNo" : "0205",
+    "tboxName" : "南寮社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣綠島鄉南寮村13鄰190號",
+    "neighbor" : "1-16",
+    "deptCode" : "110",
+    "liName" : "南寮村"
+  }, {
+    "ScopeLiName" : "中寮村",
+    "tboxNo" : "0206",
+    "tboxName" : "綠島國小",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣綠島鄉中寮村1鄰3號",
+    "neighbor" : "1-15",
+    "deptCode" : "110",
+    "liName" : "中寮村"
+  }, {
+    "ScopeLiName" : "中寮村",
+    "tboxNo" : "0206",
+    "tboxName" : "綠島國小",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣綠島鄉中寮村1鄰3號",
+    "neighbor" : "1-15",
+    "deptCode" : "110",
+    "liName" : "中寮村"
+  }, {
+    "ScopeLiName" : "中寮村",
+    "tboxNo" : "0206",
+    "tboxName" : "綠島國小",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣綠島鄉中寮村1鄰3號",
+    "neighbor" : "1-15",
+    "deptCode" : "110",
+    "liName" : "中寮村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0207",
+    "tboxName" : "公舘社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣綠島鄉公舘村5鄰2號",
+    "neighbor" : "1-9",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0207",
+    "tboxName" : "公舘社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣綠島鄉公舘村5鄰2號",
+    "neighbor" : "1-9",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0207",
+    "tboxName" : "公舘社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣綠島鄉公舘村5鄰2號",
+    "neighbor" : "1-9",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0208",
+    "tboxName" : "公館國小溫泉分校",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣綠島鄉公舘村10鄰1號",
+    "neighbor" : "10-11",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0208",
+    "tboxName" : "公館國小溫泉分校",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣綠島鄉公舘村10鄰1號",
+    "neighbor" : "10-11",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "公舘村",
+    "tboxNo" : "0208",
+    "tboxName" : "公館國小溫泉分校",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣綠島鄉公舘村10鄰1號",
+    "neighbor" : "10-11",
+    "deptCode" : "110",
+    "liName" : "公舘村"
+  }, {
+    "ScopeLiName" : "加拿村",
+    "tboxNo" : "0209",
+    "tboxName" : "加拿活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉加拿村1鄰加南6-3號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "加拿村"
+  }, {
+    "ScopeLiName" : "加拿村",
+    "tboxNo" : "0209",
+    "tboxName" : "加拿活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉加拿村1鄰加南6-3號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "加拿村"
+  }, {
+    "ScopeLiName" : "加拿村",
+    "tboxNo" : "0209",
+    "tboxName" : "加拿活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉加拿村1鄰加南6-3號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "加拿村"
+  }, {
+    "ScopeLiName" : "崁頂村",
+    "tboxNo" : "0210",
+    "tboxName" : "崁頂活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉崁頂村1鄰中福20號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "崁頂村"
+  }, {
+    "ScopeLiName" : "崁頂村",
+    "tboxNo" : "0210",
+    "tboxName" : "崁頂活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉崁頂村1鄰中福20號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "崁頂村"
+  }, {
+    "ScopeLiName" : "崁頂村",
+    "tboxNo" : "0210",
+    "tboxName" : "崁頂活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉崁頂村1鄰中福20號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "崁頂村"
+  }, {
+    "ScopeLiName" : "海端村",
+    "tboxNo" : "0211",
+    "tboxName" : "海端村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉海端村7鄰初來2-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "120",
+    "liName" : "海端村"
+  }, {
+    "ScopeLiName" : "海端村",
+    "tboxNo" : "0211",
+    "tboxName" : "海端村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉海端村7鄰初來2-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "120",
+    "liName" : "海端村"
+  }, {
+    "ScopeLiName" : "海端村",
+    "tboxNo" : "0211",
+    "tboxName" : "海端村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉海端村7鄰初來2-1號",
+    "neighbor" : "1-10",
+    "deptCode" : "120",
+    "liName" : "海端村"
+  }, {
+    "ScopeLiName" : "廣原村",
+    "tboxNo" : "0212",
+    "tboxName" : "錦屏國小三年級教室",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉廣原村6鄰錦屏1號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "廣原村"
+  }, {
+    "ScopeLiName" : "廣原村",
+    "tboxNo" : "0212",
+    "tboxName" : "錦屏國小三年級教室",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉廣原村6鄰錦屏1號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "廣原村"
+  }, {
+    "ScopeLiName" : "廣原村",
+    "tboxNo" : "0212",
+    "tboxName" : "錦屏國小三年級教室",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉廣原村6鄰錦屏1號",
+    "neighbor" : "1-8",
+    "deptCode" : "120",
+    "liName" : "廣原村"
+  }, {
+    "ScopeLiName" : "霧鹿村",
+    "tboxNo" : "0213",
+    "tboxName" : "霧鹿村辦公處",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉霧鹿村3鄰霧鹿37號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "霧鹿村"
+  }, {
+    "ScopeLiName" : "霧鹿村",
+    "tboxNo" : "0213",
+    "tboxName" : "霧鹿村辦公處",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉霧鹿村3鄰霧鹿37號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "霧鹿村"
+  }, {
+    "ScopeLiName" : "霧鹿村",
+    "tboxNo" : "0213",
+    "tboxName" : "霧鹿村辦公處",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉霧鹿村3鄰霧鹿37號",
+    "neighbor" : "1-6",
+    "deptCode" : "120",
+    "liName" : "霧鹿村"
+  }, {
+    "ScopeLiName" : "利稻村",
+    "tboxNo" : "0214",
+    "tboxName" : "利稻村喜樂民宿餐廳",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣海端鄉利稻村1鄰文化14號之3",
+    "neighbor" : "1-3",
+    "deptCode" : "120",
+    "liName" : "利稻村"
+  }, {
+    "ScopeLiName" : "利稻村",
+    "tboxNo" : "0214",
+    "tboxName" : "利稻村喜樂民宿餐廳",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣海端鄉利稻村1鄰文化14號之3",
+    "neighbor" : "1-3",
+    "deptCode" : "120",
+    "liName" : "利稻村"
+  }, {
+    "ScopeLiName" : "利稻村",
+    "tboxNo" : "0214",
+    "tboxName" : "利稻村喜樂民宿餐廳",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣海端鄉利稻村1鄰文化14號之3",
+    "neighbor" : "1-3",
+    "deptCode" : "120",
+    "liName" : "利稻村"
+  }, {
+    "ScopeLiName" : "桃源村",
+    "tboxNo" : "0215",
+    "tboxName" : "桃源村活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣延平鄉桃源村4鄰78號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "桃源村"
+  }, {
+    "ScopeLiName" : "桃源村",
+    "tboxNo" : "0215",
+    "tboxName" : "桃源村活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣延平鄉桃源村4鄰78號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "桃源村"
+  }, {
+    "ScopeLiName" : "桃源村",
+    "tboxNo" : "0215",
+    "tboxName" : "桃源村活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣延平鄉桃源村4鄰78號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "桃源村"
+  }, {
+    "ScopeLiName" : "紅葉村",
+    "tboxNo" : "0216",
+    "tboxName" : "紅葉村部落文化教室",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣延平鄉紅葉村1鄰16號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "紅葉村"
+  }, {
+    "ScopeLiName" : "紅葉村",
+    "tboxNo" : "0216",
+    "tboxName" : "紅葉村部落文化教室",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣延平鄉紅葉村1鄰16號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "紅葉村"
+  }, {
+    "ScopeLiName" : "紅葉村",
+    "tboxNo" : "0216",
+    "tboxName" : "紅葉村部落文化教室",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣延平鄉紅葉村1鄰16號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "紅葉村"
+  }, {
+    "ScopeLiName" : "永康村",
+    "tboxNo" : "0217",
+    "tboxName" : "永康村活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣延平鄉永康村2鄰43號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "永康村"
+  }, {
+    "ScopeLiName" : "永康村",
+    "tboxNo" : "0217",
+    "tboxName" : "永康村活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣延平鄉永康村2鄰43號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "永康村"
+  }, {
+    "ScopeLiName" : "永康村",
+    "tboxNo" : "0217",
+    "tboxName" : "永康村活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣延平鄉永康村2鄰43號",
+    "neighbor" : "1-5",
+    "deptCode" : "130",
+    "liName" : "永康村"
+  }, {
+    "ScopeLiName" : "武陵村",
+    "tboxNo" : "0218",
+    "tboxName" : "武陵村活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣延平鄉武陵村1鄰15號",
+    "neighbor" : "1-9",
+    "deptCode" : "130",
+    "liName" : "武陵村"
+  }, {
+    "ScopeLiName" : "武陵村",
+    "tboxNo" : "0218",
+    "tboxName" : "武陵村活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣延平鄉武陵村1鄰15號",
+    "neighbor" : "1-9",
+    "deptCode" : "130",
+    "liName" : "武陵村"
+  }, {
+    "ScopeLiName" : "武陵村",
+    "tboxNo" : "0218",
+    "tboxName" : "武陵村活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣延平鄉武陵村1鄰15號",
+    "neighbor" : "1-9",
+    "deptCode" : "130",
+    "liName" : "武陵村"
+  }, {
+    "ScopeLiName" : "鸞山村",
+    "tboxNo" : "0219",
+    "tboxName" : "鸞山國小教室",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣延平鄉鸞山村1鄰14號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "鸞山村"
+  }, {
+    "ScopeLiName" : "鸞山村",
+    "tboxNo" : "0219",
+    "tboxName" : "鸞山國小教室",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣延平鄉鸞山村1鄰14號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "鸞山村"
+  }, {
+    "ScopeLiName" : "鸞山村",
+    "tboxNo" : "0219",
+    "tboxName" : "鸞山國小教室",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣延平鄉鸞山村1鄰14號",
+    "neighbor" : "1-12",
+    "deptCode" : "130",
+    "liName" : "鸞山村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0220",
+    "tboxName" : "嘉蘭國小多功能學習中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉嘉蘭村3鄰132號",
+    "neighbor" : "1-7",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0220",
+    "tboxName" : "嘉蘭國小多功能學習中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉嘉蘭村3鄰132號",
+    "neighbor" : "1-7",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0220",
+    "tboxName" : "嘉蘭國小多功能學習中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉嘉蘭村3鄰132號",
+    "neighbor" : "1-7",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0221",
+    "tboxName" : "金峰鄉嘉蘭村多功能活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉嘉蘭村12鄰665號",
+    "neighbor" : "8-13",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0221",
+    "tboxName" : "金峰鄉嘉蘭村多功能活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉嘉蘭村12鄰665號",
+    "neighbor" : "8-13",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "嘉蘭村",
+    "tboxNo" : "0221",
+    "tboxName" : "金峰鄉嘉蘭村多功能活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉嘉蘭村12鄰665號",
+    "neighbor" : "8-13",
+    "deptCode" : "140",
+    "liName" : "嘉蘭村"
+  }, {
+    "ScopeLiName" : "正興村",
+    "tboxNo" : "0222",
+    "tboxName" : "介達國小教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉正興村8鄰105號",
+    "neighbor" : "1-8",
+    "deptCode" : "140",
+    "liName" : "正興村"
+  }, {
+    "ScopeLiName" : "正興村",
+    "tboxNo" : "0222",
+    "tboxName" : "介達國小教室",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉正興村8鄰105號",
+    "neighbor" : "1-8",
+    "deptCode" : "140",
+    "liName" : "正興村"
+  }, {
+    "ScopeLiName" : "正興村",
+    "tboxNo" : "0222",
+    "tboxName" : "介達國小教室",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉正興村8鄰105號",
+    "neighbor" : "1-8",
+    "deptCode" : "140",
+    "liName" : "正興村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0223",
+    "tboxName" : "新興國小教室",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉新興村1鄰1號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0223",
+    "tboxName" : "新興國小教室",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉新興村1鄰1號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "新興村",
+    "tboxNo" : "0223",
+    "tboxName" : "新興國小教室",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉新興村1鄰1號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "新興村"
+  }, {
+    "ScopeLiName" : "賓茂村",
+    "tboxNo" : "0224",
+    "tboxName" : "賓茂村辦公處",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉賓茂村1鄰3之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "賓茂村"
+  }, {
+    "ScopeLiName" : "賓茂村",
+    "tboxNo" : "0224",
+    "tboxName" : "賓茂村辦公處",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉賓茂村1鄰3之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "賓茂村"
+  }, {
+    "ScopeLiName" : "賓茂村",
+    "tboxNo" : "0224",
+    "tboxName" : "賓茂村辦公處",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉賓茂村1鄰3之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "賓茂村"
+  }, {
+    "ScopeLiName" : "歷坵村",
+    "tboxNo" : "0225",
+    "tboxName" : "歷坵分校教室",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣金峰鄉歷坵村3鄰42之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "歷坵村"
+  }, {
+    "ScopeLiName" : "歷坵村",
+    "tboxNo" : "0225",
+    "tboxName" : "歷坵分校教室",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣金峰鄉歷坵村3鄰42之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "歷坵村"
+  }, {
+    "ScopeLiName" : "歷坵村",
+    "tboxNo" : "0225",
+    "tboxName" : "歷坵分校教室",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣金峰鄉歷坵村3鄰42之2號",
+    "neighbor" : "1-5",
+    "deptCode" : "140",
+    "liName" : "歷坵村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0226",
+    "tboxName" : "達仁鄉立圖書館",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉安朔村10鄰46號",
+    "neighbor" : "9-13",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0226",
+    "tboxName" : "達仁鄉立圖書館",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉安朔村10鄰46號",
+    "neighbor" : "9-13",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0226",
+    "tboxName" : "達仁鄉立圖書館",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉安朔村10鄰46號",
+    "neighbor" : "9-13",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0227",
+    "tboxName" : "安朔社區活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉安朔村8鄰103號",
+    "neighbor" : "1-8",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0227",
+    "tboxName" : "安朔社區活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉安朔村8鄰103號",
+    "neighbor" : "1-8",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "安朔村",
+    "tboxNo" : "0227",
+    "tboxName" : "安朔社區活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉安朔村8鄰103號",
+    "neighbor" : "1-8",
+    "deptCode" : "150",
+    "liName" : "安朔村"
+  }, {
+    "ScopeLiName" : "南田村",
+    "tboxNo" : "0228",
+    "tboxName" : "南田社區活動中心",
+    "liCode" : "006",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉南田村1鄰10號之2",
+    "neighbor" : "1-4",
+    "deptCode" : "150",
+    "liName" : "南田村"
+  }, {
+    "ScopeLiName" : "南田村",
+    "tboxNo" : "0228",
+    "tboxName" : "南田社區活動中心",
+    "liCode" : "006",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉南田村1鄰10號之2",
+    "neighbor" : "1-4",
+    "deptCode" : "150",
+    "liName" : "南田村"
+  }, {
+    "ScopeLiName" : "南田村",
+    "tboxNo" : "0228",
+    "tboxName" : "南田社區活動中心",
+    "liCode" : "006",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉南田村1鄰10號之2",
+    "neighbor" : "1-4",
+    "deptCode" : "150",
+    "liName" : "南田村"
+  }, {
+    "ScopeLiName" : "森永村",
+    "tboxNo" : "0229",
+    "tboxName" : "森永社區活動中心",
+    "liCode" : "005",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉森永村3鄰30號",
+    "neighbor" : "1-9",
+    "deptCode" : "150",
+    "liName" : "森永村"
+  }, {
+    "ScopeLiName" : "森永村",
+    "tboxNo" : "0229",
+    "tboxName" : "森永社區活動中心",
+    "liCode" : "005",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉森永村3鄰30號",
+    "neighbor" : "1-9",
+    "deptCode" : "150",
+    "liName" : "森永村"
+  }, {
+    "ScopeLiName" : "森永村",
+    "tboxNo" : "0229",
+    "tboxName" : "森永社區活動中心",
+    "liCode" : "005",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉森永村3鄰30號",
+    "neighbor" : "1-9",
+    "deptCode" : "150",
+    "liName" : "森永村"
+  }, {
+    "ScopeLiName" : "新化村",
+    "tboxNo" : "0230",
+    "tboxName" : "新化社區活動中心",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉新化村3鄰63之3號",
+    "neighbor" : "1-6",
+    "deptCode" : "150",
+    "liName" : "新化村"
+  }, {
+    "ScopeLiName" : "新化村",
+    "tboxNo" : "0230",
+    "tboxName" : "新化社區活動中心",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉新化村3鄰63之3號",
+    "neighbor" : "1-6",
+    "deptCode" : "150",
+    "liName" : "新化村"
+  }, {
+    "ScopeLiName" : "新化村",
+    "tboxNo" : "0230",
+    "tboxName" : "新化社區活動中心",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉新化村3鄰63之3號",
+    "neighbor" : "1-6",
+    "deptCode" : "150",
+    "liName" : "新化村"
+  }, {
+    "ScopeLiName" : "台坂村",
+    "tboxNo" : "0231",
+    "tboxName" : "台坂社區活動中心",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉台坂村10鄰56號",
+    "neighbor" : "1-10",
+    "deptCode" : "150",
+    "liName" : "台坂村"
+  }, {
+    "ScopeLiName" : "台坂村",
+    "tboxNo" : "0231",
+    "tboxName" : "台坂社區活動中心",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉台坂村10鄰56號",
+    "neighbor" : "1-10",
+    "deptCode" : "150",
+    "liName" : "台坂村"
+  }, {
+    "ScopeLiName" : "台坂村",
+    "tboxNo" : "0231",
+    "tboxName" : "台坂社區活動中心",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉台坂村10鄰56號",
+    "neighbor" : "1-10",
+    "deptCode" : "150",
+    "liName" : "台坂村"
+  }, {
+    "ScopeLiName" : "土坂村",
+    "tboxNo" : "0232",
+    "tboxName" : "土坂社區活動中心",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣達仁鄉土坂村6鄰96號",
+    "neighbor" : "1-14",
+    "deptCode" : "150",
+    "liName" : "土坂村"
+  }, {
+    "ScopeLiName" : "土坂村",
+    "tboxNo" : "0232",
+    "tboxName" : "土坂社區活動中心",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣達仁鄉土坂村6鄰96號",
+    "neighbor" : "1-14",
+    "deptCode" : "150",
+    "liName" : "土坂村"
+  }, {
+    "ScopeLiName" : "土坂村",
+    "tboxNo" : "0232",
+    "tboxName" : "土坂社區活動中心",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣達仁鄉土坂村6鄰96號",
+    "neighbor" : "1-14",
+    "deptCode" : "150",
+    "liName" : "土坂村"
+  }, {
+    "ScopeLiName" : "椰油村",
+    "tboxNo" : "0233",
+    "tboxName" : "蘭嶼高中活動中心",
+    "liCode" : "004",
+    "voter" : "01",
+    "addr" : "臺東縣蘭嶼鄉椰油村1鄰37號",
+    "neighbor" : "1-7",
+    "deptCode" : "160",
+    "liName" : "椰油村"
+  }, {
+    "ScopeLiName" : "椰油村",
+    "tboxNo" : "0233",
+    "tboxName" : "蘭嶼高中活動中心",
+    "liCode" : "004",
+    "voter" : "02",
+    "addr" : "臺東縣蘭嶼鄉椰油村1鄰37號",
+    "neighbor" : "1-7",
+    "deptCode" : "160",
+    "liName" : "椰油村"
+  }, {
+    "ScopeLiName" : "椰油村",
+    "tboxNo" : "0233",
+    "tboxName" : "蘭嶼高中活動中心",
+    "liCode" : "004",
+    "voter" : "03",
+    "addr" : "臺東縣蘭嶼鄉椰油村1鄰37號",
+    "neighbor" : "1-7",
+    "deptCode" : "160",
+    "liName" : "椰油村"
+  }, {
+    "ScopeLiName" : "紅頭村",
+    "tboxNo" : "0234",
+    "tboxName" : "紅頭社區發展協會",
+    "liCode" : "003",
+    "voter" : "01",
+    "addr" : "臺東縣蘭嶼鄉紅頭村3鄰78號",
+    "neighbor" : "1-11",
+    "deptCode" : "160",
+    "liName" : "紅頭村"
+  }, {
+    "ScopeLiName" : "紅頭村",
+    "tboxNo" : "0234",
+    "tboxName" : "紅頭社區發展協會",
+    "liCode" : "003",
+    "voter" : "02",
+    "addr" : "臺東縣蘭嶼鄉紅頭村3鄰78號",
+    "neighbor" : "1-11",
+    "deptCode" : "160",
+    "liName" : "紅頭村"
+  }, {
+    "ScopeLiName" : "紅頭村",
+    "tboxNo" : "0234",
+    "tboxName" : "紅頭社區發展協會",
+    "liCode" : "003",
+    "voter" : "03",
+    "addr" : "臺東縣蘭嶼鄉紅頭村3鄰78號",
+    "neighbor" : "1-11",
+    "deptCode" : "160",
+    "liName" : "紅頭村"
+  }, {
+    "ScopeLiName" : "東清村",
+    "tboxNo" : "0235",
+    "tboxName" : "東清國小視聽教室",
+    "liCode" : "001",
+    "voter" : "01",
+    "addr" : "臺東縣蘭嶼鄉東清村1鄰1號",
+    "neighbor" : "1-13",
+    "deptCode" : "160",
+    "liName" : "東清村"
+  }, {
+    "ScopeLiName" : "東清村",
+    "tboxNo" : "0235",
+    "tboxName" : "東清國小視聽教室",
+    "liCode" : "001",
+    "voter" : "02",
+    "addr" : "臺東縣蘭嶼鄉東清村1鄰1號",
+    "neighbor" : "東清村",
+    "deptCode" : "160",
+    "liName" : "東清村"
+  }, {
+    "ScopeLiName" : "東清村",
+    "tboxNo" : "0235",
+    "tboxName" : "東清國小視聽教室",
+    "liCode" : "001",
+    "voter" : "03",
+    "addr" : "臺東縣蘭嶼鄉東清村1鄰1號",
+    "neighbor" : "東清村",
+    "deptCode" : "160",
+    "liName" : "東清村"
+  }, {
+    "ScopeLiName" : "朗島村",
+    "tboxNo" : "0236",
+    "tboxName" : "朗島國小視聽教室",
+    "liCode" : "002",
+    "voter" : "01",
+    "addr" : "臺東縣蘭嶼鄉朗島村1鄰17號",
+    "neighbor" : "1-7",
+    "deptCode" : "160",
+    "liName" : "朗島村"
+  }, {
+    "ScopeLiName" : "朗島村",
+    "tboxNo" : "0236",
+    "tboxName" : "朗島國小視聽教室",
+    "liCode" : "002",
+    "voter" : "02",
+    "addr" : "臺東縣蘭嶼鄉朗島村1鄰17號",
+    "neighbor" : "朗島村",
+    "deptCode" : "160",
+    "liName" : "朗島村"
+  }, {
+    "ScopeLiName" : "朗島村",
+    "tboxNo" : "0236",
+    "tboxName" : "朗島國小視聽教室",
+    "liCode" : "002",
+    "voter" : "03",
+    "addr" : "臺東縣蘭嶼鄉朗島村1鄰17號",
+    "neighbor" : "朗島村",
+    "deptCode" : "160",
+    "liName" : "朗島村"
+  } ]
+}
